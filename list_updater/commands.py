@@ -38,15 +38,24 @@ def cmd_readme_update() -> None:
     check_schema(listings)
     sort_listings(listings)
 
-    summer_2026_listings = filter_summer(listings, "2026", earliest_date=1748761200)
+    # earliest_date is 2026-05-01 00:00 PT
+    summer_2027_listings = filter_summer(listings, "2027", earliest_date=1777618800)
 
     # Generate main README with active listings only
-    embed_table(summer_2026_listings, "README.md", active_only=True)
+    embed_table(summer_2027_listings, "README.md", active_only=True)
 
     # Generate separate README for inactive listings (same header/ads structure)
-    embed_table(summer_2026_listings, "README-Inactive.md", inactive_only=True)
+    embed_table(summer_2027_listings, "README-Inactive.md", inactive_only=True)
 
-    offseason_listings = filter_off_season(listings)
+    # Off-season roles get a much earlier cutoff (2025-12-01 PT) than the summer list, since Fall
+    # roles for the coming autumn start appearing the previous December. Anything already in the
+    # summer list is excluded so it is not listed twice.
+    offseason_listings = filter_off_season(
+        listings,
+        min_year=2026,
+        earliest_date=1764576000,
+        exclude_ids={listing["id"] for listing in summer_2027_listings},
+    )
     embed_table(offseason_listings, "README-Off-Season.md", off_season=True)
 
     set_output("commit_message", "Updating READMEs at " + datetime.now().strftime("%B %d, %Y %H:%M:%S"))

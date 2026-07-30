@@ -1,5 +1,6 @@
 """README generation and embedding functions."""
 
+import re
 from typing import Any
 
 from list_updater.category import create_category_table, ensure_categories
@@ -9,7 +10,7 @@ from list_updater.listings import filter_active, mark_stale_listings
 type Listing = dict[str, Any]
 
 
-def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internships") -> str:
+def check_and_insert_warning(content: str, repo_name: str = "Summer2027-Internships") -> str:
     """Insert warning notice before GitHub cutoff point while preserving full content.
 
     Args:
@@ -34,18 +35,28 @@ def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internsh
     # Find the last complete table row before the limit
     insertion_bytes = content_bytes[:target_size]
     insertion_content = insertion_bytes.decode("utf-8", errors="ignore")
+    limit_chars = len(insertion_content)
 
-    # Find the last complete </tr> tag to ensure clean insertion
-    last_tr_end = insertion_content.rfind("</tr>")
-    if last_tr_end != -1:
-        # Find the end of this row
-        next_tr_start = insertion_content.find("\n", last_tr_end)
-        if next_tr_start != -1:
-            insertion_point = next_tr_start
-        else:
-            insertion_point = last_tr_end + 5  # After </tr>
-    else:
-        insertion_point = len(insertion_content)
+    # Split only where the FOLLOWING row starts a new company group. A "↳" row means "same
+    # company as the row above", so reopening the table just before one would render a row
+    # with no company name at all.
+    rows = [m for m in re.finditer(r"<tr>\n(.*?)</tr>\n", content, re.S) if "<td>" in m.group(1)]
+
+    def _is_continuation(match: re.Match[str]) -> bool:
+        cells = re.findall(r"<td>(.*?)</td>", match.group(1), re.S)
+        return bool(cells) and cells[0].strip() == "↳"
+
+    insertion_point = None
+    for index, match in enumerate(rows):
+        if match.end() > limit_chars:
+            break
+        if index + 1 < len(rows) and _is_continuation(rows[index + 1]):
+            continue
+        insertion_point = match.end()
+
+    if insertion_point is None:
+        # No safe row boundary found; leave the content untouched rather than corrupt a table.
+        return content
 
     # Create the warning notice with anchor link
     full_list_url = f"https://github.com/SimplifyJobs/{repo_name}/blob/dev/README.md#-see-full-list"
@@ -147,7 +158,7 @@ def embed_table(
         readme_filename = "README-Off-Season.md"
     else:
         readme_filename = "README.md"
-    github_readme_base = f"https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/{readme_filename}"
+    github_readme_base = f"https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/{readme_filename}"
 
     for category_key in category_order:
         if category_key in CATEGORIES:

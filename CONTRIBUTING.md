@@ -1,7 +1,7 @@
 # Contributing to the Internship List
 Thank you for your interest in contributing to the Pitt CSC and Simplify internship list!
 
-Below, you'll find the guidelines for our repository. If you have any questions, please create a [miscellaneous issue](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose).
+Below, you'll find the guidelines for our repository. If you have any questions, please create a [miscellaneous issue](https://github.com/SimplifyJobs/Summer2027-Internships/issues/new/choose).
 
 ## Finding an Internship to Add
 We ask that the internships that you add meet some requirements. Specifically, your internship must
@@ -20,7 +20,7 @@ We ask that the internships that you add meet some requirements. Specifically, y
 ## Adding an Internship
 Cool! You're ready to add an internship to the list. Follow these steps:
 
-1) First create a new issue [here](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose).
+1) First create a new issue [here](https://github.com/SimplifyJobs/Summer2027-Internships/issues/new/choose).
 2) Select the **New Internship** issue template.
 3) Fill in the information about your internship into the form, including:
    - **Category**: Choose the appropriate category from the dropdown (Software Engineering, Product Management, etc.)
@@ -34,7 +34,7 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 To edit an internship (changing name, setting as inactive, removing, etc.), follow these steps:
 1) First copy the url of the internship you would like to edit.
 > This can be found by right-clicking on the `APPLY` button and selecting **copy link address**
-2) Create a new issue [here](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose).
+2) Create a new issue [here](https://github.com/SimplifyJobs/Summer2027-Internships/issues/new/choose).
 3) Select the **Edit Internship** issue template.
 4) Fill in the url to the **link** input.
 > This is how we ensure your edit affects the correct internship

@@ -1,6 +1,7 @@
 """Listing data operations: loading, filtering, sorting, and validation."""
 
 import json
+import re
 from datetime import datetime
 from typing import Any
 
@@ -66,7 +67,7 @@ def filter_summer(listings: list[Listing], year: str, earliest_date: int) -> lis
 
     Args:
         listings: List of listing dictionaries.
-        year: The year to filter for (e.g., "2026").
+        year: The year to filter for (e.g., "2027").
         earliest_date: Unix timestamp for the earliest allowed date.
 
     Returns:
@@ -90,26 +91,46 @@ def filter_summer(listings: list[Listing], year: str, earliest_date: int) -> lis
     return final_listings
 
 
-def filter_off_season(listings: list[Listing]) -> list[Listing]:
+def filter_off_season(
+    listings: list[Listing],
+    min_year: int,
+    earliest_date: int,
+    exclude_ids: set[str],
+) -> list[Listing]:
     """Filter listings for off-season (Fall, Winter, Spring) internships.
 
     Args:
         listings: List of listing dictionaries.
+        min_year: Oldest off-season term year to keep (e.g., 2026).
+        earliest_date: Unix timestamp for the earliest allowed date. This is deliberately much
+            earlier than the summer cutoff: Summer roles appear at most a year ahead, but Fall
+            roles for the coming autumn show up as early as the previous December.
+        exclude_ids: IDs already displayed in the main README, to avoid double-listing.
 
     Returns:
         Filtered list of off-season internships.
     """
 
+    def term_year(term: str) -> int:
+        match = re.search(r"\d{4}", term)
+        return int(match.group()) if match else 0
+
     def is_off_season(listing: Listing) -> bool:
         if not listing.get("is_visible"):
             return False
+        if listing["id"] in exclude_ids:
+            return False
+        if listing["date_posted"] <= earliest_date:
+            return False
 
-        terms = listing.get("terms", [])
-        has_off_season_term = any(season in term for term in terms for season in ["Fall", "Winter", "Spring"])
-        has_summer_term = any("Summer" in term for term in terms)
-
-        # We don't want to include listings in the off season list if they include a Summer term
-        return has_off_season_term and not has_summer_term
+        # Employers disagree on whether the Jan-May term of academic year 2026-27 is "Spring 2026"
+        # or "Spring 2027", so a term one year behind is genuinely ambiguous and must be kept.
+        # A term two or more years behind is not ambiguous, just stale.
+        return any(
+            season in term and term_year(term) >= min_year
+            for term in listing.get("terms", [])
+            for season in ["Fall", "Winter", "Spring"]
+        )
 
     return [listing for listing in listings if is_off_season(listing)]
 
