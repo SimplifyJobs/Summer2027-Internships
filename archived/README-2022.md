@@ -310,7 +310,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | <del> Intel </del> |  | **Closed** |
 | <del>Pocket Gems</del>| | **Closed** |
 | <del> Neeva </del> |  | **Closed** |
-|[SpaceX](https://boards.greenhouse.io/spacex/jobs/5526757002) | Multiple Locations | Software Engineer Inter/Coop; US Citizen Only |
+|[SpaceX](https://boards.greenhouse.io/spacex/jobs/5526757002) | Multiple Locations | Software Engineer Intern/Coop; US Citizen Only |
 | <del> Sentry </del> |  | **Closed** |
 |[New Relic](https://jobs.jobvite.com/careers/newrelic/job/ohpNgfwt) | Portland, OR; San Francisco, CA; Atlanta, GA | Undergrad Software Engineer Intern |
 |[Abrigo](http://jobs.jobvite.com/bankerstoolbox/job/ojfMgfwk) | Raleigh, NC;  Austin, TX | Software Engineering Intern |
