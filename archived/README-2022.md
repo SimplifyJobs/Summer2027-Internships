@@ -257,7 +257,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del>DraftKings</del> | | **Closed** |
 |<del> CrowdStrike </del> | | **Closed**|
 |<del>Riot Games</del> | | **Closed** |
-|[John Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | 2022 Technical College Internship Program. US citizenship is required for security clearance. |
+|[Johns Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | 2022 Technical College Internship Program. US citizenship is required for security clearance. |
 |[Sealed Air Corporation](https://jobs.sealedair.com/search/?createNewAlert=false&q=Summer+2022&locationsearch=United+States) | Charlotte, NC | Software Engineering Intern, Applications Engineering, Data Science Engineering and other Intern positions are available. Some positions require applicant to be permanent US resident or US Citizen or National. |
 |[Ampere](https://amperecomputing.com/apply/) | Various | Software Engineer Intern, Hardware Engineering Intern. |
 |[Schonfeld](https://boards.greenhouse.io/schonfeld?t=e73f47fb1) | New York, NY; Miami, FL | Multiple Positions |
