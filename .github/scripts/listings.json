@@ -330862,7 +330862,7 @@
         "company_name": "RF-SMART",
         "id": "d5b824b3-f478-49bb-8b20-9c1b283518f4",
         "title": "Software Developer Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332875,7 +332875,7 @@
         "company_name": "Kinaxis",
         "id": "5b07d830-b50d-4cff-a64a-555dad0ea478",
         "title": "Developer Intern - Clients - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
