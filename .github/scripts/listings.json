@@ -282905,7 +282905,7 @@
         "company_name": "IXL Learning",
         "id": "cf74dc1d-9700-491b-82ee-092893eab8ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327329,7 +327329,7 @@
         "company_name": "Intel",
         "id": "b035a98e-db1a-4187-b55e-8cac0076bc05",
         "title": "Software Solutions Engineer PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385459,7 +385459,7 @@
         "company_name": "RTX",
         "id": "c98ee5a9-83ca-46b0-9316-40dee3d63f62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397516,7 +397516,7 @@
         "company_name": "West Monroe",
         "id": "c798dbef-6333-4990-8f5a-9774baf7a93a",
         "title": "Software Engineer Consulting Intern - AI Concentration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
