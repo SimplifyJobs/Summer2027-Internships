@@ -311722,7 +311722,7 @@
         "company_name": "Loram",
         "id": "c5c9304e-45aa-4c3d-af4e-2c28ef7d1c12",
         "title": "Machine Learning / Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368913,7 +368913,7 @@
         "company_name": "Excellus BCBS",
         "id": "ff6acfde-5cfa-48f1-9900-723a0df08069",
         "title": "Healthcare Analytics Intern - Healthcare Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381592,7 +381592,7 @@
         "company_name": "RTX",
         "id": "04a691aa-579c-4daf-98c5-87a42434da2b",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398229,7 +398229,7 @@
         "company_name": "Innovative Defense Technologies",
         "id": "0d975f4a-64df-4148-98fd-46ab01f959b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
