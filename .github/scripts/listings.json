@@ -287916,7 +287916,7 @@
         "company_name": "John Deere",
         "id": "7123e8fe-c2d7-4fff-b9c9-5e8f94b9c12b",
         "title": "Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309945,7 +309945,7 @@
         "company_name": "John Deere",
         "id": "27ef919b-f4a9-4f27-b484-e742c76fc774",
         "title": "Information Technology Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324583,7 +324583,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6226a27c-23e7-4890-afcb-abdd8b749755",
         "title": "Data Analytics Intern - Engineering & SAP Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363192,7 +363192,7 @@
         "company_name": "PrizePicks",
         "id": "82070bc6-1538-458e-9d51-6d7093a86ecc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -366606,7 +366606,7 @@
         "company_name": "Ciena",
         "id": "72bcc54e-52da-474b-b95a-40d176ced734",
         "title": "ASIC Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375549,7 +375549,7 @@
         "company_name": "Efficient Computer",
         "id": "b63c229a-b9e1-411a-b923-cf39ce987d7b",
         "title": "Hardware/Silicon Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398160,7 +398160,7 @@
         "company_name": "Innovative Defense Technologies",
         "id": "48407e3f-74f1-4eda-a843-3935f4654085",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399167,7 +399167,7 @@
         "company_name": "Kyndryl",
         "id": "abb1b26c-9b2c-414f-bc57-31b189bd9466",
         "title": "Marketing Intern - Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
