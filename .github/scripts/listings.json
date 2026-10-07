@@ -219313,7 +219313,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402423,7 +402423,7 @@
         "company_name": "Create Music Group",
         "id": "1f0fc96e-b62b-4b41-b5b9-b55014da61f1",
         "title": "A&R Research Intern - Hip-Hop & R&B",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
