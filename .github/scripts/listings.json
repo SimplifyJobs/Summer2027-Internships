@@ -284772,7 +284772,7 @@
         "company_name": "Citi",
         "id": "a8fdee84-6f33-45c4-ba6b-61bc65d9fe5a",
         "title": "Quantitative Analysis - Off Cycle Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -284820,7 +284820,7 @@
         "company_name": "Magna",
         "id": "47d95f89-f763-477d-a29f-ec7b46b0f160",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -309609,7 +309609,7 @@
         "company_name": "Barclays",
         "id": "db7ca646-e2f6-4a10-bc6b-1d67f5ffcddf",
         "title": "Quantitative Finance Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350483,7 +350483,7 @@
         "company_name": "Nasdaq",
         "id": "d5ddbbc1-95eb-4897-9439-0d28ec2f608e",
         "title": "Product Owner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403198,6 +403198,30 @@
             "Lansing, MI"
         ],
         "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "9e2e6559-0af7-4f08-8cca-e4a650d95b46",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791383327,
+        "date_posted": 1791383064,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
