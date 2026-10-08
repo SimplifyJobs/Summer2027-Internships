@@ -171470,7 +171470,7 @@
         "company_name": "ByteDance",
         "id": "b69a7f3f-5920-4831-b1a3-ba378a3af4aa",
         "title": "Research Scientist Intern - Seed Responsible AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402217,7 +402217,7 @@
         "company_name": "State Affairs",
         "id": "d9aac9f7-0c18-43c3-a877-644cfdbdb57a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
