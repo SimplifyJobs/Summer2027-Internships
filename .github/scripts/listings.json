@@ -138185,7 +138185,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -249034,7 +249034,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
         "title": "Analytics Intern - eCommerce",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -309407,7 +309407,7 @@
         "company_name": "Marvell",
         "id": "f0664bf2-ffd2-483a-90dd-8d16a1040261",
         "title": "Analog Design Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334056,7 +334056,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -373579,7 +373579,7 @@
         "company_name": "Intel",
         "id": "ef2297ca-14a3-41d1-b09c-4297b662e9f6",
         "title": "Software Research Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375202,7 +375202,7 @@
         "company_name": "RTX",
         "id": "6bc1c873-c812-4770-8e16-7e18397b1432",
         "title": "Display Systems Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -376666,7 +376666,7 @@
         "company_name": "Marvell",
         "id": "6f576614-627b-4348-9a04-178f26b01381",
         "title": "AI-Native Development Platform Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392425,7 +392425,7 @@
         "company_name": "General Motors",
         "id": "a251a7a4-2be2-4567-8c27-fe56f705f40e",
         "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
