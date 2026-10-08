@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Guidewire",
-        "id": "28f5044f-3ad2-481e-a14e-218db9fa2089",
-        "title": "Strategy & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770727034,
-        "date_posted": 1770727034,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Strategy---Analytics-Intern_JR_14350",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Federal Home Loan Bank of New York",
         "id": "be9f9c32-046d-4328-8435-3b0837099996",
         "title": "Intern Financial Risk Management",
@@ -136146,7 +136123,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -138185,7 +138162,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -303378,7 +303355,7 @@
         "company_name": "Saab",
         "id": "c4b04101-1a96-40a4-ab89-9a4100b785eb",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308717,7 +308694,7 @@
         "company_name": "Saab",
         "id": "867f83e8-8c2d-4871-a154-59496914e89c",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -309407,7 +309384,7 @@
         "company_name": "Marvell",
         "id": "f0664bf2-ffd2-483a-90dd-8d16a1040261",
         "title": "Analog Design Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -311399,7 +311376,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381249,7 +381226,7 @@
         "company_name": "Southwest Airlines",
         "id": "a4bef05e-5e81-43b1-97b4-e8b5350371a4",
         "title": "Sales Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397377,7 +397354,7 @@
         "company_name": "Leidos",
         "id": "831d2f37-f07a-4fd6-8668-e7af33c405f0",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398768,7 +398745,7 @@
         "company_name": "McKesson",
         "id": "85e1ecd6-59bf-43b2-9cd7-81751b18a650",
         "title": "Java Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
