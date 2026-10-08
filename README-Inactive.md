@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1691 Inactive Internship Roles by Category
+### Browse 1692 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (597)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (598)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (102)
 
@@ -280,6 +280,13 @@
 <td><strong><a href="https://simplify.jobs/c/Lutron-Electronics?utm_source=GHList&utm_medium=company">Lutron Electronics</a></strong></td>
 <td>Software Engineering Co-op</td>
 <td>Philadelphia, PA</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/First-Citizens-BancShares?utm_source=GHList&utm_medium=company">First Citizens BancShares</a></strong></td>
+<td>IT Intern - Software Developer</td>
+<td>Raleigh, NC</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
