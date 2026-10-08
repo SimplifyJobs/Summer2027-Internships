@@ -338965,7 +338965,7 @@
         "company_name": "MBDA",
         "id": "5088fa08-1fde-498a-b509-50c003c17fa5",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368768,7 +368768,7 @@
         "company_name": "NASCO",
         "id": "3a435b5c-6e92-490d-afae-1468682256cf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -402857,7 +402857,7 @@
         "company_name": "DoorDash",
         "id": "66fcf084-7f7c-43ed-8947-83179031963c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
