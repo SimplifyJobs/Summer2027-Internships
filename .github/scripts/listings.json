@@ -282693,7 +282693,7 @@
         "company_name": "American Express",
         "id": "c7bb326d-a5b8-4309-aeeb-22fdd6428e47",
         "title": "Software Engineering Apprentice - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -282762,7 +282762,7 @@
         "company_name": "American Express",
         "id": "ba86fe7a-6db5-4b56-a169-0c868bd5b58d",
         "title": "Software Engineering Apprentice - Technology Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368313,7 +368313,7 @@
         "company_name": "Symbotic",
         "id": "60dfdc9e-b8e3-49d2-81b6-1e7cd70c9881",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -381501,7 +381501,7 @@
         "company_name": "Southwest Airlines",
         "id": "f7ee265c-7829-48bb-acd5-5acedabc8878",
         "title": "Safety Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381568,7 +381568,7 @@
         "company_name": "Southwest Airlines",
         "id": "d9419501-0152-4c0a-81b6-645f84e65a7c",
         "title": "Digital Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
