@@ -2,74 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Ditto AI",
-        "id": "6b7a7b8a-2dcb-4ce0-a92e-453c6975bca0",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770690003,
-        "date_posted": 1770690003,
-        "url": "https://jobs.ashbyhq.com/dittoai/f4cbce81-94bf-44cb-a2fc-4dcd001175e1/application",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ditto-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zebra Technologies",
-        "id": "0ab019bd-24ee-41d5-a279-dd582d1363f7",
-        "title": "Intern - MV Systems Engineering - Corporate and Business Services",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770690005,
-        "date_posted": 1770690005,
-        "url": "https://zebra.eightfold.ai/careers/job/343636255380",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arcadis",
-        "id": "d959730d-bb9c-44f1-930d-8bdf1d5d2241",
-        "title": "Transportation Planning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770689613,
-        "date_posted": 1770689613,
-        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37926",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcadis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "True Anomaly",
         "id": "8ee4b8fb-48ab-4eba-82eb-c1660590bd82",
         "title": "Software Engineering Intern - Elixir",
@@ -372708,7 +372640,7 @@
         "company_name": "First Citizens BancShares",
         "id": "074a0da6-73e2-402d-90a7-ca4bf302d862",
         "title": "IT Intern - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387555,7 +387487,7 @@
         "company_name": "Solink",
         "id": "eea4ff21-9352-4ee4-a01b-10830a6c73cd",
         "title": "Software Engineer Co-op - Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
