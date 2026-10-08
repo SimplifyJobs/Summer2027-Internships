@@ -1,122 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atrium Health",
-        "id": "a29d94f1-b4b1-4ed2-9c30-44563c9ffee2",
-        "title": "Student Intern-Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770738971,
-        "date_posted": 1770738971,
-        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---1237-Harding-Pl/Student-Intern--Data-Analytics_R214483",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Atrium-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sanofi",
-        "id": "ad34a0cb-2a6b-406a-80d5-3ab2b6f6970f",
-        "title": "Machine Learning for Quantitative Pharmacology \u2013 Large Molecules Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1770738139,
-        "date_posted": 1770738139,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Machine-Learning-for-Quantitative-Pharmacology---Large-Molecules-Summer-Fall-2026-Co-op_R2841320",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prolaio",
-        "id": "a808ac3b-472d-4394-92f3-279556d2a218",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770738128,
-        "date_posted": 1770738128,
-        "url": "https://job-boards.greenhouse.io/prolaio/jobs/5115101008",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Prolaio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Prolaio",
-        "id": "0d47434c-eb91-4572-8f01-bd1fd48cc09b",
-        "title": "Mobile Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1770738119,
-        "date_posted": 1770738119,
-        "url": "https://job-boards.greenhouse.io/prolaio/jobs/5115040008",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Prolaio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "278c5d4c-a585-4c3c-8cd9-e6541f09ff74",
-        "title": "Intern - SQL Database & Back-End Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770737639,
-        "date_posted": 1770737639,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-CTC--400-Main-St--BLDG-CTC/Intern--Summer-2026---SQL-Database---Back-End-Developer--Onsite-_01821780",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Hitachi",
         "id": "bad1e447-caf8-4e3a-be28-51a396f7d3a1",
@@ -327326,7 +327210,7 @@
         "company_name": "Polar Semiconductor",
         "id": "9bd16ba6-5f88-4345-9093-de6c410b805b",
         "title": "Industrial Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -345458,7 +345342,7 @@
         "company_name": "National Information Solutions Cooperative",
         "id": "160f6780-2483-4f8a-ae8b-b31c4eceb81e",
         "title": "Software Development Intern - AI Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366717,7 +366601,7 @@
         "company_name": "University of Virginia",
         "id": "e3fdb2df-5e0d-4317-9acc-91d19f0c62f1",
         "title": "Direct Marketing Data Assistant - Student Wage",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383914,7 +383798,7 @@
         "company_name": "RTX",
         "id": "363f7dd7-e0e6-4d7c-ac40-d5bd75bc50e3",
         "title": "Flight Control Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -403386,5 +403270,49 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "92b36766-febe-474d-941e-0bf16bc2ecc0",
+        "title": "Systems Integration and Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791474381,
+        "date_posted": 1791417600,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+        "locations": [
+            "Atlantic City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Badger Meter",
+        "id": "64ffe791-24fc-4b7a-b06b-90a8bc63b978",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791474121,
+        "date_posted": 1791417600,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
+        "locations": [
+            "Escondido, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Badger-Meter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
