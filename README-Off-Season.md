@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 1291 Internship Roles by Category
+### Browse 1292 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (395)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (67)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (401)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (402)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (25)
 
@@ -3240,7 +3240,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1120)</summary>
+<summary>🗃️ Inactive roles (1119)</summary>
 
 <table>
 <thead>
@@ -12232,14 +12232,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Prolaio?utm_source=GHList&utm_medium=company">Prolaio</a></strong></td>
-<td>Mobile Software Engineer Intern</td>
-<td>Chicago, IL</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -16306,6 +16298,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>28d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Polar-Semiconductor?utm_source=GHList&utm_medium=company">Polar Semiconductor</a></strong></td>
+<td>Industrial Engineer Intern</td>
+<td>Bloomington, MN</td>
+<td>Winter 2026</td>
+<td><div align="center"><a href="https://polarsemi.wd501.myworkdayjobs.com/Polar/job/Bloomington-MN-USA/Manufacturing-Planning-Intern_R3785?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9bd16ba6-5f88-4345-9093-de6c410b805b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Ph.D. Intern - AI/ML & Design Automation 🎓</td>
 <td><details><summary><strong>9 locations</strong></summary>Morrisville, NC<br>Austin, TX<br>Irvine, CA<br>Santa Clara, CA<br>Westlake Village, CA<br>Boise, ID<br>Burlington, VT<br>Chandler, AZ<br>Westborough, MA</details></td>
@@ -17534,7 +17534,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1605)</summary>
+<summary>🗃️ Inactive roles (1603)</summary>
 
 <table>
 <thead>
@@ -18649,14 +18649,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Markets Data Analyst Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2027</td>
-<td>🔒</td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Polar-Semiconductor?utm_source=GHList&utm_medium=company">Polar Semiconductor</a></strong></td>
-<td>Industrial Engineer Intern</td>
-<td>Bloomington, MN</td>
-<td>Winter 2026</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
@@ -30379,14 +30371,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Spring 2026, Summer 2026</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company">Sanofi</a></strong></td>
-<td>Machine Learning for Quantitative Pharmacology – Large Molecules Co-op 🎓</td>
-<td>Cambridge, MA</td>
-<td>Summer 2026, Fall 2026</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
