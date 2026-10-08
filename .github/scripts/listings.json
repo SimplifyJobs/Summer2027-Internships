@@ -2,53 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "True Anomaly",
-        "id": "8ee4b8fb-48ab-4eba-82eb-c1660590bd82",
-        "title": "Software Engineering Intern - Elixir",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770691246,
-        "date_posted": 1770691246,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047241007",
-        "locations": [
-            "Long Beach, CA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "HeartFlow",
-        "id": "09c17ac3-4f05-4694-bc88-1b4ee5c0b54b",
-        "title": "Software Engineer Intern - ML Ops / Compute Migration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770690829,
-        "date_posted": 1770690829,
-        "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/5798443004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/HeartFlow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Exa Labs",
         "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
         "title": "Software Engineer Intern",
