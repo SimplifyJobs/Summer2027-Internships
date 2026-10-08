@@ -191903,7 +191903,7 @@
         "company_name": "SoloPulse",
         "id": "6eab1924-cfad-4106-b8c6-162292dcc659",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -248805,7 +248805,7 @@
         "company_name": "Daktronics",
         "id": "acf8f34c-8d43-4ef2-9889-9015ed860c47",
         "title": "Firmware/Hardware Design Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -294481,7 +294481,7 @@
         "company_name": "National Information Solutions Cooperative",
         "id": "8c933a65-84a6-42d7-b151-83ce66411cda",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345178,7 +345178,7 @@
         "company_name": "National Information Solutions Cooperative",
         "id": "ddf6cf13-0a0b-4f97-93eb-c88083de5316",
         "title": "Software Development Intern - AI Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378331,7 +378331,7 @@
         "company_name": "POET",
         "id": "cfd65384-8de0-4673-9086-3e19b4843b5e",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384172,7 +384172,7 @@
         "company_name": "Philips",
         "id": "bdbe894f-7bb6-4c44-89a5-a1fe503a66ba",
         "title": "Systems Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
