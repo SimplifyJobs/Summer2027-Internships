@@ -198363,7 +198363,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c40fd9e2-3295-4cb4-a082-0102aefe562b",
         "title": "Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262032,7 +262032,7 @@
         "company_name": "Audax Group",
         "id": "451d266b-c459-492a-b5c3-df553f98d6d5",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
