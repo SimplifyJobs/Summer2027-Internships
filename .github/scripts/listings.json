@@ -275713,7 +275713,7 @@
         "company_name": "Upbring",
         "id": "a9caf1f2-3786-455d-a542-e77edf6a7bc2",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -355721,7 +355721,7 @@
         "company_name": "Rubrik",
         "id": "fca16e07-f35d-408e-bda0-efffa4ba2163",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -367669,7 +367669,7 @@
         "company_name": "Intel",
         "id": "c125d363-9bdc-456d-92f1-eff43afdc8ae",
         "title": "Firmware Development Undergraduate Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -368600,7 +368600,7 @@
         "company_name": "Graphcore",
         "id": "c3cf0e0c-833f-44df-a0c9-d931121ecb8a",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -398094,7 +398094,7 @@
         "company_name": "KnowBe4",
         "id": "acc4ec77-49ca-4528-b3a8-01f51c7a1647",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
