@@ -233713,7 +233713,7 @@
         "company_name": "Microsoft",
         "id": "ed31bd8d-9acf-436c-9628-1d4c79959bac",
         "title": "Full-Stack Product Engineer Intern - Web + Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317622,7 +317622,7 @@
         "company_name": "U.S. Bank",
         "id": "0784dfd0-f24a-40c4-995d-171043217a43",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346253,7 +346253,7 @@
         "company_name": "Duolingo",
         "id": "08cdf3fe-97c4-4894-9e77-fbd621e25b37",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
