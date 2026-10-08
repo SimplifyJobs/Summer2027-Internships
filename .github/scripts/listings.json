@@ -347643,7 +347643,7 @@
         "company_name": "Tokyo Electron",
         "id": "b2ab045a-123d-4018-9f7c-e1b306e29e2c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
