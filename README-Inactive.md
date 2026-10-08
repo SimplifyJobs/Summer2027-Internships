@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 1716 Inactive Internship Roles by Category
+### Browse 1717 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (606)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (201)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (241)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (242)
 
 ---
 
@@ -5128,13 +5128,6 @@
 <td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/LexisNexis-Risk-Solutions?utm_source=GHList&utm_medium=company">LexisNexis Risk Solutions</a></strong></td>
-<td>Data Analyst Intern</td>
-<td>Alpharetta, GA</td>
-<td>🔒</td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
 <td>Multimodal AI for Human Experience Intern 🎓</td>
 <td>Boston, MA<br>NYC</td>
@@ -6466,6 +6459,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC?utm_source=GHList&utm_medium=company">National Information Solutions Cooperative</a></strong></td>
+<td>Data Engineer Intern</td>
+<td>Lake St Louis, MO<br>Mandan, ND<br>Cedar Rapids, IA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Data Engineer Intern</td>
 <td>Lake St Louis, MO</td>
 <td>🔒</td>
@@ -10658,6 +10658,13 @@
 <td>10d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineering Co-op</td>
+<td>Cedar Rapids, IA</td>
+<td>🔒</td>
+<td>10d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Efficient-Computer?utm_source=GHList&utm_medium=company">Efficient Computer</a></strong></td>
 <td>Hardware/Silicon Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>SF<br>Austin, TX<br>San Jose, CA<br>Pittsburgh, PA</details></td>
@@ -11337,7 +11344,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/sensata-tech?utm_source=GHList&utm_medium=company">Sensata</a></strong></td>
+<td><strong><a href="https://simplify.jobs/c/Sensata-Tech?utm_source=GHList&utm_medium=company">Sensata</a></strong></td>
 <td>Electrical Engineer Intern</td>
 <td>South Burlington, VT</td>
 <td>🔒</td>
