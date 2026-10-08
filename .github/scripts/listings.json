@@ -202061,7 +202061,7 @@
         "company_name": "Optiver",
         "id": "6f0dbd5a-a41a-4a05-a5f4-7fa193dbc2ab",
         "title": "Quantitative Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327815,7 +327815,7 @@
         "company_name": "Covestro",
         "id": "505bee1f-fd65-4670-9e13-742a72f3e857",
         "title": "Digital Analyst & Project Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368649,7 +368649,7 @@
         "company_name": "Graphcore",
         "id": "0c3e33aa-b7f2-43c5-905a-19d5decedeeb",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382528,7 +382528,7 @@
         "company_name": "Riot Games",
         "id": "d24f3415-d7f3-4935-8bed-730bae30d68d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
