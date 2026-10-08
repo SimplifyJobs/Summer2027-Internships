@@ -133658,7 +133658,7 @@
         "company_name": "ASM International",
         "id": "3ab26bfe-972a-4b2f-8014-7b6add4f83d3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -255781,7 +255781,7 @@
         "company_name": "Fannie Mae",
         "id": "09e061cd-a5e8-4059-bb6d-a0672a475328",
         "title": "Data Science Intern - Analytics & Modeling Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -300522,7 +300522,7 @@
         "company_name": "Susquehanna International Group",
         "id": "773a0053-7c9f-4410-ad10-28e5c8aa0b6d",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307438,7 +307438,7 @@
         "company_name": "Apple",
         "id": "b9be901f-af0f-44d1-ad38-c58e3e251f77",
         "title": "Formal Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
