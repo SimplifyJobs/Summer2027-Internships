@@ -256194,7 +256194,7 @@
         "company_name": "Fifth Third Bank",
         "id": "7d8242ec-06c9-4afb-abfb-ccbd11a5f47b",
         "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262622,7 +262622,7 @@
         "company_name": "University of Virginia",
         "id": "61113397-5045-45a9-8385-92577d546a89",
         "title": "Technical Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -294712,7 +294712,7 @@
         "company_name": "National Information Solutions Cooperative",
         "id": "31bcc9a2-7531-4fb4-b101-a707953662fa",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342949,7 +342949,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "8c988a2d-c958-4ab4-bca3-72276613b164",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367387,7 +367387,7 @@
         "company_name": "Brunswick",
         "id": "c5f567d9-027e-4207-b6d3-80f5a9566861",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381249,7 +381249,7 @@
         "company_name": "Southwest Airlines",
         "id": "8b6adedc-bcf4-4553-9fa2-ff61cdd5425f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382430,7 +382430,7 @@
         "company_name": "The Federal Reserve System",
         "id": "8ec2033a-ce88-4b22-8928-f0bcfa00049a",
         "title": "Computer Science and Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390357,7 +390357,7 @@
         "company_name": "State of North Carolina",
         "id": "3d0e6a5a-a1a8-484a-9a12-fd9fcdb36ad4",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -390997,7 +390997,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "326100ad-000e-45bb-b619-347263128bdc",
         "title": "Sales Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392448,7 +392448,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "425c8e2d-cf78-47d2-91a0-5aeca4485643",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398932,7 +398932,7 @@
         "company_name": "Entrust",
         "id": "90c25126-50a6-4b5d-9e2d-37ab9ecacb13",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403381,6 +403381,101 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lowe's",
+        "id": "6ef197b4-1ae6-4a42-a81e-80e6283959fd",
+        "title": "PRO Services Reporting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791471121,
+        "date_posted": 1791417600,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/PRO-Services-Reporting-Intern---Undergrad-Internship---Summer-2027-_JR-02672698",
+        "locations": [
+            "Mooresville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "5e11b38c-46d7-4f70-b6eb-2957ec570881",
+        "title": "AI Developer Technology Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791470701,
+        "date_posted": 1791417600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
+        "locations": [
+            "Bristol, UK",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gordon Food Service",
+        "id": "38c7776b-a885-4f1e-af66-2816ed57ba66",
+        "title": "Software Engineer Intern - Transportation Routing",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791470521,
+        "date_posted": 1791417600,
+        "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374",
+        "locations": [
+            "Wyoming, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Gordon-Food-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cox",
+        "id": "dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72",
+        "title": "Data Scientist Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791470161,
+        "date_posted": 1791417600,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
