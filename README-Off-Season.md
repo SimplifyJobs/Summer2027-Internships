@@ -6168,7 +6168,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
-<td>Software Engineer Security & Identity Intern</td>
+<td>Full-Stack Product Engineer Intern - Web + Services</td>
 <td>Redmond, WA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
@@ -6176,7 +6176,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>Full-Stack Product Engineer Intern - Web + Services</td>
+<td>Software Engineer Security & Identity Intern</td>
 <td>Redmond, WA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
