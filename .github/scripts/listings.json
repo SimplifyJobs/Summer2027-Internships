@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Orbital Materials",
-        "id": "ebfeefc1-80dd-4e14-8bb3-50e5abce9b43",
-        "title": "AI Residency Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770719414,
-        "date_posted": 1770719414,
-        "url": "https://jobs.ashbyhq.com/orbitalmaterials/fe532ab4-ed9b-4019-afa9-b31e7d7cebc5/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Orbital-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Clipboard Health",
-        "id": "20f9ab1f-808e-44ab-8f35-832aa4e4ff0e",
-        "title": "Engineering Intern 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1770719479,
-        "date_posted": 1770719479,
-        "url": "https://jobs.ashbyhq.com/clipboard/5e36b646-38dc-4d52-a146-2891bad1ba3c/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Clipboard-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Guidewire",
         "id": "28f5044f-3ad2-481e-a14e-218db9fa2089",
         "title": "Strategy & Analytics Intern",
@@ -197321,7 +197279,7 @@
         "company_name": "Clio",
         "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -231901,7 +231859,7 @@
         "company_name": "Microsoft",
         "id": "9fe00265-7716-44f9-bc43-1017aa863220",
         "title": "Software Engineer Intern - CoreAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -246324,7 +246282,7 @@
         "company_name": "Composio",
         "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
         "title": "Fullstack Engineer Intern - Product Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -270489,7 +270447,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -297968,7 +297926,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -304287,7 +304245,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -304394,7 +304352,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -304417,7 +304375,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -304464,7 +304422,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -340380,7 +340338,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341109,7 +341067,7 @@
         "company_name": "Johnson & Johnson",
         "id": "183a7c4c-19d3-4b57-85de-1ae125ee8aee",
         "title": "Electrical Engineer Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357462,7 +357420,7 @@
         "company_name": "Flex",
         "id": "1ce187ae-c250-4b22-8bee-28e3422d6cba",
         "title": "Manufacturing Data & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363942,7 +363900,7 @@
         "company_name": "Waymo",
         "id": "6b159730-9852-401d-b64d-e07e1b5e80ba",
         "title": "Data Science Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368010,7 +367968,7 @@
         "company_name": "Symbotic",
         "id": "c59a1b99-17f3-442e-99fa-80e233cb39fb",
         "title": "Robot Perception Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -369108,7 +369066,7 @@
         "company_name": "Cenovus Energy",
         "id": "6b8dd43f-f7c6-40fc-afb7-915318ecdc76",
         "title": "Information Technology Student - Data Science and Software",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378602,7 +378560,7 @@
         "company_name": "POET",
         "id": "1c05aeb6-1548-460d-ac98-cca04204d3a7",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379606,7 +379564,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b622890b-1757-4c2f-972b-6a6c480b909f",
         "title": "Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385246,7 +385204,7 @@
         "company_name": "General Motors",
         "id": "827ccc8c-5daf-4ca9-90a9-badca54261a8",
         "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385293,7 +385251,7 @@
         "company_name": "General Motors",
         "id": "5c721084-2430-498d-ae4c-d36aeaee8fac",
         "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386494,7 +386452,7 @@
         "company_name": "C3.ai",
         "id": "5446e738-df78-4160-98ab-eb05d3f23d8f",
         "title": "AI Product Manager Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386561,7 +386519,7 @@
         "company_name": "Kinaxis",
         "id": "a105f8ab-2cdc-4f08-8687-fb4a75573615",
         "title": "AI/ML Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -400787,7 +400745,7 @@
         "company_name": "HCSC",
         "id": "118adc1e-4c91-45e1-8654-5297c47e9a9c",
         "title": "Systems Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -403214,6 +403172,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DoorDash",
+        "id": "66fcf084-7f7c-43ed-8947-83179031963c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791455264,
+        "date_posted": 1791453827,
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
