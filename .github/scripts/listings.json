@@ -1,51 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "f5021af5-18ab-478a-9d96-80f77beb8df6",
-        "title": "Service Ops Data Analyst Corporate Intern - Undergrad",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770682101,
-        "date_posted": 1770682101,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Service-Ops-Data-Analyst-Corporate-Internship---Summer-2026--Undergrad-_R0830320",
-        "locations": [
-            "Scottsdale, AZ",
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "442a8c25-7503-4bb3-a085-203cfe6a10bf",
-        "title": "Application Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770681822,
-        "date_posted": 1770681822,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer---Application-Engineer-Intern--Santa-Clara--CA-_R2520059",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ditto AI",
         "id": "6b7a7b8a-2dcb-4ce0-a92e-453c6975bca0",
@@ -284513,7 +284468,7 @@
         "company_name": "Philips",
         "id": "476ebb5a-f574-486f-be24-b89fb51a1040",
         "title": "Software Engineer Co-op - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -400923,7 +400878,7 @@
         "company_name": "S&C Electric Company",
         "id": "258d5748-3766-4b86-b1f1-7672e1c66cef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
