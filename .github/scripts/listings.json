@@ -233689,7 +233689,7 @@
         "company_name": "Microsoft",
         "id": "b412b084-36e9-45e2-b3a0-561c4336e62e",
         "title": "Software Engineer Security & Identity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371308,7 +371308,7 @@
         "company_name": "Texas A&M University System",
         "id": "d46a978e-6fec-4693-a889-1a07521469e0",
         "title": "Graduate Assistant - Accreditation and Quality Improvement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403093,6 +403093,29 @@
             "Hopkinton, MA"
         ],
         "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Exa",
+        "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791104875,
+        "date_posted": 1786612792,
+        "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Exa-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
