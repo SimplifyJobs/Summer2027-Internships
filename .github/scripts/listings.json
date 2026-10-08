@@ -196466,7 +196466,7 @@
         "company_name": "Later",
         "id": "119ba1cb-df5a-4b95-9bed-4d76527e4280",
         "title": "AI Automation Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248734,7 +248734,7 @@
         "company_name": "Daktronics",
         "id": "2d5652ce-87cd-41ef-8453-45d2959aa511",
         "title": "Firmware/Hardware Design Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -262633,7 +262633,7 @@
         "company_name": "Daktronics",
         "id": "28a744e2-2ac1-4370-ae97-b7520c9897dd",
         "title": "Hardware Design Co-op Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329832,7 +329832,7 @@
         "company_name": "Waymo",
         "id": "2dd387a0-88c3-4ee1-b40f-4821aa4a3e31",
         "title": "Summer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371900,7 +371900,7 @@
         "company_name": "Leidos",
         "id": "e61c4916-6a49-4922-a691-73e2250dd9c9",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385990,7 +385990,7 @@
         "company_name": "Altera",
         "id": "25d37d61-12f2-475a-afdc-1ea80a5057aa",
         "title": "High Level Synthesis Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -398299,7 +398299,7 @@
         "company_name": "Chenega",
         "id": "2310df58-69a1-4c21-bf0c-0ab23ab3e493",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398421,7 +398421,7 @@
         "company_name": "First Citizens BancShares",
         "id": "f4c1cbda-bcc6-4e43-ab84-01f468e54479",
         "title": "Summer Intern - Card Product Management - Business to Business Payments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400351,7 +400351,7 @@
         "company_name": "HCSC",
         "id": "f8f58448-a30c-4f0b-bd35-a8b3aee51172",
         "title": "Enterprise Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
