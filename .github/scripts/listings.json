@@ -230228,7 +230228,7 @@
         "company_name": "Microsoft",
         "id": "b7198b61-27db-46c1-8155-5a5bdb14370f",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286429,7 +286429,7 @@
         "company_name": "Microsoft",
         "id": "8df7539c-d0c7-4783-8d10-a19510da93da",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -346386,7 +346386,7 @@
         "company_name": "Duolingo",
         "id": "8a9edd16-81d0-4406-9c23-6a35909b252b",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Spring 2028",
@@ -368313,7 +368313,7 @@
         "company_name": "Symbotic",
         "id": "60dfdc9e-b8e3-49d2-81b6-1e7cd70c9881",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -381591,7 +381591,7 @@
         "company_name": "Southwest Airlines",
         "id": "66d75708-a251-415f-b835-c6766b6c4d61",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391890,7 +391890,7 @@
         "company_name": "Renesas Electronics",
         "id": "5082f72b-4331-4dec-ace1-f1345dac4370",
         "title": "Analog Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
