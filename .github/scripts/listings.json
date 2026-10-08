@@ -153788,7 +153788,7 @@
         "company_name": "Salesforce",
         "id": "452daa00-79b9-40ff-902b-6a5c3ddc4357",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291955,7 +291955,7 @@
         "company_name": "Intel",
         "id": "4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
         "title": "Silicon Hardware Engineering Intern - Bachelor's",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -292065,7 +292065,7 @@
         "company_name": "Intel",
         "id": "b854fca7-7546-478f-937b-a76b8dbbddae",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -309408,7 +309408,7 @@
         "company_name": "Marvell",
         "id": "72a95a86-9b4f-436c-b408-21eafc8a80fb",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -310923,7 +310923,7 @@
         "company_name": "Johnson Controls",
         "id": "73e4ce20-6a87-4c11-85a0-52fdf043464a",
         "title": "Software/Controls Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359761,7 +359761,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381337,7 +381337,7 @@
         "company_name": "RTX",
         "id": "57ef5166-18ab-48f2-a9ae-c53346079716",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401212,7 +401212,7 @@
         "company_name": "Bose",
         "id": "8361ff2b-f33d-4bba-ba6a-756c0fda60f4",
         "title": "Audio Machine Learning Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
