@@ -253320,7 +253320,7 @@
         "company_name": "Sysco",
         "id": "1c385c6d-d388-465d-9ccb-4051032c9a09",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312229,7 +312229,7 @@
         "company_name": "Lumentum",
         "id": "f1e644aa-3579-43e1-b19a-457d616ae97d",
         "title": "Optical Verification Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
