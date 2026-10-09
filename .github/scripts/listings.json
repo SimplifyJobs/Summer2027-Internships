@@ -277933,7 +277933,7 @@
         "company_name": "Emerson Electric",
         "id": "5d96a0ef-da32-47b9-9204-73dd02b7dd39",
         "title": "Firmware Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -312706,7 +312706,7 @@
         "company_name": "Merck",
         "id": "43b2eef4-f37f-4fe3-919b-08128239760c",
         "title": "Data Scientist Intern - Nonclinical Drug Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346677,7 +346677,7 @@
         "company_name": "RTX",
         "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -374153,7 +374153,7 @@
         "company_name": "RTX",
         "id": "ec00eac5-4585-4280-840e-de9a25fe6595",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
