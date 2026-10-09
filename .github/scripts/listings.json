@@ -2,42 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Proofpoint",
-        "id": "8c074d2a-e450-4f41-9f67-019e5b51efa1",
-        "title": "AI Integration Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770816736,
-        "date_posted": 1770816736,
-        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Austin-TX/AI-Integration-Intern_R13669",
-        "locations": [
-            "California",
-            "Detroit, MI",
-            "Texas",
-            "Ohio",
-            "Boston, MA",
-            "Florida",
-            "Austin, TX",
-            "Massachusetts",
-            "Arizona",
-            "West Virginia",
-            "Sunnyvale, CA",
-            "Arkansas",
-            "Illinois",
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Proofpoint",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Lonza",
         "id": "b63fe744-5235-4bd8-b8ff-bc2182dc1ae4",
         "title": "Data Science Intern",
@@ -136079,7 +136043,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -232440,7 +232404,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297925,7 +297889,7 @@
         "company_name": "JD.com",
         "id": "70e97aa1-1967-4add-9a5a-8a9208c8db26",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -309710,7 +309674,7 @@
         "company_name": "Marvell",
         "id": "56f40262-c4cd-4b41-a304-a541df7d38a7",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -317738,7 +317702,7 @@
         "company_name": "Marvell",
         "id": "a216895f-9ab3-46c0-a5ed-ff818b0f4334",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325229,7 +325193,7 @@
         "company_name": "Marvell",
         "id": "c19ad514-a4fd-4e47-a2ae-ab57347804ad",
         "title": "Advanced Packaging & Physical Integration Intern - Advanced Packaging & Physical Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331561,7 +331525,7 @@
         "company_name": "Amgen",
         "id": "27460c05-e022-499c-bcc8-2783559d2639",
         "title": "Digital Product Intern - Digital Product - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380226,7 +380190,7 @@
         "company_name": "Autodesk",
         "id": "b69bdf14-2251-45b7-a756-b48e4e9936ea",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -387424,7 +387388,7 @@
         "company_name": "CoStar Group",
         "id": "4430d739-ddf1-4b1c-966a-d5e29f89a980",
         "title": "Associate Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -390678,7 +390642,7 @@
         "company_name": "Capital One",
         "id": "2560720b-1bc8-410a-8f64-e70a2e539173",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
