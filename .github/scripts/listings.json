@@ -307427,7 +307427,7 @@
         "company_name": "Marvell",
         "id": "b187c223-0bc3-4f82-9be4-30a9212be7b4",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -309207,7 +309207,7 @@
         "company_name": "Marvell",
         "id": "8dd02cc4-88fb-4046-8f93-5fdfada18ccb",
         "title": "Physical Design Engineer Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -316479,7 +316479,7 @@
         "company_name": "COUNTRY Financial",
         "id": "52bd67ea-cc1b-4b12-9ba9-77c1fe08ed78",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327978,7 +327978,7 @@
         "company_name": "Walmart",
         "id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346959,7 +346959,7 @@
         "company_name": "KBR",
         "id": "979ac96d-8d31-44b0-b0ce-b26b281568e9",
         "title": "Data Processing Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -358154,7 +358154,7 @@
         "company_name": "Leidos",
         "id": "74c6f87e-771c-4105-bcf1-13937407ee3c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -362899,7 +362899,7 @@
         "company_name": "Marvell",
         "id": "7057ee1a-132c-421d-9f99-5d1d07c307f8",
         "title": "Analog Layout Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373424,7 +373424,7 @@
         "company_name": "RTX",
         "id": "9ab13260-bac2-4bc2-9334-a6f0d248d8be",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382039,7 +382039,7 @@
         "company_name": "RTX",
         "id": "363f7dd7-e0e6-4d7c-ac40-d5bd75bc50e3",
         "title": "Flight Control Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395271,7 +395271,7 @@
         "company_name": "Leidos",
         "id": "e9a5e0b0-0a4d-4c94-9bfc-dc97ba351bf8",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396779,7 +396779,7 @@
         "company_name": "RTX",
         "id": "89c95261-7ed7-445d-9298-4131cf049e2a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396803,7 +396803,7 @@
         "company_name": "RTX",
         "id": "c1e87875-633c-4491-b811-cb4f422cda4d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398102,7 +398102,7 @@
         "company_name": "KLA",
         "id": "bf192a0d-358d-4d94-a443-18c9138fbcfa",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398452,7 +398452,7 @@
         "company_name": "Leidos",
         "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
         "title": "Business Systems AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
