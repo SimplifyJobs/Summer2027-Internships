@@ -266428,7 +266428,7 @@
         "company_name": "Eaton",
         "id": "c7e1704b-e6a7-44d0-a786-74424b6da2fd",
         "title": "Data Analyst Intern - Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -281295,7 +281295,7 @@
         "company_name": "Dev Technology Group",
         "id": "b188985e-7bef-424a-bc46-4d33a76dfd4f",
         "title": "AI/ML Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331512,7 +331512,7 @@
         "company_name": "Amgen",
         "id": "5012230e-2a8b-4047-80ec-4b7c9ecbf427",
         "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372347,7 +372347,7 @@
         "company_name": "Copart",
         "id": "9370a340-20a3-41c5-9e8d-f77d3758c4bc",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -380577,7 +380577,7 @@
         "company_name": "Marvell",
         "id": "be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
         "title": "Firmware Engineer Intern - MS - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381421,7 +381421,7 @@
         "company_name": "HMH",
         "id": "cd797b97-31de-482a-bda6-2a5a6836dd6b",
         "title": "AI & Automation Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386633,7 +386633,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "66ef2704-3037-40ab-ac97-ad086c4309af",
         "title": "AI Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -386848,7 +386848,7 @@
         "company_name": "Walmart",
         "id": "29e1f2eb-ef33-4ffe-9666-976c19430870",
         "title": "Economist Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -387424,7 +387424,7 @@
         "company_name": "CoStar Group",
         "id": "4430d739-ddf1-4b1c-966a-d5e29f89a980",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390246,7 +390246,7 @@
         "company_name": "General Motors",
         "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
         "title": "ADAS Software Engineer Intern - Adpt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
