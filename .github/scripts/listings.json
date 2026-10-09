@@ -3078,99 +3078,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "d8d315c5-b34e-4647-b756-691e8b925226",
-        "title": "Radio Frequency Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770778129,
-        "date_posted": 1770778129,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Radio-Frequency-Engineer--Master-s--Santa-Clara--CA-_R2612746",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "QuinStreet",
-        "id": "aa35a7a8-19f5-4183-9fcf-feaea5431942",
-        "title": "Engineering Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770777440,
-        "date_posted": 1770777440,
-        "url": "https://www.quinstreet.com/careers/?gh_jid=7605753",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/QuinStreet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aptiv",
-        "id": "5c5eae8c-609c-41ef-a1df-ebf6f1f59adf",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770777217,
-        "date_posted": 1770777217,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693269",
-        "locations": [
-            "Ontario, Canada",
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "True Anomaly",
-        "id": "240f4e7f-5efb-476c-bf0b-c2aa43e4c988",
-        "title": "Flight Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770777410,
-        "date_posted": 1770777410,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007",
-        "locations": [
-            "Long Beach, CA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Microsoft",
         "id": "b003c864-59dc-43d8-8014-f9eb9c051501",
@@ -278117,7 +278024,7 @@
         "company_name": "Emerson Electric",
         "id": "a1cfe3a9-e808-48c7-b5dc-8e6368b25a8c",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
