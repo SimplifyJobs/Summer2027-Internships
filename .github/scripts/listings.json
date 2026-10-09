@@ -264107,7 +264107,7 @@
         "company_name": "Zipline",
         "id": "a687b7a4-e59f-46fc-81d2-72d37d677ffb",
         "title": "Embedded Software Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -354270,7 +354270,7 @@
         "company_name": "Gordon Food Service",
         "id": "058f883b-7a38-49f1-8ad9-45811313157b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
