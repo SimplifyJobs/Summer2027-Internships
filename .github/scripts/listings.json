@@ -312822,7 +312822,7 @@
         "company_name": "Merck",
         "id": "f52421f1-2b11-4885-a968-c3cc90b2857f",
         "title": "Computational Toxicology Intern - AI/ML Computational Toxicology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343605,7 +343605,7 @@
         "company_name": "Cox",
         "id": "23b10088-7e1c-4b74-b6aa-1a5793daf170",
         "title": "Deal Analytics Intern - Business Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346816,7 +346816,7 @@
         "company_name": "GM financial",
         "id": "0650f155-f625-4ece-bfd8-9cfb0b544610",
         "title": "Economic Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -396047,7 +396047,7 @@
         "company_name": "Nokia",
         "id": "0aa13f57-2b33-4f07-8032-f57ecc2104a3",
         "title": "AI Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -396071,7 +396071,7 @@
         "company_name": "Nokia",
         "id": "0785ad50-7898-48f1-965a-7734495a7598",
         "title": "AI Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -396143,7 +396143,7 @@
         "company_name": "Nokia",
         "id": "38aad2e0-df0c-4ff7-8ee9-1367c3cbd453",
         "title": "AI Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
