@@ -252054,7 +252054,7 @@
         "company_name": "NVIDIA",
         "id": "832f302a-8bc2-45f2-8ada-37a23bf080a7",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -295775,7 +295775,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -305281,7 +305281,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -309207,7 +309207,7 @@
         "company_name": "Marvell",
         "id": "8dd02cc4-88fb-4046-8f93-5fdfada18ccb",
         "title": "Physical Design Engineer Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333289,7 +333289,7 @@
         "company_name": "Guardian Life",
         "id": "8155c07e-de11-481a-ba23-c42178f1189c",
         "title": "Application Development Intern - Digital & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342227,7 +342227,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -344767,7 +344767,7 @@
         "company_name": "Analog Devices",
         "id": "83127520-9aed-4eb4-a7c5-63d711f65e1f",
         "title": "Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -347891,7 +347891,7 @@
         "company_name": "CoStar Group",
         "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360694,7 +360694,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362899,7 +362899,7 @@
         "company_name": "Marvell",
         "id": "7057ee1a-132c-421d-9f99-5d1d07c307f8",
         "title": "Analog Layout Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363163,7 +363163,7 @@
         "company_name": "William Blair",
         "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
         "title": "Application Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -367304,7 +367304,7 @@
         "company_name": "Semtech",
         "id": "9f12f571-6c1f-482d-af8c-4f9fb992614a",
         "title": "Analog Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372161,7 +372161,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "897cf111-754d-4f14-9819-92f0de243bae",
         "title": "Embedded Firmware Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380061,7 +380061,7 @@
         "company_name": "Autodesk",
         "id": "a3cdfa91-7332-49bc-ae6b-3ae94495bc8a",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380887,7 +380887,7 @@
         "company_name": "Veeam Software",
         "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
         "title": "Competitive Intelligence AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381350,7 +381350,7 @@
         "company_name": "Stripe",
         "id": "c8b772fa-9433-4ff4-8516-2c6249a464dd",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -381516,7 +381516,7 @@
         "company_name": "Stripe",
         "id": "d9bb2856-f02d-4539-b7c0-81e9ade1a86b",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -381539,7 +381539,7 @@
         "company_name": "Stripe",
         "id": "cb963062-e51b-4ae6-999e-695c504dfd52",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -381972,7 +381972,7 @@
         "company_name": "The Home Depot",
         "id": "73cce5ae-4123-4752-9ad2-67b8ab0e009f",
         "title": "Full Stack Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -383122,7 +383122,7 @@
         "company_name": "General Motors",
         "id": "827ccc8c-5daf-4ca9-90a9-badca54261a8",
         "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385976,7 +385976,7 @@
         "company_name": "Pinterest",
         "id": "eda40edd-acbe-4e9d-98b6-9591dea895bc",
         "title": "UX Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398081,7 +398081,7 @@
         "company_name": "Northrop Grumman",
         "id": "83a9740c-e026-4b0f-b269-23b44589b6bc",
         "title": "Senior Principal Intelligence Analyst Intern - SkillBridge",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -398452,7 +398452,7 @@
         "company_name": "Leidos",
         "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
         "title": "Business Systems AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399153,7 +399153,7 @@
         "company_name": "Bose",
         "id": "8361ff2b-f33d-4bba-ba6a-756c0fda60f4",
         "title": "Audio Machine Learning Intern Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -399226,7 +399226,7 @@
         "company_name": "Bose",
         "id": "855eab6a-3d70-435e-adbb-95789fabe3d2",
         "title": "Embedded Software Engineer Co-op - Audio Tech",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -403239,7 +403239,7 @@
         "company_name": "RTX",
         "id": "60bc5d7f-1b90-49db-a040-bb1d6287a40f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
