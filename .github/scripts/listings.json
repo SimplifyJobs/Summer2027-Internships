@@ -328438,7 +328438,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "e97a377e-d1c0-4278-86c7-389bacdaa737",
         "title": "Decision Science Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381512,7 +381512,7 @@
         "company_name": "RTX",
         "id": "363f7dd7-e0e6-4d7c-ac40-d5bd75bc50e3",
         "title": "Flight Control Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384462,7 +384462,7 @@
         "company_name": "HCSC",
         "id": "d9b64d1c-51e8-4aa5-8275-aee5eb3a274e",
         "title": "Early Careers Automation Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
