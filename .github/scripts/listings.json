@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Roche",
-        "id": "dff6a96b-bd2c-4162-8e2d-ba6bfefe2675",
-        "title": "Intern - Computational Science and Informatics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770814300,
-        "date_posted": 1770814300,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2026-Summer-Intern---Computational-Science-and-Informatics_202601-102578",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Proofpoint",
         "id": "8c074d2a-e450-4f41-9f67-019e5b51efa1",
         "title": "AI Integration Intern",
@@ -307349,7 +307325,7 @@
         "company_name": "Marvell",
         "id": "72a95a86-9b4f-436c-b408-21eafc8a80fb",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -309538,7 +309514,7 @@
         "company_name": "Marvell",
         "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
         "title": "Advanced Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -325001,7 +324977,7 @@
         "company_name": "USAA",
         "id": "76419dfa-ec98-4250-9937-e2bc66b00b00",
         "title": "Data Intern - Future Leaders Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331536,7 +331512,7 @@
         "company_name": "Amgen",
         "id": "5012230e-2a8b-4047-80ec-4b7c9ecbf427",
         "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357797,7 +357773,7 @@
         "company_name": "General Motors",
         "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
         "title": "Software Engineer Intern - Digital Product: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -361241,7 +361217,7 @@
         "company_name": "Marvell",
         "id": "8ce088a5-0a5d-4469-9b3f-d8a196162728",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -372371,7 +372347,7 @@
         "company_name": "Copart",
         "id": "9370a340-20a3-41c5-9e8d-f77d3758c4bc",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380601,7 +380577,7 @@
         "company_name": "Marvell",
         "id": "be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
         "title": "Firmware Engineer Intern - MS - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386657,7 +386633,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "66ef2704-3037-40ab-ac97-ad086c4309af",
         "title": "AI Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386872,7 +386848,7 @@
         "company_name": "Walmart",
         "id": "29e1f2eb-ef33-4ffe-9666-976c19430870",
         "title": "Economist Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390083,7 +390059,7 @@
         "company_name": "RTX",
         "id": "7e8c009d-2abb-45ee-8903-e8cae0738447",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390270,7 +390246,7 @@
         "company_name": "General Motors",
         "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
         "title": "ADAS Software Engineer Intern - Adpt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
