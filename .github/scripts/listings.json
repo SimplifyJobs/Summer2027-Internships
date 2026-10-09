@@ -267400,7 +267400,7 @@
         "company_name": "Leidos",
         "id": "083cfc54-1c27-4fc6-ab89-6606e06aca1f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -316885,7 +316885,7 @@
         "company_name": "Coinbase",
         "id": "0601574e-b3fe-447e-b449-99a6e8022d37",
         "title": "Product Manager Intern - HR Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361967,7 +361967,7 @@
         "company_name": "American Express",
         "id": "74ef05dd-dadb-4a70-838d-d41642df9bdd",
         "title": "Software Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383657,7 +383657,7 @@
         "company_name": "Microsoft",
         "id": "a06a0cea-0344-4075-b993-e26c7e476853",
         "title": "Research Intern - Maia Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -401314,7 +401314,7 @@
         "company_name": "Arizona State University",
         "id": "db2eb29a-0c4b-4164-a226-eb8dbfc81719",
         "title": "Student Web Developer and Content Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
