@@ -278211,7 +278211,7 @@
         "company_name": "Emerson Electric",
         "id": "0fa28854-b27f-43c3-aa7d-4017b75778ea",
         "title": "Lifecycle Service Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -336756,7 +336756,7 @@
         "company_name": "EquipmentShare",
         "id": "efa4bb78-1704-403b-903f-cc0df69e06a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
