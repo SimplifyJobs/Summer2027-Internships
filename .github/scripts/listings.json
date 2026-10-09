@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Motorola",
-        "id": "ffc4d025-24c3-47a1-985d-4ffe1eba7f48",
-        "title": "Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770795275,
-        "date_posted": 1770795275,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer-Co-Op_R62032",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "HubSpot",
         "id": "76683b81-5fbd-480b-9373-93c41652901b",
         "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program",
@@ -272890,7 +272866,7 @@
         "company_name": "State Farm",
         "id": "83abba36-a030-45ec-a7aa-04f3db7b101e",
         "title": "Financial Operations Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312896,7 +312872,7 @@
         "company_name": "Merck",
         "id": "269c98bf-a12b-4ef0-a2c5-4b7d30d453e2",
         "title": "Business Intelligence Intern - Research Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380107,7 +380083,7 @@
         "company_name": "Autodesk",
         "id": "c63e96f3-3234-440f-a70f-b754963dcb2c",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -395365,7 +395341,7 @@
         "company_name": "Leidos",
         "id": "831d2f37-f07a-4fd6-8668-e7af33c405f0",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
