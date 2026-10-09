@@ -247323,7 +247323,7 @@
         "company_name": "Daktronics",
         "id": "e658f2bd-3684-4904-93bd-12354df5a4de",
         "title": "Software Design Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -278211,7 +278211,7 @@
         "company_name": "Emerson Electric",
         "id": "1c2f0776-ffba-43df-b229-ca36d616f363",
         "title": "Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -278352,7 +278352,7 @@
         "company_name": "Emerson Electric",
         "id": "956050ae-8ab9-4938-ae42-c74f02b3562e",
         "title": "Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -396163,7 +396163,7 @@
         "company_name": "Nokia",
         "id": "97ae44fe-896a-4ac9-903d-dd00769e963b",
         "title": "AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -396329,7 +396329,7 @@
         "company_name": "Nokia",
         "id": "94b5e8f1-5530-443f-948b-40d1d6d16a60",
         "title": "AI Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
