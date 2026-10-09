@@ -238727,7 +238727,7 @@
         "company_name": "Mujin",
         "id": "245185f0-482e-4f3d-b036-598acb899969",
         "title": "Software Development Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -303002,7 +303002,7 @@
         "company_name": "Teledyne",
         "id": "0bd8a057-5153-404b-9d36-4a1d158e257a",
         "title": "LiDAR Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -319103,7 +319103,7 @@
         "company_name": "Amentum",
         "id": "02534a25-59a8-4b77-8837-adb01da24e8d",
         "title": "Software Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -400363,7 +400363,7 @@
         "company_name": "Motorola",
         "id": "53e2d2ca-2bf9-417b-8c18-b1af4a682042",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402737,7 +402737,7 @@
         "company_name": "AMD",
         "id": "56567a1f-dbe4-43c3-9d87-2fb28cca1801",
         "title": "Undergrad Validation/Debug Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
