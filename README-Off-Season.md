@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 1249 Internship Roles by Category
+### Browse 1247 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (386)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (384)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (63)
 
@@ -3147,28 +3147,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://careers.medpace.com/jobs/12922?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/73c1ef4b-88b7-4b1c-b439-231e8bb950fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Blp?utm_source=GHList&utm_medium=company">blp</a></strong></td>
-<td>Engineering Intern</td>
-<td>London, UK<br>Barcelona, Spain</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/blp-digital/7c93c32d-f2e6-40be-a02e-b3a9ff0ff40e/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bf7072d3-5d46-48e6-951a-18e940c68ebc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Squarepoint-Capital?utm_source=GHList&utm_medium=company">Squarepoint Capital</a></strong></td>
-<td>Software Developer Intern</td>
-<td>London, UK</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7231006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/17f0421d-363e-4dcd-aa7f-0aa75fb79290?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (1131)</summary>
+<summary>🗃️ Inactive roles (1133)</summary>
 
 <table>
 <thead>
@@ -5973,6 +5957,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter 2027</td>
 <td>🔒</td>
 <td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Blp?utm_source=GHList&utm_medium=company">blp</a></strong></td>
+<td>Engineering Intern</td>
+<td>London, UK<br>Barcelona, Spain</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Squarepoint-Capital?utm_source=GHList&utm_medium=company">Squarepoint Capital</a></strong></td>
+<td>Software Developer Intern</td>
+<td>London, UK</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -12198,6 +12198,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Mercor?utm_source=GHList&utm_medium=company">Mercor</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>SF</td>
+<td>Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027, Fall 2027</td>
+<td>🔒</td>
+<td>7mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Stanley-Black-Decker?utm_source=GHList&utm_medium=company">Stanley Black & Decker</a></strong></td>
+<td>Engineering Intern - Digital & Connected</td>
+<td>New Britain, CT</td>
+<td>Winter 2026, Spring 2026, Summer 2026</td>
+<td>🔒</td>
+<td>7mo</td>
+</tr>
 
 </tbody>
 </table>
@@ -12224,22 +12240,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Mercor?utm_source=GHList&utm_medium=company">Mercor</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>SF</td>
-<td>Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027, Fall 2027</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Stanley-Black-Decker?utm_source=GHList&utm_medium=company">Stanley Black & Decker</a></strong></td>
-<td>Engineering Intern - Digital & Connected</td>
-<td>New Britain, CT</td>
-<td>Winter 2026, Spring 2026, Summer 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Availity?utm_source=GHList&utm_medium=company">Availity</a></strong></td>
 <td>Software Engineering Intern</td>
@@ -34224,7 +34224,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>↳</td>
 <td>AI Hardware Physical Design Engineer Intern - AI Hardware</td>
 <td>Palo Alto, CA<br>Austin, TX<br>Fort Collins, CO</td>
 <td>Spring 2027</td>
