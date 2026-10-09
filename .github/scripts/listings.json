@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lonza",
-        "id": "b63fe744-5235-4bd8-b8ff-bc2182dc1ae4",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770819360,
-        "date_posted": 1770819360,
-        "url": "https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Vacaville-CA/Data-Science-Intern_R73540",
-        "locations": [
-            "Vacaville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lonza",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Apex Fintech Solutions",
         "id": "5f03aca1-b6bc-47f8-b845-c5b26983bbb0",
@@ -136043,7 +136019,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -232404,7 +232380,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -297889,7 +297865,7 @@
         "company_name": "JD.com",
         "id": "70e97aa1-1967-4add-9a5a-8a9208c8db26",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -302057,7 +302033,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302126,7 +302102,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302210,7 +302186,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325193,7 +325169,7 @@
         "company_name": "Marvell",
         "id": "c19ad514-a4fd-4e47-a2ae-ab57347804ad",
         "title": "Advanced Packaging & Physical Integration Intern - Advanced Packaging & Physical Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -331525,7 +331501,7 @@
         "company_name": "Amgen",
         "id": "27460c05-e022-499c-bcc8-2783559d2639",
         "title": "Digital Product Intern - Digital Product - Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342500,7 +342476,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -349402,7 +349378,7 @@
         "company_name": "Marvell",
         "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
         "title": "SRAM Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -360634,7 +360610,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372149,7 +372125,7 @@
         "company_name": "Daktronics",
         "id": "3466828f-dfbb-4018-8178-80736f2de176",
         "title": "Analyst Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374024,7 +374000,7 @@
         "company_name": "Marvell",
         "id": "5dd4e233-ca87-4d9e-9a66-eb83b035e492",
         "title": "Test Equipment Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386928,7 +386904,7 @@
         "company_name": "CoStar Group",
         "id": "fad2e0d4-274c-40b8-b96d-c769ef5ee9da",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403658,5 +403634,170 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "18bad5bf-089e-4921-991f-09e20254da1d",
+        "title": "Product Engineering Student Intern - Robotics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791556172,
+        "date_posted": 1791555957,
+        "url": "https://johndeere.eightfold.ai/careers/job/137483758357",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Schonfeld",
+        "id": "6e0b1f7b-ab3e-439e-ae35-827c4fa4d1ae",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791556163,
+        "date_posted": 1791555926,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Schonfeld",
+        "id": "2bc31101-6642-4ce8-9de0-bd8422a0ea1e",
+        "title": "Quantitative Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791556160,
+        "date_posted": 1791555926,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Werfen",
+        "id": "d16d5776-a774-4531-951a-cf1dede1cc30",
+        "title": "R&D Systems Hardware Engineering Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791555762,
+        "date_posted": 1791555615,
+        "url": "https://careers-werfen.icims.com/jobs/11153/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Werfen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WTW",
+        "id": "1564dff4-1455-4c39-8484-e1940718b5df",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791555841,
+        "date_posted": 1791555318,
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435",
+        "locations": [
+            "Reigate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WTW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "babf8103-ce88-446d-ae83-d600bf03ebdc",
+        "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791555555,
+        "date_posted": 1791555240,
+        "url": "https://www.metacareers.com/jobs/2211974449401350",
+        "locations": [
+            "Burlingame, CA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "229a4d5b-5264-4536-9536-3b0b0059c653",
+        "title": "Product Management Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1791555297,
+        "date_posted": 1791554962,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154671460",
+        "locations": [
+            "Fountain Inn, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
