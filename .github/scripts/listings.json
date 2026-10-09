@@ -1,192 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "ef58f248-fb8f-4893-ba39-07269a2a80e9",
-        "title": "Software Engineer 1 - Austin - TX",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770768473,
-        "date_posted": 1770768473,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Summer-Software-Engineer-Intern--Bachelor-s--Austin--TX-_R2612739",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "b34f121e-97be-4f84-b0be-7afaa55bdc61",
-        "title": "Unity 3D Developer Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770768475,
-        "date_posted": 1770768475,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2026-Unity-3D-Developer-Software-Engineering-Intern--Bachelor-s--Austin--TX-_R2612485",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "4b458a9e-3ed3-425f-96ec-120185af579e",
-        "title": "Business Intelligence Analyst Intern-Bachelor's/Master's - Austin - TX",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770768474,
-        "date_posted": 1770768474,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Summer-Business-Intelligence-Analyst-Intern--Bachelor-s-Master-s--Austin--TX-_R2612725",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "2742490c-4396-4276-9105-d85871a2270c",
-        "title": "2026 Summer Reverse Value Chain Operations Inter-Bachelor's - Austin - TX",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770768467,
-        "date_posted": 1770768467,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Summer-Reverse-Value-Chain-Operations-Inter--Bachelor-s--Austin--TX-_R2612698-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unisys",
-        "id": "f32b3fa0-86d1-4e9a-b547-042bc72766a7",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770768279,
-        "date_posted": 1770768279,
-        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Software-Engineer-Intern_REQ567691",
-        "locations": [
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Unisys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Biogen",
-        "id": "b08224c7-4732-4e26-9434-fb83de04dcab",
-        "title": "Intern \u2013 Patient Services - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770768247,
-        "date_posted": 1770768247,
-        "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Intern--Patient-Services--Data-Analytics_REQ22559",
-        "locations": [
-            "Research Triangle, Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Biogen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unisys",
-        "id": "5a96ae42-d557-4adf-b071-b4e8d8f47710",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770768279,
-        "date_posted": 1770768279,
-        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Irongate/Software-Engineer-Intern_REQ567730",
-        "locations": [
-            "Columbia, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Unisys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unisys",
-        "id": "563edff1-fa15-44fb-909b-72b9f5c2f260",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770768280,
-        "date_posted": 1770768280,
-        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Software-Engineer-Intern_REQ567689",
-        "locations": [
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Unisys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Berkshire Hathaway Energy",
         "id": "2e475df4-a14e-44a7-8a5c-8a593c6c40f8",
@@ -288591,7 +288405,7 @@
         "company_name": "Emerson Electric",
         "id": "926e5dc9-26d5-41d6-9925-0d72fecce8b9",
         "title": "Test and Evaluation Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -310996,7 +310810,7 @@
         "company_name": "Tokyo Electron",
         "id": "2ae1d69a-b7b0-4ca0-b046-72e7b571835c",
         "title": "Business Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393054,7 +392868,7 @@
         "company_name": "Liberty Mutual",
         "id": "534bdae1-bb74-415c-bd75-9263c3eecc59",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
