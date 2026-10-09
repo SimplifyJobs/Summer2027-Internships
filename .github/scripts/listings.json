@@ -246303,7 +246303,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302208,7 +302208,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -302277,7 +302277,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -302319,7 +302319,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302361,7 +302361,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -322703,7 +322703,7 @@
         "company_name": "USAA",
         "id": "6a8dc0b7-1fe0-408d-8cb4-deaa71ca870d",
         "title": "Digital Technical Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360785,7 +360785,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368575,7 +368575,7 @@
         "company_name": "Johnson & Johnson",
         "id": "af6e88e7-684a-47d6-bed7-ca09c24243e9",
         "title": "Product Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380222,7 +380222,7 @@
         "company_name": "Autodesk",
         "id": "19416511-793e-4611-921a-d3256bb64f2f",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391459,7 +391459,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "771b06e3-e156-4d8a-9f53-2ed74f23e75f",
         "title": "Data Analyst Co-op - Personal Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -403443,6 +403443,146 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "ed1c0343-bea1-414d-b994-5f703129ea75",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791526681,
+        "date_posted": 1791526545,
+        "url": "https://lifeattiktok.com/search/7694356134081972533",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "abff2b50-a167-4afb-b26a-5cb334d695fc",
+        "title": "ASIC Verification/Design Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1791526681,
+        "date_posted": 1791417600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c9025af2-3ad6-4507-b412-99016466963d",
+        "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791526681,
+        "date_posted": 1791526546,
+        "url": "https://lifeattiktok.com/search/7694354937320868149",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "95e5f16d-fae2-4f7a-bc08-2ca87b063e11",
+        "title": "Wireless Networking Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791526681,
+        "date_posted": 1791417600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Standard Aero",
+        "id": "3319becb-4356-4fd1-9cf4-4ffab09647bf",
+        "title": "IT Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1791526780,
+        "date_posted": 1791526523,
+        "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Standard-Aero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Denver",
+        "id": "ddb3be51-5802-4866-a26c-72803474d6d4",
+        "title": "Data Analytics College Intern - Analytics and Innovation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791526322,
+        "date_posted": 1791504000,
+        "url": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Data-Analytics-and-Innovation-College-Internship---Analytics-and-Innovation---Denver-International-Airport--4-months-_R0083221-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Denver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
