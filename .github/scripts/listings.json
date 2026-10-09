@@ -2,217 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jabil",
-        "id": "949d809e-d2e2-4775-9afa-7d7c8a50c16e",
-        "title": "Programmer Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770825060,
-        "date_posted": 1770825060,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Programmer-Analyst-Intern_J2437601",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bose",
-        "id": "4db14536-35df-4c54-a441-ac5bd7b8253f",
-        "title": "Audio Machine Learning Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1770824886,
-        "date_posted": 1770824886,
-        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719",
-        "locations": [
-            "Framingham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bose",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "1097dcf1-ba95-45b3-9ddb-ea3ad466578a",
-        "title": "Software Developer \u2013 Co-op/Internship - Summer 2026 - Weeks",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770824944,
-        "date_posted": 1770824944,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Virtual-GA-USA/Software-Developer--Summer-2026---Co-op-Internship----10-Weeks_R260004443-1",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fresenius Medical Care",
-        "id": "b240675f-f787-49f1-8dd7-129614e7e78b",
-        "title": "R&D Engineering Co-op - Human Factors/Usability Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770824769,
-        "date_posted": 1770824769,
-        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/R-D-Engineering-Co-op--Human-Factors-Usability-Engineering_R0239277",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "da2fc1cd-55df-400c-80dc-766efc5245fa",
-        "title": "Software Developer \u2013 Co-op/Internship - Summer 2026 - Weeks",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770824440,
-        "date_posted": 1770824440,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Virtual-GA-USA/Software-Developer--Summer-2026---Co-op-Internship----10-Weeks_R260004443",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Family Insurance Group",
-        "id": "98f47c84-f1b0-4a3c-ba46-77e33b9363c3",
-        "title": "Summer 2026 Intern - Software Engineer - Mobile Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770824280,
-        "date_posted": 1770824280,
-        "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2026-Intern---Software-Engineer_R38207",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Family-Insurance-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "91406afc-670e-4112-b420-4a9a7bd463cc",
-        "title": "Software Developer \u2013 Co-op/Internship - Summer 2026 - Weeks",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770824437,
-        "date_posted": 1770824437,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Virtual-GA-USA/Software-Developer--Summer-2026---Co-op-Internship----10-Weeks_R260004443-2",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CFD Research Corporation",
-        "id": "43b59518-a19d-4ce2-8aa2-0cb3a3e48f07",
-        "title": "Intern \u2013 Hypersonic Research Engineer - Experiment Data Analysis Summer 2026 - Huntsville",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770824128,
-        "date_posted": 1770824128,
-        "url": "https://www.cfd-research.com/jobs?gh_jid=4117294009",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/CFD-Research-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "S&P Global ",
-        "id": "17fec93c-0797-42e3-9d1e-01f8106e4bbf",
-        "title": "Software Engineer Intern \u2013 Early Career",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Winter 2027"
-        ],
-        "date_updated": 1770824099,
-        "date_posted": 1770824099,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern--Early-Career-_324218-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "CACI",
         "id": "7962188a-776f-4e82-a049-d5fcb97f5ffe",
         "title": "Software Engineering Intern - Summer 2026",
@@ -21358,29 +21147,6 @@
             "Indianapolis, IN"
         ],
         "company_url": "https://simplify.jobs/c/Hearst",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Equity",
-        "id": "c194d2a4-c8a8-4da4-ab40-3f7fa1023c25",
-        "title": "Application Developer 1",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771667327,
-        "date_posted": 1770824491,
-        "url": "https://www.american-equity.com/about/careers/openings?gh_jid=5048568007",
-        "locations": [
-            "West Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Equity",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -315423,7 +315189,7 @@
         "company_name": "RTX",
         "id": "c57e2c6f-2938-4b78-bfba-117161231118",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -317446,7 +317212,7 @@
         "company_name": "Marvell",
         "id": "22b78f4a-3df3-419a-9868-20e68b7dbb6f",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319549,7 +319315,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "c0344e84-2a29-4511-8025-7ee4893566d7",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -328768,7 +328534,7 @@
         "company_name": "RTX",
         "id": "8dff8685-3a17-4f9c-b1d4-6d01c0258242",
         "title": "Software Engineer Co-op - Spring/Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -330173,7 +329939,7 @@
         "company_name": "Oshkosh",
         "id": "be741c04-69a7-41b2-8fb3-8d280bacbe8c",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -376162,7 +375928,7 @@
         "company_name": "H&R Block",
         "id": "21792146-80f9-45a6-ade2-d26fd0098c49",
         "title": "Financial Services Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -376725,7 +376491,7 @@
         "company_name": "MFS",
         "id": "b6e13db3-be91-4612-8719-470246e65112",
         "title": "Investment Data Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -376819,7 +376585,7 @@
         "company_name": "KLA",
         "id": "66fd3b4a-cc9c-4090-9786-0bf42637abfd",
         "title": "Optical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -396042,7 +395808,7 @@
         "company_name": "KnowBe4",
         "id": "acc4ec77-49ca-4528-b3a8-01f51c7a1647",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -403681,5 +403447,140 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "d3a06147-0758-442a-a7b5-578fcc38219a",
+        "title": "Strategic Insight and Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1791560594,
+        "date_posted": 1791504000,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Papa John's",
+        "id": "8b95518e-7880-4858-a78a-07273d000e53",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791560521,
+        "date_posted": 1791504000,
+        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Papa-Johns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Papa John's",
+        "id": "21f70fe2-fdef-49f7-a4f9-b5dd331e3acd",
+        "title": "Digital Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791560463,
+        "date_posted": 1791504000,
+        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Papa-Johns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "64994a10-7a52-4808-b7b9-40c15e254d93",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791560521,
+        "date_posted": 1791504000,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147",
+        "locations": [
+            "Centreville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Varian",
+        "id": "5324f558-2578-41cd-af4f-40087ac7ea7b",
+        "title": "Performance Engineering Assistant Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791560521,
+        "date_posted": 1791504000,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Varian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "8fc02634-7bf1-4c6c-9d32-78f048f7e7e6",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1791560446,
+        "date_posted": 1791504000,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
