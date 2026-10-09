@@ -278329,7 +278329,7 @@
         "company_name": "Emerson Electric",
         "id": "d00b3611-6ef4-4084-8f7e-0bcd89e90261",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385882,7 +385882,7 @@
         "company_name": "Koch Industries",
         "id": "fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
