@@ -322809,7 +322809,7 @@
         "company_name": "Rockefeller Capital Management",
         "id": "8db6ea78-3c40-41b2-9388-56379c84d193",
         "title": "Summer Analyst Intern - Core Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339343,7 +339343,7 @@
         "company_name": "Tighe & Bond",
         "id": "ebbe3e8b-62a0-49ff-9ee8-7c72fc088c36",
         "title": "GIS Intern - Geographic Information Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
