@@ -203626,7 +203626,7 @@
         "company_name": "Jane Street",
         "id": "626bb7ad-7fc6-4fd0-99cd-31a7fb23cef3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -299467,7 +299467,7 @@
         "company_name": "ByteDance",
         "id": "aceb262a-5ebb-4f68-92f5-9b786cdb7fe1",
         "title": "Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348721,7 +348721,7 @@
         "company_name": "Visa",
         "id": "42074831-4df6-43c3-a5e6-cd8a61daef56",
         "title": "Staff Research Scientist Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357264,7 +357264,7 @@
         "company_name": "Valeo",
         "id": "4957a2fb-be99-4692-9709-c1298d39b3cc",
         "title": "Mechatronics Engineer Co-op - Mechanical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367115,7 +367115,7 @@
         "company_name": "Semtech",
         "id": "ddca628e-b43b-42c7-9f3a-7aafbed7b688",
         "title": "Validation Engineering Intern - Signal Integrity Products Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380332,7 +380332,7 @@
         "company_name": "The Federal Reserve System",
         "id": "4a3e68cf-493a-4f4e-814a-431736f6f178",
         "title": "Data Science and Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394697,7 +394697,7 @@
         "company_name": "NVIDIA",
         "id": "7041f2db-7b76-4047-a3f8-ffe4cfe4d262",
         "title": "PCIe Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397859,7 +397859,7 @@
         "company_name": "RTX",
         "id": "9db144d4-09da-4a63-af76-1475efdad52f",
         "title": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -403794,6 +403794,76 @@
             "Fountain Inn, SC"
         ],
         "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radiance Technologies",
+        "id": "08534f02-cdda-4163-8227-8adc00591296",
+        "title": "Modeling & Simulation Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791557461,
+        "date_posted": 1791504000,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Modeling---Simulation-Engineer-Intern_HR102472",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "4e69af63-87c5-4fd4-87cc-63e4dcf7613a",
+        "title": "Electrical Engineer Intern - Controls/PCB",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791557170,
+        "date_posted": 1791504000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barry-Wehmiller",
+        "id": "2c3f5dd7-36fd-40f7-a178-66ba6ac4ffea",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791556664,
+        "date_posted": 1791504000,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
