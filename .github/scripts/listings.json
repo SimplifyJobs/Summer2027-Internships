@@ -312941,7 +312941,7 @@
         "company_name": "Merck",
         "id": "70f4547c-0599-4bae-ae1f-b0ffcd3dd618",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329533,7 +329533,7 @@
         "company_name": "USAA",
         "id": "8c86eaf0-f116-4ff4-870a-eb2a2522b34b",
         "title": "Decision Science Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332963,7 +332963,7 @@
         "company_name": "USAA",
         "id": "8b696511-3eb6-46d7-bd8a-1a07e56a2349",
         "title": "Product Management Analyst Intern - Property and Casualty",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369838,7 +369838,7 @@
         "company_name": "Marathon Petroleum",
         "id": "adf0a40d-85b8-4712-bc55-164c7686e667",
         "title": "Geographic Information Systems Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396023,7 +396023,7 @@
         "company_name": "Nokia",
         "id": "8cd75c44-b1ed-4f61-9dae-69008c533d35",
         "title": "AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
