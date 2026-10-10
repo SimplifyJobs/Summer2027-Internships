@@ -368114,7 +368114,7 @@
         "company_name": "Maricopa Association of Governments",
         "id": "f8fddd08-36aa-4417-91d5-c21616035bca",
         "title": "Socioeconomic Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -396266,7 +396266,7 @@
         "company_name": "Northrop Grumman",
         "id": "5c8d0ded-4292-4bc3-847b-d136759a9a5d",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
