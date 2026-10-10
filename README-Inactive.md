@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1802 Inactive Internship Roles by Category
+### Browse 1804 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (633)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (635)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (113)
 
@@ -448,6 +448,13 @@
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
 <td>Software Engineer Intern - R&D</td>
 <td>Arden Hills, MN</td>
+<td>🔒</td>
+<td>15d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Development Engineer Intern</td>
+<td>Waltham, MA</td>
 <td>🔒</td>
 <td>15d</td>
 </tr>
@@ -1519,6 +1526,13 @@
 <td>↳</td>
 <td>Software Developer Co-op</td>
 <td>Vancouver, BC, Canada</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Corteva?utm_source=GHList&utm_medium=company">Corteva</a></strong></td>
+<td>AI Engineer Intern 🎓</td>
+<td>Indianapolis, IN</td>
 <td>🔒</td>
 <td>29d</td>
 </tr>
