@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Snap",
-        "id": "d7c2f74b-665c-4595-8d23-e005d3af04c5",
-        "title": "Machine Learning Engineer Intern - Generative ML",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770899761,
-        "date_posted": 1770899761,
-        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Machine-Learing-Engineer-Intern--Generative-ML_R0044279-1",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Snap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "State Street",
         "id": "5f4a3aa8-3a47-4a51-a28f-88bee3ba0162",
@@ -322372,7 +322348,7 @@
         "company_name": "Polar Semiconductor",
         "id": "9bd16ba6-5f88-4345-9093-de6c410b805b",
         "title": "Industrial Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -336973,7 +336949,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338652,7 +338628,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345679,7 +345655,7 @@
         "company_name": "Visa",
         "id": "92807540-7edf-40a4-87d1-ea892d3e44ca",
         "title": "Staff Research Scientist Intern - Foundational AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -372199,7 +372175,7 @@
         "company_name": "Leidos",
         "id": "3ff46e87-4650-4945-9789-59d5f0457e04",
         "title": "Electrical Hardware Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380710,7 +380686,7 @@
         "company_name": "Great American Insurance Company",
         "id": "319f5acd-d41e-4a2d-ba38-489c86ff3b27",
         "title": "Enterprise Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392504,7 +392480,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393675,7 +393651,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -396572,7 +396548,7 @@
         "company_name": "RTX",
         "id": "a09d5d2b-9532-4945-a5a3-fd9ced82b420",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -397529,7 +397505,7 @@
         "company_name": "Salesforce",
         "id": "69466e79-6419-41e0-9f96-b3560e811b54",
         "title": "Tableau Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
