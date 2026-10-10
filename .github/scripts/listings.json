@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "85b2d4e4-1188-4a59-8338-e459b8773f95",
-        "title": "Liquid Cooling Engineering Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770909211,
-        "date_posted": 1770909211,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266192",
-        "locations": [
-            "New Albany, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "c46327d8-f50b-4ff4-b512-1f91fcc94056",
-        "title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770908828,
-        "date_posted": 1770908828,
-        "url": "https://careers-gdms.icims.com/jobs/70074/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Exact Sciences",
         "id": "299b5e1f-3646-4df8-99e4-3ac793a6c7c5",
@@ -62,54 +16,6 @@
             "Madison, WI"
         ],
         "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Novartis",
-        "id": "03469887-a0d1-4225-a82a-61fef9cb3085",
-        "title": "Summer Student - Data Automation",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770910002,
-        "date_posted": 1770910002,
-        "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Montreal/Summer-Student---Data-Automation_REQ-10071790-1",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Novartis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "69d56a44-d2d6-4629-a2c0-79afc8b774c9",
-        "title": "Product Operations Intern - Global Monetization Product - Advertising",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770909433,
-        "date_posted": 1770909433,
-        "url": "https://lifeattiktok.com/search/7605659841294518581",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -139,53 +45,6 @@
         "degrees": [
             "Bachelor's",
             "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "4cafd782-9016-4e71-985e-161b1b8ecf9d",
-        "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770909668,
-        "date_posted": 1770909668,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990011654096",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Blue Cross and Blue Shield of Kansas",
-        "id": "0b314c83-3e4a-4cb0-a668-718a8583177c",
-        "title": "Business Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770909708,
-        "date_posted": 1770909708,
-        "url": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/Business-Intelligence-Intern_R2026042",
-        "locations": [
-            "Topeka, KS",
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-Kansas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -5146,29 +5005,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Keyrock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "da25c969-4c7b-4270-aebe-aef363fd5b40",
-        "title": "Stage \u2013 Gestion des programmes / Internship - \u00c9t\u00e9 2026 - Summer 2026/Operations Program Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771220799,
-        "date_posted": 1770910281,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809937",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -224208,7 +224044,7 @@
         "company_name": "Medtronic",
         "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -363483,7 +363319,7 @@
         "company_name": "Analog Devices",
         "id": "c88eff3d-aa92-400f-81af-bc057b38bc77",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -376644,7 +376480,7 @@
         "company_name": "Marvell",
         "id": "600e8939-a252-4ab1-830d-2aaf90c3306f",
         "title": "IC Validation Engineer Intern Co-op - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -387217,7 +387053,7 @@
         "company_name": "General Motors",
         "id": "a251a7a4-2be2-4567-8c27-fe56f705f40e",
         "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394745,7 +394581,7 @@
         "company_name": "RTX",
         "id": "4860f013-4993-4e16-9956-6f7126ed7e63",
         "title": "Display Systems Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -395047,7 +394883,7 @@
         "company_name": "Insulet",
         "id": "b4789431-e06c-4c29-83bf-0028a887dc8a",
         "title": "Embedded Software Test Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -402982,6 +402818,30 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8f6341ff-47e2-4a91-8d5d-fca1f79014c0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791644835,
+        "date_posted": 1791504000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
