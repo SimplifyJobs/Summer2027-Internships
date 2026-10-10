@@ -271576,7 +271576,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -304348,7 +304348,7 @@
         "company_name": "Marvell",
         "id": "b187c223-0bc3-4f82-9be4-30a9212be7b4",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -338652,7 +338652,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345679,7 +345679,7 @@
         "company_name": "Visa",
         "id": "92807540-7edf-40a4-87d1-ea892d3e44ca",
         "title": "Staff Research Scientist Intern - Foundational AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -371005,7 +371005,7 @@
         "company_name": "Marvell",
         "id": "5dd4e233-ca87-4d9e-9a66-eb83b035e492",
         "title": "Test Equipment Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -372199,7 +372199,7 @@
         "company_name": "Leidos",
         "id": "3ff46e87-4650-4945-9789-59d5f0457e04",
         "title": "Electrical Hardware Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378751,7 +378751,7 @@
         "company_name": "Freddie Mac",
         "id": "75bf9ace-02bf-45d8-be12-dd89e1b6b7ba",
         "title": "Multifamily Capital Markets Analytics & Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380710,7 +380710,7 @@
         "company_name": "Great American Insurance Company",
         "id": "319f5acd-d41e-4a2d-ba38-489c86ff3b27",
         "title": "Enterprise Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393675,7 +393675,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395373,7 +395373,7 @@
         "company_name": "Leidos",
         "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
         "title": "Business Systems AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -396572,7 +396572,7 @@
         "company_name": "RTX",
         "id": "a09d5d2b-9532-4945-a5a3-fd9ced82b420",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -396596,7 +396596,7 @@
         "company_name": "RTX",
         "id": "6c180347-5bb5-413b-b3af-4723b837b51f",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397529,7 +397529,7 @@
         "company_name": "Salesforce",
         "id": "69466e79-6419-41e0-9f96-b3560e811b54",
         "title": "Tableau Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
