@@ -123660,7 +123660,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -131556,7 +131556,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256720,7 +256720,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -287212,7 +287212,7 @@
         "company_name": "RTX",
         "id": "a2193fa7-5d7c-4eca-b922-7990e3b89098",
         "title": "Data Analyst Intern - Global Sales",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -309992,7 +309992,7 @@
         "company_name": "Gilead Sciences",
         "id": "2fc7cbfa-1b76-4300-b64c-e1f220b12c3b",
         "title": "Development Intern - Governance, Risk & Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346336,7 +346336,7 @@
         "company_name": "Marvell",
         "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
         "title": "SRAM Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -373915,7 +373915,7 @@
         "company_name": "KLA",
         "id": "a7373af1-154a-4460-accf-0f684091471b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379051,7 +379051,7 @@
         "company_name": "C&S Wholesale Grocers",
         "id": "5e14584d-3148-449a-b903-28b77771e883",
         "title": "IS Intern - Web Applications",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -381335,7 +381335,7 @@
         "company_name": "Marvell",
         "id": "43bf967e-805b-45b1-af2d-493750d8e32f",
         "title": "Firmware Engineer Intern Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389536,7 +389536,7 @@
         "company_name": "Visa",
         "id": "bc9b8b9a-3e10-4a78-965e-9f4778893a71",
         "title": "Staff Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -395303,7 +395303,7 @@
         "company_name": "Micron Technology",
         "id": "63e48584-3893-451e-bc5e-108fdf626cb9",
         "title": "Advanced DRAM Process Integration Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -397527,7 +397527,7 @@
         "company_name": "Salesforce",
         "id": "59e8e5c0-e495-4bf8-b281-4b11abaa4653",
         "title": "Tableau Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
