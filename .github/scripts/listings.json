@@ -211718,7 +211718,7 @@
         "company_name": "NeoSigma",
         "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
         "title": "Member of Technical Staff Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -260845,7 +260845,7 @@
         "company_name": "Copart",
         "id": "2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -266108,7 +266108,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -267436,7 +267436,7 @@
         "company_name": "Northwood Space",
         "id": "b451dc51-db5e-45b8-a1f7-c5ba8d0e411a",
         "title": "Site Engineer Intern - Sites",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -298007,7 +298007,7 @@
         "company_name": "RTX",
         "id": "7e9c7b98-067d-40e0-9691-2aa31d3e7464",
         "title": "Data Analyst Intern - Spare Parts Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -328243,7 +328243,7 @@
         "company_name": "Amgen",
         "id": "811210da-553e-4d37-b262-9897450dc43d",
         "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330210,7 +330210,7 @@
         "company_name": "Guardian Life",
         "id": "8155c07e-de11-481a-ba23-c42178f1189c",
         "title": "Application Development Intern - Digital & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335177,7 +335177,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346546,7 +346546,7 @@
         "company_name": "Marvell",
         "id": "79ae0aa0-8312-4d1d-b4b1-4682d51f9ebe",
         "title": "Design for Test Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348227,7 +348227,7 @@
         "company_name": "REV Robotics",
         "id": "f0da3c1f-2fb8-46f1-b1f7-57c7a9ca092a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349326,7 +349326,7 @@
         "company_name": "Tesla",
         "id": "c99fb84b-f415-4d60-8de5-3ad2537bd74f",
         "title": "Product Manager Intern - Residential Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -349349,7 +349349,7 @@
         "company_name": "Tesla",
         "id": "93ef662e-5551-44f1-b92f-7803ee8a3ea1",
         "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -353455,7 +353455,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "Forward Deployed AI Engineer Intern - BCG X",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -357615,7 +357615,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374876,7 +374876,7 @@
         "company_name": "Northrop Grumman",
         "id": "e8c586d7-f281-4ffc-bd41-078c7158f059",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
