@@ -128274,7 +128274,7 @@
         "company_name": "Fortinet",
         "id": "717f0806-c8b3-4053-9457-9e172707e5fa",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226112,7 +226112,7 @@
         "company_name": "JP Morgan Chase",
         "id": "067fde7e-5b83-40ed-8830-3864aced6f33",
         "title": "Quantitative Research Summer Analyst Intern - Asset Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -239518,7 +239518,7 @@
         "company_name": "Gartner",
         "id": "9dc8db6c-b35c-402e-9c20-fa7fae5fdc61",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -241144,7 +241144,7 @@
         "company_name": "Composio",
         "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
         "title": "Fullstack Engineer Intern - Product Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -243198,7 +243198,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -243365,7 +243365,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -243391,7 +243391,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -264305,7 +264305,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -275907,7 +275907,7 @@
         "company_name": "AMD",
         "id": "63f022cb-b4f4-4fd9-869e-9bdd55d6fabe",
         "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -275932,7 +275932,7 @@
         "company_name": "AMD",
         "id": "59aad3fe-5cae-48ca-9e34-608c664e0090",
         "title": "Graphics Software Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -276446,7 +276446,7 @@
         "company_name": "AMD",
         "id": "640797fc-5abf-4222-9bdb-16b62d09607e",
         "title": "Graphics Software Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -288157,7 +288157,7 @@
         "company_name": "AMD",
         "id": "23f69fe4-0c26-4065-97b0-4c06e0de21aa",
         "title": "ASIC Verification Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -294917,7 +294917,7 @@
         "company_name": "AMD",
         "id": "68c629c0-ad5e-461a-a2fb-fecaf1808854",
         "title": "AGS Libraries Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299172,7 +299172,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299353,7 +299353,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -302246,7 +302246,7 @@
         "company_name": "John Deere",
         "id": "27ef919b-f4a9-4f27-b484-e742c76fc774",
         "title": "Information Technology Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317987,7 +317987,7 @@
         "company_name": "Sequence Holdings",
         "id": "91049024-bd29-4945-b764-b8afa1f3ac6f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -328122,7 +328122,7 @@
         "company_name": "Nationwide",
         "id": "a2ce4ce9-8c4d-4478-9be2-770fc5ff210d",
         "title": "Personal Lines Business Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348155,7 +348155,7 @@
         "company_name": "Invesco",
         "id": "0ce4d977-ead8-46ed-a4c7-aa2b56802591",
         "title": "Early Career Intern - Private Markets Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -353759,7 +353759,7 @@
         "company_name": "AMD",
         "id": "2d01a847-4d79-431a-9db2-66efd16b5a12",
         "title": "HPC and Sovereign AI Center of Excellence Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -360833,7 +360833,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -374946,7 +374946,7 @@
         "company_name": "Northrop Grumman",
         "id": "982c416c-c960-4efd-81a7-a87081597d80",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380205,7 +380205,7 @@
         "company_name": "ShopBack",
         "id": "2555118e-7714-4f03-b900-03de0e5c29db",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -385331,7 +385331,7 @@
         "company_name": "Microsoft",
         "id": "a74310a0-f20c-47e3-a801-788c1fc295d6",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -397341,7 +397341,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -402227,7 +402227,7 @@
         "company_name": "General Motors",
         "id": "1b619bab-8ca8-46a3-8e31-c92637db8a6a",
         "title": "Seam Intern - Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
