@@ -25,7 +25,7 @@ def get_listings_from_json(filename: str = ".github/scripts/listings.json") -> l
     Returns:
         List of listing dictionaries.
     """
-    with open(filename) as f:
+    with open(filename, encoding="utf-8") as f:
         listings: list[Listing] = json.load(f)
         print(f"Received {len(listings)} listings from listings.json")
         return listings
