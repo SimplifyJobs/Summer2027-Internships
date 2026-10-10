@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "State Street",
-        "id": "5f4a3aa8-3a47-4a51-a28f-88bee3ba0162",
-        "title": "Relationship Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770902363,
-        "date_posted": 1770902363,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Summer-Internship-Program---Charles-River-Development---Relationship-Management-Intern_R-784011-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Vertiv",
         "id": "85b2d4e4-1188-4a59-8338-e459b8773f95",
@@ -256743,7 +256720,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322348,7 +322325,7 @@
         "company_name": "Polar Semiconductor",
         "id": "9bd16ba6-5f88-4345-9093-de6c410b805b",
         "title": "Industrial Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -336949,7 +336926,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -373938,7 +373915,7 @@
         "company_name": "KLA",
         "id": "a7373af1-154a-4460-accf-0f684091471b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379074,7 +379051,7 @@
         "company_name": "C&S Wholesale Grocers",
         "id": "5e14584d-3148-449a-b903-28b77771e883",
         "title": "IS Intern - Web Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381358,7 +381335,7 @@
         "company_name": "Marvell",
         "id": "43bf967e-805b-45b1-af2d-493750d8e32f",
         "title": "Firmware Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389559,7 +389536,7 @@
         "company_name": "Visa",
         "id": "bc9b8b9a-3e10-4a78-965e-9f4778893a71",
         "title": "Staff Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392480,7 +392457,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -395326,7 +395303,7 @@
         "company_name": "Micron Technology",
         "id": "63e48584-3893-451e-bc5e-108fdf626cb9",
         "title": "Advanced DRAM Process Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397550,7 +397527,7 @@
         "company_name": "Salesforce",
         "id": "59e8e5c0-e495-4bf8-b281-4b11abaa4653",
         "title": "Tableau Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
