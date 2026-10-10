@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1790 Inactive Internship Roles by Category
+### Browse 1791 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (634)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (635)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (113)
 
@@ -299,6 +299,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Morrisville, NC</td>
+<td>🔒</td>
+<td>10d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Rolling Meadows, IL</td>
 <td>🔒</td>
@@ -616,6 +623,13 @@
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Sterling, VA</td>
+<td>🔒</td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Tyler-Technologies?utm_source=GHList&utm_medium=company">Tyler Technologies</a></strong></td>
+<td>Software Development Intern - Summer 2027</td>
+<td>Yarmouth, ME<br>Orono, ME<br>Falmouth, ME</td>
 <td>🔒</td>
 <td>18d</td>
 </tr>
@@ -1449,13 +1463,6 @@
 <td><strong><a href="https://simplify.jobs/c/LSEG?utm_source=GHList&utm_medium=company">LSEG</a></strong></td>
 <td>Engineering Intern - Multiple Teams</td>
 <td>London, UK</td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Guardian-Life?utm_source=GHList&utm_medium=company">Guardian Life</a></strong></td>
-<td>Application Development Intern - Digital & Technology</td>
-<td>Holmdel, NJ<br>NYC<br>Bethlehem, PA</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
@@ -6297,6 +6304,13 @@
 <td>26d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Race Strategy & Analytics Intern - IndyCar</td>
+<td>Concord, NC</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Enact?utm_source=GHList&utm_medium=company">Enact Mortgage Insurance</a></strong></td>
 <td>Commercial Analytics and Optimization Team Intern</td>
 <td>Raleigh, NC</td>
@@ -6446,13 +6460,6 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amgen?utm_source=GHList&utm_medium=company">Amgen</a></strong></td>
 <td>Data Engineer Intern - Technology & Medical Organizations</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>29d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Scientist Intern - Amgen’s Technology & Medical Organizations</td>
 <td>Remote in USA</td>
 <td>🔒</td>
 <td>29d</td>
@@ -11302,6 +11309,13 @@
 <td>22d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/REV-Robotics?utm_source=GHList&utm_medium=company">REV Robotics</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Carrollton, TX</td>
+<td>🔒</td>
+<td>22d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Rocket-Lab-USA?utm_source=GHList&utm_medium=company">Rocket Lab USA</a></strong></td>
 <td>Systems Engineer Intern</td>
 <td>Pasadena, CA</td>
@@ -11333,13 +11347,6 @@
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>SRAM Circuit Design Intern - MS 🎓</td>
 <td>Burlington, VT</td>
-<td>🔒</td>
-<td>23d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Design for Test Intern - MS 🎓</td>
-<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>23d</td>
 </tr>
