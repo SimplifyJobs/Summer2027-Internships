@@ -3,9 +3,8 @@
 import os
 import time
 
-# Set the TZ environment variable to PST
-os.environ["TZ"] = "America/Los_Angeles"
-time.tzset()
+if hasattr(time, "tzset"):
+    time.tzset()
 
 # Button image URLs
 SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png"
