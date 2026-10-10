@@ -2,167 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Rundoo",
-        "id": "45d5e230-b45d-4742-b0e0-03639b0c8c87",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770862568,
-        "date_posted": 1770862568,
-        "url": "https://jobs.ashbyhq.com/rundoo/e3cc536d-d45d-4579-a301-59f7dc5e980c/application",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rundoo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "295bbcd5-e1b5-4a0d-8dcb-a5109f3bcd62",
-        "title": "Intern - AI/ML Wireless Research - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770862578,
-        "date_posted": 1770862578,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8416982002",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Super Micro Computer",
-        "id": "cf1ae825-3ab7-4158-a2e4-d3e85f86cbc9",
-        "title": "Generative AI Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770862156,
-        "date_posted": 1770862156,
-        "url": "https://jobs.supermicro.com/job/San-Jose-Generative-AI-Software-Engineer-Co-Op-Cali/1364254900/?ats=successfactors",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uber",
-        "id": "80a23558-f3ef-4dc6-8794-1f66b0a4ac44",
-        "title": "2026 PhD Scientist Intern - Rider Marketplace Science - US",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770862221,
-        "date_posted": 1770862221,
-        "url": "https://www.uber.com/global/en/careers/list/155521/",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "e7720215-14a5-4b21-88ca-7a5fa432c311",
-        "title": "Research Intern - Multi-Agent Simulation - Deep Learning Group",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770862063,
-        "date_posted": 1770862063,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556754255",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SDSU Research Foundation",
-        "id": "92e9dd79-e2da-43cf-ac8b-c99c97cde9d8",
-        "title": "Graduate Student ISR Department Lead Systems Engineer - Task",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770861933,
-        "date_posted": 1770861933,
-        "url": "https://careers-sdsurf.icims.com/jobs/20015/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "0b7af3ce-fee9-4f0d-a2d9-282e16a6af98",
-        "title": "Engineer - Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770862082,
-        "date_posted": 1770862082,
-        "url": "https://careers-gdms.icims.com/jobs/70806/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "418177d1-160d-4c1e-86c6-746ac524a732",
         "title": "Etch Service Business Focal - Team: Etch Service Business",
@@ -275,27 +114,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anduril",
-        "id": "336473d4-f8fa-40dd-a4a8-1ae8d72ebe4f",
-        "title": "Skillbridge Software Engineer - Eagleeye",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770863102,
-        "date_posted": 1770863102,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5050524007",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -44626,30 +44444,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Samsung",
-        "id": "b8cb4527-b790-40de-b98f-194c5156097e",
-        "title": "Intern \u2013 Enterprise DRAM Product Marketing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772678427,
-        "date_posted": 1770862503,
-        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7618131003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "MBA"
         ]
     },
     {
@@ -303475,7 +303269,7 @@
         "company_name": "Ragle Inc",
         "id": "915593c6-e773-4ccd-9039-fc0ec4968ae5",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
