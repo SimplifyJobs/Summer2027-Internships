@@ -224208,7 +224208,7 @@
         "company_name": "Medtronic",
         "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319560,7 +319560,7 @@
         "company_name": "Intel",
         "id": "b035a98e-db1a-4187-b55e-8cac0076bc05",
         "title": "Software Solutions Engineer PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -346708,7 +346708,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "4bde8bc5-067e-4676-9a52-d07891e1cb78",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -363483,7 +363483,7 @@
         "company_name": "Analog Devices",
         "id": "c88eff3d-aa92-400f-81af-bc057b38bc77",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375340,7 +375340,7 @@
         "company_name": "Bose",
         "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
         "title": "Reverse Logistics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -376644,7 +376644,7 @@
         "company_name": "Marvell",
         "id": "600e8939-a252-4ab1-830d-2aaf90c3306f",
         "title": "IC Validation Engineer Intern Co-op - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387217,7 +387217,7 @@
         "company_name": "General Motors",
         "id": "a251a7a4-2be2-4567-8c27-fe56f705f40e",
         "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394745,7 +394745,7 @@
         "company_name": "RTX",
         "id": "4860f013-4993-4e16-9956-6f7126ed7e63",
         "title": "Display Systems Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -395047,7 +395047,7 @@
         "company_name": "Insulet",
         "id": "b4789431-e06c-4c29-83bf-0028a887dc8a",
         "title": "Embedded Software Test Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -396242,7 +396242,7 @@
         "company_name": "Leidos",
         "id": "74a5709b-8924-4f80-981e-1b1d1474948a",
         "title": "Data Pipeline / Splunk Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
