@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "b003c864-59dc-43d8-8014-f9eb9c051501",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770892088,
-        "date_posted": 1770892088,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556752823",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Snap",
         "id": "d7c2f74b-665c-4595-8d23-e005d3af04c5",
@@ -128274,7 +128251,7 @@
         "company_name": "Fortinet",
         "id": "717f0806-c8b3-4053-9457-9e172707e5fa",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208983,7 +208960,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -241144,7 +241121,7 @@
         "company_name": "Composio",
         "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
         "title": "Fullstack Engineer Intern - Product Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -243156,7 +243133,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -266131,7 +266108,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -275813,7 +275790,7 @@
         "company_name": "AMD",
         "id": "a9bc71c2-1372-4b6c-a7e8-1562c9bbf631",
         "title": "Product Management Intern/Co-op - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -275836,7 +275813,7 @@
         "company_name": "AMD",
         "id": "a6f23904-d00a-4120-80ac-c94cce07abcb",
         "title": "Firmware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -275884,7 +275861,7 @@
         "company_name": "AMD",
         "id": "8feda3b9-865c-42d5-a47b-332911cbfc9e",
         "title": "Hardware Design Verification Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275907,7 +275884,7 @@
         "company_name": "AMD",
         "id": "63f022cb-b4f4-4fd9-869e-9bdd55d6fabe",
         "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -276471,7 +276448,7 @@
         "company_name": "AMD",
         "id": "874ab97b-4128-4172-bb03-7699b5dbb328",
         "title": "Firmware Engineer Intern/Co-op - Long Term",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -276494,7 +276471,7 @@
         "company_name": "AMD",
         "id": "93957738-d6d4-434f-bafe-6286a5b454d8",
         "title": "Software Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -294917,7 +294894,7 @@
         "company_name": "AMD",
         "id": "68c629c0-ad5e-461a-a2fb-fecaf1808854",
         "title": "AGS Libraries Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299107,7 +299084,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299214,7 +299191,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299237,7 +299214,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299284,7 +299261,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299307,7 +299284,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317872,7 +317849,7 @@
         "company_name": "Kensho",
         "id": "d96e9b38-f776-431d-9b9c-d75fa74ab6a8",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331252,7 +331229,7 @@
         "company_name": "BP",
         "id": "27d35509-4d8d-4dd3-9313-54dfaee11170",
         "title": "Data Strategist Intern - Global Data Strategists Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339504,7 +339481,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -339734,7 +339711,7 @@
         "company_name": "Trane Technologies",
         "id": "781b4a1a-f2af-40b2-866b-03dcefc5245b",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -351674,7 +351651,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "73aba348-3766-42da-95f5-af2bf255384f",
         "title": "Data and AI Engineering Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -353830,7 +353807,7 @@
         "company_name": "AMD",
         "id": "b9f6b322-68cf-4f50-bade-eeee73d9f55a",
         "title": "AI Research Intern - Reinforcement Learning and LLM Post-Training",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353968,7 +353945,7 @@
         "company_name": "American Heart Association",
         "id": "b98b7a6e-23da-453f-9fb4-96667ec4687c",
         "title": "Data Science Intern - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -360833,7 +360810,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -362877,7 +362854,7 @@
         "company_name": "IMC Trading",
         "id": "c09501b3-944d-4fa2-a12b-031be140f633",
         "title": "Hardware Machine Learning PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368464,7 +368441,7 @@
         "company_name": "Intel",
         "id": "2d77d594-bd99-46dd-bb12-5e46c01f41e8",
         "title": "System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378294,7 +378271,7 @@
         "company_name": "Stripe",
         "id": "c8b772fa-9433-4ff4-8516-2c6249a464dd",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380920,7 +380897,7 @@
         "company_name": "Bose",
         "id": "2d557827-15c8-4aae-b17a-37a7ad82b3ec",
         "title": "Data Science Co-op - NLP & GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -386857,7 +386834,7 @@
         "company_name": "AMD",
         "id": "814d5fac-0c8f-4eb3-81af-52e7b9509c3a",
         "title": "AI Training Systems and Performance Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -399883,7 +399860,7 @@
         "company_name": "Viget",
         "id": "b058e4f4-66d1-4259-8983-1c888392410d",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402227,7 +402204,7 @@
         "company_name": "General Motors",
         "id": "1b619bab-8ca8-46a3-8e31-c92637db8a6a",
         "title": "Seam Intern - Embodied AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -402998,6 +402975,31 @@
             "Tempe, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Arizona-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "5ce335d6-a3e4-4dff-b52f-116bfd910e8f",
+        "title": "Technical Marketing Performance Analysis Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1791627246,
+        "date_posted": 1789597016,
+        "url": "https://careers.amd.com/jobs/91953?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
