@@ -324043,7 +324043,7 @@
         "company_name": "State Farm",
         "id": "e5d509b4-cf02-4596-b607-048396739370",
         "title": "Data Science Intern - Magnet Program - Online MS Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -365986,7 +365986,7 @@
         "company_name": "Boston Scientific",
         "id": "e7777af9-8bca-4dd7-b5b6-6ec86fff06f9",
         "title": "Software Development Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376793,7 +376793,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e4b77d60-3b39-46d6-b253-db784212cd5a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387339,7 +387339,7 @@
         "company_name": "American Family Insurance Group",
         "id": "f6643259-6ee2-4b23-a584-8408459ce08c",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393897,7 +393897,7 @@
         "company_name": "RTX",
         "id": "c1e87875-633c-4491-b811-cb4f422cda4d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395970,7 +395970,7 @@
         "company_name": "Renesas Electronics",
         "id": "481d8320-9c2c-4f81-aa92-b65099da3cf9",
         "title": "Analog Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
