@@ -180,7 +180,7 @@ def embed_table(
     browse_section_replaced = False
     in_table_section = False
 
-    with open(filepath) as f:
+    with open(filepath, encoding="utf-8") as f:
         for line in f.readlines():
             if not browse_section_replaced and line.startswith("### Browse"):
                 in_browse_section = True
@@ -232,5 +232,5 @@ def embed_table(
     else:
         final_content = new_text
 
-    with open(filepath, "w") as f:
+    with open(filepath, "w", encoding="utf-8") as f:
         f.write(final_content)
