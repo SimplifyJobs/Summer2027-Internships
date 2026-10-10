@@ -1,99 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "af0a4813-8adb-47ee-a71c-8737415e36da",
-        "title": "Electronic Repair Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770855048,
-        "date_posted": 1770855048,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Electronic-Repair-Engineer-Intern---Summer-2026_R-10060152-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Availity",
-        "id": "167ef563-1869-41f4-a5bf-cb0728fe84b3",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1770855061,
-        "date_posted": 1770855061,
-        "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0007874",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Availity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abbott",
-        "id": "fecce448-da6e-41ce-9a61-f19ef7fe6764",
-        "title": "Software Engineering Internship - Year in Industry placement - Start summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770854561,
-        "date_posted": 1770854561,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Software-Engineering-Internship---Year-in-Industry-placement---Start-summer-2026_31137726",
-        "locations": [
-            "Brize Norton, Carterton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "6ba686be-f3fa-4e87-a0ca-1e41dd48105b",
-        "title": "Application Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770854540,
-        "date_posted": 1770854540,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Application-Developer-Intern_R2612368",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Rundoo",
         "id": "45d5e230-b45d-4742-b0e0-03639b0c8c87",
@@ -317139,7 +317046,7 @@
         "company_name": "Amentum",
         "id": "4a009563-7222-4cb3-b58d-930cdc0c5a55",
         "title": "Software Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
