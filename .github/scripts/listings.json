@@ -331701,7 +331701,7 @@
         "company_name": "Oshkosh",
         "id": "7f72ef87-208f-40f9-9375-4c3aa13839b1",
         "title": "Autonomy Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344140,7 +344140,7 @@
         "company_name": "Ragle Inc",
         "id": "7be2e4ed-d0ba-4c23-b8da-b92cee3f07f1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
