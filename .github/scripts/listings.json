@@ -236096,7 +236096,7 @@
         "company_name": "Sun Life",
         "id": "765f9438-c57a-4035-9229-8b41b835beeb",
         "title": "Digital Analytics Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322845,7 +322845,7 @@
         "company_name": "Humana",
         "id": "8a5817d0-6b9e-4c4b-b823-db09c8a94e6c",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323334,7 +323334,7 @@
         "company_name": "Swarm Aero",
         "id": "80e7f0b6-d4e0-42ce-bf04-602d8305702a",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326486,7 +326486,7 @@
         "company_name": "Corteva",
         "id": "615e7c2b-80e2-4b77-a397-2e7c9d0e104d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360377,7 +360377,7 @@
         "company_name": "Corteva",
         "id": "7ff51708-2345-49d7-84fe-909b08cb5ed5",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368759,7 +368759,7 @@
         "company_name": "Cencora",
         "id": "71efbec5-7a6e-44ef-996e-13ceb6d0df55",
         "title": "Software Developer Intern - EDI IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381987,7 +381987,7 @@
         "company_name": "The Walt Disney Company",
         "id": "6fe724ab-dcb5-45c7-bc89-b55534cff54c",
         "title": "Graduate Associate - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395152,7 +395152,7 @@
         "company_name": "RTX",
         "id": "60ba4148-e124-4ab3-8e99-597deb0d54e1",
         "title": "Systems Engineer Intern - Radars",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395592,7 +395592,7 @@
         "company_name": "Northrop Grumman",
         "id": "78a00951-890f-474e-94ee-6e0cc1a2b9f7",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
