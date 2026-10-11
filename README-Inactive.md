@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 1827 Inactive Internship Roles by Category
+### Browse 1828 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (640)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (207)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (253)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (254)
 
 ---
 
@@ -11613,6 +11613,13 @@
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>SRAM Circuit Design Intern - MS 🎓</td>
 <td>Burlington, VT</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Design for Test Intern - MS 🎓</td>
+<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>24d</td>
 </tr>
