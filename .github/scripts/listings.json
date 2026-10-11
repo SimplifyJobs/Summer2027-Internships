@@ -276197,7 +276197,7 @@
         "company_name": "Tencent",
         "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
         "title": "Communications Platform as a Service Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -315476,7 +315476,7 @@
         "company_name": "American Equity",
         "id": "f6ed327a-bd2f-4ae7-bf2e-9ab494891a95",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -319133,7 +319133,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -341719,7 +341719,7 @@
         "company_name": "CoStar Group",
         "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345157,7 +345157,7 @@
         "company_name": "4AG Robotics",
         "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
         "title": "Robotics Software Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -350108,7 +350108,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368102,7 +368102,7 @@
         "company_name": "RTX",
         "id": "dfaeed53-4c68-4e34-86db-39fd4d4aad68",
         "title": "Systems Engineering and Test Capabilities Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368515,7 +368515,7 @@
         "company_name": "Marvell",
         "id": "8d8ac70c-4524-4e6c-abd0-378889133e68",
         "title": "AI-Native Development Platform Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384171,7 +384171,7 @@
         "company_name": "General Motors",
         "id": "a251a7a4-2be2-4567-8c27-fe56f705f40e",
         "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -400050,6 +400050,29 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Varda-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "9b2c8392-e286-400e-95e9-809d118e367e",
+        "title": "Benefits Operations Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788457523,
+        "date_posted": 1780610910,
+        "url": "https://jobs.bytedance.com/en/position/7605524889478842677/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
