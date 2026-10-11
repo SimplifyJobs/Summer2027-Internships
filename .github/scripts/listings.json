@@ -127827,7 +127827,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245857,7 +245857,7 @@
         "company_name": "NVIDIA",
         "id": "ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
         "title": "Systems Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343453,7 +343453,7 @@
         "company_name": "Marvell",
         "id": "79ae0aa0-8312-4d1d-b4b1-4682d51f9ebe",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354714,7 +354714,7 @@
         "company_name": "Vialto Partners",
         "id": "278aa60f-1a49-4c26-8bcc-a2a44ca6e2ec",
         "title": "Client Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -360369,7 +360369,7 @@
         "company_name": "Mondelez International",
         "id": "ba20a0de-d82d-4d5b-8c1d-c9e68e0d9741",
         "title": "Promotions Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368081,7 +368081,7 @@
         "company_name": "Pennsylvania State University",
         "id": "674c7dab-fe93-4754-9f4e-3320704c6211",
         "title": "Engineering Support Specialist Intern - Electronic Materials and Devices Department - Applied Research Laboratory",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
