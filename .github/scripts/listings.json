@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "RSM",
-        "id": "5211cc94-1a68-4dab-9471-72740f2872a4",
-        "title": "Business Intelligence Consulting Associate - Fall 2026",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1770991091,
-        "date_posted": 1770991091,
-        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Vancouver/Business-Intelligence-Consulting-Associate---Fall-2026_JR117431",
-        "locations": [
-            "Edmonton, AB, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RSM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Leidos",
         "id": "ff1d03db-6d72-438e-bf30-721446611527",
         "title": "AI Data Science & DEVSECOPS Intern",
@@ -315382,7 +315357,7 @@
         "company_name": "HMH",
         "id": "56aeb6bb-7cae-408d-8f71-eb7b1a99ea96",
         "title": "Digital Services Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343453,7 +343428,7 @@
         "company_name": "Marvell",
         "id": "79ae0aa0-8312-4d1d-b4b1-4682d51f9ebe",
         "title": "Design for Test Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360369,7 +360344,7 @@
         "company_name": "Mondelez International",
         "id": "ba20a0de-d82d-4d5b-8c1d-c9e68e0d9741",
         "title": "Promotions Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -371381,7 +371356,7 @@
         "company_name": "Marvell",
         "id": "9782dff3-f33f-4032-ab54-8fd1ae055d4c",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371451,7 +371426,7 @@
         "company_name": "Marvell",
         "id": "b7f5b1b5-57c0-4ea9-9a41-caf94e3e5ad8",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
