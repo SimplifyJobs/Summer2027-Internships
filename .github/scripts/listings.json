@@ -205890,7 +205890,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -210217,7 +210217,7 @@
         "company_name": "Equifax",
         "id": "6039a320-d48c-4651-98a5-3f0566350069",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240154,7 +240154,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -260915,7 +260915,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270600,7 +270600,7 @@
         "company_name": "Trane Technologies",
         "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270693,7 +270693,7 @@
         "company_name": "American Express",
         "id": "de9099c6-40df-40d2-ab9a-82d46ae5b517",
         "title": "Product Management Intern - Global Merchant & Network Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286075,7 +286075,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296014,7 +296014,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -296121,7 +296121,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -296191,7 +296191,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346303,7 +346303,7 @@
         "company_name": "Tesla",
         "id": "84093f11-2319-4e29-a63b-6c4a03dc4ee7",
         "title": "Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -376074,7 +376074,7 @@
         "company_name": "Intel",
         "id": "59d6aad4-9652-4f35-9a72-29c3ef4f9d16",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377044,7 +377044,7 @@
         "company_name": "Jain Global",
         "id": "61a1bd21-b985-4837-bf71-6e3d21f98241",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394504,7 +394504,7 @@
         "company_name": "Salesforce",
         "id": "59e8e5c0-e495-4bf8-b281-4b11abaa4653",
         "title": "Tableau Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
