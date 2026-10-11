@@ -240105,7 +240105,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -240154,7 +240154,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -260326,7 +260326,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -260915,7 +260915,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -295968,7 +295968,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -296014,7 +296014,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -296037,7 +296037,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -296121,7 +296121,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -296191,7 +296191,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -301948,7 +301948,7 @@
         "company_name": "Fervo Energy",
         "id": "232ef965-ae5a-429d-99d3-cba2eca04afe",
         "title": "Software Engineer Intern - Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305513,7 +305513,7 @@
         "company_name": "Entrust",
         "id": "5b5294f8-f9a7-4dbd-ac1b-8ff014939e88",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -314915,7 +314915,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322016,7 +322016,7 @@
         "company_name": "TD Bank",
         "id": "194a2192-6413-4ed0-9957-dfe5dc3f3f0c",
         "title": "Software Engineer Co-op - Global Technology & Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -325271,7 +325271,7 @@
         "company_name": "Amgen",
         "id": "079b70ee-8105-46b4-9163-319c8610f157",
         "title": "Software Engineer Intern - Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326189,7 +326189,7 @@
         "company_name": "Central Hudson",
         "id": "414ce8a0-05fe-46fd-a8bd-13cd73881a14",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354383,7 +354383,7 @@
         "company_name": "SOTI",
         "id": "05f24370-03fa-4a59-aa66-efbcea018d21",
         "title": "Software Developer Intern - Back End",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -354545,7 +354545,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -367158,7 +367158,7 @@
         "company_name": "Marvell",
         "id": "06dcf017-75e1-4b49-813d-0671772b0592",
         "title": "Board Product Engineer Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368459,7 +368459,7 @@
         "company_name": "Marvell",
         "id": "05682b26-d33e-4a92-91e9-6790192bf697",
         "title": "AMS Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382172,7 +382172,7 @@
         "company_name": "State of North Carolina",
         "id": "20960b45-bcba-4977-a12f-eabbf6b2c80c",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -384027,7 +384027,7 @@
         "company_name": "General Motors",
         "id": "206b933c-d14d-4bf7-952c-895af8edc9ac",
         "title": "Summer Intern - AI & Hardware Analytics - Adpt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390906,7 +390906,7 @@
         "company_name": "NVIDIA",
         "id": "0b668c4d-84e2-4e02-9e89-88d8fb0cc46e",
         "title": "PhD Research Intern - Cross-Disciplinary Vision Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
