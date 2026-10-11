@@ -1,73 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Proofpoint",
-        "id": "fb3e2a27-2394-47f8-a034-36bfad753d92",
-        "title": "Application Developer/Programmer Co-op Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770997808,
-        "date_posted": 1770997808,
-        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Toronto-Canada/Application-Developer-Programmer-Co-op-Intern_R13688",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Proofpoint",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "ec9b06c7-5375-4036-8cf3-8e659bf5e3f3",
-        "title": "Electrical Integration Technician Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1770997753,
-        "date_posted": 1770997753,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Electrical-Integration-Technician-Intern_R0153577",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lumentum",
-        "id": "b18dad89-4fad-4ae2-a25e-c7ad1e5319e3",
-        "title": "Embedded Software Developer Co-op - Optical Circuit Switch",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770997462,
-        "date_posted": 1770997462,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_202668",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "HERE Technologies",
         "id": "baec70d1-ed1b-4fb4-a1b3-9e31ac821c64",
@@ -312830,7 +312763,7 @@
         "company_name": "Marvell",
         "id": "f110d4a7-32ed-49ae-a14e-357e17fe995a",
         "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
