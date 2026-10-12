@@ -301387,7 +301387,7 @@
         "company_name": "Marvell",
         "id": "42f8685d-3645-46c3-a294-714913841320",
         "title": "Design Verification Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337489,7 +337489,7 @@
         "company_name": "Tencent",
         "id": "bdc2d554-4887-4da6-97e5-f379e292b6a8",
         "title": "Natural Language Processing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382220,7 +382220,7 @@
         "company_name": "Insulet",
         "id": "877a9341-f1cf-4811-b50f-994e93d1791e",
         "title": "R&D Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391694,7 +391694,7 @@
         "company_name": "RTX",
         "id": "6c180347-5bb5-413b-b3af-4723b837b51f",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394673,7 +394673,7 @@
         "company_name": "RTX",
         "id": "5171a739-acb4-4c4f-a86a-278d4ad1bcd6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
