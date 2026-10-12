@@ -353793,7 +353793,7 @@
         "company_name": "CIBC",
         "id": "a3057bae-dd6b-423a-aa65-19b37fac301b",
         "title": "Software/Application Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -358839,7 +358839,7 @@
         "company_name": "Sonos",
         "id": "9baccb9a-69a0-48fe-a6cc-dce8f8831187",
         "title": "Software Engineering Co-op - Signal Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
