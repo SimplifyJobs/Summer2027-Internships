@@ -251865,7 +251865,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301387,7 +301387,7 @@
         "company_name": "Marvell",
         "id": "42f8685d-3645-46c3-a294-714913841320",
         "title": "Design Verification Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347686,7 +347686,7 @@
         "company_name": "RTX",
         "id": "bbe59360-d6e5-4189-9126-da097b9c93c6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348299,7 +348299,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361630,7 +361630,7 @@
         "company_name": "Envoy",
         "id": "4dbf8f7e-b82e-4f37-97c6-327eac9a9efd",
         "title": "Solutions Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -372620,7 +372620,7 @@
         "company_name": "Marvell",
         "id": "be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
         "title": "Firmware Engineer Intern - MS - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375690,7 +375690,7 @@
         "company_name": "Marvell",
         "id": "e58ec8c1-6859-41aa-af05-4d0267eca597",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382220,7 +382220,7 @@
         "company_name": "Insulet",
         "id": "877a9341-f1cf-4811-b50f-994e93d1791e",
         "title": "R&D Electrical Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -384657,7 +384657,7 @@
         "company_name": "NVIDIA",
         "id": "eaae45a5-af50-478c-8625-bd6b63b17181",
         "title": "Research Intern - Efficient Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391694,7 +391694,7 @@
         "company_name": "RTX",
         "id": "6c180347-5bb5-413b-b3af-4723b837b51f",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394673,7 +394673,7 @@
         "company_name": "RTX",
         "id": "5171a739-acb4-4c4f-a86a-278d4ad1bcd6",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396112,7 +396112,7 @@
         "company_name": "Johnson Controls",
         "id": "8fc02634-7bf1-4c6c-9d32-78f048f7e7e6",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -398477,5 +398477,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thales",
+        "id": "f6febc48-5f58-4641-9817-d7db2ff67c92",
+        "title": "Data Scientist Apprentice - Level 6 Data Scientist",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1791810395,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Data-Science-Apprentice_R0337752",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
