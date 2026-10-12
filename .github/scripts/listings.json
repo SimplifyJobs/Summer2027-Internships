@@ -280870,7 +280870,7 @@
         "company_name": "Cigna Group",
         "id": "d27129fa-610c-48de-b7ac-24e975bfcd62",
         "title": "Analytics Leadership Development Intern - ALDP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317301,7 +317301,7 @@
         "company_name": "Polar Semiconductor",
         "id": "abef9469-6134-42d4-99cd-188eb8759799",
         "title": "OT Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -341457,7 +341457,7 @@
         "company_name": "Acxiom",
         "id": "de41ec17-395e-4433-bbb9-14440560d2bb",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391621,7 +391621,7 @@
         "company_name": "RTX",
         "id": "cd27a28a-afa5-420b-9dec-9dda2b442c94",
         "title": "Software Engineering Co-op - Summer/Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -392604,7 +392604,7 @@
         "company_name": "Motorola",
         "id": "a1324c8d-f859-49dc-8ba8-d7b1259b054e",
         "title": "Software Developer \u2013 Embedded Appliances Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396112,7 +396112,7 @@
         "company_name": "Johnson Controls",
         "id": "8fc02634-7bf1-4c6c-9d32-78f048f7e7e6",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
