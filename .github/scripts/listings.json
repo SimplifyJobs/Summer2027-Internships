@@ -308937,7 +308937,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "f2b9e6b4-e247-42e2-8737-f7e8234ef0ea",
         "title": "Quantum Algorithm Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -314536,7 +314536,7 @@
         "company_name": "RTX",
         "id": "757ed4c0-2f8e-4285-a0dd-e82bb8698fb7",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -387742,7 +387742,7 @@
         "company_name": "RTX",
         "id": "8c0ef699-7d3a-44ff-a89d-b28a3dd65d87",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392046,7 +392046,7 @@
         "company_name": "Motorola",
         "id": "d831db7e-e453-435d-b948-9f6d570d4061",
         "title": "GenAI & Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
