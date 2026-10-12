@@ -350729,7 +350729,7 @@
         "company_name": "GE Healthcare",
         "id": "7291b6ac-970f-4f7b-bbd8-67141ae89009",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367927,7 +367927,7 @@
         "company_name": "Robinhood",
         "id": "c436ae49-cb5b-447d-9947-7f790cb0c8d9",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
