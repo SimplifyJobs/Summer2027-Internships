@@ -342651,7 +342651,7 @@
         "company_name": "Flagship Pioneering",
         "id": "01af7a26-4ffd-4c48-bd87-ba0be7feddcc",
         "title": "Digital CMC TechOps Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -371813,7 +371813,7 @@
         "company_name": "RTX",
         "id": "10517de5-4d11-4bce-9255-0c5b06231c18",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371860,7 +371860,7 @@
         "company_name": "RTX",
         "id": "7344ee5e-5174-44c2-acec-12e21379b83f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
