@@ -287863,7 +287863,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -313083,7 +313083,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -313826,7 +313826,7 @@
         "company_name": "Texas Instruments",
         "id": "47270b91-cce2-4846-9e38-c8026f366bce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -318947,7 +318947,7 @@
         "company_name": "Thomson Reuters",
         "id": "25f24729-b8c9-4d4f-9896-76b196fe8aaa",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -325074,7 +325074,7 @@
         "company_name": "NVIDIA",
         "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328268,7 +328268,7 @@
         "company_name": "Google",
         "id": "6e14720a-d435-4679-887e-dd6287aad24a",
         "title": "Silicon Engineering Intern - BS/MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334579,7 +334579,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350243,7 +350243,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
