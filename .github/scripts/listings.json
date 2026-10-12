@@ -254632,7 +254632,7 @@
         "company_name": "Kodiak Robotics",
         "id": "66c9d102-1210-44e6-a788-44411b1769f7",
         "title": "Simulation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -307735,7 +307735,7 @@
         "company_name": "RTX",
         "id": "c57e2c6f-2938-4b78-bfba-117161231118",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -315378,7 +315378,7 @@
         "company_name": "Allegion",
         "id": "27148df8-804c-4b4c-a33c-a6fc38d4b9a4",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317470,7 +317470,7 @@
         "company_name": "Polar Semiconductor",
         "id": "9bd16ba6-5f88-4345-9093-de6c410b805b",
         "title": "Industrial Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -318825,7 +318825,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
         "title": "AI & Data Science Intern - Analytic Capabilities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327507,7 +327507,7 @@
         "company_name": "Dow Jones",
         "id": "d651c5ed-673e-43bc-bcb9-bad91ad4d590",
         "title": "Marketing Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355279,7 +355279,7 @@
         "company_name": "Keysight Technologies",
         "id": "c6f17ebd-5b92-4f00-94a8-6a402b2bb7e2",
         "title": "Software Engineer Intern - AI Developer Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
