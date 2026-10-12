@@ -1,51 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "1976aa67-15c9-444c-858a-7c3ab98a3bf9",
-        "title": "Hardware Engineering Intern - Lidar - MS or PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771036954,
-        "date_posted": 1771036954,
-        "url": "https://aurora.tech/jobs/8340326002?gh_jid=8340326002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sun Life",
-        "id": "470b3a8f-ed6d-48da-b788-77402b7915eb",
-        "title": "Corporate Information Services Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771036350,
-        "date_posted": 1771036350,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Corporate-Information-Services-Intern---Summer-2026_JR00120370",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Woven",
         "id": "7ad8deb0-8ff6-4080-a865-9f84a2600546",
@@ -225,30 +180,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
-        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - St. Louis','Missouri-July 2026",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771210403,
-        "date_posted": 1771037525,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/St-Louis-Missouri-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---St-Louis--Missouri--July-2026_573793",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
