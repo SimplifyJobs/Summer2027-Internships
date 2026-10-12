@@ -246551,7 +246551,7 @@
         "company_name": "Philips",
         "id": "6a4501ab-5b1a-44c6-87d4-9c4e68e6f5f8",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314368,7 +314368,7 @@
         "company_name": "RTX",
         "id": "7ca37683-268a-4dd7-a974-d250fd211b31",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -332326,7 +332326,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "3b8a1e9c-95f0-48a6-9240-24d3f59f6835",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
