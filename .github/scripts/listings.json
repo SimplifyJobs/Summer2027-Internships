@@ -2,119 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "ABB",
-        "id": "6deb8d90-8f07-4355-a058-9ae3c41ecc15",
-        "title": "Application Engineering/OEM Hub Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771035649,
-        "date_posted": 1771035649,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Application-Engineering-OEM-Hub-Intern---Summer-2026_JR00023718",
-        "locations": [
-            "Brookfield, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "728bfe56-8d4e-438a-9320-ffc8e2abf8a0",
-        "title": "MECOP 2026 Spring/Summer Intern - Automation Systems & Digital Integration",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1771035374,
-        "date_posted": 1771035374,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Hillsboro/MECOP-2026-Spring-Summer-Intern---Automation-Systems---Digital-Integration_202602-102840",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "m13",
-        "id": "0e0d75cd-adab-47c7-9d69-a105f449bb51",
-        "title": "Data Analyst Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771035279,
-        "date_posted": 1771035279,
-        "url": "https://jobs.ashbyhq.com/m13/7df669d9-eef1-455e-9451-678e646c1bc1/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/1c308956-bf25-4e36-8a93-bfed2f7290dd",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "b355296c-83b3-4e2e-9dd0-eef4d6016757",
-        "title": "Data Center Operations Technician",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771034817,
-        "date_posted": 1771034817,
-        "url": "https://amazon.jobs/en/jobs/3181332/work-based-learning-program-data-center-operations-technician",
-        "locations": [
-            "Hermiston, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sandisk",
-        "id": "69b54b95-cbec-44d5-a1e5-d7abd5f2560a",
-        "title": "Intern - NAND Interface Design and Validation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771034821,
-        "date_posted": 1771034821,
-        "url": "https://jobs.smartrecruiters.com/Sandisk/744000109322315",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sandisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Aurora Innovation",
         "id": "1976aa67-15c9-444c-858a-7c3ab98a3bf9",
         "title": "Hardware Engineering Intern - Lidar - MS or PhD",
@@ -156,53 +43,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASML",
-        "id": "36a55492-1a0c-477e-9309-77374118c06d",
-        "title": "Intern - Field Service Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771036212,
-        "date_posted": 1771036212,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Albany-NY-USA/Internship---Field-Service-Engineer_J-00333970",
-        "locations": [
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASML",
-        "id": "102ff863-dd4c-4ddf-ab98-370497875305",
-        "title": "Internship - EUV Mechanical Install Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771036212,
-        "date_posted": 1771036212,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/N-Phoenix-AZ-USA/Internship---EUV-Mechanical-Install-Management_J-00330630",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -293891,7 +293731,7 @@
         "company_name": "Micron Technology",
         "id": "710f0fcc-6683-46b1-a355-2c71a6561e20",
         "title": "Memory and System Architecture Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
