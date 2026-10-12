@@ -280377,7 +280377,7 @@
         "company_name": "Vermeer",
         "id": "ac961842-1eb4-4c94-856b-85ba0d2f13b2",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321080,7 +321080,7 @@
         "company_name": "RTX",
         "id": "8dff8685-3a17-4f9c-b1d4-6d01c0258242",
         "title": "Software Engineer Co-op - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -373346,7 +373346,7 @@
         "company_name": "MFS",
         "id": "fa75f545-5014-41e5-8fb2-4879f9bb56bb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
