@@ -144550,7 +144550,7 @@
         "company_name": "Michael Baker International",
         "id": "5ce67d7b-3def-4a9e-921a-b25dbba0c016",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276320,7 +276320,7 @@
         "company_name": "US Foods",
         "id": "48b53b80-88a1-48a0-bb79-81d7488f9e3d",
         "title": "Software Engineer Intern - Digital Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327484,7 +327484,7 @@
         "company_name": "Dow Jones",
         "id": "e3f140d5-5568-4e19-bd89-42f70d78e1d5",
         "title": "Research Analyst Intern - Summer Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398710,7 +398710,7 @@
         "company_name": "Parsons",
         "id": "5ce92528-85a6-48e7-9cc5-4cd1222d3250",
         "title": "Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
