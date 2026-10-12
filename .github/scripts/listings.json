@@ -282502,7 +282502,7 @@
         "company_name": "Qorvo",
         "id": "97a5cdb2-c516-4e29-977e-01d658fe992c",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317355,7 +317355,7 @@
         "company_name": "Polar Semiconductor",
         "id": "a926f904-498b-4c0d-9a9c-e81a111745ce",
         "title": "OT Applications Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -318898,7 +318898,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "0c28ec70-1138-4464-8cfe-9732f94e0dbd",
         "title": "Engineering/Science Intern - Tailored Autonomous Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388166,7 +388166,7 @@
         "company_name": "Jabil",
         "id": "b422fbdd-5320-4c3c-898d-cf986da0640f",
         "title": "AI Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390054,7 +390054,7 @@
         "company_name": "Omnicom Group",
         "id": "6708f1a7-80a4-417b-8ac6-2ac316b42287",
         "title": "Technology Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391646,7 +391646,7 @@
         "company_name": "RTX",
         "id": "bccbd358-b05e-473c-84a8-cefa760bf0c2",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -395142,7 +395142,7 @@
         "company_name": "Microsoft",
         "id": "e04f4881-a998-4a92-bdd1-8d72a3c120da",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
