@@ -385213,7 +385213,7 @@
         "company_name": "Innovative Defense Technologies",
         "id": "51fb48b5-add2-48f7-90e2-7a0ca38923ab",
         "title": "Software Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394179,7 +394179,7 @@
         "company_name": "Jones Lang LaSalle",
         "id": "f648dee8-f116-470b-a358-a621305e0f9f",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
