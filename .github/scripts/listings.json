@@ -78913,7 +78913,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -287863,7 +287863,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -312924,7 +312924,7 @@
         "company_name": "Collier Aerospace",
         "id": "a023874d-88f4-4e6c-a29a-681d54bc45f9",
         "title": "Software Engineer Intern - Web Applications - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -318947,7 +318947,7 @@
         "company_name": "Thomson Reuters",
         "id": "25f24729-b8c9-4d4f-9896-76b196fe8aaa",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -327725,7 +327725,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -349959,7 +349959,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "9c40bb4c-e181-478f-94f6-bbb35c085b3b",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -372411,7 +372411,7 @@
         "company_name": "The Federal Reserve System",
         "id": "531577c4-883e-4ac7-9563-ab1ef47be527",
         "title": "Advanced Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374242,7 +374242,7 @@
         "company_name": "Intel",
         "id": "59d6aad4-9652-4f35-9a72-29c3ef4f9d16",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
