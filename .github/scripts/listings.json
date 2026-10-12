@@ -245409,7 +245409,7 @@
         "company_name": "Notion",
         "id": "efc56001-b148-410d-babd-1c8374028468",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -257471,7 +257471,7 @@
         "company_name": "Tesla",
         "id": "de753ad7-a941-4751-85c8-ff3d1b697b54",
         "title": "Fullstack C++ Engineer Intern - Vehicle User Interface",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -257494,7 +257494,7 @@
         "company_name": "Tesla",
         "id": "cb4c69f2-62ef-46ff-b70a-352ab1e61af2",
         "title": "Embedded Software Engineer Intern - Firmware Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -257609,7 +257609,7 @@
         "company_name": "Tesla",
         "id": "0b09ad76-6210-4b87-94c9-b662b170d268",
         "title": "Android Engineer Intern - Mobile Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -285284,7 +285284,7 @@
         "company_name": "Tesla",
         "id": "757e2c6b-9fbc-4427-862d-f87a0382bea0",
         "title": "Embedded Engineer Intern - Infotainment Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -341361,7 +341361,7 @@
         "company_name": "Acxiom",
         "id": "f50d5ac0-0164-4400-866c-7c952f2086b9",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -352929,7 +352929,7 @@
         "company_name": "CSC Generation",
         "id": "03b53364-747f-47ed-8bfc-ba012349cb8c",
         "title": "Software Engineer Intern/Part Time - Legacy Applications & Modernization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380476,7 +380476,7 @@
         "company_name": "NVIDIA",
         "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
