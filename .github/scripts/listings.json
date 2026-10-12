@@ -46591,7 +46591,7 @@
         "company_name": "GE Aerospace",
         "id": "d2d4f6c8-60e4-4cec-b103-ee0cf715d740",
         "title": "Engines Engineering Intern - Computer or Software Engineering - Returning Students",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -47137,7 +47137,7 @@
         "company_name": "GE Aerospace",
         "id": "cfa33697-df27-4c7b-97c1-16002ecd55cd",
         "title": "Engines Engineering Co-op - Computer or Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027"
         ],
@@ -229594,7 +229594,7 @@
         "company_name": "WallStreetQuants",
         "id": "ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339590,7 +339590,7 @@
         "company_name": "Greenwood Village South",
         "id": "ef59a6bd-c000-4632-b825-730b12cf3b3a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349721,7 +349721,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355840,7 +355840,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -355908,7 +355908,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369084,7 +369084,7 @@
         "company_name": "KLA",
         "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
         "title": "Optical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369107,7 +369107,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370090,7 +370090,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -375165,7 +375165,7 @@
         "company_name": "General Motors",
         "id": "7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
         "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382195,7 +382195,7 @@
         "company_name": "General Motors",
         "id": "206b933c-d14d-4bf7-952c-895af8edc9ac",
         "title": "Summer Intern - AI & Hardware Analytics - Adpt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382289,7 +382289,7 @@
         "company_name": "General Motors",
         "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
         "title": "ADAS Software Engineer Intern - Adpt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382362,7 +382362,7 @@
         "company_name": "General Motors",
         "id": "a251a7a4-2be2-4567-8c27-fe56f705f40e",
         "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387602,7 +387602,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -392416,7 +392416,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -397208,7 +397208,7 @@
         "company_name": "General Motors",
         "id": "e41412f4-5392-4dee-bf68-676610efe34c",
         "title": "AI Research Intern - Embodied AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397231,7 +397231,7 @@
         "company_name": "General Motors",
         "id": "dc5c3700-b9be-4f68-91f9-b1dc509c147b",
         "title": "Summer Intern - Onboard Autonomy - Embodied AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
