@@ -315265,7 +315265,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "372ea6c8-21fa-43da-a41c-db0182967508",
         "title": "Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343212,7 +343212,7 @@
         "company_name": "REV Robotics",
         "id": "543a91b1-9042-4e1b-bdb1-91cd53d42f85",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367114,7 +367114,7 @@
         "company_name": "Leidos",
         "id": "3ff46e87-4650-4945-9789-59d5f0457e04",
         "title": "Electrical Hardware Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387014,7 +387014,7 @@
         "company_name": "Rivet Industries",
         "id": "462322f2-1beb-463a-a5a1-44f7d36723a7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401476,7 +401476,7 @@
         "company_name": "Sun Life",
         "id": "51a5d29c-9da0-401c-b04b-d289dd739b45",
         "title": "Student Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
