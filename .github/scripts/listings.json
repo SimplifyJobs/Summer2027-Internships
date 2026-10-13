@@ -319611,7 +319611,7 @@
         "company_name": "Entegris",
         "id": "3c9bb4ee-4fff-46c6-baf9-4e3ba0a69ca2",
         "title": "Product Associate Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -346793,7 +346793,7 @@
         "company_name": "Together AI",
         "id": "5bd84b46-5f5b-4bd6-acd2-13e9a0918f91",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358884,7 +358884,7 @@
         "company_name": "Graphcore",
         "id": "2db508b9-8c94-4578-af5c-2e9050a1fc01",
         "title": "Hardware Platform Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -372126,7 +372126,7 @@
         "company_name": "Autodesk",
         "id": "3486525d-1f09-4720-a77a-ba0caba47dd0",
         "title": "AI/ML Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -395258,7 +395258,7 @@
         "company_name": "RTX",
         "id": "60bc5d7f-1b90-49db-a040-bb1d6287a40f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
