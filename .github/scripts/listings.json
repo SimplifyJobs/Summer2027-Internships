@@ -255783,7 +255783,7 @@
         "company_name": "Zip",
         "id": "82583da7-e72f-4b4f-aabb-0066a8951ba5",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -271127,7 +271127,7 @@
         "company_name": "Textron",
         "id": "974d081a-6d17-4aab-a42a-e9b35cafde7d",
         "title": "Software Engineer Intern - Electronic Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -271594,7 +271594,7 @@
         "company_name": "RTX",
         "id": "5eec1982-b0e8-4ec2-b9c3-ee8ed6051a4b",
         "title": "Numerical Methods Intern - Advanced Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -326291,7 +326291,7 @@
         "company_name": "Ciena",
         "id": "7489238c-eadd-441d-adff-be9ecbdbd927",
         "title": "Software Engineering Intern - Optical Transport and IP Networking",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -369975,7 +369975,7 @@
         "company_name": "Leidos",
         "id": "89a55bb0-1a26-4c4b-8874-d26cf1f5d2b7",
         "title": "Embedded Design Engineer Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -375029,7 +375029,7 @@
         "company_name": "Jain Global",
         "id": "61a1bd21-b985-4837-bf71-6e3d21f98241",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384616,7 +384616,7 @@
         "company_name": "Judi Health",
         "id": "7d9fb9e3-45bc-420a-b596-e0eacfad7ad2",
         "title": "MBA Analytics Intern - Clinical Programs",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -393534,7 +393534,7 @@
         "company_name": "Merck",
         "id": "61dda24d-33f5-4c50-9d90-8d7de6ea82a6",
         "title": "Associate Scientist Postdoctoral Fellow - AI/ML and Agentic AI for Drug Discovery",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
