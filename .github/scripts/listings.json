@@ -94770,7 +94770,7 @@
         "company_name": "Cloudflare",
         "id": "dff947d1-40bd-4f5e-8076-ee60983486f8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327438,7 +327438,7 @@
         "company_name": "Dow Jones",
         "id": "e9f762bf-84f1-4e68-b35e-5a0d9d22671a",
         "title": "Data Analyst Intern - Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367320,7 +367320,7 @@
         "company_name": "Intact",
         "id": "dc8b6b01-6bdc-4f5b-ba9e-1e07e8968f70",
         "title": "Software Developer 1 Intern/Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
