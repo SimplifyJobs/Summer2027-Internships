@@ -346634,7 +346634,7 @@
         "company_name": "Together AI",
         "id": "ee3c8843-976f-40ef-8c08-493ad8cd764e",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -372198,7 +372198,7 @@
         "company_name": "Autodesk",
         "id": "dd7f5a46-25ac-45b9-bdef-b437e2ecf6a7",
         "title": "AI Data Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381576,7 +381576,7 @@
         "company_name": "Sun Life",
         "id": "e2999fc5-6677-42de-94f0-274b1d85049e",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -398159,7 +398159,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "cc5558b2-1bda-49b9-a95f-0a93489f72e2",
         "title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
