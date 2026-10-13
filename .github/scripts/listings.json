@@ -224483,7 +224483,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255943,7 +255943,7 @@
         "company_name": "Copart",
         "id": "2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -289944,7 +289944,7 @@
         "company_name": "Momentive",
         "id": "0299ccd7-7dac-48cc-80eb-9e224cc78f08",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299292,7 +299292,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325308,7 +325308,7 @@
         "company_name": "Guardian Life",
         "id": "8155c07e-de11-481a-ba23-c42178f1189c",
         "title": "Application Development Intern - Digital & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -366272,7 +366272,7 @@
         "company_name": "Pennsylvania State University",
         "id": "674c7dab-fe93-4754-9f4e-3320704c6211",
         "title": "Engineering Support Specialist Intern - Electronic Materials and Devices Department - Applied Research Laboratory",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -374860,7 +374860,7 @@
         "company_name": "General Motors",
         "id": "937f9f37-e581-434f-a5f4-54b33dbe72ab",
         "title": "Infotainment Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381118,7 +381118,7 @@
         "company_name": "Lumentum",
         "id": "0a5021c8-a300-48bf-aa31-e2c7065f54e3",
         "title": "Optical Verification Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382220,7 +382220,7 @@
         "company_name": "Insulet",
         "id": "877a9341-f1cf-4811-b50f-994e93d1791e",
         "title": "R&D Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386449,7 +386449,7 @@
         "company_name": "General Motors",
         "id": "fe5603d3-8972-41af-b7a7-f049affc7864",
         "title": "Vehicle Experience Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -389938,7 +389938,7 @@
         "company_name": "Roche",
         "id": "854b0375-7239-4af1-824a-67ccffe9066a",
         "title": "Data Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
