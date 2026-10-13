@@ -331157,7 +331157,7 @@
         "company_name": "Wex",
         "id": "0804979c-4994-46d3-9479-3faeceb0ffbf",
         "title": "Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350362,7 +350362,7 @@
         "company_name": "Blue Cross and Blue Shield of Kansas",
         "id": "1928f9d6-0a30-4adb-94a2-06207eed993a",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350592,7 +350592,7 @@
         "company_name": "Lazard",
         "id": "0b484034-4163-4031-b4af-9bc1e7cf3b73",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390809,7 +390809,7 @@
         "company_name": "Point C",
         "id": "2670dc12-9521-487a-bc06-5a4ff731f6a6",
         "title": "Healthcare Informatics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
