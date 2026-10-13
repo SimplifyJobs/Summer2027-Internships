@@ -292481,7 +292481,7 @@
         "company_name": "Tesla",
         "id": "8eec74b3-7daf-4b67-b262-621b5b164a09",
         "title": "Hardware Validation Engineer Intern - Optimus",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -295269,7 +295269,7 @@
         "company_name": "DriveTime",
         "id": "cfde68f0-412b-47f0-8a31-4b22e88766a9",
         "title": "Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295696,7 +295696,7 @@
         "company_name": "Tesla",
         "id": "29d56467-920c-46e3-a94e-c6e396215e2d",
         "title": "Electrical Test Engineer Intern - Vehicle Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -309876,7 +309876,7 @@
         "company_name": "Tesla",
         "id": "61ec7d70-4c67-42e3-b8ec-b7d24c4048e2",
         "title": "Software Engineer Intern - Service Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -352555,7 +352555,7 @@
         "company_name": "Commerce Bank",
         "id": "a3bd1d15-060a-447a-a1fe-ebc41d4f7a50",
         "title": "Data Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365897,7 +365897,7 @@
         "company_name": "Marvell",
         "id": "db099716-783a-4faa-a7c0-d621afe1a6c7",
         "title": "Test Equipment Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -373235,7 +373235,7 @@
         "company_name": "MFS",
         "id": "f4197f17-119a-481b-8c46-5723c5f9b51d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393398,7 +393398,7 @@
         "company_name": "Meta",
         "id": "8f6d712b-0348-4a3f-959b-e3a3f87f7c0e",
         "title": "Production Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
