@@ -341385,7 +341385,7 @@
         "company_name": "Acxiom",
         "id": "248dffa0-4755-4dbd-a127-1ac20357bca6",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -396205,7 +396205,7 @@
         "company_name": "Daimler Truck",
         "id": "1b33c845-07cb-4af5-b2c6-61e8d9510af2",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
