@@ -1,75 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "eaca6b18-c757-41b6-9e7a-cb9110485af5",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771168631,
-        "date_posted": 1771168631,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern_REQ-2099",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "89aa0f34-dbf5-4dfc-975c-5264389437af",
-        "title": "Product Intern - Money Movement",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771168627,
-        "date_posted": 1771168627,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2098",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "1046a06a-6268-47ba-a846-e4c561080028",
-        "title": "Product Management Intern - Verified",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771168636,
-        "date_posted": 1771168636,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-2101",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Motorola",
         "id": "dbfaed4a-bba8-46c1-a2c3-ac20d5a282f1",
@@ -282435,7 +282366,7 @@
         "company_name": "Qorvo",
         "id": "8e1a0b0f-d83f-42d4-8f36-5ebd3a90fadf",
         "title": "Technology Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311915,7 +311846,7 @@
         "company_name": "Dominion Energy",
         "id": "9069d1cd-2656-4cad-8ca4-b828ed653015",
         "title": "Business Intelligence Analyst Intern - Grid Resiliency",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2028"
         ],
@@ -331156,7 +331087,7 @@
         "company_name": "Wex",
         "id": "89e69230-379f-4aee-89b4-80a000e2d655",
         "title": "AI & Data Platform Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357954,7 +357885,7 @@
         "company_name": "Saab",
         "id": "aea50023-bfc4-4203-a4d7-f3decbe8ebd6",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
