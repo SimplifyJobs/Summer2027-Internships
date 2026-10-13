@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1886 Inactive Internship Roles by Category
+### Browse 1887 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (660)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (661)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (126)
 
@@ -2548,6 +2548,13 @@
 <td><strong><a href="https://simplify.jobs/c/Hormel-Foods?utm_source=GHList&utm_medium=company">Hormel Foods</a></strong></td>
 <td>Packaging Intern</td>
 <td>Austin, MN</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Textron?utm_source=GHList&utm_medium=company">Textron</a></strong></td>
+<td>Software Engineer Intern - Electronic Systems</td>
+<td>Hunt Valley, Cockeysville, MD</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>

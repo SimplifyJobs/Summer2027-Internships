@@ -7,9 +7,9 @@
 
 ---
 
-### Browse 1882 Internship Roles by Category
+### Browse 1881 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (634)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (633)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (125)
 
@@ -2212,7 +2212,7 @@
 <td>Software Engineer Co-op</td>
 <td>Eden Prairie, MN</td>
 <td><div align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5cb3b2a7-3eeb-40f0-80ff-9f30db32b389?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company">Scale AI</a></strong></td>
@@ -3623,13 +3623,6 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Software Engineer Intern - Electronic Systems</td>
-<td>Hunt Valley, Cockeysville, MD</td>
-<td><div align="center"><a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/974d081a-6d17-4aab-a42a-e9b35cafde7d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Software Engineer Intern - Crewed Land</td>
 <td>Slidell, LA</td>
 <td><div align="center"><a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5489cdce-696e-4c2f-b1ae-e937cff71c6c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -4549,7 +4542,7 @@
 </table>
 
 
-🔒 **[See 660 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 661 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -5920,6 +5913,20 @@
 <td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/453db16f-11ff-4cf7-85fb-5f41453a4483?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>5d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nissan-Global?utm_source=GHList&utm_medium=company">Nissan Global</a></strong></td>
+<td>Manufacturing Digital Data Intern</td>
+<td>Decherd, TN</td>
+<td><div align="center"><a href="https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a0ee9167-79ab-4d47-a4a3-de77e881b285?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>National and Regional Carflow Intern</td>
+<td>Franklin, TN</td>
+<td><div align="center"><a href="https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/National-and-Regional-Carflow-Intern---Summer-2027---Franklin--TN_R00214227?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1ec2496b-4201-4388-920c-918002942b70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>5d</td>
+</tr>
 
 </tbody>
 </table>
@@ -5946,20 +5953,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nissan-Global?utm_source=GHList&utm_medium=company">Nissan Global</a></strong></td>
-<td>Manufacturing Digital Data Intern</td>
-<td>Decherd, TN</td>
-<td><div align="center"><a href="https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a0ee9167-79ab-4d47-a4a3-de77e881b285?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>National and Regional Carflow Intern</td>
-<td>Franklin, TN</td>
-<td><div align="center"><a href="https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/National-and-Regional-Carflow-Intern---Summer-2027---Franklin--TN_R00214227?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1ec2496b-4201-4388-920c-918002942b70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
 <td>Grit Intern</td>
