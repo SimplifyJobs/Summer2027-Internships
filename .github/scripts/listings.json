@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Motorola",
-        "id": "dbfaed4a-bba8-46c1-a2c3-ac20d5a282f1",
-        "title": "R&D Intern - Machine Learning Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771171099,
-        "date_posted": 1771171099,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---Machine-Learning-Engineer----2026_R62195",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Obvious",
         "id": "4cdc1258-1102-47d1-b864-edbb99c89a1a",
         "title": "AI GTM Engineer",
@@ -289809,7 +289785,7 @@
         "company_name": "JD.com",
         "id": "70e97aa1-1967-4add-9a5a-8a9208c8db26",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -345989,7 +345965,7 @@
         "company_name": "Klaviyo",
         "id": "fe4fdd20-3b89-49f6-9ae2-83e3a3305efd",
         "title": "Product Manager Co-op - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385517,7 +385493,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "8b87b98d-faf0-4d0e-8195-ec3ca09a5961",
         "title": "Optical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394467,7 +394443,7 @@
         "company_name": "RTX",
         "id": "f73893bf-cad5-4a20-9e0c-3f0b18a456d7",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -401311,7 +401287,7 @@
         "company_name": "Goodlord",
         "id": "c5851f1f-3f5a-43ff-b66c-1176dd50e3d3",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
