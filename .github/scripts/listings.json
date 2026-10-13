@@ -262351,7 +262351,7 @@
         "company_name": "Northwood Space",
         "id": "b451dc51-db5e-45b8-a1f7-c5ba8d0e411a",
         "title": "Site Engineer Intern - Sites",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273560,7 +273560,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "83a5554d-b472-42b5-984c-9be068b2bdc4",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329764,7 +329764,7 @@
         "company_name": "Wex",
         "id": "f77b6b5f-ff7d-45d7-9704-b0198ab5cd0d",
         "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332006,7 +332006,7 @@
         "company_name": "HF Sinclair",
         "id": "fba89481-0b7d-445a-8095-d1343c53c916",
         "title": "Reporting & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384943,7 +384943,7 @@
         "company_name": "StackAdapt",
         "id": "e8a188ad-8e25-422e-9ff5-12c123be90fa",
         "title": "Software Engineer Backend Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -401405,7 +401405,7 @@
         "company_name": "American Family Insurance Group",
         "id": "a5225dca-6c4a-48c9-880a-02b636fa5c57",
         "title": "Front End Developer Intern - Digital Sales",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
