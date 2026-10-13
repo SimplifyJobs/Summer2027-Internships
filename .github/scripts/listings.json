@@ -358724,7 +358724,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "4a1157a6-d353-457f-b894-9deb47f6d3d5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -378373,7 +378373,7 @@
         "company_name": "CRG Defense",
         "id": "090c897e-bc19-4024-8e74-f21765771252",
         "title": "Product Development Associate Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
