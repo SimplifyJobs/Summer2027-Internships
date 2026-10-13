@@ -202651,7 +202651,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -297300,7 +297300,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -304938,7 +304938,7 @@
         "company_name": "Kite Pharma",
         "id": "d86e44b9-4c31-4fce-9921-62b882b53084",
         "title": "Kite Development Intern - Tech Ops - Process Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365888,7 +365888,7 @@
         "company_name": "Invesco",
         "id": "d29e1b26-6366-4790-a9fb-5c7c87927b69",
         "title": "Early Career Intern - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373947,7 +373947,7 @@
         "company_name": "The Home Depot",
         "id": "e16ac71f-72f4-4100-b277-2a92a88c6d05",
         "title": "AI Machine Learning Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -392510,7 +392510,7 @@
         "company_name": "KLA",
         "id": "d6839a2c-d741-43a7-9dd1-16c93a091e96",
         "title": "Applications Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
