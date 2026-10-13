@@ -351245,7 +351245,7 @@
         "company_name": "Fidelity Investments",
         "id": "3ffeeada-412b-4314-ad45-08e3e40c327f",
         "title": "Quantitative Research Intern - Strategic Advisers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373323,7 +373323,7 @@
         "company_name": "Vanguard",
         "id": "47ea17c5-d569-4f0f-9e06-9fb0a6790033",
         "title": "Data Product Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
