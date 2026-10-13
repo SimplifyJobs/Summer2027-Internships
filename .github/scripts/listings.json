@@ -394152,7 +394152,7 @@
         "company_name": "RTX",
         "id": "4d44f45d-0a4d-4b56-a47a-9b17c5efd161",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395676,7 +395676,7 @@
         "company_name": "NVIDIA",
         "id": "612b75fd-3a87-4038-8d14-df65b4ef144a",
         "title": "CPU Compiler Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
