@@ -6,11 +6,11 @@
 
 ---
 
-### Browse 1879 Inactive Internship Roles by Category
+### Browse 1882 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (658)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (660)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (125)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (126)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (637)
 
@@ -88,6 +88,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Goodlord?utm_source=GHList&utm_medium=company">Goodlord</a></strong></td>
+<td>Engineering Intern</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/RF-SMART?utm_source=GHList&utm_medium=company">RF-SMART</a></strong></td>
 <td>Software Support Engineer Intern</td>
 <td>Jacksonville, FL</td>
@@ -133,6 +140,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Anaheim, CA</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Co-op</td>
+<td>Cedar Rapids, IA</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
@@ -4832,6 +4846,13 @@
 <td>Harrison, NY<br>Arlington County, Arlington, VA</td>
 <td>🔒</td>
 <td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Klaviyo?utm_source=GHList&utm_medium=company">Klaviyo</a></strong></td>
+<td>Product Manager Co-op - Spring 2027</td>
+<td>Boston, MA</td>
+<td>🔒</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/USAA?utm_source=GHList&utm_medium=company">USAA</a></strong></td>
@@ -10018,7 +10039,7 @@
 <td>Data Engineering Intern Co-op</td>
 <td>Milwaukee, WI</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>

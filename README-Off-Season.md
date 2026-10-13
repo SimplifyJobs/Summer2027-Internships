@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 1178 Internship Roles by Category
+### Browse 1177 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (367)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (57)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (56)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (366)
 
@@ -9716,7 +9716,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Milwaukee, WI</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company">Carrier Global</a></strong></td>
@@ -12651,14 +12651,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/JINGDONG?utm_source=GHList&utm_medium=company">JD.com</a></strong></td>
-<td>Product Management Intern</td>
-<td>London, UK</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Product-Management-Internship_JR103809?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/70e97aa1-1967-4add-9a5a-8a9208c8db26?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company">Geotab</a></strong></td>
 <td>Product Coordinator Intern - Driver Compliance</td>
 <td>Toronto, ON, Canada<br>Oakville, ON, Canada<br>Waterloo, ON, Canada</td>
@@ -12775,7 +12767,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (195)</summary>
+<summary>🗃️ Inactive roles (196)</summary>
 
 <table>
 <thead>
@@ -12993,6 +12985,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Venerable?utm_source=GHList&utm_medium=company">Venerable</a></strong></td>
 <td>Product Management Co-op</td>
 <td>West Chester, PA</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/JINGDONG?utm_source=GHList&utm_medium=company">JD.com</a></strong></td>
+<td>Product Management Intern</td>
+<td>London, UK</td>
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -27186,7 +27186,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Antonio, TX</td>
 <td>Spring 2026, Summer 2026, Fall 2026</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Menasha-Corporation?utm_source=GHList&utm_medium=company">Menasha Corporation</a></strong></td>
@@ -27194,7 +27194,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Neenah, WI</td>
 <td>Summer 2026, Fall 2026, Winter 2027</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bose?utm_source=GHList&utm_medium=company">Bose</a></strong></td>
@@ -39208,7 +39208,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Manitowoc, WI</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
@@ -39216,7 +39216,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Santa Clara, CA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lumentum?utm_source=GHList&utm_medium=company">Lumentum</a></strong></td>
