@@ -251609,7 +251609,7 @@
         "company_name": "Polaris",
         "id": "43314ea5-8533-4883-a5e5-5afdc6cff866",
         "title": "Predictive Data Science Intern - Digital & IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278192,7 +278192,7 @@
         "company_name": "Armadin",
         "id": "4d6c1aee-d6d2-466a-8c2b-c74c48746c43",
         "title": "Frontend Engineer Intern - Product & UX/UI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -329833,7 +329833,7 @@
         "company_name": "Wex",
         "id": "3f5cab3c-532c-4b28-ab03-48e5cd935bb0",
         "title": "Software Engineer Intern - AI & Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386896,7 +386896,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "4e64cdd2-076a-4cc8-9b19-76a36026ca2a",
         "title": "Computer Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394090,7 +394090,7 @@
         "company_name": "Northrop Grumman",
         "id": "42bb1506-58e5-4744-a89f-7bfd250d0115",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
