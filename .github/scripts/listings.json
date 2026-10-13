@@ -128146,7 +128146,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -143345,7 +143345,7 @@
         "company_name": "Salesforce",
         "id": "3cb45823-f475-44c7-aaca-4a1335faf6ff",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -187240,7 +187240,7 @@
         "company_name": "Clio",
         "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
         "title": "Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -236219,7 +236219,7 @@
         "company_name": "Composio",
         "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
         "title": "Fullstack Engineer Intern - Product Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -238273,7 +238273,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244216,7 +244216,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -268792,7 +268792,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270638,7 +270638,7 @@
         "company_name": "Stripe",
         "id": "5bef05c2-8d0b-497e-9bfe-64ff4e8045d0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -278088,7 +278088,7 @@
         "company_name": "Michelin",
         "id": "23d6cc2e-855b-4458-a689-002cda7f4705",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -288231,7 +288231,7 @@
         "company_name": "Contoro",
         "id": "79560962-eb14-4db4-8a83-ee23d27019aa",
         "title": "Robotics Test & Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -294289,7 +294289,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294312,7 +294312,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294359,7 +294359,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294382,7 +294382,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294803,7 +294803,7 @@
         "company_name": "Zoox",
         "id": "7f24593d-1433-4515-9bd7-2e99e1078d7d",
         "title": "Autonomy Safety Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -305011,7 +305011,7 @@
         "company_name": "GE Appliances",
         "id": "1e3d3a80-84e2-4576-8274-bb56e5167f47",
         "title": "Electrical Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -341481,7 +341481,7 @@
         "company_name": "Marvell",
         "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
         "title": "SRAM Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -343395,7 +343395,7 @@
         "company_name": "REV Robotics",
         "id": "543a91b1-9042-4e1b-bdb1-91cd53d42f85",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369665,7 +369665,7 @@
         "company_name": "Marvell",
         "id": "3e0b372a-84af-415d-bb75-56487eb34820",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370485,7 +370485,7 @@
         "company_name": "Bose",
         "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
         "title": "Reverse Logistics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -371046,7 +371046,7 @@
         "company_name": "RTX",
         "id": "3d1157f3-209d-4852-9aa5-8ef5c4ab8ab5",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381410,7 +381410,7 @@
         "company_name": "Waymo",
         "id": "a9d476c2-4d74-43de-9305-8e0c1bc59841",
         "title": "Software Engineer Intern - MS/PhD - Eval Data Infra",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382195,7 +382195,7 @@
         "company_name": "General Motors",
         "id": "206b933c-d14d-4bf7-952c-895af8edc9ac",
         "title": "Summer Intern - AI & Hardware Analytics - Adpt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -400616,7 +400616,7 @@
         "company_name": "Keysight Technologies",
         "id": "a8a98251-a69d-4ce6-a139-e90ed9636073",
         "title": "Tech 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401509,5 +401509,77 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bedrock Robotics",
+        "id": "6cfd3697-1e39-4d1d-985d-16cd2ed62d45",
+        "title": "Simulation Engineer Intern - Neural Rendering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791886383,
+        "date_posted": 1790633979,
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bedrock-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bedrock Robotics",
+        "id": "76b40102-6b34-41c3-bb59-e6a394efa19f",
+        "title": "Sensor Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791886551,
+        "date_posted": 1789079631,
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bedrock-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rainmaker",
+        "id": "a37b51de-58fe-4812-bbb4-f01456abd797",
+        "title": "Radar Science Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791887266,
+        "date_posted": 1785103573,
+        "url": "https://jobs.lever.co/make-rain/4cac0840-20c6-4d20-9b66-0eefc109e6a9/apply",
+        "locations": [
+            "Norman, OK",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rainmaker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
