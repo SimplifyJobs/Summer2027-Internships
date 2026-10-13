@@ -71,27 +71,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Interac",
-        "id": "f88628db-f483-4aa2-be2a-e3b5b7a44541",
-        "title": "AI Product Delivery Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771167412,
-        "date_posted": 1771167412,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/AI-Product-Delivery-Intern_REQ-2116",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Motorola",
         "id": "dbfaed4a-bba8-46c1-a2c3-ac20d5a282f1",
         "title": "R&D Intern - Machine Learning Engineer",
@@ -293036,7 +293015,7 @@
         "company_name": "RTX",
         "id": "7e9c7b98-067d-40e0-9691-2aa31d3e7464",
         "title": "Data Analyst Intern - Spare Parts Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -315048,7 +315027,7 @@
         "company_name": "Garmin",
         "id": "b2ec260f-57eb-4784-ab19-0ca857d23701",
         "title": "Component Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338251,7 +338230,7 @@
         "company_name": "Collier Aerospace",
         "id": "b6b0bc09-5fc8-4d8e-ad3f-ffdd70e0315e",
         "title": "AI Feature Development Intern - NCSG",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341784,7 +341763,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "4bde8bc5-067e-4676-9a52-d07891e1cb78",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -349747,7 +349726,7 @@
         "company_name": "General Motors",
         "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
         "title": "Software Engineer Intern - Digital Product: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360292,7 +360271,7 @@
         "company_name": "Wex",
         "id": "bb6f4712-73ed-42a3-b9d0-121502853653",
         "title": "Software Engineer Intern - Enterprise Data & Systems - Salesforce & Snowflake",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364321,7 +364300,7 @@
         "company_name": "Copart",
         "id": "9370a340-20a3-41c5-9e8d-f77d3758c4bc",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -371987,7 +371966,7 @@
         "company_name": "Autodesk",
         "id": "c63e96f3-3234-440f-a70f-b754963dcb2c",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -376069,7 +376048,7 @@
         "company_name": "Centene",
         "id": "aa464423-74c1-4bd6-b3e6-11da3d3102de",
         "title": "Medical Economics Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376770,7 +376749,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391249,7 +391228,7 @@
         "company_name": "KeyBank",
         "id": "c9a8571f-f0d0-4e85-8b0c-67a3a310a864",
         "title": "Corporate Center \u2013 Measurement & Impact Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401259,7 +401238,7 @@
         "company_name": "Lake Michigan Credit Union",
         "id": "c4d25552-826d-4682-8edd-264a1371ee4b",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401697,6 +401676,77 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Vestmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "688e54c8-22bb-43a5-a3dd-16636738d4b3",
+        "title": "Canada Indigenous Technology Apprentice - Fnim",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791902749,
+        "date_posted": 1791849600,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Ottawa, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Toro Company",
+        "id": "638d533f-86ec-4b57-9f63-ae7fbb3d6d31",
+        "title": "IT Business Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791902341,
+        "date_posted": 1791849600,
+        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608",
+        "locations": [
+            "Perry, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Toro-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "78bdfaa5-c862-4fd6-82c5-58458a87eabf",
+        "title": "Oceanographic Lidar Sensing and Field Campaign Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791902387,
+        "date_posted": 1791849600,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/NASA-LaRC---Hampton-VA/Oceanographic-Lidar-Remote-Sensing-and-Field-Campaign-Intern_R-100786",
+        "locations": [
+            "Hampton, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
