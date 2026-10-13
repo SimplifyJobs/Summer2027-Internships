@@ -245492,7 +245492,7 @@
         "company_name": "Ampersand",
         "id": "e1f3338c-95a0-4b9f-b987-07fa38a8a4a6",
         "title": "Data Engineering Co-op - Open to Northeastern students only",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -284577,7 +284577,7 @@
         "company_name": "National Information Solutions Cooperative",
         "id": "c0048e8d-bc5e-43fe-a26c-8194823003f8",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -284647,7 +284647,7 @@
         "company_name": "National Information Solutions Cooperative",
         "id": "d31af359-a2f6-4a81-bf00-bf6e7bc1b133",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -296687,7 +296687,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -304938,7 +304938,7 @@
         "company_name": "Kite Pharma",
         "id": "d86e44b9-4c31-4fce-9921-62b882b53084",
         "title": "Kite Development Intern - Tech Ops - Process Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315828,7 +315828,7 @@
         "company_name": "L3Harris Technologies",
         "id": "06c9ad53-9e28-46ea-90ca-82def4f764c1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -323220,7 +323220,7 @@
         "company_name": "Amgen",
         "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -334149,7 +334149,7 @@
         "company_name": "APEX Analytix",
         "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337972,7 +337972,7 @@
         "company_name": "EQT Corporation",
         "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
         "title": "Data Engineering Intern - Completions Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338978,7 +338978,7 @@
         "company_name": "KBR",
         "id": "979ac96d-8d31-44b0-b0ce-b26b281568e9",
         "title": "Data Processing Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -348299,7 +348299,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358560,7 +358560,7 @@
         "company_name": "Mondelez International",
         "id": "ba20a0de-d82d-4d5b-8c1d-c9e68e0d9741",
         "title": "Promotions Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -365443,7 +365443,7 @@
         "company_name": "RTX",
         "id": "9ab13260-bac2-4bc2-9334-a6f0d248d8be",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -365888,7 +365888,7 @@
         "company_name": "Invesco",
         "id": "d29e1b26-6366-4790-a9fb-5c7c87927b69",
         "title": "Early Career Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392510,7 +392510,7 @@
         "company_name": "KLA",
         "id": "d6839a2c-d741-43a7-9dd1-16c93a091e96",
         "title": "Applications Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400801,7 +400801,7 @@
         "company_name": "GAF",
         "id": "965d9d0a-6d28-4b11-877b-698242e3b2d3",
         "title": "Data Science (AI) Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
