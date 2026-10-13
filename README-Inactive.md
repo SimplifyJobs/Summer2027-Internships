@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 1896 Inactive Internship Roles by Category
+### Browse 1900 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (666)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (667)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (127)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (640)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (642)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (194)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (269)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (270)
 
 ---
 
@@ -1538,6 +1538,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wex?utm_source=GHList&utm_medium=company">Wex</a></strong></td>
+<td>Software Engineer Intern - AI & Cloud 🎓</td>
+<td>Remote in USA</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Full-Stack Software Engineer Intern - Undergraduate</td>
 <td>Remote in USA</td>
 <td>🔒</td>
@@ -5723,6 +5730,13 @@
 <td>6d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Space-Dynamics-Laboratory?utm_source=GHList&utm_medium=company">Space Dynamics Laboratory</a></strong></td>
+<td>Computer Vision Engineer Intern</td>
+<td>North Logan, UT</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Macys?utm_source=GHList&utm_medium=company">Macy's</a></strong></td>
 <td>Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics</td>
 <td>NYC</td>
@@ -8477,6 +8491,13 @@
 <td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble</a></strong></td>
 <td>Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors</td>
 <td><details><summary><strong>4 locations</strong></summary>St Bernard, OH<br>West Chester Township, OH<br>Mason, OH<br>Cincinnati, OH</details></td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Polaris?utm_source=GHList&utm_medium=company">Polaris</a></strong></td>
+<td>Predictive Data Science Intern - Digital & IT</td>
+<td>Medina, MN<br>Plymouth, MN</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -11569,6 +11590,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>Systems Engineer Intern</td>
+<td>McClellan Park, CA</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>McClellan Park, CA</td>
 <td>🔒</td>
