@@ -222938,7 +222938,7 @@
         "company_name": "Uline",
         "id": "92343958-c226-4f1d-95e4-e809c57cb437",
         "title": "Financial Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320205,7 +320205,7 @@
         "company_name": "The Toro Company",
         "id": "b3c2da34-6510-4c41-aa40-26d5b8e94c8a",
         "title": "Robotics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329810,7 +329810,7 @@
         "company_name": "Wex",
         "id": "8d2559c4-15a3-4d4b-8b6c-541fcaab8354",
         "title": "Backend Software Engineer Intern - Java & AI - Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368854,7 +368854,7 @@
         "company_name": "MFS",
         "id": "b6e13db3-be91-4612-8719-470246e65112",
         "title": "Investment Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375604,7 +375604,7 @@
         "company_name": "MFS",
         "id": "bde46e9c-18de-4bfe-a880-12c5a4719dbb",
         "title": "Enterprise Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385820,7 +385820,7 @@
         "company_name": "Mayo Clinic",
         "id": "c694aab7-8ee0-4457-b0f6-99e23060fd6f",
         "title": "Research Fellow - Radiation Oncology - Waddle lab",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391414,7 +391414,7 @@
         "company_name": "RTX",
         "id": "d145d88e-f6ed-460e-b257-a01adef1548e",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -391487,7 +391487,7 @@
         "company_name": "RTX",
         "id": "a09d5d2b-9532-4945-a5a3-fd9ced82b420",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -400169,7 +400169,7 @@
         "company_name": "American Family Insurance Group",
         "id": "da1c2712-58ba-46d1-8cea-127f9a2b00d7",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400688,7 +400688,7 @@
         "company_name": "American Family Insurance Group",
         "id": "bce02604-8033-424f-83ad-bc2253ce0840",
         "title": "Application Development Intern - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403536,6 +403536,238 @@
             "Bachelor's",
             "Master's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "7804474e-b183-49d7-a358-ac0f785a930a",
+        "title": "Data Analyst Intern - Power Control Center",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791930785,
+        "date_posted": 1791930029,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/omtWAfw5?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "39fa3b6e-c238-4958-a741-72035b1798f4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791930496,
+        "date_posted": 1791849600,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231",
+        "locations": [
+            "Spokane Valley, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DriveTime",
+        "id": "ebb1e212-e617-4401-b8c1-187cf3be6bd3",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791930751,
+        "date_posted": 1791849600,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502",
+        "locations": [
+            "Dallas, TX",
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Drivetime",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "b8a1f8e9-1bd0-4680-935f-b7db4f32be16",
+        "title": "Data Analyst Emerging Talent Intern - Supplier Relations",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1791930776,
+        "date_posted": 1791930020,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oOvWAfwz?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Avis Budget Group",
+        "id": "19a4fd72-3ca2-426e-bd97-8a97d3d6aa8e",
+        "title": "Product Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791930748,
+        "date_posted": 1791849600,
+        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Product-Innovation-Intern---Summer-2027_R0191163",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eurostar International",
+        "id": "e78304d0-a710-4fa0-8cdc-bed22362ba83",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791930472,
+        "date_posted": 1791929891,
+        "url": "https://apply.workable.com/eurostar/j/D69651A000/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurostar-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walgreens",
+        "id": "d67d82ad-8fcb-40e5-9792-beb487215244",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791930169,
+        "date_posted": 1791929906,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1946191",
+        "locations": [
+            "Deerfield, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Walgreens",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "71573abd-2d22-4f73-b614-94625aa6bdfe",
+        "title": "Forward Deployed AI Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791930446,
+        "date_posted": 1791929850,
+        "url": "https://careers.bcg.com/global/en/job/59703",
+        "locations": [
+            "Boston, MA",
+            "LA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Armadin",
+        "id": "2599beb7-cad8-4b9b-9020-7baf41143bfb",
+        "title": "Frontend Engineer Intern - Member of Technical Staff",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791930445,
+        "date_posted": 1791929852,
+        "url": "https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Armadin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "10180abe-006c-4769-a72d-e45303211eb0",
+        "title": "Teaching Assistant Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1791930473,
+        "date_posted": 1791849600,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Teaching-Assistant---BA-840_REQ_0000083427-1",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
