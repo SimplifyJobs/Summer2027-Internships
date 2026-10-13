@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1893 Inactive Internship Roles by Category
+### Browse 1892 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (659)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (658)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (125)
 
@@ -399,13 +399,6 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Woburn, MA</td>
-<td>🔒</td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Invesco?utm_source=GHList&utm_medium=company">Invesco</a></strong></td>
-<td>Early Career Intern - Technology</td>
-<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>14d</td>
 </tr>
