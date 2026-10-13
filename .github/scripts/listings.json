@@ -326375,7 +326375,7 @@
         "company_name": "Wells Fargo",
         "id": "1ccbb9e2-4eb5-4b5c-b46b-df61586053ca",
         "title": "Software Engineer Intern - Early Careers - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327171,7 +327171,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fab9af01-5b7a-416b-9ede-43f39adb375b",
         "title": "Technology and Digital Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
