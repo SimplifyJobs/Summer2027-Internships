@@ -210248,7 +210248,7 @@
         "company_name": "Later",
         "id": "ad5c3ca9-6619-499f-a5c9-e1776db1c6d8",
         "title": "Software Development Co-op - Later Influence",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -266029,7 +266029,7 @@
         "company_name": "Oshkosh",
         "id": "b5ff83aa-5027-4db1-8977-d9432d6e0795",
         "title": "Product Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319723,7 +319723,7 @@
         "company_name": "Entegris",
         "id": "c6f585f9-1dc2-4b7b-87f8-b7e1ede0e71b",
         "title": "Portfolio Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -329787,7 +329787,7 @@
         "company_name": "Wex",
         "id": "d6dfcbeb-4029-4aad-bf63-959fcd1680cd",
         "title": "Full-Stack Software Engineer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329879,7 +329879,7 @@
         "company_name": "Wex",
         "id": "d2a2f7eb-19b0-4859-b09e-fefe81a88ceb",
         "title": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342492,7 +342492,7 @@
         "company_name": "Republic Airways",
         "id": "a77aa535-2e7b-4814-b4e8-1e16bb8c7765",
         "title": "Strategic Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -357627,7 +357627,7 @@
         "company_name": "CACI",
         "id": "a1b3672f-5dca-4ae0-a4a9-be3434e789c5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363924,7 +363924,7 @@
         "company_name": "Keysight Technologies",
         "id": "c60812e4-06ad-4e91-8d3f-cb2441c88d0d",
         "title": "Software Engineer Intern - Factory Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394020,7 +394020,7 @@
         "company_name": "Walgreens",
         "id": "d09259a7-0192-472c-a240-c348186c241d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
