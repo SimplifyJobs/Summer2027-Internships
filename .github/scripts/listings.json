@@ -278445,7 +278445,7 @@
         "company_name": "Flagship Pioneering",
         "id": "bea449aa-d978-4884-a1d9-1703017cfb0b",
         "title": "Agentic AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -291768,7 +291768,7 @@
         "company_name": "Marquee Brands",
         "id": "cc58fac9-b0fa-47d6-8d76-5a9b5e373147",
         "title": "Consumer Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -402259,7 +402259,7 @@
         "company_name": "Motorola",
         "id": "c61201f4-b86e-4bb7-b84f-193387bd5c65",
         "title": "Software Engineering Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404217,7 +404217,7 @@
         "company_name": "BP",
         "id": "ac5c0aa0-973b-4add-966c-686afeebbf87",
         "title": "Summer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
