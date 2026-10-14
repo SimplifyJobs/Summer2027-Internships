@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 1956 Inactive Internship Roles by Category
+### Browse 1931 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (680)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (676)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (127)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (125)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (665)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (650)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (210)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (274)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (270)
 
 ---
 
@@ -186,13 +186,6 @@
 <td>6d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Autonomous Driving Software Engineer Intern</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>6d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/7-Eleven?utm_source=GHList&utm_medium=company">7-Eleven</a></strong></td>
 <td>AI Engineer Intern</td>
 <td>Irving, TX</td>
@@ -333,13 +326,6 @@
 <td>12d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Software Engineer Intern - AV/AI Platform</td>
-<td>Sunnyvale, CA<br>Warren, MI</td>
-<td>🔒</td>
-<td>12d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Riot-Games?utm_source=GHList&utm_medium=company">Riot Games</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>LA</td>
@@ -406,13 +392,6 @@
 <td><strong><a href="https://simplify.jobs/c/HMH?utm_source=GHList&utm_medium=company">HMH</a></strong></td>
 <td>AI & Automation Development Intern</td>
 <td>Houston, TX</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation</td>
-<td>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>13d</td>
 </tr>
@@ -833,13 +812,6 @@
 <td><strong><a href="https://simplify.jobs/c/Live-Oak-Bank?utm_source=GHList&utm_medium=company">Live Oak Bank</a></strong></td>
 <td>Software Engineering Intern - Summer Internship Program</td>
 <td>Wilmington, NC</td>
-<td>🔒</td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Software Engineer Intern - Digital Product: Software Engineering</td>
-<td><details><summary><strong>4 locations</strong></summary>Austin, TX<br>Milford, MI<br>Mountain View, CA<br>Warren, MI</details></td>
 <td>🔒</td>
 <td>23d</td>
 </tr>
@@ -3924,7 +3896,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Media Engine</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -4890,13 +4862,6 @@
 <td>7d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Koch-Industries?utm_source=GHList&utm_medium=company">Koch Industries</a></strong></td>
-<td>Product Management Intern</td>
-<td>Eden Prairie, MN<br>Lisle, IL</td>
-<td>🔒</td>
-<td>11d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Associated-Bank?utm_source=GHList&utm_medium=company">Associated Bank</a></strong></td>
 <td>Corporate Intern - Product Development</td>
 <td>Milwaukee, WI</td>
@@ -5005,13 +4970,6 @@
 <td><strong><a href="https://simplify.jobs/c/USAA?utm_source=GHList&utm_medium=company">USAA</a></strong></td>
 <td>Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing</td>
 <td>San Antonio, TX</td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Product Management Intern - Digital Product</td>
-<td>Austin, TX<br>Warren, MI</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
@@ -5569,7 +5527,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Product Manager Intern - Product Infrastructure - Account</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -5779,60 +5737,11 @@
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>AI/Machine Learning Intern - Research and Development 🎓</td>
-<td>Mountain View, CA</td>
-<td>🔒</td>
-<td>2d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Research and Development Intern - Smart Manufacturing Systems 🎓</td>
-<td>Warren, MI</td>
-<td>🔒</td>
-<td>2d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Summer Intern - Research and Development - Machine Learning for Automation 🎓</td>
-<td>Warren, MI</td>
-<td>🔒</td>
-<td>2d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
 <td>Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection</td>
 <td>Laurel, MD</td>
 <td>🔒</td>
 <td>3d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Data Scaling Intern - Data Scaling - Embodied AI 🎓</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Seam Intern - Embodied AI 🎓</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>AI Research Intern - Embodied AI 🎓</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Summer Intern - Onboard Autonomy - Embodied AI 🎓</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walgreens?utm_source=GHList&utm_medium=company">Walgreens</a></strong></td>
@@ -5940,27 +5849,6 @@
 <td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Summer Intern - AI & Hardware Analytics - Adpt</td>
-<td>Milford, MI<br>Warren, MI</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>AI/ML Engineer Intern - Mapping</td>
-<td>Warren, MI</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Machine Learning Intern - Autonomous Vehicles - Software Validation 🎓</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
 <td>Data Scientist Intern</td>
 <td>Toronto, ON, Canada</td>
@@ -6010,13 +5898,6 @@
 <td>12d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Machine Learning Engineer Intern - AV/AI Platform</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>12d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
 <td>Medical Economics Analyst Intern</td>
 <td>Florida</td>
@@ -6062,20 +5943,6 @@
 <td>↳</td>
 <td>Digital Testing & Optimization Intern</td>
 <td>Dallas, TX</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>AI/ML Engineer Intern - Autonomous Vehicle: Simulation</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>AI/ML Engineer Intern - Autonomous Vehicles: Simulation 🎓</td>
-<td>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>13d</td>
 </tr>
@@ -6515,13 +6382,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
-<td>Analytics Intern</td>
-<td>Florida</td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Data and Analytics Intern - Undergraduate</td>
 <td>Missouri</td>
 <td>🔒</td>
@@ -6866,13 +6726,6 @@
 <tr>
 <td>↳</td>
 <td>Summer Intern - Performance Analysis</td>
-<td>Concord, NC</td>
-<td>🔒</td>
-<td>30d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Race Strategy & Analytics Intern - IndyCar</td>
 <td>Concord, NC</td>
 <td>🔒</td>
 <td>30d</td>
@@ -12002,20 +11855,6 @@
 <td>7d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Systems Engineer Intern - Asd</td>
-<td>Milford, MI<br>Warren, MI</td>
-<td>🔒</td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>AV Sensor Design, Release and Integration Intern</td>
-<td>Warren, MI</td>
-<td>🔒</td>
-<td>7d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Rivet-Industries?utm_source=GHList&utm_medium=company">Rivet Industries</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>San Jose, CA</td>
@@ -12082,13 +11921,6 @@
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
 <td>Hardware Engineering Intern</td>
 <td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>ADAS Software Engineer Intern - Adpt</td>
-<td>Milford, MI<br>Warren, MI</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
@@ -12355,13 +12187,6 @@
 <td>↳</td>
 <td>Test Engineering Intern - BS</td>
 <td>Irvine, CA<br>Santa Clara, CA<br>Westlake Village, CA</td>
-<td>🔒</td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Embedded and Systems Engineering Intern - Digital Product</td>
-<td><details><summary><strong>4 locations</strong></summary>Austin, TX<br>Milford, MI<br>Mountain View, CA<br>Warren, MI</details></td>
 <td>🔒</td>
 <td>23d</td>
 </tr>
