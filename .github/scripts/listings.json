@@ -251790,7 +251790,7 @@
         "company_name": "University of Virginia",
         "id": "61113397-5045-45a9-8385-92577d546a89",
         "title": "Technical Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -321787,7 +321787,7 @@
         "company_name": "Veeam Software",
         "id": "cab02356-db9f-43a1-a400-e5fa53352e0b",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333787,7 +333787,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382172,7 +382172,7 @@
         "company_name": "Meta",
         "id": "81d8ede2-016d-4d5c-a4fb-05c963f34173",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382340,7 +382340,7 @@
         "company_name": "GoTo Group",
         "id": "6f20b6b4-b84b-4ed7-b608-fffb1c6e5bc0",
         "title": "Software Developer Intern - Contacts",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384836,7 +384836,7 @@
         "company_name": "Innovative Defense Technologies",
         "id": "881872b3-5779-4104-a358-a391a551b338",
         "title": "Software Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385467,7 +385467,7 @@
         "company_name": "Renesas Electronics",
         "id": "b685eb9a-3c67-46fe-b44d-24dc58e134a4",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390854,7 +390854,7 @@
         "company_name": "RTX",
         "id": "bccbd358-b05e-473c-84a8-cefa760bf0c2",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
