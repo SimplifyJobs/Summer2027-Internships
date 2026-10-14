@@ -378513,7 +378513,7 @@
         "company_name": "Northrop Grumman",
         "id": "ce4dc56d-2150-4131-9240-f6bbbc7072c6",
         "title": "Engineering Technician Intern - Electrical Ground Support Equipment",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404031,7 +404031,7 @@
         "company_name": "SPS Commerce",
         "id": "e191313c-19e0-40f7-8729-69778579b693",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
