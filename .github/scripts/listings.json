@@ -9908,7 +9908,7 @@
         "company_name": "Rakuten International",
         "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
         "title": "Intern Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314774,7 +314774,7 @@
         "company_name": "RTX",
         "id": "0c9f983c-f1b8-4bca-b322-145dd1b08a99",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322026,7 +322026,7 @@
         "company_name": "Veeam Software",
         "id": "12b58efe-8607-4280-a3c0-fb40a2a2232a",
         "title": "Security & AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336744,7 +336744,7 @@
         "company_name": "Relay",
         "id": "0b2f3c82-2d4d-43f4-a00c-a4f3cf62a217",
         "title": "Software Engineer Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340496,7 +340496,7 @@
         "company_name": "Avis Budget Group",
         "id": "23eccfe8-4364-45b3-a8ef-cb8127b89e2c",
         "title": "IT Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384813,7 +384813,7 @@
         "company_name": "Innovative Defense Technologies",
         "id": "0d975f4a-64df-4148-98fd-46ab01f959b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384859,7 +384859,7 @@
         "company_name": "Innovative Defense Technologies",
         "id": "1c419947-956c-474c-b688-7c5fecc0c2ca",
         "title": "Software Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394952,7 +394952,7 @@
         "company_name": "John Deere",
         "id": "18bad5bf-089e-4921-991f-09e20254da1d",
         "title": "Product Engineering Student Intern - Robotics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
