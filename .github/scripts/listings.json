@@ -3,27 +3,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
-        "id": "3270150d-98fb-47ff-bb3f-e3796cc64641",
-        "title": "ABC Owned TV Stations Data Analytics Intern - Summer/Fall 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771247180,
-        "date_posted": 1771247180,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/ABC-Owned-TV-Stations-Data-Analytics-Intern--Summer-Fall-2026_10140060-1",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
         "id": "4bd7a558-22ed-40ad-8a92-482097089b3a",
         "title": "ABC Owned TV Stations Data Analytics Intern - Summer/Fall 2026",
         "active": false,
@@ -39302,7 +39281,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -283414,7 +283393,7 @@
         "company_name": "Micron Technology",
         "id": "f03e18cd-43a7-42fb-95e7-609dd0d670d8",
         "title": "Advanced DRAM Cell & Device Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -293143,7 +293122,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296216,7 +296195,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -299029,7 +299008,7 @@
         "company_name": "Marvell",
         "id": "8012895f-f76b-4a76-8254-3da734e7748d",
         "title": "Analog Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338507,7 +338486,7 @@
         "company_name": "KBR",
         "id": "979ac96d-8d31-44b0-b0ce-b26b281568e9",
         "title": "Data Processing Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -341010,7 +340989,7 @@
         "company_name": "Marvell",
         "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
         "title": "SRAM Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -366259,7 +366238,7 @@
         "company_name": "Marvell",
         "id": "5320306e-8189-42da-8f41-5a76a8501c36",
         "title": "AMS Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380580,7 +380559,7 @@
         "company_name": "Marvell",
         "id": "c9f2fee3-e5c3-40a0-8238-50c86087fdbe",
         "title": "Hardware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -380670,7 +380649,7 @@
         "company_name": "Lumentum",
         "id": "d72513fe-2382-446f-96ad-147acd1b864b",
         "title": "Embedded Software Developer Co-op - Optical Circuit Switch",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -390000,7 +389979,7 @@
         "company_name": "Leidos",
         "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
         "title": "Business Systems AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -404290,6 +404269,30 @@
         "date_updated": 1791980466,
         "date_posted": 1791936000,
         "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/LLM-Agent-Research-Intern_R108250",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "f5457527-7b38-4075-a2c5-86d4b5dd0795",
+        "title": "LLM Agent Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791983709,
+        "date_posted": 1791936000,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM-Agent-Research-Intern_R108250-1",
         "locations": [
             "London, UK"
         ],
