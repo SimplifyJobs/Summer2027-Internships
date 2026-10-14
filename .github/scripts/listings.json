@@ -253046,7 +253046,7 @@
         "company_name": "RTX",
         "id": "156e5e79-8f49-4e7b-bea1-7c52e9b98f85",
         "title": "Customer First Centre Intern - Customer First Centre - Technical Helpdesk",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -268588,7 +268588,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -287659,7 +287659,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -317336,7 +317336,7 @@
         "company_name": "Insulet",
         "id": "15263e7f-505d-493b-9a92-35719d51ed83",
         "title": "Embedded Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -324200,7 +324200,7 @@
         "company_name": "Blue Robotics",
         "id": "4460b93d-f497-449c-9378-4be985d50e83",
         "title": "Electronics Design Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -334088,7 +334088,7 @@
         "company_name": "APEX Analytix",
         "id": "45fec14d-2001-41b9-802c-251d000290e1",
         "title": "Data Engineering Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351041,7 +351041,7 @@
         "company_name": "Fidelity Investments",
         "id": "3ffeeada-412b-4314-ad45-08e3e40c327f",
         "title": "Quantitative Research Intern - Strategic Advisers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352557,7 +352557,7 @@
         "company_name": "Entergy",
         "id": "8bc66f1e-97cf-452d-b8ff-de662e473691",
         "title": "Compliance and Systems Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -353729,7 +353729,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
         "title": "Software Development Intern - Wealth Management Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354187,7 +354187,7 @@
         "company_name": "Rippling",
         "id": "93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
         "title": "Machine Learning Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354931,7 +354931,7 @@
         "company_name": "William Blair",
         "id": "418c7dd2-b4c0-46c0-b387-96395ae563ea",
         "title": "Software Engineering Intern - Wit",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -358377,7 +358377,7 @@
         "company_name": "Mondelez International",
         "id": "3fa14192-2a32-445c-adeb-9ffe9446fa86",
         "title": "Promotions Analyst Intern - Revenue Growth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -363834,7 +363834,7 @@
         "company_name": "Acuity",
         "id": "4305964e-67a9-4802-9788-7885664c1c5c",
         "title": "Firmware Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -364094,7 +364094,7 @@
         "company_name": "GovSignals",
         "id": "954f1915-886d-44d2-b63c-900fb3b88410",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -365996,7 +365996,7 @@
         "company_name": "RTX",
         "id": "3c34c8ca-7efa-4d9f-84d5-8b8fa15d01db",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366204,7 +366204,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -370281,7 +370281,7 @@
         "company_name": "Bose",
         "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
         "title": "Reverse Logistics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -385357,7 +385357,7 @@
         "company_name": "Medtronic",
         "id": "3c5615c3-8831-41c5-8668-b6072cfc338c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387606,7 +387606,7 @@
         "company_name": "Electronic Arts",
         "id": "978a06db-60f9-4e14-8508-fd5a6dc1b731",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389638,7 +389638,7 @@
         "company_name": "NewYork-Presbyterian",
         "id": "157c3d24-c5e0-4535-9ed2-0627c925c4cc",
         "title": "Finance Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404379,6 +404379,54 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ascension",
+        "id": "7787c1ea-7ca3-47f9-913d-8d035d331bd9",
+        "title": "Integrated Participant Solutions Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791967748,
+        "date_posted": 1791843477,
+        "url": "https://jobs.ascension.org/us/en/job/2026-465198",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascension",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aon",
+        "id": "6af5e7e9-0fa2-4fbf-a037-ce3ebedd3daf",
+        "title": "Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791967565,
+        "date_posted": 1791842765,
+        "url": "https://jobs.aon.com/jobs/108017?icims=1",
+        "locations": [
+            "Leeds, UK",
+            "Epsom, UK",
+            "Birmingham, UK",
+            "Glasgow, UK",
+            "Farnborough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AON",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
