@@ -1,174 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "7f67f9d3-45fb-4c43-864e-4df9f6642fad",
-        "title": "ABC News Insights and Analytics Intern - Summer/Fall 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027"
-        ],
-        "date_updated": 1771232870,
-        "date_posted": 1771232870,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Summer-Fall-2026_10138489-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ensora Health",
-        "id": "cfdd055e-2af7-458d-a8e8-7c70cf907ec6",
-        "title": "AI/ML Intern - Generative AI & Intelligent Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771232571,
-        "date_posted": 1771232571,
-        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/AI-ML-Intern---Generative-AI---Intelligent-Systems_R439",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensora-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ensora Health",
-        "id": "573b6042-43ba-4d24-a71b-18458b21defd",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771232579,
-        "date_posted": 1771232579,
-        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/Software-Engineer-Intern_R449",
-        "locations": [
-            "Concord, NH",
-            "Mississippi",
-            "Texas",
-            "Tennessee",
-            "Indiana",
-            "Alabama",
-            "NYC",
-            "South Dakota",
-            "Florida",
-            "South Carolina",
-            "Kentucky",
-            "Maryland",
-            "North Dakota",
-            "Rhode Island",
-            "New Mexico",
-            "Waterbury, CT",
-            "Ohio",
-            "Louisiana",
-            "Minnesota",
-            "Wisconsin",
-            "Missouri",
-            "Kansas",
-            "Michigan",
-            "Jackson Township, NJ",
-            "Illinois",
-            "Pennsylvania",
-            "Delaware",
-            "Virginia",
-            "Massachusetts",
-            "Georgia",
-            "Iowa",
-            "Maine",
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensora-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ensora Health",
-        "id": "56e7fbc3-a9c8-486e-b4e2-f60e30436141",
-        "title": "AI/ML Intern - Generative AI & Intelligent Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771232582,
-        "date_posted": 1771232582,
-        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/AI-ML-Intern---Generative-AI---Intelligent-Systems_R448",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensora-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ensora Health",
-        "id": "4c148a14-350a-403d-98fe-4263ef0a24ee",
-        "title": "AI/ML Intern - Generative AI & Intelligent Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771232572,
-        "date_posted": 1771232572,
-        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/AI-ML-Intern---Generative-AI---Intelligent-Systems_R447",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensora-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ensora Health",
-        "id": "4b315744-0223-49f8-821c-b3b7cb584fb5",
-        "title": "AI/ML Intern - Generative AI & Intelligent Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771232575,
-        "date_posted": 1771232575,
-        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/AI-ML-Intern---Generative-AI---Intelligent-Systems_R446",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensora-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Waters Corporation",
         "id": "c2ed2d9f-86fe-4bd0-a632-01cf69b67b92",
@@ -256165,7 +255997,7 @@
         "company_name": "Brunswick",
         "id": "87b11195-7636-4d15-98ef-a30cea2dff16",
         "title": "Systems Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -262839,7 +262671,7 @@
         "company_name": "GE Vernova",
         "id": "9c526e49-d762-4923-802e-2cb13b434fee",
         "title": "Product Management Intern - Controls Lifecare Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Winter 2027"
@@ -268588,7 +268420,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -271436,7 +271268,7 @@
         "company_name": "ZS",
         "id": "bfd24658-9d27-4663-b02c-2b76b6042f78",
         "title": "Decision Analytics Associate Intern - University Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -282702,7 +282534,7 @@
         "company_name": "Micron Technology",
         "id": "22e8ae7a-01f6-45a4-b1e6-5dbd92874d50",
         "title": "Product Test Engineer Intern - DRAM",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334375,7 +334207,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -351041,7 +350873,7 @@
         "company_name": "Fidelity Investments",
         "id": "3ffeeada-412b-4314-ad45-08e3e40c327f",
         "title": "Quantitative Research Intern - Strategic Advisers",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -353729,7 +353561,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
         "title": "Software Development Intern - Wealth Management Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354187,7 +354019,7 @@
         "company_name": "Rippling",
         "id": "93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
         "title": "Machine Learning Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364094,7 +363926,7 @@
         "company_name": "GovSignals",
         "id": "954f1915-886d-44d2-b63c-900fb3b88410",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -365996,7 +365828,7 @@
         "company_name": "RTX",
         "id": "3c34c8ca-7efa-4d9f-84d5-8b8fa15d01db",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -370281,7 +370113,7 @@
         "company_name": "Bose",
         "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
         "title": "Reverse Logistics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -385357,7 +385189,7 @@
         "company_name": "Medtronic",
         "id": "3c5615c3-8831-41c5-8668-b6072cfc338c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387606,7 +387438,7 @@
         "company_name": "Electronic Arts",
         "id": "978a06db-60f9-4e14-8508-fd5a6dc1b731",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390968,7 +390800,7 @@
         "company_name": "Bose",
         "id": "8361ff2b-f33d-4bba-ba6a-756c0fda60f4",
         "title": "Audio Machine Learning Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -402645,7 +402477,7 @@
         "company_name": "Rhombus",
         "id": "e76320a7-376a-4fcb-a89b-c5f1d4aca9a7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404248,7 +404080,7 @@
         "company_name": "BP",
         "id": "6f2c73a3-0420-441e-89a0-480e9cf9735a",
         "title": "Digital, Data, AI & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404427,6 +404259,55 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "a90773c4-8d1d-4ae9-bcd0-5deecca8ed27",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791968762,
+        "date_posted": 1790633851,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "22830755-c5a1-4259-baed-bbd862daa791",
+        "title": "Systems Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791968583,
+        "date_posted": 1791968538,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
