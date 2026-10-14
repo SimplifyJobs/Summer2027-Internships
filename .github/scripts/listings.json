@@ -281443,7 +281443,7 @@
         "company_name": "Intel",
         "id": "ac297577-f4f9-4b73-ab38-00c094342140",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -281529,7 +281529,7 @@
         "company_name": "Intel",
         "id": "a4415818-9dfc-4624-8235-e94c953af5e4",
         "title": "Platform Hardware and Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -282694,7 +282694,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -299081,7 +299081,7 @@
         "company_name": "Marvell",
         "id": "2efbdbb6-799e-4b37-8c81-68bf168efb5f",
         "title": "Functional Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -307193,7 +307193,7 @@
         "company_name": "RTX",
         "id": "c083713f-2297-45fc-a2d7-2bc2fc492057",
         "title": "FPGA Electrical Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -318504,7 +318504,7 @@
         "company_name": "Thomson Reuters",
         "id": "25f24729-b8c9-4d4f-9896-76b196fe8aaa",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -322042,7 +322042,7 @@
         "company_name": "Oshkosh",
         "id": "be741c04-69a7-41b2-8fb3-8d280bacbe8c",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -322827,7 +322827,7 @@
         "company_name": "Amgen",
         "id": "dc2aebf1-8c3c-4139-937e-f31dfd69950e",
         "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347856,7 +347856,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358117,7 +358117,7 @@
         "company_name": "Mondelez International",
         "id": "ba20a0de-d82d-4d5b-8c1d-c9e68e0d9741",
         "title": "Promotions Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372579,7 +372579,7 @@
         "company_name": "CoStar Group",
         "id": "be949df0-0657-4f39-b1f3-e45962a3eee3",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372743,7 +372743,7 @@
         "company_name": "Invesco",
         "id": "a63f1342-abee-4e15-bd4c-988628442f07",
         "title": "Early Career Intern - Fixed Income Global Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373406,7 +373406,7 @@
         "company_name": "Freddie Mac",
         "id": "75bf9ace-02bf-45d8-be12-dd89e1b6b7ba",
         "title": "Multifamily Capital Markets Analytics & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379340,7 +379340,7 @@
         "company_name": "RTX",
         "id": "69dfe055-71d6-4af8-9d85-7b57e1f53b2f",
         "title": "Digital Electrical Design Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397994,7 +397994,7 @@
         "company_name": "Tencent",
         "id": "9102f3b7-93b5-45dc-a78f-663455e6e36d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
