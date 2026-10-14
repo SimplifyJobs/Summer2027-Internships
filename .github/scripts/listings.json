@@ -282746,7 +282746,7 @@
         "company_name": "Qualified Health",
         "id": "ad10dd9a-ab7f-4ce4-8057-f55834468051",
         "title": "Clinical AI Evaluation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338185,7 +338185,7 @@
         "company_name": "Itron",
         "id": "d0b7cad1-3ef0-49a9-8285-0ff7c9a36015",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -348558,7 +348558,7 @@
         "company_name": "XPENG Motors",
         "id": "96dad35a-89dc-4ab4-81fc-e699ef8ba911",
         "title": "Robotics Center Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357349,7 +357349,7 @@
         "company_name": "Illinois Tool Works",
         "id": "9e770238-e3ff-491f-baa6-08a85518e661",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366594,7 +366594,7 @@
         "company_name": "OLG",
         "id": "80ab4b4b-a81c-405c-886f-9542bc500695",
         "title": "Performance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369389,7 +369389,7 @@
         "company_name": "Marvell",
         "id": "9782dff3-f33f-4032-ab54-8fd1ae055d4c",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371873,7 +371873,7 @@
         "company_name": "Autodesk",
         "id": "c63e96f3-3234-440f-a70f-b754963dcb2c",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -379030,7 +379030,7 @@
         "company_name": "Moog",
         "id": "d24b72c3-f5e3-47de-8f79-dc8f8911e709",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -384988,7 +384988,7 @@
         "company_name": "StackAdapt",
         "id": "c865e5b0-aae3-48b2-83c4-bc69ff0f7aee",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386314,7 +386314,7 @@
         "company_name": "CIBC",
         "id": "ce00df4f-d241-4013-897d-9dbdd794d1e1",
         "title": "Business Intelligence Enterprise Anti-Money Laundering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394467,7 +394467,7 @@
         "company_name": "RTX",
         "id": "b449def0-7da4-4dfc-b873-38eb657e5911",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397831,7 +397831,7 @@
         "company_name": "RTX",
         "id": "ce67de6b-014f-45b0-8b18-54b623767679",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
