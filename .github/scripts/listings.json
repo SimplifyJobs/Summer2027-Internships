@@ -338231,7 +338231,7 @@
         "company_name": "Itron",
         "id": "7e9944eb-4630-4e1a-929f-76f0e8361f47",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363379,7 +363379,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "7d75bd70-f568-420d-985e-c8ccd2632c8f",
         "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397952,7 +397952,7 @@
         "company_name": "RTX",
         "id": "8f6341ff-47e2-4a91-8d5d-fca1f79014c0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398599,7 +398599,7 @@
         "company_name": "Ameriprise Financial",
         "id": "76a3424a-2acd-4da8-ba77-99e35841317e",
         "title": "Digital Product Owner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
