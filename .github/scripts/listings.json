@@ -349637,7 +349637,7 @@
         "company_name": "CAE",
         "id": "05c29d98-1be6-40fd-a754-fa374b2a3774",
         "title": "C++ Backend Developer Intern - Image Generator",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398789,7 +398789,7 @@
         "company_name": "Ascension",
         "id": "155c8d93-ccf5-40ce-a59e-5011b213e79f",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
