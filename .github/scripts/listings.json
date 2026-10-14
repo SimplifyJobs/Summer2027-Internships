@@ -226769,7 +226769,7 @@
         "company_name": "Atoms",
         "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -313150,7 +313150,7 @@
         "company_name": "Ankura Consulting Group",
         "id": "36afa7ec-3c37-48f8-98ac-d83ac2507a01",
         "title": "University Intern - Forensic Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -340450,7 +340450,7 @@
         "company_name": "Avis Budget Group",
         "id": "4552c6b4-8bda-4519-9764-dcd28af299cf",
         "title": "IT Engineering Intern - Accelerate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373854,7 +373854,7 @@
         "company_name": "Attentive",
         "id": "4bad26ec-b922-4992-b057-7e08001e70a9",
         "title": "Product Management Intern - Agentic Integrations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381022,7 +381022,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "5880290d-76ca-4275-a87f-5c15736fcf49",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384744,7 +384744,7 @@
         "company_name": "Innovative Defense Technologies",
         "id": "48407e3f-74f1-4eda-a843-3935f4654085",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392051,7 +392051,7 @@
         "company_name": "Meta",
         "id": "4a135c49-e393-4159-98f9-bdffd044d0ae",
         "title": "Optical Engineer Intern - Camera, Depth & Cover Window Optics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395297,7 +395297,7 @@
         "company_name": "Varian",
         "id": "5324f558-2578-41cd-af4f-40087ac7ea7b",
         "title": "Performance Engineering Assistant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
