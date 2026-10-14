@@ -365920,7 +365920,7 @@
         "company_name": "Marvell",
         "id": "5dd4e233-ca87-4d9e-9a66-eb83b035e492",
         "title": "Test Equipment Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -400288,7 +400288,7 @@
         "company_name": "American Family Insurance Group",
         "id": "d5c6977f-2ebb-44d2-a474-a645835a454c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402945,7 +402945,7 @@
         "company_name": "MarketStar",
         "id": "8eebdfbb-7dbb-49ee-9d30-efd2ef2c3c36",
         "title": "Data Engineering and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
