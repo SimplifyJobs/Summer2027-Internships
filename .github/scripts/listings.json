@@ -404507,5 +404507,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Physical Intelligence",
+        "id": "1392f109-8d28-4346-95bd-eccb99401b84",
+        "title": "Mechatronics Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1790242562,
+        "date_posted": 1789625898,
+        "url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Physical-Intelligence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
