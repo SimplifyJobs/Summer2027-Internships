@@ -365143,7 +365143,7 @@
         "company_name": "Marvell",
         "id": "06dcf017-75e1-4b49-813d-0671772b0592",
         "title": "Board Product Engineer Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367791,7 +367791,7 @@
         "company_name": "Itron",
         "id": "1e39ef9b-ab50-405f-808e-28002f4fc72f",
         "title": "Data Science Intern - Distributed Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371967,7 +371967,7 @@
         "company_name": "Autodesk",
         "id": "19416511-793e-4611-921a-d3256bb64f2f",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
