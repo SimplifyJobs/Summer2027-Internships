@@ -208705,7 +208705,7 @@
         "company_name": "AQR Capital Management",
         "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
         "title": "Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -239238,7 +239238,7 @@
         "company_name": "Capital One",
         "id": "885ec75e-c125-4f51-a804-7ec7edb80644",
         "title": "Backend Software Engineer Intern - Team Interstellar",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -284656,7 +284656,7 @@
         "company_name": "Ruekert & Mielke",
         "id": "79b33019-6e5d-4257-b727-82b8bae260f0",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303097,7 +303097,7 @@
         "company_name": "Cox",
         "id": "71d70aa4-c992-4e8e-a07e-f0adc48c5a29",
         "title": "Product Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -303231,7 +303231,7 @@
         "company_name": "Cox",
         "id": "97899cd4-de4e-4a30-88bb-d77f77c316cb",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308122,7 +308122,7 @@
         "company_name": "Capital One",
         "id": "8ba40bbd-9d6e-4f1a-abb5-1e9521a85525",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -340427,7 +340427,7 @@
         "company_name": "Avis Budget Group",
         "id": "94de9c2f-79c0-484e-a4c4-f930292172f8",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398699,7 +398699,7 @@
         "company_name": "Bedrock Robotics",
         "id": "8f8f4442-fe64-4954-b92c-76b95c490a03",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -402198,7 +402198,7 @@
         "company_name": "D2L",
         "id": "868d0fb6-f1ee-4066-af27-dd41f4f9c1cc",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -402886,7 +402886,7 @@
         "company_name": "STV",
         "id": "90b31488-ec05-4852-acfc-38009f921863",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -404225,7 +404225,7 @@
         "company_name": "Equifax",
         "id": "5d1b7629-e234-4106-9f15-07fca21aa8a3",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
