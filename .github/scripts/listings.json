@@ -205132,7 +205132,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323575,7 +323575,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -325909,7 +325909,7 @@
         "company_name": "BP",
         "id": "27d35509-4d8d-4dd3-9313-54dfaee11170",
         "title": "Data Strategist Intern - Global Data Strategists Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334550,7 +334550,7 @@
         "company_name": "Analog Devices",
         "id": "f0bd2e8e-c29b-4598-a4f6-712a6741f8d6",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -340619,7 +340619,7 @@
         "company_name": "Copart",
         "id": "49b31087-1e4c-42c6-8ff8-bf49f6ad3153",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -341110,7 +341110,7 @@
         "company_name": "Marvell",
         "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366185,7 +366185,7 @@
         "company_name": "Marvell",
         "id": "6f576614-627b-4348-9a04-178f26b01381",
         "title": "AI-Native Development Platform Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375272,7 +375272,7 @@
         "company_name": "Marvell",
         "id": "e58ec8c1-6859-41aa-af05-4d0267eca597",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -375900,7 +375900,7 @@
         "company_name": "Houlihan Lokey",
         "id": "d6edb373-31c9-46ca-b0c8-87877dcb9d6d",
         "title": "Financial Analyst - Corporate Valuation Advisory Services - Complex Securities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380035,7 +380035,7 @@
         "company_name": "NVIDIA",
         "id": "613293d2-6943-4f9a-ab4a-7bb7883891fc",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384263,7 +384263,7 @@
         "company_name": "Visa",
         "id": "bc9b8b9a-3e10-4a78-965e-9f4778893a71",
         "title": "Staff Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -389774,7 +389774,7 @@
         "company_name": "Insulet",
         "id": "b4789431-e06c-4c29-83bf-0028a887dc8a",
         "title": "Embedded Software Test Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -390992,7 +390992,7 @@
         "company_name": "Leidos",
         "id": "e3e1417f-9aa4-44e8-8ee8-c075f7d2f7db",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391581,7 +391581,7 @@
         "company_name": "General Motors",
         "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
         "title": "AV Sensor Design, Release and Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396790,7 +396790,7 @@
         "company_name": "General Motors",
         "id": "e41412f4-5392-4dee-bf68-676610efe34c",
         "title": "AI Research Intern - Embodied AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -399538,7 +399538,7 @@
         "company_name": "KLA",
         "id": "e99b784e-8115-4c4d-a6d5-084115592c66",
         "title": "Algorithm Engineer Intern - GPU/CUDA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404305,5 +404305,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockwell Automation",
+        "id": "6888a509-6e70-41ad-ad5f-a86b6d1be5bc",
+        "title": "Information Technology Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791974544,
+        "date_posted": 1788220800,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
