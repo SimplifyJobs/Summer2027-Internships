@@ -211628,7 +211628,7 @@
         "company_name": "TechInsights",
         "id": "42ac32cf-f533-4b2a-ba45-60441a95cdda",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -275718,7 +275718,7 @@
         "company_name": "Berkshire Grey",
         "id": "328e0c60-a7b7-4d0e-b8d1-c2ce66574592",
         "title": "Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -355608,7 +355608,7 @@
         "company_name": "Excellus BCBS",
         "id": "56176872-3480-423d-9dd5-9d705a881462",
         "title": "College Intern - Mobile Software Engineering Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355692,7 +355692,7 @@
         "company_name": "Excellus BCBS",
         "id": "239a42c1-942f-4900-85bb-45486d858a6d",
         "title": "College Intern - Digital Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382363,7 +382363,7 @@
         "company_name": "Rheem",
         "id": "31cc6d53-82a9-4c54-b9da-84406b320237",
         "title": "Electronics Hardware Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399871,7 +399871,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "27c7b2da-9496-41b2-9789-0dbc38114638",
         "title": "Defense Agencies Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
