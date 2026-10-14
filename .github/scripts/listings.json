@@ -1,31 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "cd487e2e-f235-4059-8750-6496848370da",
-        "title": "ABC News Insights and Analytics Intern - Summer/Fall 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027"
-        ],
-        "date_updated": 1771239842,
-        "date_posted": 1771239842,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Summer-Fall-2026_10138489",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ensora Health",
         "id": "a255c5ea-d28a-4192-851d-77153d224683",
@@ -205132,7 +205107,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -281468,7 +281443,7 @@
         "company_name": "Intel",
         "id": "ac297577-f4f9-4b73-ab38-00c094342140",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -281554,7 +281529,7 @@
         "company_name": "Intel",
         "id": "a4415818-9dfc-4624-8235-e94c953af5e4",
         "title": "Platform Hardware and Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -282719,7 +282694,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -299106,7 +299081,7 @@
         "company_name": "Marvell",
         "id": "2efbdbb6-799e-4b37-8c81-68bf168efb5f",
         "title": "Functional Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307218,7 +307193,7 @@
         "company_name": "RTX",
         "id": "c083713f-2297-45fc-a2d7-2bc2fc492057",
         "title": "FPGA Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319444,7 +319419,7 @@
         "company_name": "Boeing",
         "id": "2e644f8f-171e-4397-97e7-d521c7f3b0e9",
         "title": "Data Analytics Intern - 6 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322067,7 +322042,7 @@
         "company_name": "Oshkosh",
         "id": "be741c04-69a7-41b2-8fb3-8d280bacbe8c",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322852,7 +322827,7 @@
         "company_name": "Amgen",
         "id": "dc2aebf1-8c3c-4139-937e-f31dfd69950e",
         "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325909,7 +325884,7 @@
         "company_name": "BP",
         "id": "27d35509-4d8d-4dd3-9313-54dfaee11170",
         "title": "Data Strategist Intern - Global Data Strategists Team",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -334550,7 +334525,7 @@
         "company_name": "Analog Devices",
         "id": "f0bd2e8e-c29b-4598-a4f6-712a6741f8d6",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -341110,7 +341085,7 @@
         "company_name": "Marvell",
         "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
         "title": "Design for Test Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347881,7 +347856,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372604,7 +372579,7 @@
         "company_name": "CoStar Group",
         "id": "be949df0-0657-4f39-b1f3-e45962a3eee3",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375900,7 +375875,7 @@
         "company_name": "Houlihan Lokey",
         "id": "d6edb373-31c9-46ca-b0c8-87877dcb9d6d",
         "title": "Financial Analyst - Corporate Valuation Advisory Services - Complex Securities",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391581,7 +391556,7 @@
         "company_name": "General Motors",
         "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
         "title": "AV Sensor Design, Release and Integration Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -399538,7 +399513,7 @@
         "company_name": "KLA",
         "id": "e99b784e-8115-4c4d-a6d5-084115592c66",
         "title": "Algorithm Engineer Intern - GPU/CUDA",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
