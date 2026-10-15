@@ -198733,7 +198733,7 @@
         "company_name": "DRW",
         "id": "d1bb038f-04a0-4995-9bcc-ff779f3a2054",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251490,7 +251490,7 @@
         "company_name": "RTX",
         "id": "156e5e79-8f49-4e7b-bea1-7c52e9b98f85",
         "title": "Customer First Centre Intern - Customer First Centre - Technical Helpdesk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -276284,7 +276284,7 @@
         "company_name": "Dedalus Labs",
         "id": "c273bc4d-7d9a-423b-8487-df0419f55399",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -286103,7 +286103,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -315780,7 +315780,7 @@
         "company_name": "Insulet",
         "id": "15263e7f-505d-493b-9a92-35719d51ed83",
         "title": "Embedded Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -322644,7 +322644,7 @@
         "company_name": "Blue Robotics",
         "id": "4460b93d-f497-449c-9378-4be985d50e83",
         "title": "Electronics Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328087,7 +328087,7 @@
         "company_name": "Intuit",
         "id": "25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7",
         "title": "Mobile Software Engineer Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353375,7 +353375,7 @@
         "company_name": "William Blair",
         "id": "418c7dd2-b4c0-46c0-b387-96395ae563ea",
         "title": "Software Engineering Intern - Wit",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362278,7 +362278,7 @@
         "company_name": "Acuity",
         "id": "4305964e-67a9-4802-9788-7885664c1c5c",
         "title": "Firmware Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -363612,7 +363612,7 @@
         "company_name": "RTX",
         "id": "159f82a2-c7ed-4eee-8157-6d300f593c83",
         "title": "Systems Engineer Co-op - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364648,7 +364648,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388082,7 +388082,7 @@
         "company_name": "NewYork-Presbyterian",
         "id": "157c3d24-c5e0-4535-9ed2-0627c925c4cc",
         "title": "Finance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404399,7 +404399,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
