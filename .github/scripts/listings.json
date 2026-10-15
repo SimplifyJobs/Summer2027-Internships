@@ -249390,7 +249390,7 @@
         "company_name": "Audax Group",
         "id": "7f70a436-4619-458c-818b-33252bb0a7c9",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -256097,7 +256097,7 @@
         "company_name": "RTX",
         "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
         "title": "Customer Data Management and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -264394,7 +264394,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -272612,7 +272612,7 @@
         "company_name": "US Foods",
         "id": "6058a81f-b551-4b1c-af0f-255daffabc0f",
         "title": "AI Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306847,7 +306847,7 @@
         "company_name": "H.B. Fuller",
         "id": "6182fc58-f495-494d-9521-48ffbd904f46",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343445,7 +343445,7 @@
         "company_name": "CME Group",
         "id": "5d469294-b2e6-427c-b2dd-8da3dad68eee",
         "title": "Software Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347512,7 +347512,7 @@
         "company_name": "Mastercard",
         "id": "8979d060-2c5b-44d4-9801-4d95ce44a26f",
         "title": "Research & Development Co-op - WashU",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -396575,7 +396575,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "6b7cee21-6bc2-48ee-ae5b-6a9d9abab9e3",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396694,7 +396694,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "885c31c2-b9cf-41f2-be56-c1727400c1da",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399546,7 +399546,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "78bdfaa5-c862-4fd6-82c5-58458a87eabf",
         "title": "Oceanographic Lidar Sensing and Field Campaign Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
