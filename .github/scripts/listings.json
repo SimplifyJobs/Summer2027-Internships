@@ -1,361 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "U.S. Bank",
-        "id": "c8e9648b-bbd6-49f6-bee0-e525d2537972",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771285991,
-        "date_posted": 1771285991,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/London-United-Kingdom/Product-Management-Summer-Intern_2026-0003475",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "QTS",
-        "id": "aca4eff1-c735-4711-aa06-d4b8f8a9e59e",
-        "title": "Software Enhancements and Automation Intern - Software Development and DevOps",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771286004,
-        "date_posted": 1771286004,
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Ashburn-VA/Summer-2026-Internship--Software-Enhancements-and-Automation_R2026-0318",
-        "locations": [
-            "Ashburn, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/QTS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CAE",
-        "id": "58682767-5c38-4bf9-aabf-6df7e8b45585",
-        "title": "Integration Specialist Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771286083,
-        "date_posted": 1771286083,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Integration-Specialist-Co-Op_120482",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CAE",
-        "id": "4d1c450c-74f1-4a8d-bf99-813d77902458",
-        "title": "C-MAT-100 Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771286119,
-        "date_posted": 1771286119,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Moose-Jaw-CMAT/C-MAT-100-Engineering-Intern_120402",
-        "locations": [
-            "Regina, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CAE",
-        "id": "112b7866-1293-4421-bfd8-ed7919f13a44",
-        "title": "Junior Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771286123,
-        "date_posted": 1771286123,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Halifax/C-DS-900-Junior-Software-Developer-Intern_120426",
-        "locations": [
-            "Halifax Regional Municipality, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jabil",
-        "id": "895bf7f1-8f7f-4e98-a48d-20468ce7cd14",
-        "title": "Financial Systems Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771285877,
-        "date_posted": 1771285877,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Systems-Developer-Intern_J2439302",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cleveland Clinic",
-        "id": "6739a376-b751-4129-96e4-18c08376c9b4",
-        "title": "IT Intern - Automation and Reporting",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771285672,
-        "date_posted": 1771285672,
-        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Administrative-Campus/IT-Summer-Intern---Automation-and-Reporting_329845",
-        "locations": [
-            "Orange, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "T-Mobile",
-        "id": "908244b6-574d-4545-b3c3-42d627cba566",
-        "title": "Product Management \u2013 Ecommerce Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771285501,
-        "date_posted": 1771285501,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Product-Management--eCommerce-Internship_REQ343291",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ensora Health",
-        "id": "a29de138-ba31-457e-94a5-25d02337d6a0",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771285409,
-        "date_posted": 1771285409,
-        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Alabama/Software-Engineer-Intern_R443",
-        "locations": [
-            "Concord, NH",
-            "Mississippi",
-            "Texas",
-            "Tennessee",
-            "Oklahoma",
-            "Indiana",
-            "North Carolina",
-            "Alabama",
-            "NYC",
-            "South Dakota",
-            "South Carolina",
-            "Kentucky",
-            "Maryland",
-            "North Dakota",
-            "Rhode Island",
-            "New Mexico",
-            "Waterbury, CT",
-            "Ohio",
-            "Louisiana",
-            "Minnesota",
-            "Wisconsin",
-            "Missouri",
-            "Kansas",
-            "Michigan",
-            "Jackson Township, NJ",
-            "Illinois",
-            "Pennsylvania",
-            "Washington",
-            "Delaware",
-            "Virginia",
-            "Massachusetts",
-            "Georgia",
-            "Iowa",
-            "Maine",
-            "Radcliff, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensora-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Zurn Elkay Water Solutions",
-        "id": "d2209fe0-4bc3-4ee9-bb0d-0ca7398beeef",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771285242,
-        "date_posted": 1771285242,
-        "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2026-_REQ-019399",
-        "locations": [
-            "Paso Robles, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fresenius Kabi",
-        "id": "c157ddb2-5233-4b0b-a8df-f240499e4529",
-        "title": "Intern Medtech Systems Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771285165,
-        "date_posted": 1771285165,
-        "url": "https://freseniusglobal.wd3.myworkdayjobs.com/FK_Careers/job/Lake-Zurich-IL/Intern---MedTech-Systems-Engineering_R-10210288",
-        "locations": [
-            "Lake Zurich, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius-Kabi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fresenius Kabi",
-        "id": "0849a9a4-94a9-4bfb-9c6d-92dad85459e8",
-        "title": "Intern \u2013 Systems Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771285163,
-        "date_posted": 1771285163,
-        "url": "https://freseniusglobal.wd3.myworkdayjobs.com/FK_Careers/job/Lake-Zurich-IL/Intern---Systems-Engineering_R-10210219",
-        "locations": [
-            "Lake Zurich, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius-Kabi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "f9ff7c48-375b-42f7-80b6-eb95f56c1316",
-        "title": "Summer 2026: Applied Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771284767,
-        "date_posted": 1771284767,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Summer-2026--Applied-Software-Engineering-Internship--Onsite-_01822416",
-        "locations": [
-            "Newport, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "86cdaf7a-25f1-4e2d-8079-dd4adf398dec",
-        "title": "Intern - Systems Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771284758,
-        "date_posted": 1771284758,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Intern---Systems-Engineer---Onsite_01824415",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "29e8de0e-1422-4100-b885-56b6b63fe04a",
@@ -6715,29 +6360,6 @@
             "Neukirchen-Vluyn, Germany"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Fresenius Kabi",
-        "id": "acfb0e9b-b599-4e51-a95e-25a05e2307f7",
-        "title": "Intern \u2013 Research & Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771501948,
-        "date_posted": 1771285167,
-        "url": "https://freseniusglobal.wd3.myworkdayjobs.com/FK_Careers/job/Lake-Zurich-IL/Intern---R---D_R-10210290",
-        "locations": [
-            "Lake Zurich, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius-Kabi",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -406358,6 +405980,54 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Atoms",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "General Motors",
+        "id": "8efc5434-3c49-410a-90f6-5f6124037e2b",
+        "title": "Product Management Intern - Vehicle Autonomy",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792021147,
+        "date_posted": 1791936000,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "554a8d6f-461f-46af-a16c-958c34f78906",
+        "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792021148,
+        "date_posted": 1791936000,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
