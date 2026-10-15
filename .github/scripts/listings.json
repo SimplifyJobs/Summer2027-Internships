@@ -358481,7 +358481,7 @@
         "company_name": "Biogen",
         "id": "e899b6b8-554e-4d01-a435-d93721e37430",
         "title": "Data Science & AI Co-op - Portfolio Data & Digital Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -399544,7 +399544,7 @@
         "company_name": "Lake Michigan Credit Union",
         "id": "c4d25552-826d-4682-8edd-264a1371ee4b",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -406501,5 +406501,240 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boeing",
+        "id": "5ddbb8d7-90b0-4740-a221-95a47aa11f0e",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792075325,
+        "date_posted": 1792022400,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
+        "locations": [
+            "Vancouver, BC, Canada",
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "ed30d6d7-5570-45a3-abec-96d92e44b388",
+        "title": "Audit & Assurance Intern - AI and Data Science",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792075052,
+        "date_posted": 1792074907,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "ef5110ac-e253-4654-896d-f186344b7c1d",
+        "title": "Applied Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792074968,
+        "date_posted": 1792022400,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "3b537031-55e0-438c-9aee-888baa79d6cd",
+        "title": "Software Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792075043,
+        "date_posted": 1792022400,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "7b06c1c0-8cf5-43d9-bcb0-391457d8ffbb",
+        "title": "Mobile Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792075042,
+        "date_posted": 1792022400,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Deloitte",
+        "id": "5006bca9-5a65-4bba-ae3e-89a860ed29ad",
+        "title": "Audit & Assurance Intern - Valuation & Analytics",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792075058,
+        "date_posted": 1792074907,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "e7efbdf7-1fb3-47ce-bca3-4ad42107a5a7",
+        "title": "Meritocracy Fellow",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1792074620,
+        "date_posted": 1792074525,
+        "url": "https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola Solutions",
+        "id": "b7b016e9-8f7b-4690-9e09-20381c2d0342",
+        "title": "Electronics Design Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792074643,
+        "date_posted": 1792022400,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "1dba15c8-8b9b-480b-9237-6a5a7bf57e11",
+        "title": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792074645,
+        "date_posted": 1792022400,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "686d8e2a-ab20-418c-8b0b-3d83af16897c",
+        "title": "Developer Technology Engineer Intern - Compute Performance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792074653,
+        "date_posted": 1792022400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
+        "locations": [
+            "Bristol, UK",
+            "Z\u00fcrich, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
