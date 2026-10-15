@@ -286308,7 +286308,7 @@
         "company_name": "Skydio",
         "id": "443b4d84-5b87-497b-bb36-a713b6128d31",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -292767,7 +292767,7 @@
         "company_name": "GE Vernova",
         "id": "4209c5e8-720b-4527-aed6-1d5b57782d05",
         "title": "Hardware Engineer Co-op - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -303763,7 +303763,7 @@
         "company_name": "Loblaw Companies",
         "id": "479b278f-e672-4869-9d76-6d2885801675",
         "title": "Associate Product Manager Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -304698,7 +304698,7 @@
         "company_name": "ONE Finance",
         "id": "57114f9d-d821-430f-ac60-02a5e53ef385",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311685,7 +311685,7 @@
         "company_name": "Amperesand",
         "id": "4de22b57-49da-4b2d-8d4b-d292fe7f6a05",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -317118,7 +317118,7 @@
         "company_name": "Procter & Gamble",
         "id": "40230ab3-ddc1-4540-b302-39c127c06640",
         "title": "Data Science and Machine Learning PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328942,7 +328942,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "4e5b7eb9-a36b-44d7-9aed-7228b2acfc5a",
         "title": "Computer Engineer Intern - Shipboard Systems Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347253,7 +347253,7 @@
         "company_name": "CAE",
         "id": "35198eff-0919-482c-86ff-21b8e8d1cd07",
         "title": "C++ CGF Unreal Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394459,7 +394459,7 @@
         "company_name": "Loram",
         "id": "71e07142-eba9-4f0e-b4b8-57bd2f823ffc",
         "title": "Machine Learning / Artificial Intelligence Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
