@@ -3581,7 +3581,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
+<td>↳</td>
 <td>Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
