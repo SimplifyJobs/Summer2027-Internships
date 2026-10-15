@@ -305780,7 +305780,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311015,7 +311015,7 @@
         "company_name": "Cigna Group",
         "id": "e461cc79-60e8-4159-a7a2-764745fccb27",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311061,7 +311061,7 @@
         "company_name": "Cigna Group",
         "id": "b4c471c9-9a26-433f-a75a-81237cee7603",
         "title": "Data & Analytics Engineering Intern - Technology Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352384,7 +352384,7 @@
         "company_name": "Vanderlande Industries",
         "id": "6878343a-d336-4e82-a4b7-eaeb1ec3af47",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354221,7 +354221,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -354289,7 +354289,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367465,7 +367465,7 @@
         "company_name": "KLA",
         "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
         "title": "Optical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367488,7 +367488,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368471,7 +368471,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385983,7 +385983,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387154,7 +387154,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389325,7 +389325,7 @@
         "company_name": "First Citizens BancShares",
         "id": "876c9bab-5273-42b9-94c4-323238fbe1a8",
         "title": "Outreach Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390797,7 +390797,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398249,7 +398249,7 @@
         "company_name": "KLA",
         "id": "9b2b1358-6a3c-48e5-afa1-219bc271af07",
         "title": "AI/ML Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398361,7 +398361,7 @@
         "company_name": "KLA",
         "id": "39bae66b-6dad-496c-bd59-19b0d064eac5",
         "title": "Algorithm Engineer Intern - GPU/CUDA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400277,7 +400277,7 @@
         "company_name": "KLA",
         "id": "7e70fdba-0509-4c0b-9de0-754fffa84596",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400399,7 +400399,7 @@
         "company_name": "KLA",
         "id": "f25ac517-b641-4c69-87e1-685fcf4b4dbc",
         "title": "Software Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400592,7 +400592,7 @@
         "company_name": "KLA",
         "id": "4f6c38aa-af24-4222-9bc8-745ccd365dc1",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400692,7 +400692,7 @@
         "company_name": "KLA",
         "id": "5641eed2-7dd2-4dc6-8834-2db9066a87f3",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402762,7 +402762,7 @@
         "company_name": "KLA",
         "id": "78691202-f306-42da-9b0e-d9c0e191b452",
         "title": "Computer Vision/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406033,6 +406033,122 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "9425b93f-c2dd-40f3-8335-c8ee684f4bf8",
+        "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792027655,
+        "date_posted": 1792027475,
+        "url": "https://lifeattiktok.com/search/7696664743112788277",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moment Energy",
+        "id": "0f0d7845-6951-49f6-b62d-4bb28230dd27",
+        "title": "R&D Technician Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792026814,
+        "date_posted": 1792026807,
+        "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4452550009",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Moment-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Atom Computing",
+        "id": "f720e544-0a87-4ef0-abb7-449a568af42d",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792026366,
+        "date_posted": 1792026237,
+        "url": "https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atom-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "b5c82d6a-e2fe-4495-9700-19dfe4ae3422",
+        "title": "Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792026452,
+        "date_posted": 1791936000,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "15c6a273-873e-4b66-ad2d-52b5e8db3043",
+        "title": "Electrical Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792026451,
+        "date_posted": 1791936000,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1",
+        "locations": [
+            "Chelmsford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
