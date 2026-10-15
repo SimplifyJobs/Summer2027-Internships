@@ -315564,7 +315564,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -355587,7 +355587,7 @@
         "company_name": "Brunswick",
         "id": "c5f567d9-027e-4207-b6d3-80f5a9566861",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -368792,7 +368792,7 @@
         "company_name": "Intel",
         "id": "8d699dd6-89fb-4c17-8319-47d01a7f9bf3",
         "title": "Research Scientist Intern - Graphics - ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -376519,7 +376519,7 @@
         "company_name": "RTX",
         "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
         "title": "AI DSP Applied Research Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404260,7 +404260,7 @@
         "company_name": "RTX",
         "id": "e8d5904f-b5d2-4f6e-ae9d-04ae36fddf96",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
