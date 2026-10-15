@@ -341291,7 +341291,7 @@
         "company_name": "Qualcomm",
         "id": "1cad741a-2731-4f0f-9a0d-92290a57915a",
         "title": "Analog Design Intern - Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386802,7 +386802,7 @@
         "company_name": "DocuSign",
         "id": "2216540f-0c95-48ab-9ac1-9a2581596dce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
