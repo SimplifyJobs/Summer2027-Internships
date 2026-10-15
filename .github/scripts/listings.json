@@ -243327,7 +243327,7 @@
         "company_name": "Bank of Montreal",
         "id": "82823c58-ec25-462f-a885-fbf297c25a22",
         "title": "Workforce Analyst Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -260473,7 +260473,7 @@
         "company_name": "The Walt Disney Company",
         "id": "b12c41ea-1e48-4da2-94c5-dd6437b77911",
         "title": "Systems Application Development and Sustainment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -386029,7 +386029,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "95c4cff1-400b-4054-ab5a-96b8ea6662dd",
         "title": "Capital Markets Intern - Quantitative Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
