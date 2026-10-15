@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "GE Vernova",
-        "id": "7646cd7b-86dd-449f-a291-76bf6dab8f64",
-        "title": "GE Vernova Competitiveness Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771334603,
-        "date_posted": 1771334603,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Competitiveness-Intern--Heavy-Duty-Gas-Turbine-Product-Management---Summer-2026_R5018855-1",
-        "locations": [
-            "Greenville, SC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Manulife Financial",
         "id": "513ae0fc-d423-4a0d-920b-e53ecdea7ae1",
@@ -303178,7 +303154,7 @@
         "company_name": "Kite Pharma",
         "id": "d86e44b9-4c31-4fce-9921-62b882b53084",
         "title": "Kite Development Intern - Tech Ops - Process Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -356868,7 +356844,7 @@
         "company_name": "Analog Devices",
         "id": "c88eff3d-aa92-400f-81af-bc057b38bc77",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -367019,7 +366995,7 @@
         "company_name": "DPD UK",
         "id": "ccabf3cd-13fe-47da-93e7-f4450eeaff05",
         "title": "International Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -372015,7 +371991,7 @@
         "company_name": "Bedrock Robotics",
         "id": "76dae718-6697-41ec-be26-00f9edfba73e",
         "title": "Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381511,7 +381487,7 @@
         "company_name": "Axos Bank",
         "id": "ab7e8aac-4b5b-4405-876c-38abb79ba5a6",
         "title": "Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395729,7 +395705,7 @@
         "company_name": "Intel",
         "id": "827e615a-db98-431b-849f-68a2ee50ad9e",
         "title": "AI-Driven Physical Design Engineering PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -397448,7 +397424,7 @@
         "company_name": "CAI",
         "id": "772c0e61-65f5-403e-8737-69e4486960d5",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
