@@ -195648,7 +195648,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c1d1053c-438a-481e-8375-57149313ea2f",
         "title": "Software and Data Infrastructure Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -235926,7 +235926,7 @@
         "company_name": "Abridge",
         "id": "7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -243212,7 +243212,7 @@
         "company_name": "Ampersand",
         "id": "e1f3338c-95a0-4b9f-b987-07fa38a8a4a6",
         "title": "Data Engineering Co-op - Open to Northeastern students only",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -262881,7 +262881,7 @@
         "company_name": "Medline",
         "id": "d3e9acbe-429c-41ea-ad4b-0536beab6782",
         "title": "Product Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281918,7 +281918,7 @@
         "company_name": "Mirego",
         "id": "ce1d2fc4-9efe-4f1c-8d00-8c6c23b607f0",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343159,7 +343159,7 @@
         "company_name": "Guardian Life",
         "id": "e2dab9b3-410e-452f-8887-b5fe754550ad",
         "title": "Summer Intern - Group Benefits Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379202,7 +379202,7 @@
         "company_name": "Intel",
         "id": "89620c7b-f9cc-4d47-90dd-0d033e926047",
         "title": "CPU Core Physical Design Technical Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381931,7 +381931,7 @@
         "company_name": "Astera Labs",
         "id": "c7cc5ef1-9657-4ceb-8d67-f66cb04835a4",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402030,7 +402030,7 @@
         "company_name": "Aptiv",
         "id": "bfa5fc9b-d20d-4ea1-9819-47c48ac3c791",
         "title": "ADAS Engineer Intern - Camera Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
