@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 1969 Inactive Internship Roles by Category
+### Browse 1970 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (688)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (210)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (280)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (281)
 
 ---
 
@@ -12480,6 +12480,13 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
 <td>Design Methodology Engineer Intern - MSIP - HW</td>
+<td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Analog Design Intern - Hardware Engineering</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
 <td>27d</td>
