@@ -32562,7 +32562,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -124258,7 +124258,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303178,7 +303178,7 @@
         "company_name": "Kite Pharma",
         "id": "d86e44b9-4c31-4fce-9921-62b882b53084",
         "title": "Kite Development Intern - Tech Ops - Process Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337166,7 +337166,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343534,7 +343534,7 @@
         "company_name": "General Motors",
         "id": "f9a08de0-d633-4b19-b444-8002689fc795",
         "title": "Product Management Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -344708,7 +344708,7 @@
         "company_name": "Magna",
         "id": "f9425a33-0fd0-4dcb-8403-642a08c2e836",
         "title": "Validation Engineer Intern - EMC Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -347961,7 +347961,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354148,7 +354148,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -356868,7 +356868,7 @@
         "company_name": "Analog Devices",
         "id": "c88eff3d-aa92-400f-81af-bc057b38bc77",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362858,7 +362858,7 @@
         "company_name": "Garmin",
         "id": "3e52a1c6-440c-46b1-8118-2b43ad11f3cc",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -363237,7 +363237,7 @@
         "company_name": "GITAI",
         "id": "04f47176-b9d7-4738-a924-cce1e8696df9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -364533,7 +364533,7 @@
         "company_name": "RTX",
         "id": "dfaeed53-4c68-4e34-86db-39fd4d4aad68",
         "title": "Systems Engineering and Test Capabilities Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372015,7 +372015,7 @@
         "company_name": "Bedrock Robotics",
         "id": "76dae718-6697-41ec-be26-00f9edfba73e",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381511,7 +381511,7 @@
         "company_name": "Axos Bank",
         "id": "ab7e8aac-4b5b-4405-876c-38abb79ba5a6",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388851,7 +388851,7 @@
         "company_name": "HCSC",
         "id": "f8f58448-a30c-4f0b-bd35-a8b3aee51172",
         "title": "Enterprise Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -391311,7 +391311,7 @@
         "company_name": "Airbus",
         "id": "f74f830d-dd2b-4c31-9afd-00673f6bf77f",
         "title": "Radio Frequency Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391661,7 +391661,7 @@
         "company_name": "Cox",
         "id": "dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395729,7 +395729,7 @@
         "company_name": "Intel",
         "id": "827e615a-db98-431b-849f-68a2ee50ad9e",
         "title": "AI-Driven Physical Design Engineering PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
