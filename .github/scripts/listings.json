@@ -231922,7 +231922,7 @@
         "company_name": "DV Trading",
         "id": "392dd50b-b4af-4528-b142-9b17e15df06d",
         "title": "Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281377,7 +281377,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -282125,7 +282125,7 @@
         "company_name": "Micron Technology",
         "id": "f03e18cd-43a7-42fb-95e7-609dd0d670d8",
         "title": "Advanced DRAM Cell & Device Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -286034,7 +286034,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -351405,7 +351405,7 @@
         "company_name": "GSK",
         "id": "948e552e-e9b9-4849-afe3-c06c0e5f216e",
         "title": "Data & Analytics - Multiple Roles",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371449,7 +371449,7 @@
         "company_name": "Invesco",
         "id": "b8689bb2-f5e6-445c-89be-129f7429fb26",
         "title": "Early Career Intern - Fixed Income Global Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396974,7 +396974,7 @@
         "company_name": "RTX",
         "id": "89b2788a-307f-4b1d-b6cc-95f5495d7a89",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399018,7 +399018,7 @@
         "company_name": "RTX",
         "id": "8e3330e9-1267-45f5-8a01-d7176af93f96",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
