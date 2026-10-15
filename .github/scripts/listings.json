@@ -333210,7 +333210,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c5020e56-97ee-4c3f-a215-6a6ef25b4a49",
         "title": "Quantitative Trading Summer Analyst - Global Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374629,7 +374629,7 @@
         "company_name": "Houlihan Lokey",
         "id": "d6edb373-31c9-46ca-b0c8-87877dcb9d6d",
         "title": "Financial Analyst - Corporate Valuation Advisory Services - Complex Securities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379362,7 +379362,7 @@
         "company_name": "Marvell",
         "id": "c9f2fee3-e5c3-40a0-8238-50c86087fdbe",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389460,7 +389460,7 @@
         "company_name": "Bose",
         "id": "b8227788-3459-44b1-a61c-976968fefd85",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399663,7 +399663,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "d3d8fa9f-12a2-4620-98c7-26daefe083e2",
         "title": "Software Developer Intern - Defense Agencies - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
