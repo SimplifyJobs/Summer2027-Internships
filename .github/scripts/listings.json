@@ -394747,7 +394747,7 @@
         "company_name": "Meta",
         "id": "3e1a9b0c-a147-4224-97ba-2a5ca77abd2f",
         "title": "Production Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399090,7 +399090,7 @@
         "company_name": "Meta",
         "id": "2f59ecd0-63ae-4630-83d2-67fdfc52f4d9",
         "title": "Signal Integrity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403537,7 +403537,7 @@
         "company_name": "RTX",
         "id": "4b6bdd02-b381-46a1-8249-e6f77332d028",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
