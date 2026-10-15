@@ -336203,7 +336203,7 @@
         "company_name": "Ciena",
         "id": "1fd55c35-12bd-4a17-bcff-319013a0ddf5",
         "title": "AI Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -377623,7 +377623,7 @@
         "company_name": "Primient",
         "id": "16856e96-3bd9-4fee-85e4-ed92164905ae",
         "title": "AI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381576,7 +381576,7 @@
         "company_name": "Astera Labs",
         "id": "1748e528-227f-4607-81ef-3e2b89c74a28",
         "title": "Hardware Lab Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406237,6 +406237,31 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "1c140b14-cbd4-45da-9316-2fd50f440ccf",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791106915,
+        "date_posted": 1781361748,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395",
+        "locations": [
+            "Wright-Patterson AFB, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's",
             "PhD"
         ]
