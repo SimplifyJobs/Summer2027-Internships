@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Zoom",
-        "id": "ebc13604-3a1d-4ff4-b4f9-6419beb75f20",
-        "title": "Research Intern - AI Incubation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771418212,
-        "date_posted": 1771418212,
-        "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Intern---AI-Incubation_R18549-1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoom",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Johnson & Johnson",
         "id": "ea2c4a43-bf51-46d5-a871-6ae1445ce9b7",
         "title": "Data Science Intern",
@@ -120926,7 +120903,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -197630,7 +197607,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -244225,7 +244202,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -276758,7 +276735,7 @@
         "company_name": "Xcel Energy",
         "id": "3ae9bc6e-d495-495e-8e13-65d584c347f6",
         "title": "Geospatial Data Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291073,7 +291050,7 @@
         "company_name": "Xcel Energy",
         "id": "d5fbb53e-5766-47f2-b39c-157d7184a35a",
         "title": "Corporate Impact Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -291733,7 +291710,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -296353,7 +296330,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316717,7 +316694,7 @@
         "company_name": "Gilead Sciences",
         "id": "8938f71a-17d2-4a94-9a97-7a4c3d974bd2",
         "title": "Kite Development Intern - Tech Ops - Process Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319039,7 +319016,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -327094,7 +327071,7 @@
         "company_name": "Autostore",
         "id": "d81bc1c9-aee7-4814-8ab8-598008962e65",
         "title": "Electronics Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350954,7 +350931,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365136,7 +365113,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368993,7 +368970,7 @@
         "company_name": "The Home Depot",
         "id": "e16ac71f-72f4-4100-b277-2a92a88c6d05",
         "title": "AI Machine Learning Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -370187,7 +370164,7 @@
         "company_name": "General Motors",
         "id": "827ccc8c-5daf-4ca9-90a9-badca54261a8",
         "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385008,7 +384985,7 @@
         "company_name": "RTX",
         "id": "9db144d4-09da-4a63-af76-1475efdad52f",
         "title": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -389911,7 +389888,7 @@
         "company_name": "General Motors",
         "id": "9336555d-472f-4804-b5f7-a1e52e004ac6",
         "title": "Autonomous Driving Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401969,7 +401946,7 @@
         "company_name": "Salesforce",
         "id": "b7d88c18-cbf6-4e63-b368-efaf9a60b080",
         "title": "Product Management Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402181,7 +402158,7 @@
         "company_name": "Marsh",
         "id": "73d1f84a-69e1-4693-b9a8-03e6ae82b0b1",
         "title": "Finance Innovation & Technology Intern - Master's Finance Innovation & Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
