@@ -330446,7 +330446,7 @@
         "company_name": "Acxiom",
         "id": "0811fecf-0bc0-49dc-b96d-2a673f0a19e9",
         "title": "Product Manager Intern - Real Identity Product Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -405536,7 +405536,7 @@
         "company_name": "Leonardo",
         "id": "1e7773d3-204e-4be0-84c6-7d80b5db80ff",
         "title": "Software Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
