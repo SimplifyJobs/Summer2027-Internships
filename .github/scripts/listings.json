@@ -223321,7 +223321,7 @@
         "company_name": "Atoms",
         "id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295518,7 +295518,7 @@
         "company_name": "Applied Materials",
         "id": "175ef4c9-fecc-47c4-b091-217815858898",
         "title": "Data Analyst Intern - Global Technical Learning Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357754,7 +357754,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "10cf72c1-fc60-4ada-bf7f-88ed2002e684",
         "title": "Software Engineer Intern - Communications & Cyber Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
