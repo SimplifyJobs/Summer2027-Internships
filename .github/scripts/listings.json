@@ -272333,7 +272333,7 @@
         "company_name": "Michelin",
         "id": "10e5e95c-8b55-4510-9620-5c7cf27c7589",
         "title": "R&D Performance Measurement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -276778,7 +276778,7 @@
         "company_name": "Xcel Energy",
         "id": "02c345c2-b292-434b-ac59-b96cfe54a8ca",
         "title": "Gas & Electric Design Analytics and Process Improvement Intern - MN",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -300333,7 +300333,7 @@
         "company_name": "Gilead Sciences",
         "id": "02a5261f-1d0f-40cb-ba6f-7417c278e2c7",
         "title": "Development Intern - Regulatory Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385795,7 +385795,7 @@
         "company_name": "HCSC",
         "id": "118adc1e-4c91-45e1-8654-5297c47e9a9c",
         "title": "Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396796,7 +396796,7 @@
         "company_name": "Boston Scientific",
         "id": "19c22c7f-5af3-4bed-806e-2ee412ae0d63",
         "title": "R&D Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405602,6 +405602,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Field AI",
+        "id": "1abf7df4-7622-4bf1-b71b-07a13b1d6b76",
+        "title": "Robotics Research \u2013 Humanoid Manipulation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1792138682,
+        "date_posted": 1790547000,
+        "url": "https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
