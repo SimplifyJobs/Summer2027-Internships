@@ -241558,7 +241558,7 @@
         "company_name": "Zipline",
         "id": "7c1afd88-0826-4992-92dc-ef6210a2efbc",
         "title": "Perception Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -258184,7 +258184,7 @@
         "company_name": "Qorvo",
         "id": "8d00a74a-5695-4f6f-885a-d9fc22a0d336",
         "title": "Device Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -271050,7 +271050,7 @@
         "company_name": "US Foods",
         "id": "8c6a07c2-8de6-4fb4-b054-b8c3434d5e16",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325427,7 +325427,7 @@
         "company_name": "OpenGov",
         "id": "5bda221a-8620-420c-a38b-48bd4bdc58d3",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330991,7 +330991,7 @@
         "company_name": "CesiumAstro",
         "id": "76074617-8b99-469e-844d-793359eb86ee",
         "title": "Electrical Engineer Intern - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339673,7 +339673,7 @@
         "company_name": "Rockwell Automation",
         "id": "79929aaa-80e8-47fb-b60e-00e27e8051d9",
         "title": "Robotics Integration and Development Co-op - OTTO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -339720,7 +339720,7 @@
         "company_name": "Rockwell Automation",
         "id": "8343365e-f6de-486d-9e76-f20a7d73dc15",
         "title": "Robotics Integration and Development Co-op - OTTO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368437,7 +368437,7 @@
         "company_name": "Freddie Mac",
         "id": "75bf9ace-02bf-45d8-be12-dd89e1b6b7ba",
         "title": "Multifamily Capital Markets Analytics & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372606,7 +372606,7 @@
         "company_name": "CesiumAstro",
         "id": "7ca0d74d-4cb3-4ad6-80ae-61921c8aeff6",
         "title": "Electrical Engineering Intern - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394289,7 +394289,7 @@
         "company_name": "RTX",
         "id": "8a7c2086-8c95-4a79-9b9e-433050b10788",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -394500,7 +394500,7 @@
         "company_name": "Ascension",
         "id": "7f9efb23-69aa-4042-9954-1336de391b9b",
         "title": "Master Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397060,7 +397060,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "7c9b6750-0d26-497a-bb9c-75cbaede0d91",
         "title": "AI and Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
