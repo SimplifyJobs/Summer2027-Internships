@@ -182353,7 +182353,7 @@
         "company_name": "Clio",
         "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
         "title": "Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -189708,7 +189708,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -223347,7 +223347,7 @@
         "company_name": "LUZCO TECHNOLOGIES LLC",
         "id": "6dfc5a86-055d-4015-b7e0-68b2545cf61d",
         "title": "AI Solutions Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272333,7 +272333,7 @@
         "company_name": "Michelin",
         "id": "10e5e95c-8b55-4510-9620-5c7cf27c7589",
         "title": "R&D Performance Measurement Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -297338,7 +297338,7 @@
         "company_name": "Xcel Energy",
         "id": "13d843af-d524-4b12-9c0c-aeee6eb95956",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297502,7 +297502,7 @@
         "company_name": "Xcel Energy",
         "id": "14ccc561-71f0-4622-8d0a-60a2d1059322",
         "title": "Reporting and Compliance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -300195,7 +300195,7 @@
         "company_name": "Gilead Sciences",
         "id": "28a5db23-8ee4-4cee-951a-362454e82c50",
         "title": "Development Intern - CDS AI Research Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300360,7 +300360,7 @@
         "company_name": "Gilead Sciences",
         "id": "21a1c289-2659-42d8-b129-afd4e443f775",
         "title": "Development Intern - Clinical Data Management - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314534,7 +314534,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368600,7 +368600,7 @@
         "company_name": "Stripe",
         "id": "8d662f47-4018-4534-bc0e-e3a416371581",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2028"
@@ -376070,7 +376070,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "326100ad-000e-45bb-b619-347263128bdc",
         "title": "Sales Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385795,7 +385795,7 @@
         "company_name": "HCSC",
         "id": "118adc1e-4c91-45e1-8654-5297c47e9a9c",
         "title": "Systems Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -391783,7 +391783,7 @@
         "company_name": "Texas Instruments",
         "id": "43be7a06-92b6-472f-b521-42354bc0a727",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395025,7 +395025,7 @@
         "company_name": "Ascension",
         "id": "7f9efb23-69aa-4042-9954-1336de391b9b",
         "title": "Master Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -405617,6 +405617,52 @@
         "date_updated": 1792138682,
         "date_posted": 1790547000,
         "url": "https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Evercore",
+        "id": "7ea8d45a-67d3-43f9-ba9e-9166c90992d9",
+        "title": "Summer Analyst: Global Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2028"
+        ],
+        "date_updated": 1792140881,
+        "date_posted": 1788993176,
+        "url": "https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3263-2028-Summer-Analyst-Program-Global-Technology-New-York/en-GB",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Evercore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Field AI",
+        "id": "63cec9b4-0da4-49ee-8d07-81155e4ddf1e",
+        "title": "Robotics Research \u2013 Humanoid Manipulation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1792140304,
+        "date_posted": 1790547000,
+        "url": "https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply",
         "locations": [
             "Boston, MA"
         ],
