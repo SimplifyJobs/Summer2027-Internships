@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 2035 Inactive Internship Roles by Category
+### Browse 2033 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (704)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (215)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (289)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (287)
 
 ---
 
@@ -6248,13 +6248,6 @@
 <td>14d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/The-Federal-Reserve-System?utm_source=GHList&utm_medium=company">The Federal Reserve System</a></strong></td>
-<td>Advanced Analytics Intern</td>
-<td>Cleveland, OH</td>
-<td>🔒</td>
-<td>15d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Southwest-Airlines?utm_source=GHList&utm_medium=company">Southwest Airlines</a></strong></td>
 <td>Customer Experience and Analytics Data Science Intern</td>
 <td>Dallas, TX</td>
@@ -6755,6 +6748,13 @@
 <td><strong><a href="https://simplify.jobs/c/Gordon-Food-Service?utm_source=GHList&utm_medium=company">Gordon Food Service</a></strong></td>
 <td>Category Technology Intern</td>
 <td>Wyoming, MI</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
+<td>Analytics Intern</td>
+<td>Florida</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
@@ -12549,13 +12549,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>ADAS Software Engineer Intern - Adpt</td>
-<td>Milford, MI<br>Warren, MI</td>
-<td>🔒</td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Systems/Calibration Engineer Intern - ADAS Drive</td>
 <td>Milford, MI</td>
 <td>🔒</td>
@@ -12859,13 +12852,6 @@
 <td>↳</td>
 <td>Test Engineering Intern - BS</td>
 <td>Irvine, CA<br>Santa Clara, CA<br>Westlake Village, CA</td>
-<td>🔒</td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Embedded and Systems Engineering Intern - Digital Product</td>
-<td><details><summary><strong>4 locations</strong></summary>Austin, TX<br>Milford, MI<br>Mountain View, CA<br>Warren, MI</details></td>
 <td>🔒</td>
 <td>25d</td>
 </tr>
