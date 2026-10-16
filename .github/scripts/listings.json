@@ -360815,7 +360815,7 @@
         "company_name": "DailyPay",
         "id": "cc7424f5-700f-40b7-b8da-acd5df5dff2b",
         "title": "Software Engineer Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388209,7 +388209,7 @@
         "company_name": "Koch Industries",
         "id": "cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397919,7 +397919,7 @@
         "company_name": "Microsoft",
         "id": "aa14d682-dee4-485b-afd9-989398c047be",
         "title": "Research Intern - Agentic Data Memory",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399942,7 +399942,7 @@
         "company_name": "Parsons",
         "id": "b135be7e-bf73-4526-9c91-0158ffed7bce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
