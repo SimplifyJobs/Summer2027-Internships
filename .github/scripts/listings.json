@@ -1,125 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Philips",
-        "id": "d72c38a9-5bd4-4979-b665-aef0e56176f7",
-        "title": "Co-op \u2013 Software Development Engineer - Automation - Cambridge MA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771373071,
-        "date_posted": 1771373071,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---June-December-2026_576454",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "7dc362de-79a3-48c8-9c03-340d5d7a35f2",
-        "title": "Intern CV/ML/DL Algorithms",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771373186,
-        "date_posted": 1771373186,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Intern---CV-ML-DL-Algorithms_R2612903",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "60740419-960c-462d-b37f-91f310f020aa",
-        "title": "Java Developer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771373183,
-        "date_posted": 1771373183,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Java-Developer_R2612898",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "4b046430-c6d8-4677-87fa-118e30bbaecf",
-        "title": "Machine Control Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771373177,
-        "date_posted": 1771373177,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Machine-Control-Software-Developer-Intern_R2612947",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "4301327d-0d8c-4f17-8e68-17efc76c4ee0",
-        "title": "Embedded Software Developer - Embedded Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771373178,
-        "date_posted": 1771373178,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Embedded-Software-Intern-Developer_R2612944",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Orthofix",
         "id": "b9003a16-fdd3-4373-94b4-56ddaf13d104",
@@ -279585,7 +279466,7 @@
         "company_name": "Hewlett Packard",
         "id": "01120085-8f92-416b-9a1d-d797219a2165",
         "title": "Personal Systems Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -393447,7 +393328,7 @@
         "company_name": "Meter",
         "id": "04abf4d8-48c2-4b8e-8ba1-c572d1072c66",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
