@@ -246980,7 +246980,7 @@
         "company_name": "Freddie Mac",
         "id": "d55095b6-b7dc-4c2a-b7dd-9f93cb9358fb",
         "title": "Single-Family Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298912,7 +298912,7 @@
         "company_name": "Cox",
         "id": "71d70aa4-c992-4e8e-a07e-f0adc48c5a29",
         "title": "Product Management Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -301750,7 +301750,7 @@
         "company_name": "Allegion",
         "id": "78e370bf-8119-430e-aa86-804f2ba76bb5",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -350863,7 +350863,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350931,7 +350931,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364107,7 +364107,7 @@
         "company_name": "KLA",
         "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
         "title": "Optical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364130,7 +364130,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365113,7 +365113,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380584,7 +380584,7 @@
         "company_name": "Medtronic",
         "id": "3c5615c3-8831-41c5-8668-b6072cfc338c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382625,7 +382625,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383773,7 +383773,7 @@
         "company_name": "KLA",
         "id": "bdb92677-9bd1-4327-b0ca-c988ff0e1d31",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383796,7 +383796,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387439,7 +387439,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394891,7 +394891,7 @@
         "company_name": "KLA",
         "id": "9b2b1358-6a3c-48e5-afa1-219bc271af07",
         "title": "AI/ML Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395003,7 +395003,7 @@
         "company_name": "KLA",
         "id": "39bae66b-6dad-496c-bd59-19b0d064eac5",
         "title": "Algorithm Engineer Intern - GPU/CUDA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396919,7 +396919,7 @@
         "company_name": "KLA",
         "id": "7e70fdba-0509-4c0b-9de0-754fffa84596",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397041,7 +397041,7 @@
         "company_name": "KLA",
         "id": "f25ac517-b641-4c69-87e1-685fcf4b4dbc",
         "title": "Software Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397234,7 +397234,7 @@
         "company_name": "KLA",
         "id": "4f6c38aa-af24-4222-9bc8-745ccd365dc1",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397334,7 +397334,7 @@
         "company_name": "KLA",
         "id": "5641eed2-7dd2-4dc6-8834-2db9066a87f3",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399404,7 +399404,7 @@
         "company_name": "KLA",
         "id": "78691202-f306-42da-9b0e-d9c0e191b452",
         "title": "Computer Vision/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403598,7 +403598,7 @@
         "company_name": "Centene",
         "id": "da454250-765f-4b44-b25d-f4f5492cb3ec",
         "title": "AI Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404161,7 +404161,7 @@
         "company_name": "SPS Commerce",
         "id": "929d823b-ecbe-41cc-8df5-c81298a86c90",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404953,7 +404953,7 @@
         "company_name": "Leonardo",
         "id": "8a5484b7-8d04-462f-b71e-1c147f69ce93",
         "title": "Electronics Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -405106,7 +405106,7 @@
         "company_name": "KLA",
         "id": "18e3866d-2742-4686-b497-2f6ec0eaa835",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405675,5 +405675,315 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "J.M. Smucker",
+        "id": "80ec84ab-f0da-4549-85fb-07466041ed4a",
+        "title": "Finance Technology Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792160642,
+        "date_posted": 1792108800,
+        "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016",
+        "locations": [
+            "Orrville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/JM-Smucker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Scientific",
+        "id": "caf45b3a-d589-430c-816a-22a700822dd6",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792160282,
+        "date_posted": 1792160173,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813777926",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "1962fda2-9358-4d0b-a814-d0e55e225392",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Winter 2027",
+            "Spring 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792160339,
+        "date_posted": 1792160266,
+        "url": "https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Bristol, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Bankers Association",
+        "id": "7eb2dc1e-a2d8-4cd8-a3cf-70178e3bc5d2",
+        "title": "Banking Policy and Economic Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792160330,
+        "date_posted": 1792108800,
+        "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Bankers-Association",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "e77870f3-55c7-4d18-8364-57029d5adc18",
+        "title": "Software Engineer Tools Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792159954,
+        "date_posted": 1792159776,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "3ace9955-fb8a-4ca0-a716-7b9d6f86671f",
+        "title": "Software Engineer Intern - Gameplay UI",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792159953,
+        "date_posted": 1792159777,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "3040c492-d83d-4c3a-ba12-bfc0edc75a1f",
+        "title": "UI Scripter Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792159922,
+        "date_posted": 1792159776,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "2171d14a-e271-49bf-95cf-d6a749318018",
+        "title": "Client AI Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792159922,
+        "date_posted": 1792159777,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hilb Group",
+        "id": "59893888-211a-4a3c-9b02-8095e93f2051",
+        "title": "Benefits Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792159922,
+        "date_posted": 1792108800,
+        "url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866",
+        "locations": [
+            "Hunt Valley, Cockeysville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Hilb-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nutanix",
+        "id": "f351f3ac-9b5b-4f88-b7bf-8c3cce1a1df0",
+        "title": "Support Analytics & Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792159746,
+        "date_posted": 1792159570,
+        "url": "https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "d07a4719-9a08-4ec6-850e-09bf29679246",
+        "title": "Summer Intern - Digital Signal/ Imaging AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792159697,
+        "date_posted": 1792108800,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Summer-intern--Digital-Signal--Imaging-AI_R-103933",
+        "locations": [
+            "Cambridge, MA",
+            "Zug, Switzerland",
+            "Leiden, Netherlands",
+            "La Jolla, San Diego, CA",
+            "Hopewell Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "33481bc4-8637-4823-a224-81cbfae0e6ee",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792159680,
+        "date_posted": 1792108800,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283",
+        "locations": [
+            "Basildon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "1e7773d3-204e-4be0-84c6-7d80b5db80ff",
+        "title": "Software Engineering Apprentice",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792159680,
+        "date_posted": 1792108800,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281",
+        "locations": [
+            "Basildon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
