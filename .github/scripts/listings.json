@@ -120926,7 +120926,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244225,7 +244225,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276961,7 +276961,7 @@
         "company_name": "Intel",
         "id": "4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
         "title": "Silicon Hardware Engineering Intern - Bachelor's",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -291733,7 +291733,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -291780,7 +291780,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -294521,7 +294521,7 @@
         "company_name": "Marvell",
         "id": "e2983544-b2c7-4646-833d-b960d39cf290",
         "title": "Functional Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -300210,7 +300210,7 @@
         "company_name": "Gilead Sciences",
         "id": "db85a918-e5db-45d4-af63-7b78255490bb",
         "title": "Development Intern - CDS AI Research Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318387,7 +318387,7 @@
         "company_name": "Amgen",
         "id": "811210da-553e-4d37-b262-9897450dc43d",
         "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -370187,7 +370187,7 @@
         "company_name": "General Motors",
         "id": "827ccc8c-5daf-4ca9-90a9-badca54261a8",
         "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374053,7 +374053,7 @@
         "company_name": "CoStar Group",
         "id": "fad2e0d4-274c-40b8-b96d-c769ef5ee9da",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375175,7 +375175,7 @@
         "company_name": "Airbus",
         "id": "db82b403-fb19-409c-bf56-457fd28a9c63",
         "title": "Software Engineer Intern Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385008,7 +385008,7 @@
         "company_name": "RTX",
         "id": "9db144d4-09da-4a63-af76-1475efdad52f",
         "title": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -385517,7 +385517,7 @@
         "company_name": "Leidos",
         "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
         "title": "Business Systems AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -389911,7 +389911,7 @@
         "company_name": "General Motors",
         "id": "9336555d-472f-4804-b5f7-a1e52e004ac6",
         "title": "Autonomous Driving Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399028,7 +399028,7 @@
         "company_name": "KLA",
         "id": "a5e8aab7-69ef-48be-84cd-47e7f6fc6357",
         "title": "Computer Vision/Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
