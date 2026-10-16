@@ -180595,7 +180595,7 @@
         "company_name": "Core & Main",
         "id": "cf783ed0-c7de-4051-813a-018e1ba6e7fc",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246476,7 +246476,7 @@
         "company_name": "Freddie Mac",
         "id": "9b814dc4-e65c-4e43-aa10-eb1cfeed3036",
         "title": "Technology Intern - Enterprise Operations + Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321480,7 +321480,7 @@
         "company_name": "Micron Technology",
         "id": "d223a623-0565-4e7d-86f4-c5a03ffc81b1",
         "title": "PHY Digital Design & Automation Engineer Intern - HBM",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -332812,7 +332812,7 @@
         "company_name": "Persona",
         "id": "b3b5a172-409f-4e54-9248-583177d1ac17",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342887,7 +342887,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367304,7 +367304,7 @@
         "company_name": "Gas South",
         "id": "97155fa4-c205-4f75-ba62-c9f3ba9428e0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397952,7 +397952,7 @@
         "company_name": "Meta",
         "id": "a1e15fde-7252-4c7b-b527-90064ced009b",
         "title": "Production Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400098,7 +400098,7 @@
         "company_name": "Philips",
         "id": "cd4adf61-4026-464d-8208-c2d4c6258943",
         "title": "Insights and Analytics Intern - Health Systems Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403703,7 +403703,7 @@
         "company_name": "Leidos",
         "id": "b2e84c57-98b1-4ca5-8c5e-4be0368bca64",
         "title": "Data Engineering & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404142,7 +404142,7 @@
         "company_name": "OpenGov",
         "id": "b731d89f-de32-476b-8f27-2de284b5110d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405594,5 +405594,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesco",
+        "id": "232d5844-222c-4143-92d0-bdecbe07bcc4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792187643,
+        "date_posted": 1790039894,
+        "url": "https://tesco.avature.net/en_GB/careers/JobDetail/209138",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
