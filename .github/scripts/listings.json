@@ -371757,7 +371757,7 @@
         "company_name": "Elevance Health",
         "id": "638db733-b6c2-4e36-b1ad-1d4b6b77df9b",
         "title": "Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375059,7 +375059,7 @@
         "company_name": "ABB",
         "id": "6bda3b7e-e573-454c-a89e-e40b16ecac2c",
         "title": "Market Research & Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
