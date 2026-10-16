@@ -246430,7 +246430,7 @@
         "company_name": "Freddie Mac",
         "id": "5a24ffd7-21dd-4446-9322-8b43eab99a97",
         "title": "Software Developer Intern - Single-Family",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367351,7 +367351,7 @@
         "company_name": "Gas South",
         "id": "518eb063-8156-4ee0-82dc-173594892c67",
         "title": "Junior Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Fall 2027",
