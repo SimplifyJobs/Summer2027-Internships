@@ -267099,7 +267099,7 @@
         "company_name": "Nationwide",
         "id": "6bf9017f-b3da-451e-b506-46820adb72e0",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297571,7 +297571,7 @@
         "company_name": "Xcel Energy",
         "id": "88f3cc7f-8712-4f57-9117-669bb8e2dd39",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -318984,7 +318984,7 @@
         "company_name": "Merck",
         "id": "7b663a85-a116-4378-8d03-6fea9b19f071",
         "title": "Data Analytics and Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319030,7 +319030,7 @@
         "company_name": "Merck",
         "id": "5136601c-2b56-4a3e-bb67-dfda666a1d5e",
         "title": "Quality Assurance Research Clinical Quality, Analytics & AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371809,7 +371809,7 @@
         "company_name": "Elevance Health",
         "id": "70f39f27-a2cd-424b-876f-4837ee7061e4",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371856,7 +371856,7 @@
         "company_name": "Elevance Health",
         "id": "938e1389-c62c-4512-aecc-c83536e5bea9",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
