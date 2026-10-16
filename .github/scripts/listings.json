@@ -222149,7 +222149,7 @@
         "company_name": "Atoms",
         "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -246331,7 +246331,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -262127,7 +262127,7 @@
         "company_name": "Arch Capital Group",
         "id": "483a6e7d-49d9-4b1b-823b-1c0e3be6b318",
         "title": "Data and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -263356,7 +263356,7 @@
         "company_name": "Trane Technologies",
         "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -272062,7 +272062,7 @@
         "company_name": "Remarcable",
         "id": "adbdd3a7-59ab-4743-bdb8-8132c142b07b",
         "title": "Full Stack Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298045,7 +298045,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298611,7 +298611,7 @@
         "company_name": "Cox",
         "id": "97899cd4-de4e-4a30-88bb-d77f77c316cb",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -301338,7 +301338,7 @@
         "company_name": "Allegion",
         "id": "d00a0984-927f-4e93-92aa-c86650ebdf87",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305986,7 +305986,7 @@
         "company_name": "GE Vernova",
         "id": "f2ae7111-d087-4a82-b8fa-18fbe8b01901",
         "title": "Energy Optimization Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325404,7 +325404,7 @@
         "company_name": "OpenGov",
         "id": "97c6d8b7-2c87-4add-ba42-556232991c09",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345410,7 +345410,7 @@
         "company_name": "Commerce Bank",
         "id": "c191a9d6-9b36-4a73-8c8d-003126f28df7",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350428,7 +350428,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350496,7 +350496,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -358033,7 +358033,7 @@
         "company_name": "Pebl",
         "id": "bd746203-4436-416a-927d-479cf3a8561f",
         "title": "Associate Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -363672,7 +363672,7 @@
         "company_name": "KLA",
         "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
         "title": "Optical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363695,7 +363695,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364678,7 +364678,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364909,7 +364909,7 @@
         "company_name": "KLA",
         "id": "46bc2309-eff6-49b8-b663-051d87560282",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -370236,7 +370236,7 @@
         "company_name": "Gas South",
         "id": "ed5bc2d4-26fb-44d6-82bd-7e1ff254739e",
         "title": "Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372330,7 +372330,7 @@
         "company_name": "Intel",
         "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
         "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -372795,7 +372795,7 @@
         "company_name": "KLA Corporation",
         "id": "fb99fc9f-da10-4a0c-9d4c-565dd66138c8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382190,7 +382190,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383338,7 +383338,7 @@
         "company_name": "KLA",
         "id": "bdb92677-9bd1-4327-b0ca-c988ff0e1d31",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383361,7 +383361,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387004,7 +387004,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394456,7 +394456,7 @@
         "company_name": "KLA",
         "id": "9b2b1358-6a3c-48e5-afa1-219bc271af07",
         "title": "AI/ML Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394568,7 +394568,7 @@
         "company_name": "KLA",
         "id": "39bae66b-6dad-496c-bd59-19b0d064eac5",
         "title": "Algorithm Engineer Intern - GPU/CUDA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396484,7 +396484,7 @@
         "company_name": "KLA",
         "id": "7e70fdba-0509-4c0b-9de0-754fffa84596",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396606,7 +396606,7 @@
         "company_name": "KLA",
         "id": "f25ac517-b641-4c69-87e1-685fcf4b4dbc",
         "title": "Software Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396799,7 +396799,7 @@
         "company_name": "KLA",
         "id": "4f6c38aa-af24-4222-9bc8-745ccd365dc1",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396899,7 +396899,7 @@
         "company_name": "KLA",
         "id": "5641eed2-7dd2-4dc6-8834-2db9066a87f3",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398969,7 +398969,7 @@
         "company_name": "KLA",
         "id": "78691202-f306-42da-9b0e-d9c0e191b452",
         "title": "Computer Vision/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400907,7 +400907,7 @@
         "company_name": "Assurant",
         "id": "c2cb4e52-0a06-45a3-beff-da2436315c4d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402200,7 +402200,7 @@
         "company_name": "General Motors",
         "id": "8efc5434-3c49-410a-90f6-5f6124037e2b",
         "title": "Product Management Intern - Vehicle Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402224,7 +402224,7 @@
         "company_name": "General Motors",
         "id": "554a8d6f-461f-46af-a16c-958c34f78906",
         "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403747,7 +403747,7 @@
         "company_name": "General Motors",
         "id": "5bd58f05-8a17-476f-a4c0-656a474b97fd",
         "title": "Embodied AI Data Scaling Intern - Data Scaling - Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403841,7 +403841,7 @@
         "company_name": "General Motors",
         "id": "6be326d4-b4e5-4d1a-9440-abd55d5a377d",
         "title": "AI/ML Engineer Intern - Mapping - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403886,7 +403886,7 @@
         "company_name": "General Motors",
         "id": "ed9e210c-cd7d-439c-a71c-72609cf1bb48",
         "title": "Embodied AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403909,7 +403909,7 @@
         "company_name": "General Motors",
         "id": "ebfe5ed5-c6f8-4877-9e23-ba749cca96fe",
         "title": "Onboard Autonomy Intern - Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403932,7 +403932,7 @@
         "company_name": "General Motors",
         "id": "51f8bc81-fb4a-4a5c-90e5-46bcc29060d5",
         "title": "Seam Intern - Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404671,7 +404671,7 @@
         "company_name": "KLA",
         "id": "18e3866d-2742-4686-b497-2f6ec0eaa835",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405615,5 +405615,119 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MetLife",
+        "id": "b998a4c3-63ee-4efb-9e2d-1828a7d52400",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792189506,
+        "date_posted": 1790807050,
+        "url": "https://metlife.avature.net/en_US/ml/JobDetail/20702",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/MetLife",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "National Bank of Canada",
+        "id": "bbadd5d1-c04e-4ce5-930d-f7c503912aac",
+        "title": "Analyst Intern - Credit Risk Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792189224,
+        "date_posted": 1789683754,
+        "url": "https://bnc.avature.net/en_CA/careers/JobDetail/35546",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SRC, Inc",
+        "id": "29cb69e1-61dd-4a95-a333-e458db367d5e",
+        "title": "Engineering Technician Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792189177,
+        "date_posted": 1789597153,
+        "url": "https://jobs.jobvite.com/src-inc/job/ow4GAfwA?nl=1&nl=1&fr=false",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/SRC-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SRC, Inc",
+        "id": "c1e9b2e6-28da-405e-ae31-2d67bc34dcae",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792189082,
+        "date_posted": 1789597151,
+        "url": "https://jobs.jobvite.com/src-inc/job/on4GAfwr?nl=1&nl=1&fr=false",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/SRC-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SRC, Inc",
+        "id": "1fb0d7af-6c0c-47ef-bf48-32b9b9c876e6",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792188722,
+        "date_posted": 1788041539,
+        "url": "https://jobs.jobvite.com/src-inc/job/oC3GAfwF?nl=1&nl=1&fr=false",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/SRC-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
