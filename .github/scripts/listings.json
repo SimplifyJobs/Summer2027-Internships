@@ -188089,7 +188089,7 @@
         "company_name": "IMC Trading",
         "id": "4aa719b5-d2a2-4379-950b-53301335fcac",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280695,7 +280695,7 @@
         "company_name": "Hewlett Packard",
         "id": "3a30774b-0950-45cc-9497-be1cab33f485",
         "title": "Personal Systems Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365339,7 +365339,7 @@
         "company_name": "GE Healthcare",
         "id": "2e8fab2b-d09c-456f-9ec4-f142c8021d83",
         "title": "Algorithms Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -373533,7 +373533,7 @@
         "company_name": "Intel",
         "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
         "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
