@@ -197607,7 +197607,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -217280,7 +217280,7 @@
         "company_name": "Novanta",
         "id": "69d82e73-0d15-4a79-8bd0-592041531569",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -296330,7 +296330,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -297294,7 +297294,7 @@
         "company_name": "Xcel Energy",
         "id": "f5a5f110-364b-4641-acea-76c3e5e6e58b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299961,7 +299961,7 @@
         "company_name": "Kite Pharma",
         "id": "d86e44b9-4c31-4fce-9921-62b882b53084",
         "title": "Kite Development Intern - Tech Ops - Process Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319016,7 +319016,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -334933,7 +334933,7 @@
         "company_name": "CoStar Group",
         "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350931,7 +350931,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -365113,7 +365113,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368970,7 +368970,7 @@
         "company_name": "The Home Depot",
         "id": "e16ac71f-72f4-4100-b277-2a92a88c6d05",
         "title": "AI Machine Learning Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -401946,7 +401946,7 @@
         "company_name": "Salesforce",
         "id": "b7d88c18-cbf6-4e63-b368-efaf9a60b080",
         "title": "Product Management Specialist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -402158,7 +402158,7 @@
         "company_name": "Marsh",
         "id": "73d1f84a-69e1-4693-b9a8-03e6ae82b0b1",
         "title": "Finance Innovation & Technology Intern - Master's Finance Innovation & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
