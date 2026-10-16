@@ -332878,7 +332878,7 @@
         "company_name": "Rockwell Automation",
         "id": "baa69c3b-4606-491a-9d5e-c8c2c345e9ca",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -332949,7 +332949,7 @@
         "company_name": "Rockwell Automation",
         "id": "fdef26c7-fa7e-4032-b5b0-ddc1667549ba",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -347966,7 +347966,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348682,7 +348682,7 @@
         "company_name": "GE Healthcare",
         "id": "94701b25-a1e7-43b1-88a6-dba6fef5c0ea",
         "title": "Full-Stack Software Engineer Intern - MIM Commercialized Web Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -361831,7 +361831,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b18b60ce-5815-4336-86cf-a0ace83b8289",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -362868,7 +362868,7 @@
         "company_name": "Honeywell",
         "id": "832f0b01-5885-457c-a203-369c9da9818e",
         "title": "Artificial Intelligence/Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -365574,7 +365574,7 @@
         "company_name": "KLA",
         "id": "46bc2309-eff6-49b8-b663-051d87560282",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -371061,7 +371061,7 @@
         "company_name": "Great American Insurance Company",
         "id": "319f5acd-d41e-4a2d-ba38-489c86ff3b27",
         "title": "Enterprise Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371103,7 +371103,7 @@
         "company_name": "The Toro Company",
         "id": "a143b6e7-10b8-4742-83e7-01a55242761c",
         "title": "Mechatronics Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -373460,7 +373460,7 @@
         "company_name": "KLA Corporation",
         "id": "fb99fc9f-da10-4a0c-9d4c-565dd66138c8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380814,7 +380814,7 @@
         "company_name": "Medtronic",
         "id": "3c5615c3-8831-41c5-8668-b6072cfc338c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405719,6 +405719,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "99625c56-8f56-42c3-a5d9-6eb33cfa33fa",
+        "title": "AI & HPC Performance Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792131494,
+        "date_posted": 1792022400,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
