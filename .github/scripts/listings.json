@@ -214606,7 +214606,7 @@
         "company_name": "Medtronic",
         "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299597,7 +299597,7 @@
         "company_name": "Gilead Sciences",
         "id": "57c6e96e-e10b-4f87-bf6b-6448a90ed532",
         "title": "AI Engineer Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325622,7 +325622,7 @@
         "company_name": "Xcel Energy",
         "id": "c7e08815-6094-4d47-8fb2-fc3d91a6f1d0",
         "title": "Customer Insight Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381344,7 +381344,7 @@
         "company_name": "Boston Scientific",
         "id": "80c856e0-3ec4-4026-9444-8ee61d28bf1e",
         "title": "Equipment Engineering AI Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
