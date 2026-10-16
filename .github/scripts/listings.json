@@ -285663,7 +285663,7 @@
         "company_name": "Brunswick",
         "id": "e6071b93-7dbd-4e00-9f95-3aedd8bda97c",
         "title": "Power BI/Ops Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -389674,7 +389674,7 @@
         "company_name": "Field AI",
         "id": "b552be63-dc57-4945-8100-61ad5740db06",
         "title": "Robotics Research Intern - Locomotion & Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406093,6 +406093,170 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moment Energy",
+        "id": "beddfbb4-6c11-44f3-907f-f17ecccb14b4",
+        "title": "Test Engineering Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792114935,
+        "date_posted": 1792114882,
+        "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4455115009",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Moment-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c6cf89af-fd3e-48e3-b886-b14efade21e6",
+        "title": "Software Engineer Intern - Recommendation Performance Efficiency",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792114935,
+        "date_posted": 1792114830,
+        "url": "https://lifeattiktok.com/search/7673636206961641781",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "9087bc41-b156-4019-8980-d8b788c06190",
+        "title": "R&D Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792114770,
+        "date_posted": 1792114622,
+        "url": "https://jobs.keysight.com/jobs/54673?icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "07e0bf88-e6fa-4fba-b37a-bcd7c39532ea",
+        "title": "Research Intern - Efficient AI Software Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792114785,
+        "date_posted": 1792114626,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BC Pensions",
+        "id": "666bef1d-25fc-49ac-aca6-45ccfc8c86ff",
+        "title": "Application Developer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1792114742,
+        "date_posted": 1792114633,
+        "url": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
+        "locations": [
+            "Victoria, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BC-Pensions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera",
+        "id": "60586a8f-1805-4d07-843a-cf86f0b22f46",
+        "title": "FPGA IP Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792114615,
+        "date_posted": 1792022400,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apple",
+        "id": "6dee80eb-5b2d-4684-8dd3-8c5324036443",
+        "title": "SoC Machine Learning Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792114432,
+        "date_posted": 1792114389,
+        "url": "https://jobs.apple.com/en-us/details/200689488",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
