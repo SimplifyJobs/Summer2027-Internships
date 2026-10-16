@@ -2,73 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Deloitte",
-        "id": "83d433ea-9f42-430e-ace7-8fda96b64395",
-        "title": "Hiring Our Heroes 12-Week Fellowship - AI & Engineering - Government Public Services",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771411906,
-        "date_posted": 1771411906,
-        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Hiring-our-Heroes-12-week-Fellowship-AI-Engineering-Government-Public-Services/324492",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Deloitte",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amazon",
-        "id": "103e964c-f863-44c2-b559-b90efef2fc87",
-        "title": "Software Development Engineer Apprentice - Month Fixed Term Contract",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771411137,
-        "date_posted": 1771411137,
-        "url": "https://amazon.jobs/en/jobs/3174943/software-development-engineer-apprentice-42-month-fixed-term-contract",
-        "locations": [
-            "Swansea, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Keysight Technologies",
-        "id": "63d02fbc-a3f0-4da7-948f-7b9c97209712",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771410853,
-        "date_posted": 1771410853,
-        "url": "https://jobs.keysight.com/jobs/51347?lang=en-us&icims=1",
-        "locations": [
-            "Fleet, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Zoom",
         "id": "ebc13604-3a1d-4ff4-b4f9-6419beb75f20",
         "title": "Research Intern - AI Incubation",
@@ -291983,7 +291916,7 @@
         "company_name": "Rockefeller Capital Management",
         "id": "9f1a3d4b-e719-4a8d-8675-c400a470b458",
         "title": "Summer Analyst Intern - Distribution",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299531,7 +299464,7 @@
         "company_name": "Gilead Sciences",
         "id": "44e2cea6-fb38-4201-b02a-99caa42eee10",
         "title": "CFO Intern - IT - Commercial Data & AICOE",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314466,7 +314399,7 @@
         "company_name": "RTX",
         "id": "b698f712-411d-4005-b00c-49d33f52731c",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -327208,7 +327141,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -342634,7 +342567,7 @@
         "company_name": "Centene",
         "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344834,7 +344767,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364220,7 +364153,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367524,7 +367457,7 @@
         "company_name": "The Federal Reserve System",
         "id": "531577c4-883e-4ac7-9563-ab1ef47be527",
         "title": "Advanced Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377402,7 +377335,7 @@
         "company_name": "General Motors",
         "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
         "title": "ADAS Software Engineer Intern - Adpt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -383724,7 +383657,7 @@
         "company_name": "GE Healthcare",
         "id": "dc82a841-9a85-4033-ac1d-61f15f22a355",
         "title": "Electrical Engineering Technician Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
