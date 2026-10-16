@@ -276961,7 +276961,7 @@
         "company_name": "Intel",
         "id": "4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
         "title": "Silicon Hardware Engineering Intern - Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -278322,7 +278322,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -291780,7 +291780,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -294521,7 +294521,7 @@
         "company_name": "Marvell",
         "id": "e2983544-b2c7-4646-833d-b960d39cf290",
         "title": "Functional Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297412,7 +297412,7 @@
         "company_name": "Xcel Energy",
         "id": "2ec23968-d5b0-4157-a73c-01469fb31a79",
         "title": "Energy Supply Renewable Intern - MN",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -318387,7 +318387,7 @@
         "company_name": "Amgen",
         "id": "811210da-553e-4d37-b262-9897450dc43d",
         "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328796,7 +328796,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360934,7 +360934,7 @@
         "company_name": "Invesco",
         "id": "d29e1b26-6366-4790-a9fb-5c7c87927b69",
         "title": "Early Career Intern - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -365136,7 +365136,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -375175,7 +375175,7 @@
         "company_name": "Airbus",
         "id": "db82b403-fb19-409c-bf56-457fd28a9c63",
         "title": "Software Engineer Intern Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385517,7 +385517,7 @@
         "company_name": "Leidos",
         "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
         "title": "Business Systems AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399028,7 +399028,7 @@
         "company_name": "KLA",
         "id": "a5e8aab7-69ef-48be-84cd-47e7f6fc6357",
         "title": "Computer Vision/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405675,5 +405675,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "f6398163-4e7d-4ddd-aaab-04adafd0ee67",
+        "title": "Research Scientist Intern - Plasma Light Source Characterization",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792151318,
+        "date_posted": 1791849600,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
