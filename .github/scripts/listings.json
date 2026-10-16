@@ -291983,7 +291983,7 @@
         "company_name": "Rockefeller Capital Management",
         "id": "9f1a3d4b-e719-4a8d-8675-c400a470b458",
         "title": "Summer Analyst Intern - Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302749,7 +302749,7 @@
         "company_name": "RTX",
         "id": "c083713f-2297-45fc-a2d7-2bc2fc492057",
         "title": "FPGA Electrical Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -314466,7 +314466,7 @@
         "company_name": "RTX",
         "id": "b698f712-411d-4005-b00c-49d33f52731c",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -325553,7 +325553,7 @@
         "company_name": "Xcel Energy",
         "id": "c803678b-ebd2-4b0b-a619-88a5e54aa252",
         "title": "AI and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344834,7 +344834,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348089,7 +348089,7 @@
         "company_name": "Lowe's",
         "id": "8a8f9aee-a750-4b17-a552-e19c07344085",
         "title": "Store Operations Corporate Facilities Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350998,7 +350998,7 @@
         "company_name": "KLA",
         "id": "6e2407ba-f462-4baa-ac0f-a0c48ac50816",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -367524,7 +367524,7 @@
         "company_name": "The Federal Reserve System",
         "id": "531577c4-883e-4ac7-9563-ab1ef47be527",
         "title": "Advanced Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373789,7 +373789,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "66ef2704-3037-40ab-ac97-ad086c4309af",
         "title": "AI Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -377402,7 +377402,7 @@
         "company_name": "General Motors",
         "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
         "title": "ADAS Software Engineer Intern - Adpt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383724,7 +383724,7 @@
         "company_name": "GE Healthcare",
         "id": "dc82a841-9a85-4033-ac1d-61f15f22a355",
         "title": "Electrical Engineering Technician Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405043,7 +405043,7 @@
         "company_name": "Leonardo",
         "id": "8a5484b7-8d04-462f-b71e-1c147f69ce93",
         "title": "Electronics Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405721,5 +405721,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "d689b066-beba-40d1-927a-eaa0376732f4",
+        "title": "Engineering Support Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792146077,
+        "date_posted": 1783166322,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist-Intern_REQ_0000077694-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
