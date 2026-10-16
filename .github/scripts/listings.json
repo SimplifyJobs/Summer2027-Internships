@@ -278322,7 +278322,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -300183,7 +300183,7 @@
         "company_name": "Gilead Sciences",
         "id": "2fc7cbfa-1b76-4300-b64c-e1f220b12c3b",
         "title": "Development Intern - Governance, Risk & Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327141,7 +327141,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -328796,7 +328796,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342567,7 +342567,7 @@
         "company_name": "Centene",
         "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360934,7 +360934,7 @@
         "company_name": "Invesco",
         "id": "d29e1b26-6366-4790-a9fb-5c7c87927b69",
         "title": "Early Career Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364153,7 +364153,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365136,7 +365136,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384569,7 +384569,7 @@
         "company_name": "RTX",
         "id": "ba84059f-11a6-4121-a01d-1229ff58c1c9",
         "title": "Systems Engineering Test Equipment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
