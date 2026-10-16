@@ -186134,7 +186134,7 @@
         "company_name": "Netflix",
         "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
         "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -189708,7 +189708,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -214170,7 +214170,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300222,7 +300222,7 @@
         "company_name": "Gilead Sciences",
         "id": "681fb2ef-d759-47da-a70a-cc7baff032cf",
         "title": "AI/ML Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300305,7 +300305,7 @@
         "company_name": "Gilead Sciences",
         "id": "5b9d3ee4-c491-471e-975e-0ebdbfaffe7c",
         "title": "CFO IT Digital Marketing Intern - IT - Digital Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314534,7 +314534,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -325506,7 +325506,7 @@
         "company_name": "Xcel Energy",
         "id": "58e0a934-91a0-40c8-a6bd-305d44b9da55",
         "title": "Residential Energy Product Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325529,7 +325529,7 @@
         "company_name": "Xcel Energy",
         "id": "7bc245f2-2d97-470c-8cf5-01c697aeb081",
         "title": "Residential Energy Product Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347826,7 +347826,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350295,7 +350295,7 @@
         "company_name": "William Blair",
         "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
         "title": "Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361024,7 +361024,7 @@
         "company_name": "Invesco",
         "id": "7f093b2f-6a53-4d35-b5f2-b8abc4cf3abe",
         "title": "Early Career Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362827,7 +362827,7 @@
         "company_name": "Xcel Energy",
         "id": "4ef4ca83-8d9c-4cd1-8e29-f387730d3a3b",
         "title": "Computer Information Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368600,7 +368600,7 @@
         "company_name": "Stripe",
         "id": "8d662f47-4018-4534-bc0e-e3a416371581",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2028"
@@ -372762,7 +372762,7 @@
         "company_name": "Electronic Arts",
         "id": "b45557a0-8993-4135-8a47-273587c395f5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376070,7 +376070,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "326100ad-000e-45bb-b619-347263128bdc",
         "title": "Sales Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386687,7 +386687,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "b8e998a3-d1d0-4dfe-a9fe-d72ab136f1f9",
         "title": "Environmental Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -401017,7 +401017,7 @@
         "company_name": "Anduril",
         "id": "dafc249b-2c6d-433d-9420-560205cd6a93",
         "title": "Research Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -405671,6 +405671,30 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "c2b83547-72d8-4dc5-8cc9-ea1825ebf4e6",
+        "title": "Software Engineer Intern - SI Data Infrastructure",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1792142504,
+        "date_posted": 1788402220,
+        "url": "https://www.tesla.com/careers/search/job/282292",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
