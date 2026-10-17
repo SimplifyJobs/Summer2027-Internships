@@ -284770,7 +284770,7 @@
         "company_name": "Microsoft",
         "id": "a4bb4181-58ef-45f8-8194-7e00cc47ab86",
         "title": "Data Scientist PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -337787,7 +337787,7 @@
         "company_name": "Centene",
         "id": "a3df12be-fbf0-4c4f-a784-f55100ad8aaa",
         "title": "Data and Analytics Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391503,7 +391503,7 @@
         "company_name": "Corewell Health",
         "id": "bf2a73c1-b34b-4153-805d-6d8f185ae0de",
         "title": "Digital Services Generative AI Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396348,7 +396348,7 @@
         "company_name": "Profound Medical",
         "id": "b2a3e977-0e6f-4197-bdb3-0b8a20ef4317",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
