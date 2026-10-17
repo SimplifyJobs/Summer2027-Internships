@@ -271567,7 +271567,7 @@
         "company_name": "First National Bank",
         "id": "0db2b599-5313-4e72-a932-36bdd7eafa58",
         "title": "Enterprise Operations Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281129,7 +281129,7 @@
         "company_name": "Nationwide",
         "id": "02d9e13e-0a78-4ac3-ac88-bcc860a02ee5",
         "title": "State Product Analyst Intern - Personal Lines",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -282384,7 +282384,7 @@
         "company_name": "Tutor Intelligence",
         "id": "0d0bd770-88d6-48be-bb98-c0010e7aed3f",
         "title": "Robotics Research Scientist Intern - Winter/Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -293553,7 +293553,7 @@
         "company_name": "Xcel Energy",
         "id": "161f02c2-374c-4634-a355-03b295c6a3a4",
         "title": "Power Generation Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293599,7 +293599,7 @@
         "company_name": "Xcel Energy",
         "id": "062bdbce-e91d-4a7c-aeac-138825e5c279",
         "title": "Wildfire Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293763,7 +293763,7 @@
         "company_name": "Xcel Energy",
         "id": "0049eda1-f2e8-424b-bab5-4e0ef74ca654",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299430,7 +299430,7 @@
         "company_name": "Xcel Energy",
         "id": "18eeb2a6-97b5-4ca5-9d64-d93fadcd08be",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322355,7 +322355,7 @@
         "company_name": "Johnson & Johnson",
         "id": "183a7c4c-19d3-4b57-85de-1ae125ee8aee",
         "title": "Electrical Engineer Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
