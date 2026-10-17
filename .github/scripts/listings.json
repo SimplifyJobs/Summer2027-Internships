@@ -178350,7 +178350,7 @@
         "company_name": "pony.ai",
         "id": "40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
         "title": "Research Intern - Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -267062,7 +267062,7 @@
         "company_name": "TWG Global",
         "id": "41911f17-07a7-48d7-851e-c45ea9dc2e89",
         "title": "Data Science Intern - MAQR",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -279396,7 +279396,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -289870,7 +289870,7 @@
         "company_name": "Perry Homes",
         "id": "08214a8e-4cc0-4ab5-bfee-4ffd27df90f6",
         "title": "Estimating Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334951,7 +334951,7 @@
         "company_name": "Javelin Global Commodities",
         "id": "2569d7a8-a0c6-49dc-b828-f9c792898c61",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335254,7 +335254,7 @@
         "company_name": "GM financial",
         "id": "3aafe9c0-e14d-4259-82c1-58a96d23552b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335278,7 +335278,7 @@
         "company_name": "GM financial",
         "id": "0ce857da-f2c3-408f-9dff-60465fa37f40",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335304,7 +335304,7 @@
         "company_name": "GM financial",
         "id": "16a226b6-b8ad-430a-8246-a9ae743ea5b9",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346668,7 +346668,7 @@
         "company_name": "William Blair",
         "id": "418c7dd2-b4c0-46c0-b387-96395ae563ea",
         "title": "Software Engineering Intern - Wit",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -355571,7 +355571,7 @@
         "company_name": "Acuity",
         "id": "4305964e-67a9-4802-9788-7885664c1c5c",
         "title": "Firmware Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -367063,7 +367063,7 @@
         "company_name": "Humanoid",
         "id": "090093e5-7ef5-475c-a791-32ea8ed332a7",
         "title": "Robot Learning Intern - Robot Learning Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368611,7 +368611,7 @@
         "company_name": "Scout Clean Energy",
         "id": "258b1734-67f6-4bc5-8017-6bd816a41b1e",
         "title": "Operations Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390110,7 +390110,7 @@
         "company_name": "Capula",
         "id": "3ecc98e5-8773-49d5-bc52-d82191e50a8e",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
