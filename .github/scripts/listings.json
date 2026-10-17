@@ -2,98 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Roku",
-        "id": "5fc64f5d-6e78-463a-b932-6d42e94a7973",
-        "title": "Applied Science Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771514608,
-        "date_posted": 1771514608,
-        "url": "https://www.weareroku.com/jobs/7635099?gh_jid=7635099",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "690e4022-41e1-411c-bf12-489f610f12f1",
-        "title": "Forward Deployed Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1771514093,
-        "date_posted": 1771514093,
-        "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WSP",
-        "id": "e9f9a63e-54ac-4494-b3c4-3161d88977df",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771514010,
-        "date_posted": 1771514010,
-        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80314",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/WSP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HF Sinclair",
-        "id": "17a99b26-d369-44de-90dc-82586917186a",
-        "title": "Environmental Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771513733,
-        "date_posted": 1771513733,
-        "url": "https://careers.hfsinclair.com/job/Petrolia-Intern-Environmental-PA-16050/1366169100/?ats=successfactors",
-        "locations": [
-            "Grove City, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/HF-Sinclair",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Sony",
         "id": "690e5960-bb4c-4b04-b450-cda3594db89e",
         "title": "Intern - A&R Research",
@@ -9871,27 +9779,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mentis AI",
-        "id": "cdf3b74a-4681-49c1-b09a-e984e64805a5",
-        "title": "Commercial Banking Professionals \u2013 AI Residency - Part-time - Frontier AI Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771930118,
-        "date_posted": 1771514296,
-        "url": "https://jobs.ashbyhq.com/mentis/e558272f-0cd8-4f91-904d-b7539cb16b22/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mentis-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
