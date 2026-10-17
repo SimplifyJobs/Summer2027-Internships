@@ -300185,7 +300185,7 @@
         "company_name": "Meijer",
         "id": "0e443d9f-684b-4ad6-9e92-c3345bc5332d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396395,7 +396395,7 @@
         "company_name": "Northrop Grumman",
         "id": "1b5bf847-de9c-40e6-848e-cf79836d012b",
         "title": "Electronics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
