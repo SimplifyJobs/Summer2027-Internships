@@ -264049,7 +264049,7 @@
         "company_name": "First National Bank",
         "id": "5d230d84-fa4c-431c-9970-e72967e854e5",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268282,7 +268282,7 @@
         "company_name": "First National Bank",
         "id": "85dc62c3-ab71-4f8c-9c0b-8ec92bf2dc40",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268305,7 +268305,7 @@
         "company_name": "First National Bank",
         "id": "680cb3c9-354c-4f44-9cff-8c903de42749",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
