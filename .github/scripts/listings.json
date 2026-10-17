@@ -1,96 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LMI ",
-        "id": "cfdd4f67-6196-4bfe-8f9b-4f26e3ccb206",
-        "title": "Data Science Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771484730,
-        "date_posted": 1771484730,
-        "url": "https://careers-lmi.icims.com/jobs/13682/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/LMI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BlinqLABS",
-        "id": "8adf8a0f-8e62-4272-a4ac-197b91e8bb67",
-        "title": "Java Web Development Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771484864,
-        "date_posted": 1771484864,
-        "url": "https://jobs.smartrecruiters.com/Blinqlabs/743999734120603",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BlinqLABS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BCforward",
-        "id": "46a77194-f12c-4547-8132-1cdef59fbcb7",
-        "title": "VNF Systems Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771484660,
-        "date_posted": 1771484660,
-        "url": "https://jobs.smartrecruiters.com/BCforward3/94082803",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/BCforward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Barkback",
-        "id": "343fcb3c-e4be-4f12-841e-664571827fa6",
-        "title": "Software Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771484925,
-        "date_posted": 1771484925,
-        "url": "https://jobs.smartrecruiters.com/barkbackLlc/90864007",
-        "locations": [
-            "Santa Barbara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Barkback",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cadence Design Systems",
         "id": "cfe3dda9-e8e4-4c9c-a4c1-feadec75ec40",
@@ -177,54 +87,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/King",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Activision-Blizzard",
-        "id": "6aa5dc14-b9d9-46ef-b986-637d822cce5c",
-        "title": "2026 US Summer Internships - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771486145,
-        "date_posted": 1771486145,
-        "url": "https://activision.wd1.myworkdayjobs.com/External/job/San-Francisco/XMLNAME-2026-US-Summer-Internships---Data-Analytics_R026750",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Activision-Blizzard",
-        "id": "04296e7b-4a3b-48e8-b428-87c60e8a22a2",
-        "title": "2026 US Summer Internships - Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771486145,
-        "date_posted": 1771486145,
-        "url": "https://activision.wd1.myworkdayjobs.com/External/job/New-York---King---5th-Ave/XMLNAME-2026-US-Summer-Internships---Product-Management_R026769-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -80048,27 +79910,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atria Group",
-        "id": "c0b02d06-d718-4cda-8337-9d34d85cf921",
-        "title": "Dataflux Developer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774946881,
-        "date_posted": 1771485169,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/84939981",
-        "locations": [
-            "Thousand Oaks, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Comtech",
         "id": "126d88e3-b139-4f05-a819-7867cd679fde",
@@ -80108,71 +79949,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ask IT Consulting",
-        "id": "9860f868-b5e0-487c-be22-480db99136e1",
-        "title": "Geographic Information System Specialist",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774960070,
-        "date_posted": 1771485066,
-        "url": "https://jobs.smartrecruiters.com/AskITConsulting/743999654653329",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atria Group",
-        "id": "c51e0bc2-6541-41bf-8619-6f14d7059d0e",
-        "title": "Ext JS & SQL Server DB Developer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774951229,
-        "date_posted": 1771485131,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/87567936",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atria Group",
-        "id": "de0ae2a8-5972-43e3-ac20-cde1cd43d7d5",
-        "title": "SQL Developer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774960561,
-        "date_posted": 1771485213,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/83695407",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
