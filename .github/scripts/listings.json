@@ -26012,7 +26012,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -292817,7 +292817,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293805,7 +293805,7 @@
         "company_name": "Xcel Energy",
         "id": "a9f96455-83df-4502-ab33-b878fb073616",
         "title": "AI & Automation Intern - Regulatory",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308834,7 +308834,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -330436,7 +330436,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336804,7 +336804,7 @@
         "company_name": "General Motors",
         "id": "f9a08de0-d633-4b19-b444-8002689fc795",
         "title": "Product Management Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355026,7 +355026,7 @@
         "company_name": "Intel",
         "id": "ef2297ca-14a3-41d1-b09c-4297b662e9f6",
         "title": "Software Research Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374301,7 +374301,7 @@
         "company_name": "Adobe",
         "id": "f9901050-1d31-45ee-b404-d04b7838e9c6",
         "title": "Applied and Research Scientist/Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383926,7 +383926,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400437,7 +400437,7 @@
         "company_name": "RTX",
         "id": "450e4484-4377-400a-9da6-573dd1196e57",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
