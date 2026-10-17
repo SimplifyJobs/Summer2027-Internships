@@ -3089,103 +3089,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "F5",
-        "id": "922fcaed-990f-420c-8740-b8b1d0af5a6f",
-        "title": "Software Development Engineer Intern - San Jose - CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771469093,
-        "date_posted": 1771469093,
-        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1036580-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/F5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blue Origin",
-        "id": "ab144b99-e26e-461c-88fd-7fffed843bb5",
-        "title": "Associate Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771469143,
-        "date_posted": 1771469143,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Associate-Engineering-Intern--Summer-2026-_R60894",
-        "locations": [
-            "Washington"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Maybell Quantum Industries",
-        "id": "61964b6e-ab09-4f3a-81be-420b28b3f074",
-        "title": "STEM Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1771469057,
-        "date_posted": 1771469057,
-        "url": "https://job-boards.greenhouse.io/maybellquantum/jobs/5125244008",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Maybell-Quantum-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "8a9a6b17-f50b-4233-8f55-91eeb4faf4c2",
-        "title": "Summer 2026 Associate Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771468589,
-        "date_posted": 1771468589,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Associate-Engineer-Internship_REQ342259",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "ba0a49ef-4bd9-4560-9b08-20305e2461db",
@@ -3295,54 +3198,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sila Nanotechnologies",
-        "id": "18e75a98-b813-47d0-97c5-6f9c16ef9390",
-        "title": "Software Intern - AI & Battery Informatics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771469023,
-        "date_posted": 1771469023,
-        "url": "https://job-boards.greenhouse.io/silananotechnologies/jobs/7624654",
-        "locations": [
-            "Alameda, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SilaNano",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "King",
-        "id": "5595e763-fa99-464c-ba12-3dbb7c5f9325",
-        "title": "Intern - Backend Engineering - Xbox Advertising",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771511150,
-        "date_posted": 1771468497,
-        "url": "https://activision.wd1.myworkdayjobs.com/King_External_Careers/job/San-Francisco/XMLNAME-2026-US-Summer-Internships---Backend-Engineering_R026759",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/King",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -3556,27 +3411,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mobilityware",
-        "id": "f08415cf-ec6d-4bea-9319-145d83dc5f1e",
-        "title": "Product Marketing Analytics Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771544018,
-        "date_posted": 1771468767,
-        "url": "http://boards.greenhouse.io/mobilityware/jobs/7630613",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mobilityware",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
