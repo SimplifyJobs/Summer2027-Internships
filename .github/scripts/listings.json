@@ -261538,7 +261538,7 @@
         "company_name": "First National Bank",
         "id": "a9a6f9d5-20b7-4f71-8462-13e56e208848",
         "title": "Retail Administration Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -263957,7 +263957,7 @@
         "company_name": "First National Bank",
         "id": "94b01cac-fcb0-4724-8377-0f5ba298e9b8",
         "title": "Corporate Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268167,7 +268167,7 @@
         "company_name": "First National Bank",
         "id": "97668103-86e8-41b6-b716-68da7bbab832",
         "title": "AI/Machine Learning Modeler Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268260,7 +268260,7 @@
         "company_name": "First National Bank",
         "id": "d26e9ab4-44ab-46c9-86f1-d24c92ae631a",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
