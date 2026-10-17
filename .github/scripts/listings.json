@@ -262446,7 +262446,7 @@
         "company_name": "AMD",
         "id": "a130716c-fb2f-4134-9ac5-6e93002f40e0",
         "title": "Hardware Design Engineer Intern/Co-op - Long Term",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -271386,7 +271386,7 @@
         "company_name": "Edison International",
         "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290956,7 +290956,7 @@
         "company_name": "Marvell",
         "id": "b187c223-0bc3-4f82-9be4-30a9212be7b4",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -327681,7 +327681,7 @@
         "company_name": "Johnson & Johnson",
         "id": "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
         "title": "Software Engineer Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333038,7 +333038,7 @@
         "company_name": "Marvell",
         "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363299,7 +363299,7 @@
         "company_name": "Marvell",
         "id": "600e8939-a252-4ab1-830d-2aaf90c3306f",
         "title": "IC Validation Engineer Intern Co-op - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389947,7 +389947,7 @@
         "company_name": "Tencent",
         "id": "9102f3b7-93b5-45dc-a78f-663455e6e36d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397966,7 +397966,7 @@
         "company_name": "Visa",
         "id": "d9602858-e28e-46ab-b478-6c83f0271cdf",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
