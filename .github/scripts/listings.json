@@ -119700,7 +119700,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -178350,7 +178350,7 @@
         "company_name": "pony.ai",
         "id": "40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
         "title": "Research Intern - Deep Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -223136,7 +223136,7 @@
         "company_name": "ResponsiveAds",
         "id": "95179997-e004-4aab-84b7-07ebc63d814a",
         "title": "Full-Stack Developer Intern - ResponsiveAds - Studio 4",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -260325,7 +260325,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -267062,7 +267062,7 @@
         "company_name": "TWG Global",
         "id": "41911f17-07a7-48d7-851e-c45ea9dc2e89",
         "title": "Data Science Intern - MAQR",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -279396,7 +279396,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -279494,7 +279494,7 @@
         "company_name": "Red Rabbit Robotics",
         "id": "7eff9698-571b-40ca-9bf2-60dd1a68e0a8",
         "title": "Mechatronics Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -279515,7 +279515,7 @@
         "company_name": "OceanComm",
         "id": "4d73ee07-1a9f-463a-af8b-89f1101f9965",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -293712,7 +293712,7 @@
         "company_name": "Xcel Energy",
         "id": "374818f1-99ab-4a9d-a418-e947a86cc7a0",
         "title": "Renewable and Demand Response Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336004,7 +336004,7 @@
         "company_name": "Tesla",
         "id": "84093f11-2319-4e29-a63b-6c4a03dc4ee7",
         "title": "Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -345924,7 +345924,7 @@
         "company_name": "Rippling",
         "id": "93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
         "title": "Machine Learning Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346668,7 +346668,7 @@
         "company_name": "William Blair",
         "id": "418c7dd2-b4c0-46c0-b387-96395ae563ea",
         "title": "Software Engineering Intern - Wit",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -355571,7 +355571,7 @@
         "company_name": "Acuity",
         "id": "4305964e-67a9-4802-9788-7885664c1c5c",
         "title": "Firmware Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -355831,7 +355831,7 @@
         "company_name": "GovSignals",
         "id": "954f1915-886d-44d2-b63c-900fb3b88410",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362018,7 +362018,7 @@
         "company_name": "Bose",
         "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
         "title": "Reverse Logistics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -366834,7 +366834,7 @@
         "company_name": "Mindex",
         "id": "96268a8b-5041-4571-913d-7a04ae9c4c50",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -389809,7 +389809,7 @@
         "company_name": "Resource Innovations",
         "id": "515ed5fe-a9ee-4b7c-8490-ae8eb2439255",
         "title": "Energy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -404509,5 +404509,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Siemens",
+        "id": "67257e1c-0c0e-4806-be26-e049ce9d65d1",
+        "title": "Digital Degree Apprentice",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792226701,
+        "date_posted": 1791929813,
+        "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/518834",
+        "locations": [
+            "Chippenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Siemens",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
