@@ -3089,28 +3089,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "1X",
-        "id": "9c729166-7bbb-4b24-89ff-f0df86a0f580",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771467273,
-        "date_posted": 1771467273,
-        "url": "https://1x.recruitee.com/o/data-analytics-intern",
-        "locations": [
-            "Hayward, CA",
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/1x",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "F5",
         "id": "922fcaed-990f-420c-8740-b8b1d0af5a6f",
@@ -3185,28 +3163,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kinaxis",
-        "id": "b3d39fa7-7259-4de8-b7bc-4f555e8110a7",
-        "title": "Co-Op/ Intern AI/ ML",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771466941,
-        "date_posted": 1771466941,
-        "url": "https://careers-kinaxis.icims.com/jobs/34339/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "T-Mobile",
         "id": "8a9a6b17-f50b-4233-8f55-91eeb4faf4c2",
@@ -3227,27 +3183,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "8824740b-a32e-404b-842c-660710e68dab",
-        "title": "Maps and Geospatial Assistant",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771466605,
-        "date_posted": 1771466605,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Maps-and-Geospatial-Assistant_REQ_0000075483-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -3383,76 +3318,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "d-Matrix",
-        "id": "db5ef3bb-3dbe-4635-9b80-89751eac3cea",
-        "title": "Design Validation Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771467188,
-        "date_posted": 1771467188,
-        "url": "https://jobs.ashbyhq.com/d-Matrix/bac979d7-496c-4c47-a3a3-24b03fcaa162/application",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/d-Matrix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Activision-Blizzard",
-        "id": "4b78e12a-fd7a-4ed9-a351-5e8384d8bc32",
-        "title": "2026 US Summer Internships - Backend Engineering - Xbox Advertising",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771499540,
-        "date_posted": 1771468175,
-        "url": "https://activision.wd1.myworkdayjobs.com/External/job/San-Francisco/XMLNAME-2026-US-Summer-Internships---Backend-Engineering_R026759-1",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Redwood Materials",
-        "id": "96d3fe76-fad4-48a2-969a-bd2d8871c9c1",
-        "title": "Energy Optimization Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771467739,
-        "date_posted": 1771467739,
-        "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5807877004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Redwood-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
             "Master's",
             "PhD"
         ]
@@ -70339,31 +70204,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NewsBreak",
-        "id": "c84ceca3-1d9c-4a22-bd0e-bcc43525da95",
-        "title": "Engineering Intern - Nexbreak Venture",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773797313,
-        "date_posted": 1771467756,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4655812006",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
             "Master's",
             "PhD"
         ]
