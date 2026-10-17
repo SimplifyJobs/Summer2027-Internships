@@ -336796,7 +336796,7 @@
         "company_name": "Newham",
         "id": "39db4dd0-3572-4cfb-8c26-28e503058814",
         "title": "Data Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352715,7 +352715,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "29523cd2-72a1-4873-895f-88fb401450aa",
         "title": "Quantum Technologies Intern - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386525,7 +386525,7 @@
         "company_name": "RTX",
         "id": "5171a739-acb4-4c4f-a86a-278d4ad1bcd6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386550,7 +386550,7 @@
         "company_name": "RTX",
         "id": "2a5121b2-8df8-49ee-aef9-5b192735c687",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
