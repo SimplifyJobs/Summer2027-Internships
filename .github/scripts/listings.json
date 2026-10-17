@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Honeywell",
-        "id": "2954a3bc-b6dd-4b05-a105-6a85f9f59ba3",
-        "title": "Product Management Intern Engineer - m/w/d",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771497166,
-        "date_posted": 1771497166,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140089",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Roku",
         "id": "5fc64f5d-6e78-463a-b932-6d42e94a7973",
@@ -281335,7 +281312,7 @@
         "company_name": "Brunswick",
         "id": "84f60c1d-5d94-4e3b-a460-466cccf1d021",
         "title": "Engineering Test Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292920,7 +292897,7 @@
         "company_name": "Marvell",
         "id": "42f8685d-3645-46c3-a294-714913841320",
         "title": "Design Verification Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293550,7 +293527,7 @@
         "company_name": "Xcel Energy",
         "id": "eb864411-1731-4c2b-b415-4b9881d16890",
         "title": "Renewable Operations Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322707,7 +322684,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
         "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325283,7 +325260,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347418,7 +347395,7 @@
         "company_name": "KLA",
         "id": "6e2407ba-f462-4baa-ac0f-a0c48ac50816",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350161,7 +350138,7 @@
         "company_name": "Analog Devices",
         "id": "c88eff3d-aa92-400f-81af-bc057b38bc77",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -355737,7 +355714,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "6f1236f3-5a1c-4bb1-998f-e7b8fca40550",
         "title": "Embedded Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360640,7 +360617,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380306,7 +380283,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383903,7 +383880,7 @@
         "company_name": "Intel",
         "id": "6e326004-e660-4a06-a3f7-9378a0812a4e",
         "title": "Data Science and Analytics PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392695,7 +392672,7 @@
         "company_name": "GAF",
         "id": "a13245a8-c3d3-4790-9835-386cfb36742e",
         "title": "IT Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
