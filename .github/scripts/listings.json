@@ -262340,7 +262340,7 @@
         "company_name": "Machina Labs",
         "id": "7d3fbec0-40a6-4335-8586-3658e7b52f5f",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -298454,7 +298454,7 @@
         "company_name": "Peraton",
         "id": "e6d169c5-4031-467b-a077-10fc12f8df10",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298501,7 +298501,7 @@
         "company_name": "C.H. Robinson",
         "id": "391c6a07-d7ad-4fb2-acb2-cffeb02a8a12",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308970,7 +308970,7 @@
         "company_name": "The MJ Companies",
         "id": "1307add2-6463-4f8d-ba8b-6c10196c7d64",
         "title": "Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309037,7 +309037,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b8fc0d7e-aa3b-4cca-9332-12187015202c",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -320149,7 +320149,7 @@
         "company_name": "Demco Products",
         "id": "a6139842-69ee-4037-954f-1e2df0a8a6d4",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348018,7 +348018,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -348086,7 +348086,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352990,7 +352990,7 @@
         "company_name": "Reflect Orbital",
         "id": "42e76a3d-953e-45e7-8207-613a38b9017f",
         "title": "Ground Software Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353014,7 +353014,7 @@
         "company_name": "State Farm",
         "id": "f47bf68f-08e3-4d92-ade8-eff54ae7c108",
         "title": "Data Science Intern - Magnet Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Spring 2028",
@@ -353041,7 +353041,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "29523cd2-72a1-4873-895f-88fb401450aa",
         "title": "Quantum Technologies Intern - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -353137,7 +353137,7 @@
         "company_name": "Keysight Technologies",
         "id": "9c88b1dc-1cef-4857-93ee-282e00d802b7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -362176,7 +362176,7 @@
         "company_name": "Quantum Signal AI",
         "id": "d1dbaa59-82a3-42e7-a68f-6ec2a8ea58e9",
         "title": "Embedded and Real-Time Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362222,7 +362222,7 @@
         "company_name": "IDeaS",
         "id": "0ff85d31-6c19-40f4-ad7a-e27a92172e0f",
         "title": "Data Science Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -362247,7 +362247,7 @@
         "company_name": "First Citizens BancShares",
         "id": "e5525848-530e-40a2-aaef-750613a40730",
         "title": "Model Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362268,7 +362268,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392090,7 +392090,7 @@
         "company_name": "Ascension",
         "id": "7f9efb23-69aa-4042-9954-1336de391b9b",
         "title": "Master Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404964,6 +404964,149 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ryan",
+        "id": "9ca48e9a-a09b-4300-802e-47d9b4466d99",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792200432,
+        "date_posted": 1792108800,
+        "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "onsemi",
+        "id": "cd4de95f-f5ac-42d3-a41f-91aae3438968",
+        "title": "Applications Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792199732,
+        "date_posted": 1792199619,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "493648f8-615e-44b4-8f5b-df7b8f6343f6",
+        "title": "Research Intern - Frontier Speculative Decoding",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792199263,
+        "date_posted": 1792199070,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "QuEra Computing",
+        "id": "29f79682-4a77-4fcf-bd7d-a77d3af1acd7",
+        "title": "QPU Build Co-op - Optics & Data Analysis",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792199263,
+        "date_posted": 1792199070,
+        "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ryan",
+        "id": "18cf7b99-7951-4d0b-aa42-6f2427d59c44",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792199282,
+        "date_posted": 1792108800,
+        "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "c7ca0cf8-1365-4043-bd33-60b444281d4b",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792199266,
+        "date_posted": 1792199070,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
