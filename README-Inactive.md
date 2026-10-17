@@ -10,13 +10,13 @@
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (735)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (141)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (142)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (726)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (219)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (297)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (296)
 
 ---
 
@@ -5618,6 +5618,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Xcel-Energy?utm_source=GHList&utm_medium=company">Xcel Energy</a></strong></td>
+<td>Residential Energy Product Strategy Intern</td>
+<td>Denver, CO</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/USAA?utm_source=GHList&utm_medium=company">USAA</a></strong></td>
 <td>Digital Technical Product Management Intern</td>
 <td>San Antonio, TX</td>
@@ -7284,13 +7291,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Altard-State?utm_source=GHList&utm_medium=company">Altar'd State</a></strong></td>
-<td>Store Operations Data Analyst Intern</td>
-<td>Knoxville, TN</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Fraud & Risk Intern</td>
 <td>NYC<br>Mountain View, CA</td>
@@ -8106,6 +8106,13 @@
 <td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
 <td>Data Analytics & Engineering Intern</td>
 <td>Pittsburgh, PA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company">Cox</a></strong></td>
+<td>Data Scientist Intern</td>
+<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -13283,13 +13290,6 @@
 <td>21d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Zurn-Elkay-Water-Solutions?utm_source=GHList&utm_medium=company">Zurn Elkay Water Solutions</a></strong></td>
-<td>Embedded Hardware Intern</td>
-<td>Milwaukee, WI</td>
-<td>🔒</td>
-<td>22d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Cedar Rapids, IA</td>
@@ -13984,15 +13984,15 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Design Verification Intern - BS</td>
-<td><details><summary><strong>5 locations</strong></summary>Morrisville, NC<br>Austin, TX<br>Santa Clara, CA<br>Boise, ID<br>Westborough, MA</details></td>
+<td>Analog Design Intern - MS 🎓</td>
+<td>Santa Clara, CA<br>Burlington, VT</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Analog Design Intern - MS 🎓</td>
-<td>Santa Clara, CA<br>Burlington, VT</td>
+<td>IC Validation Engineer Intern - MS - Multiple Teams 🎓</td>
+<td>Irvine, CA<br>Santa Clara, CA<br>Westlake Village, CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
