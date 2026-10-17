@@ -264072,7 +264072,7 @@
         "company_name": "First National Bank",
         "id": "4a4488a7-d411-4cdf-bf48-8d34e3a60a68",
         "title": "AI and Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268213,7 +268213,7 @@
         "company_name": "First National Bank",
         "id": "3201641c-0fb8-4501-a614-976eeaa47ef5",
         "title": "Data Management Intern - Data Quality and Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312127,7 +312127,7 @@
         "company_name": "Ciena",
         "id": "2d7cf9e5-bb8b-45ac-9e32-aadc612bb2f4",
         "title": "NPI Hardware Co-op - 8 month",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -357500,7 +357500,7 @@
         "company_name": "RTX",
         "id": "3170bd08-be46-4758-93fa-a6d1157147c3",
         "title": "Electrical Production Support Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391101,7 +391101,7 @@
         "company_name": "RTX",
         "id": "27282ffa-070f-4079-bf3e-b159fa097600",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394823,7 +394823,7 @@
         "company_name": "Meta",
         "id": "4068c133-b8ab-4f49-a575-d0f6bffd2288",
         "title": "Signal Integrity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
