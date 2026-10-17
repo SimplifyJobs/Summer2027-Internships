@@ -298454,7 +298454,7 @@
         "company_name": "Peraton",
         "id": "e6d169c5-4031-467b-a077-10fc12f8df10",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -298501,7 +298501,7 @@
         "company_name": "C.H. Robinson",
         "id": "391c6a07-d7ad-4fb2-acb2-cffeb02a8a12",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -308970,7 +308970,7 @@
         "company_name": "The MJ Companies",
         "id": "1307add2-6463-4f8d-ba8b-6c10196c7d64",
         "title": "Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -309037,7 +309037,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b8fc0d7e-aa3b-4cca-9332-12187015202c",
         "title": "Electrical Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -320149,7 +320149,7 @@
         "company_name": "Demco Products",
         "id": "a6139842-69ee-4037-954f-1e2df0a8a6d4",
         "title": "IT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348018,7 +348018,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -348086,7 +348086,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -352990,7 +352990,7 @@
         "company_name": "Reflect Orbital",
         "id": "42e76a3d-953e-45e7-8207-613a38b9017f",
         "title": "Ground Software Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -353014,7 +353014,7 @@
         "company_name": "State Farm",
         "id": "f47bf68f-08e3-4d92-ade8-eff54ae7c108",
         "title": "Data Science Intern - Magnet Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Spring 2028",
@@ -353041,7 +353041,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "29523cd2-72a1-4873-895f-88fb401450aa",
         "title": "Quantum Technologies Intern - 8 Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -353137,7 +353137,7 @@
         "company_name": "Keysight Technologies",
         "id": "9c88b1dc-1cef-4857-93ee-282e00d802b7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -362176,7 +362176,7 @@
         "company_name": "Quantum Signal AI",
         "id": "d1dbaa59-82a3-42e7-a68f-6ec2a8ea58e9",
         "title": "Embedded and Real-Time Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362222,7 +362222,7 @@
         "company_name": "IDeaS",
         "id": "0ff85d31-6c19-40f4-ad7a-e27a92172e0f",
         "title": "Data Science Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -362247,7 +362247,7 @@
         "company_name": "First Citizens BancShares",
         "id": "e5525848-530e-40a2-aaef-750613a40730",
         "title": "Model Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362268,7 +362268,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405107,6 +405107,29 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "d8f8330d-c76c-4d26-8acf-c5fd027f5f25",
+        "title": "Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792201141,
+        "date_posted": 1792200970,
+        "url": "https://lifeattiktok.com/search/7697105572165519621",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
