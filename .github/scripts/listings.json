@@ -26012,7 +26012,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -262446,7 +262446,7 @@
         "company_name": "AMD",
         "id": "a130716c-fb2f-4134-9ac5-6e93002f40e0",
         "title": "Hardware Design Engineer Intern/Co-op - Long Term",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -271386,7 +271386,7 @@
         "company_name": "Edison International",
         "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
         "title": "Computer Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -318971,7 +318971,7 @@
         "company_name": "Xcel Energy",
         "id": "e80d6106-b8f0-46f9-913a-bb970d461cdf",
         "title": "Load Research & Energy and Demand Forecasting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325564,7 +325564,7 @@
         "company_name": "Xcel Energy",
         "id": "8367abf1-0004-45dc-9b38-6d41c668730a",
         "title": "Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330436,7 +330436,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333038,7 +333038,7 @@
         "company_name": "Marvell",
         "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
         "title": "Design for Test Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336804,7 +336804,7 @@
         "company_name": "General Motors",
         "id": "f9a08de0-d633-4b19-b444-8002689fc795",
         "title": "Product Management Intern - Digital Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363299,7 +363299,7 @@
         "company_name": "Marvell",
         "id": "600e8939-a252-4ab1-830d-2aaf90c3306f",
         "title": "IC Validation Engineer Intern Co-op - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -374301,7 +374301,7 @@
         "company_name": "Adobe",
         "id": "f9901050-1d31-45ee-b404-d04b7838e9c6",
         "title": "Applied and Research Scientist/Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389947,7 +389947,7 @@
         "company_name": "Tencent",
         "id": "9102f3b7-93b5-45dc-a78f-663455e6e36d",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -397966,7 +397966,7 @@
         "company_name": "Visa",
         "id": "d9602858-e28e-46ab-b478-6c83f0271cdf",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -400437,7 +400437,7 @@
         "company_name": "RTX",
         "id": "450e4484-4377-400a-9da6-573dd1196e57",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
