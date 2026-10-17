@@ -295741,7 +295741,7 @@
         "company_name": "Cox",
         "id": "71d70aa4-c992-4e8e-a07e-f0adc48c5a29",
         "title": "Product Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311530,7 +311530,7 @@
         "company_name": "GrayMatter Robotics",
         "id": "89ec8845-ea94-482e-9c4f-909bc1a1c017",
         "title": "Robotics Engineering Intern - Systems & Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333915,7 +333915,7 @@
         "company_name": "The Hartford",
         "id": "612d47bb-ecd4-42e3-8669-3af521907136",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352499,7 +352499,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "757dfc28-33db-490b-9b72-b2438d16f3b7",
         "title": "Quantum Technologies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386621,7 +386621,7 @@
         "company_name": "RTX",
         "id": "7738444f-ee47-4c3e-9082-2464bf8d12df",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391652,7 +391652,7 @@
         "company_name": "Corewell Health",
         "id": "75ffa22a-743d-40c5-8499-594b4990775d",
         "title": "Digital Services Web and Mobile Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396371,7 +396371,7 @@
         "company_name": "Northrop Grumman",
         "id": "785bc0ed-564f-4e73-bdae-30e780d1629b",
         "title": "Software Embedded Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
