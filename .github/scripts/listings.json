@@ -196172,7 +196172,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "fe4a0f8c-3de2-411c-8959-9b9893900a52",
         "title": "Engineering Excellence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -243016,7 +243016,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292817,7 +292817,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -293666,7 +293666,7 @@
         "company_name": "Xcel Energy",
         "id": "5c2025b4-9d0f-4646-a4ab-27dcc03f13cf",
         "title": "Resource Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308834,7 +308834,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -355026,7 +355026,7 @@
         "company_name": "Intel",
         "id": "ef2297ca-14a3-41d1-b09c-4297b662e9f6",
         "title": "Software Research Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355243,7 +355243,7 @@
         "company_name": "Cencora",
         "id": "fea9f279-8f49-4840-bf20-b5cdaf60b8d9",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383926,7 +383926,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
