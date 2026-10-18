@@ -312610,7 +312610,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -320688,7 +320688,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -342550,7 +342550,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
         "title": "Software Development Intern - Wealth Management Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352821,7 +352821,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "6f1236f3-5a1c-4bb1-998f-e7b8fca40550",
         "title": "Embedded Hardware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354889,7 +354889,7 @@
         "company_name": "Pennsylvania State University",
         "id": "674c7dab-fe93-4754-9f4e-3320704c6211",
         "title": "Engineering Support Specialist Intern - Electronic Materials and Devices Department - Applied Research Laboratory",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365505,7 +365505,7 @@
         "company_name": "General Motors",
         "id": "037d751e-e964-4164-ad1e-5cd1b7b6cb57",
         "title": "Machine Learning Engineer Intern - AV/AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380987,7 +380987,7 @@
         "company_name": "Intel",
         "id": "6e326004-e660-4a06-a3f7-9378a0812a4e",
         "title": "Data Science and Analytics PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -394637,7 +394637,7 @@
         "company_name": "RTX",
         "id": "e8d5904f-b5d2-4f6e-ae9d-04ae36fddf96",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397870,7 +397870,7 @@
         "company_name": "General Motors",
         "id": "6be326d4-b4e5-4d1a-9440-abd55d5a377d",
         "title": "AI/ML Engineer Intern - Mapping - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
