@@ -1,71 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "O'Reilly Auto Parts",
-        "id": "9436dab4-ca80-4eb3-8a90-96c971b15051",
-        "title": "Intern GIS & Demographics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771546354,
-        "date_posted": 1771546354,
-        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Intern---GIS---Demographics_R160194",
-        "locations": [
-            "Springfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "254586ca-1d9d-44bb-82b5-8bdf7e03ec73",
-        "title": "Relationship Manager \u2013 Business Markets",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771546322,
-        "date_posted": 1771546322,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager--Business-Markets-Intern_R-0000160404",
-        "locations": [
-            "Charlottetown, PE, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "4adda786-ba0c-4479-9bfd-b9799f03d6ff",
-        "title": "Graduate Web Developer - 1 year Placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771545924,
-        "date_posted": 1771545924,
-        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Web-Developer--1-year-Placement_3159344",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Critical Mass",
         "id": "545a33b1-a59b-43f6-806f-c87fd25c77c3",
@@ -402444,6 +402379,29 @@
             "Richardson, TX"
         ],
         "company_url": "https://simplify.jobs/c/HCSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bio-Techne",
+        "id": "f3ce0494-256c-4884-acf3-f8db79e4216d",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1791120195,
+        "date_posted": 1783160682,
+        "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bio-Techne",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
