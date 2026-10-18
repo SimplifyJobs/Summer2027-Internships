@@ -258150,7 +258150,7 @@
         "company_name": "American Express",
         "id": "6e4aa2c7-7957-4b8d-b4a1-b19dfa362504",
         "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265012,7 +265012,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5cdccc6d-3f48-476f-a0e7-576b4158a76b",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -265058,7 +265058,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5f51df85-f362-425b-811e-958c07266b8e",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -293195,7 +293195,7 @@
         "company_name": "TD Bank",
         "id": "73d79b50-25b2-48bc-8d74-c95e069e68c8",
         "title": "Portfolio Analytics Developer Intern/Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -362865,7 +362865,7 @@
         "company_name": "The Home Depot",
         "id": "73cce5ae-4123-4752-9ad2-67b8ab0e009f",
         "title": "Full Stack Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
