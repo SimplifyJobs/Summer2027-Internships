@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "88c3c64f-28df-481c-8295-4ca332093ad3",
-        "title": "Economics - EU Stores - Economic Decision Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771583383,
-        "date_posted": 1771583383,
-        "url": "https://amazon.jobs/en/jobs/3185791/economics-intern-eu-stores-economic-decision-science",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motorola",
         "id": "2b531c72-838a-4fe2-af8e-d895f806a9ef",
@@ -270526,7 +270503,7 @@
         "company_name": "Intel",
         "id": "ac297577-f4f9-4b73-ab38-00c094342140",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -282254,7 +282231,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -352844,7 +352821,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "6f1236f3-5a1c-4bb1-998f-e7b8fca40550",
         "title": "Embedded Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361119,7 +361096,7 @@
         "company_name": "The Federal Reserve System",
         "id": "aaeb44bf-c9ec-46e3-989c-e8594be3ac17",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364983,7 +364960,7 @@
         "company_name": "Trimble",
         "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380639,7 +380616,7 @@
         "company_name": "General Motors",
         "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
         "title": "AV Sensor Design, Release and Integration Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381010,7 +380987,7 @@
         "company_name": "Intel",
         "id": "6e326004-e660-4a06-a3f7-9378a0812a4e",
         "title": "Data Science and Analytics PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393349,7 +393326,7 @@
         "company_name": "BP",
         "id": "ac5c0aa0-973b-4add-966c-686afeebbf87",
         "title": "Summer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397567,7 +397544,7 @@
         "company_name": "RTX",
         "id": "450e4484-4377-400a-9da6-573dd1196e57",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397893,7 +397870,7 @@
         "company_name": "General Motors",
         "id": "6be326d4-b4e5-4d1a-9440-abd55d5a377d",
         "title": "AI/ML Engineer Intern - Mapping - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
