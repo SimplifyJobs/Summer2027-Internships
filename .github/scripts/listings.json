@@ -247134,7 +247134,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -301723,7 +301723,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -320646,7 +320646,7 @@
         "company_name": "Guardian Life",
         "id": "1e56dea3-04d3-4da1-afb5-9f0efbf5bd42",
         "title": "Life Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338883,7 +338883,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355048,7 +355048,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394799,7 +394799,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -398723,7 +398723,7 @@
         "company_name": "KLA",
         "id": "18e3866d-2742-4686-b497-2f6ec0eaa835",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
