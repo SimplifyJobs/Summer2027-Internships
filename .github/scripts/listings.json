@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Critical Mass",
-        "id": "545a33b1-a59b-43f6-806f-c87fd25c77c3",
-        "title": "Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771554287,
-        "date_posted": 1771554287,
-        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592492",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Critical-Mass",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Critical Mass",
-        "id": "1e7b2aeb-33dd-4ddb-8179-29114cb70b5a",
-        "title": "Marketing Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771554295,
-        "date_posted": 1771554295,
-        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592477",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Critical-Mass",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Bank of Montreal",
         "id": "89478ddc-3356-4fa1-8297-3a6be69ffdd0",
@@ -277,76 +231,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Critical Mass",
-        "id": "c2cb6328-1643-44d2-aafe-da57b32e3f7c",
-        "title": "Marketing Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771554292,
-        "date_posted": 1771554292,
-        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592470",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Critical-Mass",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "9afde047-49cd-4393-a186-a78513ed99a3",
-        "title": "GE Vernova",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771554388,
-        "date_posted": 1771554388,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Graduate-Intern---AI-Agents-for-Physics-Based-Gas-Turbine-Design-Tools---Summer-2026_R5022706-3",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Critical Mass",
-        "id": "7e956f99-b185-4dd0-9742-a71ae7b6ae6f",
-        "title": "Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771554288,
-        "date_posted": 1771554288,
-        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592488",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Critical-Mass",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
