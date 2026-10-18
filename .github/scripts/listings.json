@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "2b531c72-838a-4fe2-af8e-d895f806a9ef",
-        "title": "R&D Intern - FPGA/RTL Design Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1771591257,
-        "date_posted": 1771591257,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62375",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "170ba304-176a-435c-988f-3941a42c5d80",
-        "title": "R&D Intern - FPGA/RTL Design Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771592344,
-        "date_posted": 1771592344,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62373",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "ba0a49ef-4bd9-4560-9b08-20305e2461db",
@@ -285917,7 +285869,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -311837,7 +311789,7 @@
         "company_name": "Amgen",
         "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -312172,7 +312124,7 @@
         "company_name": "Amgen",
         "id": "5012230e-2a8b-4047-80ec-4b7c9ecbf427",
         "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322367,7 +322319,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328434,7 +328386,7 @@
         "company_name": "InterSystems",
         "id": "0caf3dfe-2e90-4b65-8cdb-cb79345145bc",
         "title": "Web Development Micro-Intern - Iap",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338483,7 +338435,7 @@
         "company_name": "Tyler Technologies",
         "id": "a71102ca-4c4d-4bc3-8084-fcf5d09cf645",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344548,7 +344500,7 @@
         "company_name": "KLA",
         "id": "2e670f26-fa85-4586-a044-ad138d073cf3",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366896,7 +366848,7 @@
         "company_name": "RTX",
         "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
         "title": "AI DSP Applied Research Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -376219,7 +376171,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380591,7 +380543,7 @@
         "company_name": "General Motors",
         "id": "4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
         "title": "Systems Engineer Intern - Asd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390752,7 +390704,7 @@
         "company_name": "KLA",
         "id": "2ceb1cdc-f5a5-4650-8fd1-1c54af7450ce",
         "title": "Software Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391560,7 +391512,7 @@
         "company_name": "RTX",
         "id": "4ee9bbfd-bd96-4660-9f4b-3fb000ccd885",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398007,7 +397959,7 @@
         "company_name": "Pennsylvania State University",
         "id": "33bbbdb3-7bf2-4ddd-90dc-200d4e2d8f82",
         "title": "R&D Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400443,7 +400395,7 @@
         "company_name": "Invesco",
         "id": "825cae44-1221-442b-93fc-552072a0498e",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
