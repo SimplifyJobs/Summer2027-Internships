@@ -265081,7 +265081,7 @@
         "company_name": "L3Harris Technologies",
         "id": "556a9f83-e9ef-4df2-af50-03818c084d87",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -399799,7 +399799,7 @@
         "company_name": "Leonardo",
         "id": "33481bc4-8637-4823-a224-81cbfae0e6ee",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
