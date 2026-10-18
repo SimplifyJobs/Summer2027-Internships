@@ -357839,7 +357839,7 @@
         "company_name": "Marvell",
         "id": "2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383292,7 +383292,7 @@
         "company_name": "DocuSign",
         "id": "5816604a-fdad-469c-b01d-7ee4621ca78e",
         "title": "Software Engineer Intern - Observability - Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
