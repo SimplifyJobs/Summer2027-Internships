@@ -315633,7 +315633,7 @@
         "company_name": "ExodusPoint",
         "id": "62c3b982-db7b-4ad1-a538-560067cf4279",
         "title": "Quantitative Intern - Credit",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -401894,6 +401894,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "3d0329e2-14b0-446f-859e-a1dea8bb23a0",
+        "title": "Electrical Engineer 1 Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792361376,
+        "date_posted": 1792281600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Incomplete"
         ]
     }
 ]
