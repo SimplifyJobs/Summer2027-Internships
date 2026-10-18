@@ -232545,7 +232545,7 @@
         "company_name": "Normal Computing",
         "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
         "title": "Thermodynamic Hardware Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -247134,7 +247134,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301723,7 +301723,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338883,7 +338883,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355048,7 +355048,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394799,7 +394799,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402138,6 +402138,58 @@
             "Basildon, UK"
         ],
         "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chainlink Labs",
+        "id": "25fc66da-f7d2-4a82-b918-c0645c1eb9db",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792311673,
+        "date_posted": 1782338934,
+        "url": "https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Remote in USA",
+            "NYC",
+            "Remote in Canada",
+            "Remote in Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/Chainlink-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axos Bank",
+        "id": "0854004d-3797-4a41-92c7-8b23ea92f186",
+        "title": "Data Analyst 1 Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792311530,
+        "date_posted": 1788393600,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Axos-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
