@@ -1,127 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cornerstone Building Brands",
-        "id": "dcc79ca8-e3f4-4f1e-b0a1-23013203189c",
-        "title": "Product Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771571549,
-        "date_posted": 1771571549,
-        "url": "https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990009919466",
-        "locations": [
-            "Liberty Lake, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cornerstone-Building-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microsoft",
-        "id": "af9ab5dc-ea22-45aa-8e47-1a9dd4e899f4",
-        "title": "Research Intern - Cryptography and Applications",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771571391,
-        "date_posted": 1771571391,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556768703",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Codeage",
-        "id": "272cb1de-278a-45fe-87a1-7215f39bdd32",
-        "title": "Web Developer Intern - Wordpress and Woocommerce",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771571435,
-        "date_posted": 1771571435,
-        "url": "https://jobs.smartrecruiters.com/Codeage/743999669081604",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Codeage",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics",
-        "id": "fed777d7-8c52-4c26-9f86-76593ddb1ab5",
-        "title": "Engineering CO-OP Trainee",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1771571302,
-        "date_posted": 1771571302,
-        "url": "https://careers-gdeb.icims.com/jobs/17866/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Newport, RI",
-            "Norwich, CT",
-            "Groton, CT",
-            "Rhode Island"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huxley",
-        "id": "85e161ce-7df7-4b28-b13e-71f36a0670de",
-        "title": "Software Engineer 1",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771571071,
-        "date_posted": 1771571071,
-        "url": "https://jobs.smartrecruiters.com/ComputerFutures3/101016513",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Huxley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Takeda",
         "id": "c960b654-1398-4ed0-8c74-c9045c5eaaf1",
@@ -164,29 +43,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Parsons",
-        "id": "db9c0380-ff91-428a-90ee-f444db77e202",
-        "title": "Space Ops Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771572287,
-        "date_posted": 1771572287,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Space-Ops-Software-Engineer-Intern--Summer-2026-_R177746-1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -77179,27 +77035,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comtech",
-        "id": "126d88e3-b139-4f05-a819-7867cd679fde",
-        "title": "Software Development Engineer in Test",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774951827,
-        "date_posted": 1771571680,
-        "url": "https://jobs.smartrecruiters.com/ComtechLLC2/743999653824310",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comtech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Global Channel Management",
         "id": "dac2d80d-c906-4d8a-ac41-194f649beda9",
@@ -77304,29 +77139,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Collabera",
-        "id": "b20574ff-dda7-4dfd-900f-ed174650a565",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774962181,
-        "date_posted": 1771572011,
-        "url": "https://jobs.smartrecruiters.com/Collabera2/82528810",
-        "locations": [
-            "Olathe, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Collabera",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
