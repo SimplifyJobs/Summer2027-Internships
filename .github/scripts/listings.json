@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Takeda",
-        "id": "c960b654-1398-4ed0-8c74-c9045c5eaaf1",
-        "title": "Lab Intern - DE&C - Device Evaluation and Characterization",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771573724,
-        "date_posted": 1771573724,
-        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/Lexington-MA/XMLNAME-2026-Summer-Internship-Program--Lab-Intern----DE-C--Device-Evaluation-and-Characterization_R0174913",
-        "locations": [
-            "Lexington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Takeda",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Scopely",
-        "id": "2162120c-2c6c-48d9-894a-d117b3bd3c79",
-        "title": "Software Engineer Intern - Pokemon GO",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771572988,
-        "date_posted": 1771572988,
-        "url": "https://job-boards.greenhouse.io/scopely/jobs/5126724008",
-        "locations": [
-            "Bellevue, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Scopely",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Amazon",
         "id": "88c3c64f-28df-481c-8295-4ca332093ad3",
