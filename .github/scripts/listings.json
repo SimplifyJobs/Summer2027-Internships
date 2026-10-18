@@ -202804,7 +202804,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -285917,7 +285917,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -311837,7 +311837,7 @@
         "company_name": "Amgen",
         "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339663,7 +339663,7 @@
         "company_name": "Marvell",
         "id": "8d331a2d-b001-4caa-8b4b-d156010085c0",
         "title": "Digital IC Design Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -353989,7 +353989,7 @@
         "company_name": "RTX",
         "id": "159f82a2-c7ed-4eee-8157-6d300f593c83",
         "title": "Systems Engineer Co-op - Spring/Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -366896,7 +366896,7 @@
         "company_name": "RTX",
         "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
         "title": "AI DSP Applied Research Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
