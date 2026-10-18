@@ -340957,7 +340957,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368720,7 +368720,7 @@
         "company_name": "NVIDIA",
         "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401918,6 +401918,54 @@
         "degrees": [
             "Bachelor's",
             "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DiDi Global",
+        "id": "ad12d14f-fd8d-4560-a8bb-97f556cdad85",
+        "title": "Research Intern - Scene Understanding and Planning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792363344,
+        "date_posted": 1792363233,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/8299748",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DiDi-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CMS Energy",
+        "id": "94463071-5983-4d77-8689-21e055e74c20",
+        "title": "Learning & Development Intern/Co-op - Data Visualization",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792362991,
+        "date_posted": 1792362893,
+        "url": "https://careers.consumersenergy.com/job/MULTIPLE-LOCATIONS-InternCo-Op-Learning-&-Development-(Data-Visualization)-MI/1441130200/?ats=successfactors",
+        "locations": [
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/CMS-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
