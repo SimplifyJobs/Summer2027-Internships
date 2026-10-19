@@ -7054,29 +7054,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "b6af1f12-a532-4336-80a7-dae6a7b09f77",
-        "title": "SWD Maintenance Apprentice Technician - Nights",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772020471,
-        "date_posted": 1771689952,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/SWD-Equipment-Engineering-Technician--Nights-_JR-2600380",
-        "locations": [
-            "Malta, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "LabCorp",
         "id": "90753851-751f-470f-a9c0-9e50305da49d",
@@ -71859,29 +71836,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "6eaee25d-c08c-4688-9b8a-5f02c1c27f81",
-        "title": "University Data Scientist",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774844924,
-        "date_posted": 1771689753,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Data-Scientist_R0233012",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -185848,7 +185802,7 @@
         "company_name": "Akuna Capital University",
         "id": "13b103af-8b5c-4685-9b00-18ce29399f40",
         "title": "Software Engineer Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326991,7 +326945,7 @@
         "company_name": "Keysight Technologies",
         "id": "1a99b100-e38e-443b-a9cc-1be8ada5aa7f",
         "title": "Software Engineer Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -396530,7 +396484,7 @@
         "company_name": "Leonardo",
         "id": "1e7773d3-204e-4be0-84c6-7d80b5db80ff",
         "title": "Software Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
