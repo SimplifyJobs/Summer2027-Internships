@@ -219594,7 +219594,7 @@
         "company_name": "Vertiv",
         "id": "a042d610-957b-4d5c-a233-944efa6819fc",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241291,7 +241291,7 @@
         "company_name": "Brunswick",
         "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
         "title": "Product Management Intern - Parts & Accessories",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -352090,7 +352090,7 @@
         "company_name": "Pennsylvania State University",
         "id": "674c7dab-fe93-4754-9f4e-3320704c6211",
         "title": "Engineering Support Specialist Intern - Electronic Materials and Devices Department - Applied Research Laboratory",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -371658,7 +371658,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "778c7809-1093-4a0c-b72e-bda6dcae46f0",
         "title": "Customer Success Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375780,7 +375780,7 @@
         "company_name": "RTX",
         "id": "9db144d4-09da-4a63-af76-1475efdad52f",
         "title": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381312,7 +381312,7 @@
         "company_name": "Denver",
         "id": "ddb3be51-5802-4866-a26c-72803474d6d4",
         "title": "Data Analytics College Intern - Analytics and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391814,7 +391814,7 @@
         "company_name": "RTX",
         "id": "e353be7e-8339-439c-b6fe-4aab0727eae0",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
