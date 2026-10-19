@@ -356043,7 +356043,7 @@
         "company_name": "KLA",
         "id": "46bc2309-eff6-49b8-b663-051d87560282",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -365576,7 +365576,7 @@
         "company_name": "RTX",
         "id": "c87681f7-f024-4e16-8747-fb923be74d50",
         "title": "Digital Electrical Design Engineer 1 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -367965,7 +367965,7 @@
         "company_name": "General Motors",
         "id": "297cab20-afc1-4907-a0ac-266c5647d2c4",
         "title": "AI/ML Engineer Intern - Mapping",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -399590,7 +399590,7 @@
         "company_name": "PA Consulting",
         "id": "d786d131-7861-40ca-a9c7-534a3dd2e8b5",
         "title": "Digital Intern - Digital - Digital & Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
