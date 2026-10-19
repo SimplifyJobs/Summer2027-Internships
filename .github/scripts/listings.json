@@ -4290,29 +4290,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "abb72523-5afc-4962-b459-df93eb93445a",
-        "title": "Custom Circuit/Software Undergrad Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771932978,
-        "date_posted": 1771696818,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Custom-Circuit-Design-Undergrad-Intern_R01885",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Carnegie Mellon University",
         "id": "a40b0d99-edce-488b-89cb-90e7f91cc828",
@@ -104926,30 +104903,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Arch Capital Group",
-        "id": "3a3be7fd-69dc-4207-a35a-d9e325b77faa",
-        "title": "Online Portals & Next Gen Platforms \u2013 Intern - Opng",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771695524,
-        "date_posted": 1771695524,
-        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Online-Portals---Next-Gen--Platforms--OPNG--Summer-Intern_R25_718",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Pennsylvania State University",
         "id": "68188134-cafa-4b8d-aa5c-4edf4278eb7c",
         "title": "IT Applications Specialist Intern",
@@ -167422,7 +167375,7 @@
         "company_name": "Palantir",
         "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
         "title": "Forward Deployed Software Engineer Intern - Defense Tech",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -167447,7 +167400,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -301714,7 +301667,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e77d4778-ad4a-4f45-8ee8-b223f953f59a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353414,7 +353367,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fae014a0-cc5d-481b-bb8b-88687c1456cd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388313,7 +388266,7 @@
         "company_name": "Keysight Technologies",
         "id": "efd2f9e3-b980-4849-8985-5bf81191291e",
         "title": "R&D Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396387,7 +396340,7 @@
         "company_name": "Nutanix",
         "id": "f351f3ac-9b5b-4f88-b7bf-8c3cce1a1df0",
         "title": "Support Analytics & Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399684,7 +399637,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "b7489fd4-f036-44ee-a28a-2f3110bff76e",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
