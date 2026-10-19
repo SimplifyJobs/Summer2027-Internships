@@ -6,15 +6,15 @@
 
 ---
 
-### Browse 2186 Inactive Internship Roles by Category
+### Browse 2184 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (752)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (751)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (145)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (144)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (760)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (758)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (220)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (222)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (309)
 
@@ -2205,13 +2205,6 @@
 <td>↳</td>
 <td>Configuration Control/Data Management Co-op - Engineering Department</td>
 <td>Danbury, CT</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Collier-Aerospace?utm_source=GHList&utm_medium=company">Collier Aerospace</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Newport News, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -5499,13 +5492,6 @@
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Zimmer-Biomet-Holdings?utm_source=GHList&utm_medium=company">Zimmer Biomet Holdings</a></strong></td>
-<td>Product Management Intern - Artificial Intelligence Product Management</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>27d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company">Mastercard</a></strong></td>
 <td>Product Management Intern</td>
 <td>Harrison, NY<br>Arlington County, Arlington, VA</td>
@@ -6829,13 +6815,6 @@
 <td>20d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Moderna?utm_source=GHList&utm_medium=company">Moderna</a></strong></td>
-<td>Biometrics Intern</td>
-<td>Cambridge, MA</td>
-<td>🔒</td>
-<td>20d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Cigna-Group?utm_source=GHList&utm_medium=company">Cigna Group</a></strong></td>
 <td>AI/ML Engineer Intern 🎓</td>
 <td>Austin, TX<br>Morris Plains, NJ<br>St. Louis, MO</td>
@@ -7042,13 +7021,6 @@
 <td>↳</td>
 <td>Data Scientist Intern</td>
 <td>Plano, TX</td>
-<td>🔒</td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/NewYork-Presbyterian?utm_source=GHList&utm_medium=company">NewYork-Presbyterian</a></strong></td>
-<td>Finance Intern</td>
-<td>NYC</td>
 <td>🔒</td>
 <td>27d</td>
 </tr>
@@ -11750,6 +11722,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/AON?utm_source=GHList&utm_medium=company">Aon</a></strong></td>
+<td>Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions</td>
+<td><details><summary><strong>5 locations</strong></summary>Leeds, UK<br>Epsom, UK<br>Birmingham, UK<br>Glasgow, UK<br>Farnborough, UK</details></td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Schonfeld?utm_source=GHList&utm_medium=company">Schonfeld</a></strong></td>
 <td>Quantitative Research Intern</td>
 <td>Austin, TX</td>
@@ -12110,6 +12089,13 @@
 <td>↳</td>
 <td>Summer Intern</td>
 <td>Houston, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Lendable?utm_source=GHList&utm_medium=company">Lendable</a></strong></td>
+<td>Credit Analyst Intern</td>
+<td>London, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
