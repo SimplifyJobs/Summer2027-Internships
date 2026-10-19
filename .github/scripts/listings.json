@@ -128741,7 +128741,7 @@
         "company_name": "Cresta",
         "id": "a8394fef-9f28-44ce-a233-ed8822941ae4",
         "title": "Data Science Intern - Customer Success",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188821,7 +188821,7 @@
         "company_name": "Old Mission",
         "id": "b31743bd-7fcf-42a4-aca1-0e6146dfb105",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -235422,7 +235422,7 @@
         "company_name": "Micron Technology",
         "id": "9ad13c92-e5d2-4c4c-987a-f3263f2dd707",
         "title": "Yield Enhancement Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -280685,7 +280685,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "b0a16fef-11b5-41ac-9847-3b4ac324f5b7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280708,7 +280708,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "a01d5838-0b05-459c-b1c7-dec1ce57ac47",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327252,7 +327252,7 @@
         "company_name": "TOPPAN Packaging Americas",
         "id": "c50bee46-92b4-4533-af74-5b2ea470a569",
         "title": "Student Associate - AI & Business Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368480,7 +368480,7 @@
         "company_name": "Atoms",
         "id": "be056302-3c1c-46fb-bc09-8cdd5ae403cb",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -369065,7 +369065,7 @@
         "company_name": "Atoms",
         "id": "a6830740-e492-4a48-bc09-9e1cb04273be",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -375382,7 +375382,7 @@
         "company_name": "RTX",
         "id": "9db144d4-09da-4a63-af76-1475efdad52f",
         "title": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -390861,7 +390861,7 @@
         "company_name": "Motorola Solutions",
         "id": "b3370f3b-8f7c-4eec-b3f9-9cea353103b9",
         "title": "Design Validation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
