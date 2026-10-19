@@ -257395,7 +257395,7 @@
         "company_name": "ZS",
         "id": "bec0bfec-8232-4a08-b412-7acf9ff7b4fc",
         "title": "Business Technology Solutions Intern - North America - University Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -335493,7 +335493,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "bfd666d6-eb74-40ca-8595-5c0e16820216",
         "title": "Data Operations Engineer AI Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335565,7 +335565,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "c0b22f53-3c47-45f3-8c12-a94866f7f461",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335681,7 +335681,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "9c40bb4c-e181-478f-94f6-bbb35c085b3b",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -366632,7 +366632,7 @@
         "company_name": "Sikich",
         "id": "bb153fdc-6998-4d29-9e79-01b24c0db807",
         "title": "Intelligence Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387192,7 +387192,7 @@
         "company_name": "Goodlord",
         "id": "c5851f1f-3f5a-43ff-b66c-1176dd50e3d3",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
