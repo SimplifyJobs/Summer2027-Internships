@@ -171934,7 +171934,7 @@
         "company_name": "Heron Power",
         "id": "64a6f277-b6d0-4d32-9ffd-f2ee6028e599",
         "title": "Electronics Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -209903,7 +209903,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216930,7 +216930,7 @@
         "company_name": "SkyGig",
         "id": "87e1bcd4-c2d1-41b8-bd8e-f853c69f7050",
         "title": "RFIC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -256753,7 +256753,7 @@
         "company_name": "Textron",
         "id": "6af66330-0329-40f5-abaf-5feaf563f36d",
         "title": "Software Engineer Intern - Sea Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -260666,7 +260666,7 @@
         "company_name": "Grass Valley",
         "id": "8e8056c5-ec2e-4d06-b14b-4d3a0b68f993",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -280731,7 +280731,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "6f603008-25bf-41f8-abb1-bdd082bb931d",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290052,7 +290052,7 @@
         "company_name": "Micron Technology",
         "id": "8ba55980-bb00-4f5d-8d2a-4b40243aa2ac",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -301897,7 +301897,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8d789ac6-0960-41ae-a5e3-e5acde78fd64",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -333431,7 +333431,7 @@
         "company_name": "Nordson",
         "id": "880f0ef0-3511-45a5-9803-3af2a5868a27",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338921,7 +338921,7 @@
         "company_name": "Klaviyo",
         "id": "944f1a64-70f5-47e7-a144-e7dc884bf311",
         "title": "People Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361020,7 +361020,7 @@
         "company_name": "Wabtec",
         "id": "ce9d6556-a976-430c-baea-f3f22efbf0e1",
         "title": "Firmware Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -385146,7 +385146,7 @@
         "company_name": "Acron Aviation",
         "id": "63568a2f-00b4-4b19-97a6-35eaaa8d2367",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392508,7 +392508,7 @@
         "company_name": "Salesforce",
         "id": "70b908ff-f0fa-4e6e-b2b1-6949b0026104",
         "title": "Product Management Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
