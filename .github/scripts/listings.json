@@ -3020,28 +3020,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Entegris",
-        "id": "7561d8ee-246b-4ec9-85d1-664a08a9e87b",
-        "title": "AI-Driven Supply Chain Data & Data Management Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1771890818,
-        "date_posted": 1771698074,
-        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Round-Rock-TX/AI-Driven-Supply-Chain-Data---MDM-Co-Op---Fall-2026_REQ-10161",
-        "locations": [
-            "Round Rock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Entegris",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Thales",
         "id": "400dcbea-1490-4fe0-99ec-364b6d4bf4bb",
         "title": "Data Science Intern/Co-op",
@@ -264025,7 +264003,7 @@
         "company_name": "Geotab",
         "id": "ff983931-8e25-4d4f-9fcc-398b043584db",
         "title": "Product Coordinator Intern - Driver Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
