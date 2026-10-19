@@ -291379,7 +291379,7 @@
         "company_name": "Vertiv",
         "id": "ee26f84b-8716-4224-b62a-7396f372fe1c",
         "title": "Design Engineer Intern - Graduate-Level - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301501,7 +301501,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a23262c4-7aff-4231-a894-3edf1835df47",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -341562,7 +341562,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -356043,7 +356043,7 @@
         "company_name": "KLA",
         "id": "46bc2309-eff6-49b8-b663-051d87560282",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367965,7 +367965,7 @@
         "company_name": "General Motors",
         "id": "297cab20-afc1-4907-a0ac-266c5647d2c4",
         "title": "AI/ML Engineer Intern - Mapping",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379439,7 +379439,7 @@
         "company_name": "Merck",
         "id": "61dda24d-33f5-4c50-9d90-8d7de6ea82a6",
         "title": "Associate Scientist Postdoctoral Fellow - AI/ML and Agentic AI for Drug Discovery",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385702,7 +385702,7 @@
         "company_name": "KLA",
         "id": "39bae66b-6dad-496c-bd59-19b0d064eac5",
         "title": "Algorithm Engineer Intern - GPU/CUDA",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -393829,7 +393829,7 @@
         "company_name": "Brunswick",
         "id": "5083f980-f378-47f2-9737-61eb9fbeeac0",
         "title": "G3 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399648,6 +399648,29 @@
             "Denham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Corpay",
+        "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792410486,
+        "date_posted": 1778911581,
+        "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Corpay",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
