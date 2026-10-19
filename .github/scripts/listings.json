@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "eb1cd785-ab5d-4ffd-819d-6517c4a01c7c",
-        "title": "ASIC and/or FPGA Design and Verification Engineers \u2013 Entry Level - Associate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771692002,
-        "date_posted": 1771692002,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/ASIC-and-or-FPGA-Design-and-Verification-Engineers--Entry-Level--Associate--or-Experienced-_JR2025485130-1",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "e501f0b7-96da-43f4-9a7f-fd06706955ae",
         "title": "Reliability Operations Engineer Co-Op",
@@ -210042,7 +210018,7 @@
         "company_name": "NBT Bank",
         "id": "37eb663f-8550-42f6-9494-b03ad65cafdd",
         "title": "Data Warehouse & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -253075,7 +253051,7 @@
         "company_name": "Arch Capital Group",
         "id": "483a6e7d-49d9-4b1b-823b-1c0e3be6b318",
         "title": "Data and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268442,7 +268418,7 @@
         "company_name": "Micron Technology",
         "id": "22e8ae7a-01f6-45a4-b1e6-5dbd92874d50",
         "title": "Product Test Engineer Intern - DRAM",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -282293,7 +282269,7 @@
         "company_name": "Aptura",
         "id": "4acc628e-f876-4206-82c5-91cc5b21e425",
         "title": "Investment Banking Intern - AI Evaluation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333198,7 +333174,7 @@
         "company_name": "Autodesk",
         "id": "1fba75f6-b4bb-4fa7-a2d8-c3345b3169a4",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -356021,7 +355997,7 @@
         "company_name": "Bose",
         "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
         "title": "Reverse Logistics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -384674,7 +384650,7 @@
         "company_name": "CHS",
         "id": "3907d445-1dab-4abd-b818-4a2fef38adab",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388479,7 +388455,7 @@
         "company_name": "RTX",
         "id": "4ee9bbfd-bd96-4660-9f4b-3fb000ccd885",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397111,7 +397087,7 @@
         "company_name": "D2L",
         "id": "44dd1fb4-a841-4fac-8e43-3f124917e7b4",
         "title": "Software Developer Co-op - Custom Development Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
