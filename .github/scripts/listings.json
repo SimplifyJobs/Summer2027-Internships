@@ -51,31 +51,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accenture",
-        "id": "7781b06a-ece5-46bc-afbb-03112d6f3eca",
-        "title": "Innovation Summer Advanced Degree Intern - Space",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771672095,
-        "date_posted": 1771672095,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Innovation-Summer-Advanced-Degree-Intern---Space---NAELFY26_R00305075",
-        "locations": [
-            "NYC",
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
         "id": "4667fa93-10f5-47fa-9fd5-dd62c6ff8f28",
@@ -9846,29 +9821,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Allied Solutions",
-        "id": "be367893-2154-44e8-842c-13fad8cb553e",
-        "title": "Sales Data & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772104194,
-        "date_posted": 1771671953,
-        "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Sales-Operations-Intern_R-010236",
-        "locations": [
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Allied-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -114004,31 +113956,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Corpay",
-        "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
-        "title": "Software Developer \u2013 Co-op",
-        "active": true,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1771671996,
-        "date_posted": 1771671996,
-        "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Corpay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Meta",
         "id": "1f77f979-a9de-47a0-8655-d6c71bb7ea10",
@@ -130174,29 +130101,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Marmon Holdings",
-        "id": "fd6aa588-63f5-44d4-9253-72d84365341a",
-        "title": "Product Management/Marketing Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771672050,
-        "date_posted": 1771672050,
-        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -219594,7 +219498,7 @@
         "company_name": "Vertiv",
         "id": "a042d610-957b-4d5c-a233-944efa6819fc",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341658,7 +341562,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352500,7 +352404,7 @@
         "company_name": "Moog",
         "id": "5f7a34ef-1409-4c5f-8952-1bbeaad4cedd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371379,7 +371283,7 @@
         "company_name": "Medtronic",
         "id": "3c5615c3-8831-41c5-8668-b6072cfc338c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375780,7 +375684,7 @@
         "company_name": "RTX",
         "id": "9db144d4-09da-4a63-af76-1475efdad52f",
         "title": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -385798,7 +385702,7 @@
         "company_name": "KLA",
         "id": "39bae66b-6dad-496c-bd59-19b0d064eac5",
         "title": "Algorithm Engineer Intern - GPU/CUDA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387667,7 +387571,7 @@
         "company_name": "Northrop Grumman",
         "id": "a6857214-22fd-466c-b0e6-cfacc0ffaf82",
         "title": "Computer Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
