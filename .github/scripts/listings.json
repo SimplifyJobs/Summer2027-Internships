@@ -254933,7 +254933,7 @@
         "company_name": "American Express",
         "id": "9fc62002-c095-4800-9d4f-5225ecf2f861",
         "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351610,7 +351610,7 @@
         "company_name": "Perchwell",
         "id": "70276fbb-025b-4544-b0c0-db8dc7259234",
         "title": "Data Analytics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366659,7 +366659,7 @@
         "company_name": "Autodesk",
         "id": "6942172c-4edc-4339-b395-fb8080da9906",
         "title": "Researcher Intern - Machine Learning for Construction",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
