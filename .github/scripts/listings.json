@@ -258188,7 +258188,7 @@
         "company_name": "Clarios",
         "id": "4dff0c49-74a7-40e9-96c9-96f7fd798e08",
         "title": "IT Digital/AI Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280802,7 +280802,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "46a3b20e-600a-4c23-b027-efd88685a714",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280825,7 +280825,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "2bf1eede-29f5-47d4-9b3e-66bd4aa8cdcd",
         "title": "Test Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301448,7 +301448,7 @@
         "company_name": "L3Harris Technologies",
         "id": "41acd40c-4bc3-4c86-985e-dbff25b294b5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -361415,7 +361415,7 @@
         "company_name": "Bose",
         "id": "2d557827-15c8-4aae-b17a-37a7ad82b3ec",
         "title": "Data Science Co-op - NLP & GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -362355,7 +362355,7 @@
         "company_name": "Harvey",
         "id": "4bc0348e-23c1-479d-9a3d-6d47b89b866e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391000,7 +391000,7 @@
         "company_name": "Salesforce",
         "id": "4336282e-7614-47bc-8016-56f15458ad8b",
         "title": "Product Management Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
