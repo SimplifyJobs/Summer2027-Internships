@@ -1,57 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "1b3446cc-c736-4b84-887b-e3f2cddf428e",
-        "title": "Hardware Engineering Intern - Embedded",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1771641672,
-        "date_posted": 1771641672,
-        "url": "https://aurora.tech/jobs/8336885002?gh_jid=8336885002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Box",
-        "id": "e264f6ed-d02f-4138-9e9a-dcce1ab4b6c2",
-        "title": "Product Management Intern - Internal Developer Platforms",
-        "active": false,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1771641529,
-        "date_posted": 1771641529,
-        "url": "https://job-boards.greenhouse.io/boxinc/jobs/7550753",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Box",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hearst",
         "id": "db9d47f1-f626-440e-83ed-c3000fe346da",
