@@ -180457,7 +180457,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -180692,7 +180692,7 @@
         "company_name": "Tower Research Capital",
         "id": "f48a8b1a-b2ba-48ce-becd-612e1c0a2198",
         "title": "Quantitative Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -204875,7 +204875,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -218291,7 +218291,7 @@
         "company_name": "ByteDance",
         "id": "4f77c21f-b6c5-45b9-87c7-4087d47b9589",
         "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -273612,7 +273612,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -290520,7 +290520,7 @@
         "company_name": "Micron Technology",
         "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -327462,7 +327462,7 @@
         "company_name": "Marvell",
         "id": "79ae0aa0-8312-4d1d-b4b1-4682d51f9ebe",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335991,7 +335991,7 @@
         "company_name": "Leidos",
         "id": "74c6f87e-771c-4105-bcf1-13937407ee3c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353250,7 +353250,7 @@
         "company_name": "S&C Electric Company",
         "id": "d2a3ec8c-f8cf-4d52-ac45-66d27ffa39f4",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -358724,7 +358724,7 @@
         "company_name": "Veeam Software",
         "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
         "title": "Competitive Intelligence AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359353,7 +359353,7 @@
         "company_name": "Stripe",
         "id": "d9bb2856-f02d-4539-b7c0-81e9ade1a86b",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -360983,7 +360983,7 @@
         "company_name": "General Motors",
         "id": "7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
         "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366271,7 +366271,7 @@
         "company_name": "NVIDIA",
         "id": "613293d2-6943-4f9a-ab4a-7bb7883891fc",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366294,7 +366294,7 @@
         "company_name": "NVIDIA",
         "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371844,7 +371844,7 @@
         "company_name": "The Focusrite Group",
         "id": "8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
         "title": "Embedded Software Placement Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -391861,7 +391861,7 @@
         "company_name": "RTX",
         "id": "46b35ec8-88e8-4800-ad1a-d17665e52fa1",
         "title": "Electro-Optics Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399679,5 +399679,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PA Consulting",
+        "id": "d786d131-7861-40ca-a9c7-534a3dd2e8b5",
+        "title": "Digital Intern - Digital - Digital & Data",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792401729,
+        "date_posted": 1792401564,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156260214",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
