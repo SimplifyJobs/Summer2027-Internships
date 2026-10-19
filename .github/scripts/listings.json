@@ -257568,7 +257568,7 @@
         "company_name": "Nationwide",
         "id": "6bf9017f-b3da-451e-b506-46820adb72e0",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392857,7 +392857,7 @@
         "company_name": "Marsh",
         "id": "73d1f84a-69e1-4693-b9a8-03e6ae82b0b1",
         "title": "Finance Innovation & Technology Intern - Master's Finance Innovation & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396670,7 +396670,7 @@
         "company_name": "Leonardo",
         "id": "1e7773d3-204e-4be0-84c6-7d80b5db80ff",
         "title": "Software Engineering Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -400116,6 +400116,191 @@
             "Newbury, UK"
         ],
         "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "b6e92704-1818-41ae-8f08-0a3c6d9399ca",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792420995,
+        "date_posted": 1792368000,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Software-Engineer_R0032981",
+        "locations": [
+            "Luton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bracebridge Capital",
+        "id": "b9d84998-3a7f-4698-a344-64d97d9d9381",
+        "title": "Software Engineer: Business Intelligence Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792420592,
+        "date_posted": 1792420453,
+        "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bracebridge Capital",
+        "id": "5360208a-9885-42bb-a092-21121b730e84",
+        "title": "Software Engineer Co-op - Application Development",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792420598,
+        "date_posted": 1792420453,
+        "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "b18ea2c9-9c02-4095-924c-d220e62b930e",
+        "title": "Electrical Hardware Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792420410,
+        "date_posted": 1792368000,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "21094604-b4f6-408c-8e58-7b56b88e5d37",
+        "title": "Research Intern - Context and Knowledge Systems for AI",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792420405,
+        "date_posted": 1792368000,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "027457c6-a362-4521-8e48-80e6e14feff7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792420405,
+        "date_posted": 1792368000,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excellus BCBS",
+        "id": "3a44b244-cc3e-47ea-9428-137c843acca3",
+        "title": "College Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792420275,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rothesay",
+        "id": "1a7232dc-f554-4d51-a14c-0119b05d8672",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792420304,
+        "date_posted": 1792420139,
+        "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rothesay",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
