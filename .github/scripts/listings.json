@@ -292239,7 +292239,7 @@
         "company_name": "Allegion",
         "id": "78e370bf-8119-430e-aa86-804f2ba76bb5",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357278,7 +357278,7 @@
         "company_name": "Old Mission",
         "id": "5ca3d9ed-7ea0-42ca-87f3-9791668c9ee4",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
