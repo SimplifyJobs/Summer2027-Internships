@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 1123 Internship Roles by Category
+### Browse 1122 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (343)
 
@@ -18,7 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (346)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (23)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (22)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (360)
 
@@ -30682,7 +30682,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Round Rock, TX</td>
 <td>Fall 2026, Summer 2026</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -30763,14 +30763,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/82983d30-e0d9-4a6c-b404-3761e8773222?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>17d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Old-Mission?utm_source=GHList&utm_medium=company">Old Mission</a></strong></td>
-<td>Quantitative Trader Intern</td>
-<td>Chicago, IL</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=8002345003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5ca3d9ed-7ea0-42ca-87f3-9791668c9ee4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PNC-Financial-Services?utm_source=GHList&utm_medium=company">PNC Financial Services</a></strong></td>
@@ -30897,7 +30889,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (91)</summary>
+<summary>🗃️ Inactive roles (92)</summary>
 
 <table>
 <thead>
@@ -30918,6 +30910,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter 2027</td>
 <td>🔒</td>
 <td>12d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Old-Mission?utm_source=GHList&utm_medium=company">Old Mission</a></strong></td>
+<td>Quantitative Trader Intern</td>
+<td>Chicago, IL</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
