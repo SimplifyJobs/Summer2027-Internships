@@ -241268,7 +241268,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -241291,7 +241291,7 @@
         "company_name": "Brunswick",
         "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
         "title": "Product Management Intern - Parts & Accessories",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -283118,7 +283118,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -293454,7 +293454,7 @@
         "company_name": "RTX",
         "id": "c083713f-2297-45fc-a2d7-2bc2fc492057",
         "title": "FPGA Electrical Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333504,7 +333504,7 @@
         "company_name": "RTX",
         "id": "bbe59360-d6e5-4189-9126-da097b9c93c6",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -352090,7 +352090,7 @@
         "company_name": "Pennsylvania State University",
         "id": "674c7dab-fe93-4754-9f4e-3320704c6211",
         "title": "Engineering Support Specialist Intern - Electronic Materials and Devices Department - Applied Research Laboratory",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -358840,7 +358840,7 @@
         "company_name": "CoStar Group",
         "id": "be949df0-0657-4f39-b1f3-e45962a3eee3",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -359027,7 +359027,7 @@
         "company_name": "Invesco",
         "id": "b8689bb2-f5e6-445c-89be-129f7429fb26",
         "title": "Early Career Intern - Fixed Income Global Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -374568,7 +374568,7 @@
         "company_name": "KLA",
         "id": "bdb92677-9bd1-4327-b0ca-c988ff0e1d31",
         "title": "Product Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -391814,7 +391814,7 @@
         "company_name": "RTX",
         "id": "e353be7e-8339-439c-b6fe-4aab0727eae0",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
