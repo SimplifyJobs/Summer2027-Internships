@@ -4314,30 +4314,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Louisiana State University (LSU)",
-        "id": "d10038a4-3b90-4b72-a982-d68efe147ae5",
-        "title": "Enterprise Resource Planning Analyst 2 - Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771932201,
-        "date_posted": 1771687417,
-        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0202-Fred-C-Frey-Computing-Services-Building/Enterprise-Resource-Planning--Analyst-2--Student_R00112884",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Altera Corporation",
         "id": "abb72523-5afc-4962-b459-df93eb93445a",
@@ -77016,29 +76992,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
-        "id": "b61934f8-6d35-44ab-a28d-32ab706e6e16",
-        "title": "Privacy and Security in LLM-Driven Agentic Systems PhD Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771686750,
-        "date_posted": 1771686750,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Privacy-Security-in-LLM-Driven-Agentic-Systems-PhD-Internship-w--Dr-Sharma_REQ_0000067719",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Cummins",
         "id": "9334e35a-654e-4bb7-9057-c2adf57659a7",
@@ -100599,29 +100552,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Jencap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "006bf013-2ac3-4cf1-8f83-99ac30b9fc89",
-        "title": "Campus Undergraduate Intern - Software Engineer - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771687091,
-        "date_posted": 1771687091,
-        "url": "https://aexp.eightfold.ai/careers/job/30702550",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
