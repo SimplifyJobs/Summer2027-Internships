@@ -180457,7 +180457,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -180692,7 +180692,7 @@
         "company_name": "Tower Research Capital",
         "id": "f48a8b1a-b2ba-48ce-becd-612e1c0a2198",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218291,7 +218291,7 @@
         "company_name": "ByteDance",
         "id": "4f77c21f-b6c5-45b9-87c7-4087d47b9589",
         "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244312,7 +244312,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -273612,7 +273612,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -273681,7 +273681,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -290520,7 +290520,7 @@
         "company_name": "Micron Technology",
         "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -298901,7 +298901,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -303358,7 +303358,7 @@
         "company_name": "Insulet",
         "id": "15263e7f-505d-493b-9a92-35719d51ed83",
         "title": "Embedded Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -336061,7 +336061,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -352226,7 +352226,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371844,7 +371844,7 @@
         "company_name": "The Focusrite Group",
         "id": "8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
         "title": "Embedded Software Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375660,7 +375660,7 @@
         "company_name": "NewYork-Presbyterian",
         "id": "157c3d24-c5e0-4535-9ed2-0627c925c4cc",
         "title": "Finance Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381541,7 +381541,7 @@
         "company_name": "Lendable",
         "id": "3df195c1-6867-4343-8ce2-23a1549e0b09",
         "title": "Credit Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384002,7 +384002,7 @@
         "company_name": "Mercor",
         "id": "a713c0fc-8fe6-4def-ab15-d55db5742ac4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -390430,7 +390430,7 @@
         "company_name": "Aon",
         "id": "6af5e7e9-0fa2-4fbf-a037-ce3ebedd3daf",
         "title": "Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391977,7 +391977,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -399637,5 +399637,47 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lendable",
+        "id": "49740871-4c1c-4e2d-9d6d-42cca17e1b2f",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792398817,
+        "date_posted": 1787964322,
+        "url": "https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lendable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "NJ Department of Environmental Protection",
+        "id": "7bfbb5b8-f2fe-4bab-8303-7c54b78aedf8",
+        "title": "Economic Analysis Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792400099,
+        "date_posted": 1791411735,
+        "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/Usjk4gjg3N/CIER202610i-Economic-Analysis-Intern",
+        "locations": [
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/NJ-Department-Of-Environmental-Protection",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
