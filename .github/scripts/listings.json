@@ -167378,7 +167378,7 @@
         "company_name": "Palantir",
         "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
         "title": "Forward Deployed Software Engineer Intern - US Government",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -301473,7 +301473,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0230969e-43d6-46a0-8862-d4e08b788466",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -322112,7 +322112,7 @@
         "company_name": "Apera AI",
         "id": "18d868f8-7386-496b-958c-2b060e136892",
         "title": "Software Developer Co-op - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -331751,7 +331751,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "02822068-8c62-4e46-a294-078ad3fb898f",
         "title": "Workforce Timekeeping",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331795,7 +331795,7 @@
         "company_name": "MetOx International",
         "id": "01adde08-7298-47e1-8394-bb946ac7ec13",
         "title": "Data Science Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338349,7 +338349,7 @@
         "company_name": "CSC Generation",
         "id": "03b53364-747f-47ed-8bfc-ba012349cb8c",
         "title": "Software Engineer Intern/Part Time - Legacy Applications & Modernization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383881,7 +383881,7 @@
         "company_name": "Crown Innovations",
         "id": "df3768d8-aca4-41b1-bdc0-2874bc2151d2",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
