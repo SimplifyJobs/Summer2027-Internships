@@ -214585,7 +214585,7 @@
         "company_name": "Autodesk",
         "id": "2c44a377-3a3b-4d57-af73-669e66675373",
         "title": "Cloud Developer Intern - Fcap",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -293844,7 +293844,7 @@
         "company_name": "COUNTRY Financial",
         "id": "52bd67ea-cc1b-4b12-9ba9-77c1fe08ed78",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331095,7 +331095,7 @@
         "company_name": "CME Group",
         "id": "26e8e7c9-e37c-42ee-b931-4f4a447fec2d",
         "title": "Software Engineering Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335589,7 +335589,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335752,7 +335752,7 @@
         "company_name": "CAE",
         "id": "5df90885-2894-464a-824b-03588fbc5d62",
         "title": "Software Developer Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337826,7 +337826,7 @@
         "company_name": "Symbotic",
         "id": "3fbac32a-0281-41ae-95c5-95556d462395",
         "title": "Hardware Engineer Intern - Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -346281,7 +346281,7 @@
         "company_name": "Boston Scientific",
         "id": "521a56a4-f683-4861-8565-e081a72736c1",
         "title": "Software Engineer Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365386,7 +365386,7 @@
         "company_name": "Micron Technology",
         "id": "3ec3bd30-a625-49ef-bad3-4a40b9de33ea",
         "title": "Memory Design Engineer Intern - HBM",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380536,7 +380536,7 @@
         "company_name": "Hitachi Energy",
         "id": "58107a18-fd4e-4aca-b354-67281bfdb0c4",
         "title": "Software Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -387606,7 +387606,7 @@
         "company_name": "KLA",
         "id": "3bfc1591-dc13-4219-a4ce-0c280bd8b527",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
