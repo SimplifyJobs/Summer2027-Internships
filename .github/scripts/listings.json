@@ -287456,7 +287456,7 @@
         "company_name": "Xcel Energy",
         "id": "630f0123-95e1-4012-8c31-54195c80a1e5",
         "title": "Grid Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -289978,7 +289978,7 @@
         "company_name": "Micron Technology",
         "id": "8ba55980-bb00-4f5d-8d2a-4b40243aa2ac",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -297911,7 +297911,7 @@
         "company_name": "Xcel Energy",
         "id": "9f3cbb1e-b4a0-4f15-b1fc-ea0c6a200973",
         "title": "Residential Energy Product Strategy Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329091,7 +329091,7 @@
         "company_name": "GM financial",
         "id": "0ce857da-f2c3-408f-9dff-60465fa37f40",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -366049,7 +366049,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -375211,7 +375211,7 @@
         "company_name": "Koch Industries",
         "id": "766c0340-ea87-48cd-8d8a-9e800c455e0a",
         "title": "Engineering Assistant Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383118,7 +383118,7 @@
         "company_name": "Micron Technology",
         "id": "cedb1575-2b84-471a-8de3-e8f8bb3be3ce",
         "title": "IT Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -404406,6 +404406,717 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DriveWealth",
+        "id": "f53a894a-ab47-4376-99ff-d2e440e9c33d",
+        "title": "AI Consulting Associate Program Brokerage Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792536335,
+        "date_posted": 1792536181,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/8039368003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DriveWealth",
+        "id": "ea672c45-89c1-45e5-afb3-0a7061e3ea16",
+        "title": "AI Consulting Associate Program Product Owner Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792536336,
+        "date_posted": 1792536182,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stand Together",
+        "id": "9fe85b14-ce91-4fe3-8f6b-a7ece6195cd0",
+        "title": "Policy Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792536334,
+        "date_posted": 1792536181,
+        "url": "https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stand-Together",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DriveWealth",
+        "id": "7f0b6226-d723-4097-a060-879f717c121d",
+        "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792536336,
+        "date_posted": 1792536181,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Humble Robotics",
+        "id": "18198413-10c8-4a0e-b6e1-1f6ad54facb4",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792536333,
+        "date_posted": 1792536156,
+        "url": "https://jobs.lever.co/humble-robotics/b9822bf4-c77c-42ea-a19f-1280ec3ab763/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humble-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Humble Robotics",
+        "id": "21f33b87-6b19-48ce-8820-5dfeb12ae12f",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792536333,
+        "date_posted": 1792536157,
+        "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humble-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genentech",
+        "id": "e594a935-587e-4202-ab30-9e3057cbd9c8",
+        "title": "Product Technical Development Intern - Digital Sciences Focus",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792536206,
+        "date_posted": 1792454400,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202610-126833",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paccar",
+        "id": "352ca30a-f20a-448d-8092-68c1f8720f68",
+        "title": "Field Service Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792536173,
+        "date_posted": 1792536026,
+        "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PrizePicks",
+        "id": "7a9f7982-9536-42a1-ad3a-254aa198c46d",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1792536168,
+        "date_posted": 1792536009,
+        "url": "http://prizepicks.com/position?gh_jid=8038883003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PrizePicks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paccar",
+        "id": "a75a8632-28d8-4ce0-827f-c75ecb99f4c9",
+        "title": "Engineering Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792536174,
+        "date_posted": 1792536026,
+        "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FSH Technologies",
+        "id": "8ab7bf69-b8df-429e-9efc-bf515ac65762",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535977,
+        "date_posted": 1792535812,
+        "url": "https://jobs.ashbyhq.com/FSH/baa9ae85-a578-4017-a41a-fc4999a4e077/application?embed=true",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FSH-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "bc33b19a-c530-4a54-8133-36436abba0f9",
+        "title": "Retail Risk Modeling Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792535984,
+        "date_posted": 1792454400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "8f086315-a7fd-447d-a2e3-099f00ae946d",
+        "title": "SSD Firmware Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535817,
+        "date_posted": 1792454400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
+        "locations": [
+            "San Jose, CA",
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ryan",
+        "id": "6a3ffcb1-96f3-4dcf-9344-d12e0cc51231",
+        "title": "Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792535792,
+        "date_posted": 1792454400,
+        "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-2",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Group",
+        "id": "99ba6b07-eeb7-4706-a797-07b29a9cf953",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535811,
+        "date_posted": 1792454400,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Research-Intern_R17283",
+        "locations": [
+            "Seattle, WA",
+            "Washington, DC",
+            "LA",
+            "Dallas, TX",
+            "St. Louis, MO",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "573523df-dacc-49d5-a255-5d60ebce8d2e",
+        "title": "Graduate Intern - Marine Hydrokinetic Data Curation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535810,
+        "date_posted": 1792454400,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/XMLNAME--Year-Round--Graduate-Intern---Marine-Hydrokinetic-Data-Curation_R14565",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Zebra Technologies",
+        "id": "cde3a717-b612-4994-bbd5-0272b6a0df41",
+        "title": "Supplies & Sensors Product Manager Intern - US",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792535806,
+        "date_posted": 1792454400,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zebra Technologies",
+        "id": "c822b6e8-081c-4db0-94b6-8425ce02c277",
+        "title": "Mechanical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792535805,
+        "date_posted": 1792454400,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Picton Mahoney Asset Management",
+        "id": "42bed99f-4c2b-48e8-8628-267f69e7eaca",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535815,
+        "date_posted": 1792535703,
+        "url": "https://pictonmahoney.bamboohr.com/careers/387/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Picton-Mahoney-Asset-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "6fe65c46-3262-4ee8-9f5b-27fd77cfecf3",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535821,
+        "date_posted": 1792454400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zebra Technologies",
+        "id": "29576300-070d-4528-9cc2-27e8d13cb9ed",
+        "title": "Supplies and Sensors R&D Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792535811,
+        "date_posted": 1792454400,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Morris-Plains-New-Jersey/XMLNAME-2027-Summer-Internship--US----Supplies-and-Sensors-R-D_JR103643",
+        "locations": [
+            "Morris Plains, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "732e9b27-e61f-4a44-b949-2206cbeb1c5f",
+        "title": "SSD Firmware Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535817,
+        "date_posted": 1792454400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
+        "locations": [
+            "San Jose, CA",
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony",
+        "id": "cdf32eb8-9cf1-4a82-9118-d6ce6021c24e",
+        "title": "Research Engineer Intern - Ethical Creative and Protective AI Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535582,
+        "date_posted": 1792454400,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
+        "locations": [
+            "Connecticut",
+            "Florida",
+            "Virginia",
+            "NYC",
+            "Massachusetts",
+            "New Jersey",
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Salesforce",
+        "id": "df54723a-af5c-4a60-bdf7-9724974c60a7",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792535613,
+        "date_posted": 1792454400,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "c6e2d626-aefa-4584-9de5-fa14e36b71ab",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535582,
+        "date_posted": 1792535436,
+        "url": "https://jobs.keysight.com/jobs/55112?icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "977d6496-2a2b-4bba-83d0-e902e7ced1d6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792535642,
+        "date_posted": 1792535542,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony",
+        "id": "535fd64c-e754-4f4a-b1f0-2b111731d1ff",
+        "title": "Data Quality & Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792535582,
+        "date_posted": 1792454400,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746-1",
+        "locations": [
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keysight Technologies",
+        "id": "44c5476b-29a9-42cd-8bd8-4691ff83f588",
+        "title": "R&D Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792535613,
+        "date_posted": 1792535436,
+        "url": "https://jobs.keysight.com/jobs/55110?icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony",
+        "id": "117c855c-445b-4fef-88f4-2157e964b5b8",
+        "title": "Data Quality & Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792535404,
+        "date_posted": 1792454400,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746",
+        "locations": [
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "5598e445-4a5d-4330-9b66-07544b0d3b7a",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792535404,
+        "date_posted": 1792454400,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
