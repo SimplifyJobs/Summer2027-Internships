@@ -203345,7 +203345,7 @@
         "company_name": "Sweatpals",
         "id": "1f413552-77af-4f45-aecd-532852b777c8",
         "title": "Product Manager Intern - Host Squad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303048,7 +303048,7 @@
         "company_name": "Walmart",
         "id": "b7359908-b1b9-4e89-befe-99ce05f4df7f",
         "title": "Senior Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345124,7 +345124,7 @@
         "company_name": "Marvell",
         "id": "2d866a2b-fec0-4355-b608-8833148a995f",
         "title": "Analog Design Intern Co-op - Master\u2019s",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -365475,7 +365475,7 @@
         "company_name": "Airbus",
         "id": "db82b403-fb19-409c-bf56-457fd28a9c63",
         "title": "Software Engineer Intern Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375957,7 +375957,7 @@
         "company_name": "HCSC",
         "id": "f8f58448-a30c-4f0b-bd35-a8b3aee51172",
         "title": "Enterprise Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -376028,7 +376028,7 @@
         "company_name": "HCSC",
         "id": "118adc1e-4c91-45e1-8654-5297c47e9a9c",
         "title": "Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385534,7 +385534,7 @@
         "company_name": "General Motors",
         "id": "784b5f74-a3d4-4c11-bd1b-374e89e11e58",
         "title": "Research and Development Intern - Smart Manufacturing Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387388,7 +387388,7 @@
         "company_name": "KLA",
         "id": "c1d1f32a-c770-499d-aece-ef5b490c9f9a",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391366,7 +391366,7 @@
         "company_name": "RTX",
         "id": "e8d5904f-b5d2-4f6e-ae9d-04ae36fddf96",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397834,7 +397834,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "db3236dd-b511-42c0-8fb7-2cc562c92c0f",
         "title": "Quality Assurance Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
