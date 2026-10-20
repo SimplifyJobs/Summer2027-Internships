@@ -241503,7 +241503,7 @@
         "company_name": "GE Appliances",
         "id": "88d4e38d-d6d5-4550-8ea8-651074023cd3",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -252044,7 +252044,7 @@
         "company_name": "Nike",
         "id": "fe7f1e7d-e361-4660-92ac-f496c022b980",
         "title": "Machine Learning Engineering Undergraduate Intern - Artificial Intelligence - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284821,7 +284821,7 @@
         "company_name": "Marvell",
         "id": "e2983544-b2c7-4646-833d-b960d39cf290",
         "title": "Functional Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -289188,7 +289188,7 @@
         "company_name": "Loblaw Companies",
         "id": "6b4267a2-3d11-46ed-b2d5-257cdbb8453a",
         "title": "Applied Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -350485,7 +350485,7 @@
         "company_name": "RTX",
         "id": "6bc1c873-c812-4770-8e16-7e18397b1432",
         "title": "Display Systems Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -366682,7 +366682,7 @@
         "company_name": "Intel",
         "id": "fa6b1c85-77ab-4c0f-abf9-2175172bb65b",
         "title": "AI Solution Architect Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383783,7 +383783,7 @@
         "company_name": "Tencent",
         "id": "9102f3b7-93b5-45dc-a78f-663455e6e36d",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -400407,7 +400407,7 @@
         "company_name": "Intel",
         "id": "7e85c713-c2d3-4898-bc59-298493e87715",
         "title": "Software Applications Engineering PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
