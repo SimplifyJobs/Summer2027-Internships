@@ -278960,7 +278960,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -341231,7 +341231,7 @@
         "company_name": "KLA",
         "id": "6e2407ba-f462-4baa-ac0f-a0c48ac50816",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -351779,7 +351779,7 @@
         "company_name": "Moderna",
         "id": "b3f22d24-703f-4c3e-b73f-e2f5fbc6c23c",
         "title": "Biometrics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357966,7 +357966,7 @@
         "company_name": "Marvell",
         "id": "be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
         "title": "Firmware Engineer Intern - MS - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358157,7 +358157,7 @@
         "company_name": "PNC Financial Services",
         "id": "b8feae1a-90b4-43dd-ab49-8d200bb1cb49",
         "title": "Economics Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369416,7 +369416,7 @@
         "company_name": "Astera Labs",
         "id": "d5b13036-27ec-4902-ba94-12246ec895a1",
         "title": "ATE Engineer Intern - Engineering Ops Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
