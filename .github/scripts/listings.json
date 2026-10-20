@@ -179985,7 +179985,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -187264,7 +187264,7 @@
         "company_name": "Voloridge",
         "id": "d429d89b-a684-47e8-a3c8-32639ab0d9c8",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -214132,7 +214132,7 @@
         "company_name": "Epic Games",
         "id": "8d32ce9d-b2f0-4126-8727-69bbd17e3c2e",
         "title": "Machine Learning Intern - Special Projects - Epic Research Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -228724,7 +228724,7 @@
         "company_name": "Zipline",
         "id": "a1cb0fe2-664f-4b1e-910d-9ec9f155faa1",
         "title": "Long Range Platform Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -268622,7 +268622,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -269589,7 +269589,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -273140,7 +273140,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -303674,7 +303674,7 @@
         "company_name": "Zipline",
         "id": "8a4682db-2a89-46b2-95a3-5d2d489e9169",
         "title": "Data Analytics Intern - Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -304767,7 +304767,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -319495,7 +319495,7 @@
         "company_name": "APEX Analytix",
         "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358252,7 +358252,7 @@
         "company_name": "Veeam Software",
         "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
         "title": "Competitive Intelligence AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358833,7 +358833,7 @@
         "company_name": "Stripe",
         "id": "8d662f47-4018-4534-bc0e-e3a416371581",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2028"
@@ -360511,7 +360511,7 @@
         "company_name": "General Motors",
         "id": "7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
         "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360806,7 +360806,7 @@
         "company_name": "Helion Energy",
         "id": "8c0720bf-747e-4a04-b5c4-846531aa0186",
         "title": "Computational Plasma Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366993,7 +366993,7 @@
         "company_name": "NBCUniversal",
         "id": "a6dfb4bb-3901-447a-ac14-bb9b92ef4d21",
         "title": "Feature Technical Direction Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -369581,7 +369581,7 @@
         "company_name": "Astera Labs",
         "id": "a66cded3-985f-4133-907f-e54148fd0423",
         "title": "Advanced Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -371372,7 +371372,7 @@
         "company_name": "The Focusrite Group",
         "id": "8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
         "title": "Embedded Software Placement Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -372378,7 +372378,7 @@
         "company_name": "Niantic Spatial",
         "id": "8db764f7-caf2-46e5-88d8-976776e63ec3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387606,7 +387606,7 @@
         "company_name": "KLA",
         "id": "3bfc1591-dc13-4219-a4ce-0c280bd8b527",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -401451,7 +401451,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "7b0c7936-f5ca-4813-a556-483b1e6edbf0",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402418,6 +402418,53 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parallel Wireless",
+        "id": "807bcae2-3ba9-4165-9819-a41fe28c13c3",
+        "title": "PHY Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792488491,
+        "date_posted": 1792488367,
+        "url": "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Parallel-Wireless",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "f9299641-0cec-447d-8ed6-26445441d4ec",
+        "title": "Machine Learning Summer Associate Intern - NLP",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792487598,
+        "date_posted": 1792487487,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
