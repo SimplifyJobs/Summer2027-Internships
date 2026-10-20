@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "4667fa93-10f5-47fa-9fd5-dd62c6ff8f28",
-        "title": "Intern - HDD Testing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771744175,
-        "date_posted": 1771744175,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110543825",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Western Digital",
-        "id": "0d1a1aa2-36ac-4351-af65-180d09512b88",
-        "title": "2026 Summer Intern - Data Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771744178,
-        "date_posted": 1771744178,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544134",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Roku",
         "id": "1d52c618-5d43-475b-8790-f6e679eafe19",
