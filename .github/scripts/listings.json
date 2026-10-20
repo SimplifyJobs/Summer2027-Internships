@@ -268902,7 +268902,7 @@
         "company_name": "Vermeer",
         "id": "31ce397a-99c8-4b21-82b3-0f2617e5890b",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270960,7 +270960,7 @@
         "company_name": "GE Appliances",
         "id": "259c0c7d-c60b-40ad-936e-d5aef95bbb9f",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -295335,7 +295335,7 @@
         "company_name": "Gallup",
         "id": "35f89fc9-30ca-497a-a6a0-ed005cf0e2af",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -305072,7 +305072,7 @@
         "company_name": "Vertiv",
         "id": "48fe73cf-84c7-4a22-bfd9-952a666e8607",
         "title": "Innovation Lab Engineering Intern 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328974,7 +328974,7 @@
         "company_name": "Honeywell",
         "id": "294d72a8-7250-41fe-bd01-3c9b0ba1996e",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -397588,7 +397588,7 @@
         "company_name": "FSH Technologies",
         "id": "30b3646a-3712-4b4a-8114-14d2aa538ecd",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
