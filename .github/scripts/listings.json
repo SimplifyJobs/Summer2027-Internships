@@ -240796,7 +240796,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348885,7 +348885,7 @@
         "company_name": "Intel",
         "id": "2d77d594-bd99-46dd-bb12-5e46c01f41e8",
         "title": "System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362185,7 +362185,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387242,7 +387242,7 @@
         "company_name": "KLA",
         "id": "7e70fdba-0509-4c0b-9de0-754fffa84596",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387557,7 +387557,7 @@
         "company_name": "KLA",
         "id": "4f6c38aa-af24-4222-9bc8-745ccd365dc1",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395633,7 +395633,7 @@
         "company_name": "KLA Corporation",
         "id": "1f9e40fa-bda2-4366-8040-720e0b377855",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -399819,7 +399819,7 @@
         "company_name": "Leidos",
         "id": "b18ea2c9-9c02-4095-924c-d220e62b930e",
         "title": "Electrical Hardware Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401174,7 +401174,7 @@
         "company_name": "RTX",
         "id": "493f62d0-4330-4d5d-a6c4-73e8f8001b65",
         "title": "Software Engineering Co-op - Summer / Fall 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -402555,5 +402555,75 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "0bc0ca2c-64dd-461f-92a3-43dc0d4f0fb1",
+        "title": "Generative AI Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792495092,
+        "date_posted": 1792454400,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Verizon Communications",
+        "id": "069f3f4c-adc9-4e2d-919c-045fd3bef6b6",
+        "title": "Call Routing Optimization Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792494228,
+        "date_posted": 1792454400,
+        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398",
+        "locations": [
+            "Basking Ridge, Bernards, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Verizon-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "3b60a188-d772-469c-99c4-2cc383925ddb",
+        "title": "Wealth Operations Automation Intern Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792494232,
+        "date_posted": 1792454400,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
