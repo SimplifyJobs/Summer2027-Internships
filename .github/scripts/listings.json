@@ -292536,7 +292536,7 @@
         "company_name": "Trimble",
         "id": "63bb5635-fcbb-4c10-ac91-d7f76b6c3d75",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -293348,7 +293348,7 @@
         "company_name": "Trimble",
         "id": "ca3d442d-982e-4251-b443-6e607ffd2504",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338107,7 +338107,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361737,7 +361737,7 @@
         "company_name": "Trimble",
         "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362093,7 +362093,7 @@
         "company_name": "Arc",
         "id": "3547945d-8818-43f2-878c-5ba1e5fc23e5",
         "title": "Electrical Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375259,7 +375259,7 @@
         "company_name": "Koch Industries",
         "id": "766c0340-ea87-48cd-8d8a-9e800c455e0a",
         "title": "Engineering Assistant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385915,7 +385915,7 @@
         "company_name": "Keysight Technologies",
         "id": "62caaf3c-8790-4860-a95b-27666f834974",
         "title": "Test Engineering Intern Tech 3",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394830,7 +394830,7 @@
         "company_name": "Carrier Global",
         "id": "81329086-6e0a-4f35-bef0-6e7e49507034",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402094,6 +402094,143 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Carrier Global",
+        "id": "9f100b0b-5ea2-4aea-b312-c15d32e8e8c8",
+        "title": "Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792459484,
+        "date_posted": 1792368000,
+        "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "c2ad7d6e-7477-4f43-adc5-f46fbdd5ecd3",
+        "title": "Application Developer Co-op - Enterprise Technology & Business Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792458917,
+        "date_posted": 1792368000,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "31378135-5f8c-4b51-bc35-dd36b493da6c",
+        "title": "Application/Software Developer Co-op - Capital Markets Technology",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792458901,
+        "date_posted": 1792368000,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trimble",
+        "id": "4faaca93-0c42-437d-9ffe-3b46d8d67e62",
+        "title": "Hardware/Software Testing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792458780,
+        "date_posted": 1788825600,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
+        "locations": [
+            "Dayton, OH",
+            "Portsmouth, NH",
+            "Lake Oswego, OR",
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Associated Bank",
+        "id": "d7a85e33-f117-40b4-a249-aec08587e7cf",
+        "title": "Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792458802,
+        "date_posted": 1792368000,
+        "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Associated-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paccar",
+        "id": "3555c695-037a-494d-b111-9652b4b91a08",
+        "title": "Dealer Development Marketing Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792458482,
+        "date_posted": 1792458296,
+        "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
