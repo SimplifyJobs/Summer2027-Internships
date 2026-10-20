@@ -208141,7 +208141,7 @@
         "company_name": "The Boeing Company",
         "id": "3c052483-a306-453e-a3dc-ccfe99cf5624",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -243840,7 +243840,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298429,7 +298429,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323996,7 +323996,7 @@
         "company_name": "RTX",
         "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -335589,7 +335589,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351754,7 +351754,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376618,7 +376618,7 @@
         "company_name": "PDT Partners",
         "id": "3f2a74d0-e723-4bd5-b670-23b753042fbe",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391505,7 +391505,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396853,7 +396853,7 @@
         "company_name": "Eaton",
         "id": "1e52826d-5a68-468b-9c24-ec27f5a243b6",
         "title": "C++ Developer Intern - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398885,7 +398885,7 @@
         "company_name": "Axos Bank",
         "id": "0854004d-3797-4a41-92c7-8b23ea92f186",
         "title": "Data Analyst 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
