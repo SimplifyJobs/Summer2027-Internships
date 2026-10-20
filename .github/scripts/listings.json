@@ -197766,7 +197766,7 @@
         "company_name": "BlackEdge Capital",
         "id": "4bd46e38-6629-44aa-b557-05c1094d119c",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -394321,7 +394321,7 @@
         "company_name": "RTX",
         "id": "450e4484-4377-400a-9da6-573dd1196e57",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
