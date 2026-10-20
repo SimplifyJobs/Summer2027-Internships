@@ -233582,7 +233582,7 @@
         "company_name": "Databricks",
         "id": "1a0df397-2083-456f-9ecb-137eec7603ef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335636,7 +335636,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "052eb803-66af-435a-9f6d-069e2aa8d052",
         "title": "Summer Intern - Data Mesh Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387505,7 +387505,7 @@
         "company_name": "KLA",
         "id": "1e02c0c8-04fb-42f2-acd8-84b45dc94d33",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391850,7 +391850,7 @@
         "company_name": "BP",
         "id": "02f0888c-2549-4dca-a837-b891928348ee",
         "title": "Supply, Trading & Shipping Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
