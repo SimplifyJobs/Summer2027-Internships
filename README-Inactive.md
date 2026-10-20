@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 2229 Inactive Internship Roles by Category
+### Browse 2228 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (762)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (143)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (142)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (775)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (224)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (223)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (325)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (326)
 
 ---
 
@@ -2237,13 +2237,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Collier-Aerospace?utm_source=GHList&utm_medium=company">Collier Aerospace</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Newport News, VA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Gallup?utm_source=GHList&utm_medium=company">Gallup</a></strong></td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>SF</td>
@@ -3269,6 +3262,13 @@
 <td><strong><a href="https://simplify.jobs/c/NiSource?utm_source=GHList&utm_medium=company">NiSource</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Columbus, OH<br>Merrillville, IN</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nike?utm_source=GHList&utm_medium=company">Nike</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Beaverton, OR</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -5562,13 +5562,6 @@
 <td>28d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Zimmer-Biomet-Holdings?utm_source=GHList&utm_medium=company">Zimmer Biomet Holdings</a></strong></td>
-<td>Product Management Intern - Artificial Intelligence Product Management</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>28d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company">Mastercard</a></strong></td>
 <td>Product Management Intern</td>
 <td>Harrison, NY<br>Arlington County, Arlington, VA</td>
@@ -6465,6 +6458,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Bosch-Home-Comfort?utm_source=GHList&utm_medium=company">Bosch Home Comfort</a></strong></td>
+<td>Data Analyst & Marketing/Sales Intern</td>
+<td>Denham, UK</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/PA-Consulting?utm_source=GHList&utm_medium=company">PA Consulting</a></strong></td>
 <td>Digital Intern - Digital - Digital & Data</td>
 <td>Manchester, UK</td>
@@ -6909,13 +6909,6 @@
 <td>↳</td>
 <td>Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement</td>
 <td>Irving, TX</td>
-<td>🔒</td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Moderna?utm_source=GHList&utm_medium=company">Moderna</a></strong></td>
-<td>Biometrics Intern</td>
-<td>Cambridge, MA</td>
 <td>🔒</td>
 <td>21d</td>
 </tr>
@@ -11030,15 +11023,15 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Epic-Games?utm_source=GHList&utm_medium=company">Epic Games</a></strong></td>
-<td>Machine Learning Intern - Special Projects - Epic Research Group 🎓</td>
-<td>London, UK</td>
+<td>Machine Learning Intern 🎓</td>
+<td>Canada<br>United Kingdom<br>United States</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Machine Learning Intern 🎓</td>
-<td>Canada<br>United Kingdom<br>United States</td>
+<td>Machine Learning Intern - Special Projects - Epic Research Group 🎓</td>
+<td>London, UK</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -11526,6 +11519,13 @@
 <td>2mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Data Analytics Intern</td>
+<td><details><summary><strong>30 locations</strong></summary>Ridley Park, PA<br>Seattle, WA<br>Long Beach, CA<br>Mesa, AZ<br>Colorado Springs, CO<br>Renton, WA<br>Dallas, TX<br>Fairfax, VA<br>Plano, TX<br>Chicago, IL<br>Seal Beach, CA<br>Tukwila, WA<br>St Charles, MO<br>San Antonio, TX<br>Arlington County, Arlington, VA<br>Everett, WA<br>Berkeley, MO<br>Auburn, WA<br>Oklahoma City, OK<br>Kent, WA<br>Charleston, SC<br>Bellevue, WA<br>Herndon, VA<br>Atlanta, GA<br>Huntsville, AL<br>North Charleston, SC<br>Huntington Beach, CA<br>Hazelwood, MO<br>Mukilteo, WA<br>El Segundo, CA</details></td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Williams?utm_source=GHList&utm_medium=company">Williams</a></strong></td>
 <td>Engineering Intern</td>
 <td>Salt Lake City, UT<br>Houston, TX<br>Tulsa, OK</td>
@@ -11557,13 +11557,6 @@
 <td>↳</td>
 <td>Operations Analyst Intern</td>
 <td><details><summary><strong>5 locations</strong></summary>Waukegan, IL<br>Milwaukee, WI<br>Glenview, IL<br>Pleasant Prairie, WI<br>Kenosha, WI</details></td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
-<td>Data Analytics Intern</td>
-<td><details><summary><strong>30 locations</strong></summary>Ridley Park, PA<br>Seattle, WA<br>Long Beach, CA<br>Mesa, AZ<br>Colorado Springs, CO<br>Renton, WA<br>Dallas, TX<br>Fairfax, VA<br>Plano, TX<br>Chicago, IL<br>Seal Beach, CA<br>Tukwila, WA<br>St Charles, MO<br>San Antonio, TX<br>Arlington County, Arlington, VA<br>Everett, WA<br>Berkeley, MO<br>Auburn, WA<br>Oklahoma City, OK<br>Kent, WA<br>Charleston, SC<br>Bellevue, WA<br>Herndon, VA<br>Atlanta, GA<br>Huntsville, AL<br>North Charleston, SC<br>Huntington Beach, CA<br>Hazelwood, MO<br>Mukilteo, WA<br>El Segundo, CA</details></td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -11930,13 +11923,6 @@
 <td>Austin, TX</td>
 <td>🔒</td>
 <td>10d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/PDT-Partners?utm_source=GHList&utm_medium=company">PDT Partners</a></strong></td>
-<td>Quantitative Research Intern 🎓</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/First-Citizens-BancShares?utm_source=GHList&utm_medium=company">First Citizens BancShares</a></strong></td>
@@ -13706,6 +13692,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Morrisville, NC</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Moog?utm_source=GHList&utm_medium=company">Moog</a></strong></td>
+<td>Electrical Engineer Intern</td>
+<td>Torrance, CA</td>
 <td>🔒</td>
 <td>14d</td>
 </tr>
