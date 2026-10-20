@@ -312615,7 +312615,7 @@
         "company_name": "Johnson & Johnson",
         "id": "7a2e4e2c-b2bc-4342-8cb2-9340dfc4d25b",
         "title": "Technology and Digital Quality Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -373581,7 +373581,7 @@
         "company_name": "Austin Community College District",
         "id": "91e99012-8825-485f-9d0c-534bc8ab62ab",
         "title": "GIS Intern 1 - NSGIC/TxGIO Project",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393170,7 +393170,7 @@
         "company_name": "RTX",
         "id": "9502dcc3-6ca9-499c-8b33-b8fc0cb96b60",
         "title": "Repair & Overhaul Customer Solutions Group Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
