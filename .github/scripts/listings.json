@@ -162410,7 +162410,7 @@
         "company_name": "Nidec",
         "id": "97df1f57-31a3-4b3f-ab52-6214a8ca8f7e",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -187264,7 +187264,7 @@
         "company_name": "Voloridge",
         "id": "d429d89b-a684-47e8-a3c8-32639ab0d9c8",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -272032,7 +272032,7 @@
         "company_name": "Zipline",
         "id": "e0e3fb6b-c670-4e50-85df-0341d0708c82",
         "title": "Electrical Engineer Intern - Electrical Engineering Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -319495,7 +319495,7 @@
         "company_name": "APEX Analytix",
         "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341231,7 +341231,7 @@
         "company_name": "KLA",
         "id": "6e2407ba-f462-4baa-ac0f-a0c48ac50816",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357966,7 +357966,7 @@
         "company_name": "Marvell",
         "id": "be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
         "title": "Firmware Engineer Intern - MS - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358157,7 +358157,7 @@
         "company_name": "PNC Financial Services",
         "id": "b8feae1a-90b4-43dd-ab49-8d200bb1cb49",
         "title": "Economics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -358252,7 +358252,7 @@
         "company_name": "Veeam Software",
         "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
         "title": "Competitive Intelligence AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360511,7 +360511,7 @@
         "company_name": "General Motors",
         "id": "7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
         "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -367495,7 +367495,7 @@
         "company_name": "Electronic Arts",
         "id": "ec223388-d88d-4b7b-ad95-bc08ce04bd3c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401451,7 +401451,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "7b0c7936-f5ca-4813-a556-483b1e6edbf0",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -402467,5 +402467,93 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "46965922-9d94-4b6d-9e87-ff3889d5d343",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792489565,
+        "date_posted": 1792368000,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
+        "locations": [
+            "SF",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SpAItial",
+        "id": "0e636bf2-1fa3-4d8c-bdba-8a04ae7b2206",
+        "title": "Research Intern - 3D World Models",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792489572,
+        "date_posted": 1792489349,
+        "url": "https://jobs.ashbyhq.com/spaitial/39ab566f-8626-4633-a0ab-504e082032d6/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/SpAItial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "cac4012f-81b7-43f8-a2fd-c655e91ac0b8",
+        "title": "Data Science \u2013 Forward Deployed Engineer: PhD Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792489392,
+        "date_posted": 1792489226,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The New York Times",
+        "id": "9540c6d5-a3f9-44ef-bbc8-f2e6f966e07c",
+        "title": "AI Initiatives Fellow",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792489271,
+        "date_posted": 1792489107,
+        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
