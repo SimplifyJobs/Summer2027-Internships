@@ -130984,7 +130984,7 @@
         "company_name": "KLA",
         "id": "621d8a9b-9609-45e9-b8be-2a06366dcd4d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289027,7 +289027,7 @@
         "company_name": "Entrust",
         "id": "5b5294f8-f9a7-4dbd-ac1b-8ff014939e88",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -308831,7 +308831,7 @@
         "company_name": "Booz Allen",
         "id": "69f5edde-2904-4610-a7eb-8132ce17ead9",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337379,7 +337379,7 @@
         "company_name": "ONE Finance",
         "id": "8130b1a2-fe29-4ce1-af4f-c6a989efa3cd",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351733,7 +351733,7 @@
         "company_name": "Sony Interactive Entertainment",
         "id": "74efc708-4e8b-4d57-9853-eb261edfdeb2",
         "title": "Technical Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352380,7 +352380,7 @@
         "company_name": "Haven Studios",
         "id": "72f0f06b-9e7a-4022-b8b3-b3c1f23078cb",
         "title": "Technical Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387101,7 +387101,7 @@
         "company_name": "Vestmark",
         "id": "71d10136-22a9-4798-89cd-9df17b662d88",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -387242,7 +387242,7 @@
         "company_name": "KLA",
         "id": "7e70fdba-0509-4c0b-9de0-754fffa84596",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397149,7 +397149,7 @@
         "company_name": "Energy Transfer Partners",
         "id": "62db3487-4588-43de-9701-4d551607be08",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
