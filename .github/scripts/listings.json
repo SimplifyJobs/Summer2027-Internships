@@ -394153,7 +394153,7 @@
         "company_name": "RTX",
         "id": "bfe5d69a-bcaa-42b9-b6d2-4cd8986129c9",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -394179,7 +394179,7 @@
         "company_name": "RTX",
         "id": "bb375f16-35dc-4f64-966b-0d9da2a004a3",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -396244,7 +396244,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d07a4719-9a08-4ec6-850e-09bf29679246",
         "title": "Summer Intern - Digital Signal/ Imaging AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
