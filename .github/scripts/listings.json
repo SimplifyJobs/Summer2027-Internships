@@ -240796,7 +240796,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278960,7 +278960,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -348885,7 +348885,7 @@
         "company_name": "Intel",
         "id": "2d77d594-bd99-46dd-bb12-5e46c01f41e8",
         "title": "System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351472,7 +351472,7 @@
         "company_name": "RTX",
         "id": "ec00eac5-4585-4280-840e-de9a25fe6595",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -351779,7 +351779,7 @@
         "company_name": "Moderna",
         "id": "b3f22d24-703f-4c3e-b73f-e2f5fbc6c23c",
         "title": "Biometrics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -362185,7 +362185,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369416,7 +369416,7 @@
         "company_name": "Astera Labs",
         "id": "d5b13036-27ec-4902-ba94-12246ec895a1",
         "title": "ATE Engineer Intern - Engineering Ops Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -395633,7 +395633,7 @@
         "company_name": "KLA Corporation",
         "id": "1f9e40fa-bda2-4366-8040-720e0b377855",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399819,7 +399819,7 @@
         "company_name": "Leidos",
         "id": "b18ea2c9-9c02-4095-924c-d220e62b930e",
         "title": "Electrical Hardware Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401174,7 +401174,7 @@
         "company_name": "RTX",
         "id": "493f62d0-4330-4d5d-a6c4-73e8f8001b65",
         "title": "Software Engineering Co-op - Summer / Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
