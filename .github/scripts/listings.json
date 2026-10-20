@@ -229152,7 +229152,7 @@
         "company_name": "Continental Resources",
         "id": "efcdcda1-4aa4-492b-a092-21d30c45cee1",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304171,7 +304171,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
         "title": "AI & Data Science Intern - Analytic Capabilities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
