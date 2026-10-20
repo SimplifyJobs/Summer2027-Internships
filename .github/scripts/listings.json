@@ -310190,7 +310190,7 @@
         "company_name": "Energy Transfer Partners",
         "id": "0248d8cd-ddf4-40c9-8021-92f8972c9c6e",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381255,7 +381255,7 @@
         "company_name": "Radiance Technologies",
         "id": "08534f02-cdda-4163-8227-8adc00591296",
         "title": "Modeling & Simulation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
