@@ -345124,7 +345124,7 @@
         "company_name": "Marvell",
         "id": "2d866a2b-fec0-4355-b608-8833148a995f",
         "title": "Analog Design Intern Co-op - Master\u2019s",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365475,7 +365475,7 @@
         "company_name": "Airbus",
         "id": "db82b403-fb19-409c-bf56-457fd28a9c63",
         "title": "Software Engineer Intern Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369956,7 +369956,7 @@
         "company_name": "Genentech",
         "id": "766c66a6-36c1-4fa9-8bcf-d522a0c71b1f",
         "title": "Applied GenAI Scientist Intern - GenAI Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -385534,7 +385534,7 @@
         "company_name": "General Motors",
         "id": "784b5f74-a3d4-4c11-bd1b-374e89e11e58",
         "title": "Research and Development Intern - Smart Manufacturing Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387242,7 +387242,7 @@
         "company_name": "KLA",
         "id": "7e70fdba-0509-4c0b-9de0-754fffa84596",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -387557,7 +387557,7 @@
         "company_name": "KLA",
         "id": "4f6c38aa-af24-4222-9bc8-745ccd365dc1",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
