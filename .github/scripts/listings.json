@@ -179985,7 +179985,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -208141,7 +208141,7 @@
         "company_name": "The Boeing Company",
         "id": "3c052483-a306-453e-a3dc-ccfe99cf5624",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -214132,7 +214132,7 @@
         "company_name": "Epic Games",
         "id": "8d32ce9d-b2f0-4126-8727-69bbd17e3c2e",
         "title": "Machine Learning Intern - Special Projects - Epic Research Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -243840,7 +243840,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -246552,7 +246552,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -252090,7 +252090,7 @@
         "company_name": "Nike",
         "id": "1d9f2320-07f1-4deb-bce1-02d20684e4e9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268622,7 +268622,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -269589,7 +269589,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -272011,7 +272011,7 @@
         "company_name": "Zipline",
         "id": "872bbfa9-fd11-4368-812e-cf3fd7a1bcb1",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -273140,7 +273140,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -298429,7 +298429,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -303674,7 +303674,7 @@
         "company_name": "Zipline",
         "id": "8a4682db-2a89-46b2-95a3-5d2d489e9169",
         "title": "Data Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -304767,7 +304767,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -335589,7 +335589,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351754,7 +351754,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358833,7 +358833,7 @@
         "company_name": "Stripe",
         "id": "8d662f47-4018-4534-bc0e-e3a416371581",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2028"
@@ -369581,7 +369581,7 @@
         "company_name": "Astera Labs",
         "id": "a66cded3-985f-4133-907f-e54148fd0423",
         "title": "Advanced Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371372,7 +371372,7 @@
         "company_name": "The Focusrite Group",
         "id": "8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
         "title": "Embedded Software Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374072,7 +374072,7 @@
         "company_name": "Moog",
         "id": "2aca0513-4399-42cb-9896-91871273e679",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375167,7 +375167,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1e2d65b2-dacc-4dc5-b8de-85db547440a6",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376618,7 +376618,7 @@
         "company_name": "PDT Partners",
         "id": "3f2a74d0-e723-4bd5-b670-23b753042fbe",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387606,7 +387606,7 @@
         "company_name": "KLA",
         "id": "3bfc1591-dc13-4219-a4ce-0c280bd8b527",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391505,7 +391505,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -399193,7 +399193,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "7bfbb5b8-f2fe-4bab-8303-7c54b78aedf8",
         "title": "Economic Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399261,7 +399261,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "72e8c51b-2573-4cd6-b027-e42a785f7038",
         "title": "Data Analyst & Marketing/Sales Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402370,6 +402370,55 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7b0b49ae-7a2d-4ad2-9957-e53861b27064",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792486489,
+        "date_posted": 1790633316,
+        "url": "https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-NJ-07014/1413358200/?ats=successfactors",
+        "locations": [
+            "Clinton, MD",
+            "Clifton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scale AI",
+        "id": "41101dfb-9fa5-4eac-b1cf-f6c93e3c3f48",
+        "title": "Safety Research Scholar Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792485065,
+        "date_posted": 1792188397,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
