@@ -312565,7 +312565,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fab9af01-5b7a-416b-9ede-43f39adb375b",
         "title": "Technology and Digital Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397861,7 +397861,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "bae50bf6-94fe-4d18-bcb5-84cbab255649",
         "title": "Oceanographic Lidar Remote Sensing and Field Campaign Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
