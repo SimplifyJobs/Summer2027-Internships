@@ -304110,7 +304110,7 @@
         "company_name": "Definity Financial",
         "id": "213789cc-7456-41e6-9357-10360bde8a2b",
         "title": "Commercial Insurance Product Owner Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -306497,7 +306497,7 @@
         "company_name": "Lyft",
         "id": "071e1ee1-8695-49cf-91ac-316a4d241cda",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323463,7 +323463,7 @@
         "company_name": "Graco",
         "id": "0eaf7b65-eb77-4fd3-b400-e0db857ff6ad",
         "title": "Software Engineer Intern - Commerce Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -336820,7 +336820,7 @@
         "company_name": "SOTI",
         "id": "05f24370-03fa-4a59-aa66-efbcea018d21",
         "title": "Software Developer Intern - Back End",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337126,7 +337126,7 @@
         "company_name": "Waymo",
         "id": "28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
         "title": "Embedded Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391475,7 +391475,7 @@
         "company_name": "AGCO",
         "id": "008ce178-6fee-4916-a564-da1d1f5ada95",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -405235,5 +405235,76 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "24f45ded-bd89-4b9b-98cf-b15de7bddf97",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792613967,
+        "date_posted": 1792613877,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Safran",
+        "id": "4ce71aa4-5e3f-49cc-a75d-febb20ca81ba",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792613753,
+        "date_posted": 1792613579,
+        "url": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors",
+        "locations": [
+            "Bedford, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Safran",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Safran",
+        "id": "0313d012-4781-4a03-8d3c-6c2e029e9dc1",
+        "title": "Optical Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792613756,
+        "date_posted": 1792613572,
+        "url": "https://careers.safran-dsi.com/job/Bedford-Optical-Engineering-Internship-NH-03110/1431030500/?ats=successfactors",
+        "locations": [
+            "Bedford, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Safran",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
