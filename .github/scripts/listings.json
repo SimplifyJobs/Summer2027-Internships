@@ -257007,7 +257007,7 @@
         "company_name": "Nationwide",
         "id": "6bf9017f-b3da-451e-b506-46820adb72e0",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377111,7 +377111,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "8b384ca6-8bad-49d6-a440-a7ba0a64ba34",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396712,7 +396712,7 @@
         "company_name": "Boston Scientific",
         "id": "732644b7-8839-4c00-a810-134934432245",
         "title": "AI/Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
