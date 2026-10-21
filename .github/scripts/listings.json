@@ -219708,7 +219708,7 @@
         "company_name": "Calpion/Plutus Health",
         "id": "88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
         "title": "AI Engineering Intern - Python & Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256216,7 +256216,7 @@
         "company_name": "Maven Securities",
         "id": "8b07563a-a076-4b83-b485-3f36db4ae47a",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308782,7 +308782,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -318987,7 +318987,7 @@
         "company_name": "Lunar Outpost",
         "id": "97d67a9f-ceb5-40f2-9511-3c86c813689a",
         "title": "Ground Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319011,7 +319011,7 @@
         "company_name": "Lunar Outpost",
         "id": "8b5f96a8-b90d-4f41-9ff7-1c4b1bc8089b",
         "title": "Robotics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324699,7 +324699,7 @@
         "company_name": "CoStar Group",
         "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326409,7 +326409,7 @@
         "company_name": "Marvell",
         "id": "fb558c48-2236-4414-8b4a-bfdb26b31409",
         "title": "Analog Layout Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -353873,7 +353873,7 @@
         "company_name": "KLA",
         "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
         "title": "Optical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -367078,7 +367078,7 @@
         "company_name": "General Motors",
         "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
         "title": "ADAS Software Engineer Intern - Adpt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -405257,7 +405257,7 @@
         "company_name": "Johnson & Johnson",
         "id": "99db0e09-f672-4d8a-942d-ea95fb704ed8",
         "title": "Translational Postdoctoral Researcher Intern - Agentic AI for Neurodegeneration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405275,6 +405275,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "a31a7c17-501a-4eb8-a17b-39bf87ed4403",
+        "title": "Software Intern - Embedded Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792588862,
+        "date_posted": 1792540800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
