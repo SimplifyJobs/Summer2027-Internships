@@ -335712,7 +335712,7 @@
         "company_name": "Marvell",
         "id": "7cc624ba-7ee7-48f0-bddc-e6d5e064f6f9",
         "title": "Digital IC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343441,7 +343441,7 @@
         "company_name": "Analog Devices",
         "id": "c88eff3d-aa92-400f-81af-bc057b38bc77",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -361652,7 +361652,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -363092,7 +363092,7 @@
         "company_name": "RTX",
         "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
         "title": "AI DSP Applied Research Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -367175,7 +367175,7 @@
         "company_name": "General Motors",
         "id": "a251a7a4-2be2-4567-8c27-fe56f705f40e",
         "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -374957,7 +374957,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e7f4bf5f-d2db-4cf1-a052-81c57b0543b1",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376787,7 +376787,7 @@
         "company_name": "General Motors",
         "id": "4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
         "title": "Systems Engineer Intern - Asd",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -376812,7 +376812,7 @@
         "company_name": "General Motors",
         "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
         "title": "AV Sensor Design, Release and Integration Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -379678,7 +379678,7 @@
         "company_name": "General Motors",
         "id": "9336555d-472f-4804-b5f7-a1e52e004ac6",
         "title": "Autonomous Driving Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385141,7 +385141,7 @@
         "company_name": "General Motors",
         "id": "201e83f0-5fbc-4c24-8bdc-9590cb7ebbf5",
         "title": "Summer Intern - Research and Development - Machine Learning for Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392425,7 +392425,7 @@
         "company_name": "General Motors",
         "id": "8efc5434-3c49-410a-90f6-5f6124037e2b",
         "title": "Product Management Intern - Vehicle Autonomy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392449,7 +392449,7 @@
         "company_name": "General Motors",
         "id": "554a8d6f-461f-46af-a16c-958c34f78906",
         "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -394066,7 +394066,7 @@
         "company_name": "General Motors",
         "id": "6be326d4-b4e5-4d1a-9440-abd55d5a377d",
         "title": "AI/ML Engineer Intern - Mapping - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394111,7 +394111,7 @@
         "company_name": "General Motors",
         "id": "ed9e210c-cd7d-439c-a71c-72609cf1bb48",
         "title": "Embodied AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
