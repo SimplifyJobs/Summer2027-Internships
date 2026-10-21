@@ -201905,7 +201905,7 @@
         "company_name": "Skydio",
         "id": "c8adc3a4-d608-46ce-852a-ce04022b7944",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -268394,7 +268394,7 @@
         "company_name": "V2X",
         "id": "b207c0f1-7cb3-4dc3-a5dd-7917c737106b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -290804,7 +290804,7 @@
         "company_name": "Syntiant",
         "id": "d88cbfd5-185a-4200-8daa-b8222f07e7af",
         "title": "Machine Learning Intern - KWS/AED",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -292532,7 +292532,7 @@
         "company_name": "Booz Allen",
         "id": "cbd02d2d-30f1-4f3f-9f68-eb6f0947c37f",
         "title": "Systems Engineer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -292555,7 +292555,7 @@
         "company_name": "Booz Allen",
         "id": "a0358dcb-290b-456b-9030-f8045f0283d5",
         "title": "Applied AI Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2028",
             "Summer 2028"
@@ -302620,7 +302620,7 @@
         "company_name": "Securian Financial Group",
         "id": "8a3a2fbf-c843-4e59-936b-52ef8c326944",
         "title": "Data Science and Advanced Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -303431,7 +303431,7 @@
         "company_name": "Texas Instruments",
         "id": "a0b3979a-1302-4a00-a2a4-0e86472d7a51",
         "title": "Information Technology Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -316668,7 +316668,7 @@
         "company_name": "QTS",
         "id": "bb1a4a31-3d4f-474b-8718-fca0e46439d1",
         "title": "Tableau Analytics and Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327083,7 +327083,7 @@
         "company_name": "OCC",
         "id": "b9ca24ba-2e7c-4a91-9c5e-af511017a2e2",
         "title": "AI Research & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -328227,7 +328227,7 @@
         "company_name": "Insperity",
         "id": "cf2c5a77-96e2-4816-9730-9632c262c793",
         "title": "Rotational Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -333545,7 +333545,7 @@
         "company_name": "InComm Payments",
         "id": "9e955119-2653-4955-884c-8e7517d83ccd",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350157,7 +350157,7 @@
         "company_name": "Invesco",
         "id": "d29e1b26-6366-4790-a9fb-5c7c87927b69",
         "title": "Early Career Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357478,7 +357478,7 @@
         "company_name": "Invesco",
         "id": "b8689bb2-f5e6-445c-89be-129f7429fb26",
         "title": "Early Career Intern - Fixed Income Global Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373487,7 +373487,7 @@
         "company_name": "Waymo",
         "id": "d4dd7283-a6c1-4f08-a631-ba840bf2b7ef",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375285,7 +375285,7 @@
         "company_name": "Varian",
         "id": "daa90d5b-5345-4efa-a41c-9939aa72f4da",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
