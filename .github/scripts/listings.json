@@ -313095,7 +313095,7 @@
         "company_name": "SingleStore",
         "id": "3e6f921b-67f9-4456-8fb9-b304590094b6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -347667,7 +347667,7 @@
         "company_name": "Waymo",
         "id": "44631389-4603-4cbc-bb24-596433854282",
         "title": "Software Engineer Intern - Driver Refinement Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351838,7 +351838,7 @@
         "company_name": "RTX",
         "id": "53e9821c-e362-46ec-9a93-16d9dae05ce4",
         "title": "Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395868,7 +395868,7 @@
         "company_name": "Boston Scientific",
         "id": "5ac49c65-b333-4d62-9699-e77087c7e349",
         "title": "Electrical Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
