@@ -110899,7 +110899,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274591,7 +274591,7 @@
         "company_name": "Brunswick",
         "id": "84f60c1d-5d94-4e3b-a460-466cccf1d021",
         "title": "Engineering Test Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278271,7 +278271,7 @@
         "company_name": "Adobe",
         "id": "a9900edf-029b-4f1e-98cb-a9a1c96f11b3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323715,7 +323715,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335541,7 +335541,7 @@
         "company_name": "Tyson Foods",
         "id": "891675f9-d992-469b-b933-050b68293e04",
         "title": "Sensory Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394414,7 +394414,7 @@
         "company_name": "Intel",
         "id": "f4473dfb-1d23-48f0-8ea4-3bf930c7328d",
         "title": "Compiler Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405226,6 +405226,56 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aptiv",
+        "id": "870cc93e-557c-4662-95bf-2cf7b7e1fbb3",
+        "title": "Linux Software Development Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792584918,
+        "date_posted": 1791504000,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "99db0e09-f672-4d8a-942d-ea95fb704ed8",
+        "title": "Translational Postdoctoral Researcher Intern - Agentic AI for Neurodegeneration",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792584950,
+        "date_posted": 1783473196,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Translational-Post-Doctoral-Researcher---Agentic-AI-for-Neurodegeneration_R-074853-1",
+        "locations": [
+            "Cambridge, MA",
+            "Spring House, PA",
+            "Raritan, NJ",
+            "Hopewell Township, NJ",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
