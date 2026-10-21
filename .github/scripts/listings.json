@@ -346860,7 +346860,7 @@
         "company_name": "Envoy",
         "id": "4dbf8f7e-b82e-4f37-97c6-327eac9a9efd",
         "title": "Solutions Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355181,7 +355181,7 @@
         "company_name": "Waymo",
         "id": "3652392f-5646-4168-b539-ac3e5a186acd",
         "title": "Software Engineering Intern - Labeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
