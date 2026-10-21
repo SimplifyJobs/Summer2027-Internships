@@ -179452,7 +179452,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -196930,7 +196930,7 @@
         "company_name": "Trillium",
         "id": "5b1d76c6-a7ec-4033-afed-6f676bf2129a",
         "title": "Equity Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -243307,7 +243307,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272676,7 +272676,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -274500,7 +274500,7 @@
         "company_name": "PsiQuantum",
         "id": "520abae4-a8e2-44a6-b054-1c9656a38ece",
         "title": "Quantum Algorithms and Compilation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -292120,7 +292120,7 @@
         "company_name": "Aramco Americas",
         "id": "771e96f2-14d9-4ca7-9812-893ae18ba471",
         "title": "Research and Development Intern - Houston Research Center - Summer Student Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -293963,7 +293963,7 @@
         "company_name": "Vercel",
         "id": "940140be-314d-40e2-8614-14d3a19bb049",
         "title": "Software Engineer Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297896,7 +297896,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339204,7 +339204,7 @@
         "company_name": "Rippling",
         "id": "93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
         "title": "Machine Learning Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339948,7 +339948,7 @@
         "company_name": "William Blair",
         "id": "418c7dd2-b4c0-46c0-b387-96395ae563ea",
         "title": "Software Engineering Intern - Wit",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -351013,7 +351013,7 @@
         "company_name": "RTX",
         "id": "3c34c8ca-7efa-4d9f-84d5-8b8fa15d01db",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -351221,7 +351221,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358300,7 +358300,7 @@
         "company_name": "Stripe",
         "id": "8d662f47-4018-4534-bc0e-e3a416371581",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2028"
@@ -383390,7 +383390,7 @@
         "company_name": "Capula",
         "id": "3ecc98e5-8773-49d5-bc52-d82191e50a8e",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384704,7 +384704,7 @@
         "company_name": "RF-SMART",
         "id": "8dff8705-ad3c-4855-9d13-5e05b0ae339b",
         "title": "Software Support Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388081,7 +388081,7 @@
         "company_name": "Bose",
         "id": "3adc83d8-e15b-401f-b507-588107e397d7",
         "title": "Audio Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -389425,7 +389425,7 @@
         "company_name": "Aon",
         "id": "6af5e7e9-0fa2-4fbf-a037-ce3ebedd3daf",
         "title": "Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390972,7 +390972,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -395982,7 +395982,7 @@
         "company_name": "Kepler Communications",
         "id": "8e66e047-4b95-43bf-aece-a2b0196f0aa7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -402820,7 +402820,7 @@
         "company_name": "Intel",
         "id": "373613a0-5aec-44b7-b558-00424f8347e1",
         "title": "Data Science / Software Engineering PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402938,7 +402938,7 @@
         "company_name": "Intel",
         "id": "3a9db7a0-7d9e-4ab8-bf19-e02a354de08f",
         "title": "AI Data Science / Software Engineering PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
