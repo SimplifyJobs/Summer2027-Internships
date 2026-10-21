@@ -2,75 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "SoFi",
-        "id": "d2497158-bb10-4ad4-8de3-3294c0f0ee97",
-        "title": "Intern \u2013 Software Engineer - Settlement",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771813045,
-        "date_posted": 1771813045,
-        "url": "https://www.sofi.com/careers/sofi-university/7637277003?gh_jid=7637277003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/SoFi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "651fb98b-031b-48c2-9d54-4b0d77846d6e",
-        "title": "Early Career Talent - Drive Integration Engineer - Role begins Summer 2026",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771812502,
-        "date_posted": 1771812502,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110563334",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "JMP Statistical Discovery",
-        "id": "e5eff383-2c03-420a-a313-d979e3af33de",
-        "title": "JMP Intern - Interactive HTML Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771812469,
-        "date_posted": 1771812469,
-        "url": "https://jmp-sas.icims.com/jobs/41507/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/JMP-Statistical-Discovery",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "563a7294-3b6b-4489-9f25-9ee24b9eb0d1",
         "title": "Software Engineering Intern",
@@ -49718,7 +49649,7 @@
     {
         "date_updated": 1773747174,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -199417,7 +199348,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -214352,7 +214283,7 @@
         "company_name": "Autodesk",
         "id": "ca66c41c-e5ec-46c9-b384-86a95ed3dbc6",
         "title": "Cloud Developer Intern - Interactive Graphics, Media & Entertainment",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -214492,7 +214423,7 @@
         "company_name": "Autodesk",
         "id": "fb717af7-686b-4077-a8c0-033da193b3fb",
         "title": "Cloud Developer Intern - Fcap",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -216944,7 +216875,7 @@
         "company_name": "Micron Technology",
         "id": "c4745709-5fa9-4f56-b6f8-9e2f7d7a0cb3",
         "title": "DRAM Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -226141,7 +226072,7 @@
         "company_name": "Arthur J. Gallagher & Co.",
         "id": "edbfe6a0-64b5-4ceb-8e7f-1ba82a46bfa4",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268180,7 +268111,7 @@
         "company_name": "Northwood Space",
         "id": "ecdb732a-4566-44b5-bb1e-360045df13d9",
         "title": "Electrical Engineer Intern - Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357404,7 +357335,7 @@
         "company_name": "Autodesk",
         "id": "e470118f-ee2f-4095-806d-7e2252f1d4a1",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378395,7 +378326,7 @@
         "company_name": "Entegris",
         "id": "d80d8b03-659f-49cb-acf7-f48058e8f4aa",
         "title": "Innovation Application Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -382017,7 +381948,7 @@
         "company_name": "CHS",
         "id": "fb45fa75-a012-436e-948a-62c6eb99715d",
         "title": "Enterprise Content Analytics & Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399446,7 +399377,7 @@
         "company_name": "Autodesk",
         "id": "e833887c-581f-413b-a51e-ce5f540cdda1",
         "title": "Research Intern - Context and Knowledge Systems for AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401798,7 +401729,7 @@
         "company_name": "Associated Bank",
         "id": "f69b1fe1-5609-456a-a106-4867c3437ee0",
         "title": "Corporate Intern - Digital Delivery - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
