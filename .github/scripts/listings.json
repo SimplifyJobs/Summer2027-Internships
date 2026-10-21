@@ -253061,7 +253061,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -267265,7 +267265,7 @@
         "company_name": "V2X",
         "id": "8e8b0332-f404-4e9c-9a58-ec44adc3f4fd",
         "title": "Electrical Engineer Intern - Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333707,7 +333707,7 @@
         "company_name": "SingleStore",
         "id": "968d9575-5896-484e-aa2e-3de0d3cabfa2",
         "title": "Software Engineer Intern - Helios",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350180,7 +350180,7 @@
         "company_name": "Invesco",
         "id": "7f093b2f-6a53-4d35-b5f2-b8abc4cf3abe",
         "title": "Early Career Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379248,7 +379248,7 @@
         "company_name": "DocuSign",
         "id": "6df93910-4192-4f25-8596-45199ca04c6f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
