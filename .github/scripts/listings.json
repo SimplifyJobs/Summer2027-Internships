@@ -323367,7 +323367,7 @@
         "company_name": "RTX",
         "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -340557,7 +340557,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -340625,7 +340625,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -350843,7 +350843,7 @@
         "company_name": "RTX",
         "id": "ec00eac5-4585-4280-840e-de9a25fe6595",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -353801,7 +353801,7 @@
         "company_name": "KLA",
         "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
         "title": "Optical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -353824,7 +353824,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -354807,7 +354807,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372319,7 +372319,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -373467,7 +373467,7 @@
         "company_name": "KLA",
         "id": "bdb92677-9bd1-4327-b0ca-c988ff0e1d31",
         "title": "Product Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -373490,7 +373490,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -377133,7 +377133,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -384585,7 +384585,7 @@
         "company_name": "KLA",
         "id": "9b2b1358-6a3c-48e5-afa1-219bc271af07",
         "title": "AI/ML Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -384697,7 +384697,7 @@
         "company_name": "KLA",
         "id": "39bae66b-6dad-496c-bd59-19b0d064eac5",
         "title": "Algorithm Engineer Intern - GPU/CUDA",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -386735,7 +386735,7 @@
         "company_name": "KLA",
         "id": "f25ac517-b641-4c69-87e1-685fcf4b4dbc",
         "title": "Software Engineer Intern - AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -386928,7 +386928,7 @@
         "company_name": "KLA",
         "id": "4f6c38aa-af24-4222-9bc8-745ccd365dc1",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -387028,7 +387028,7 @@
         "company_name": "KLA",
         "id": "5641eed2-7dd2-4dc6-8834-2db9066a87f3",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -389098,7 +389098,7 @@
         "company_name": "KLA",
         "id": "78691202-f306-42da-9b0e-d9c0e191b452",
         "title": "Computer Vision/Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -394800,7 +394800,7 @@
         "company_name": "KLA",
         "id": "18e3866d-2742-4686-b497-2f6ec0eaa835",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -405547,5 +405547,141 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "23198c94-9b16-48f0-9708-09ccb2a77fa9",
+        "title": "Silicon Validation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792593791,
+        "date_posted": 1792540800,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Massachusetts School Building Authority",
+        "id": "f724ecc9-e5c4-47e4-9e6d-3584b691bd12",
+        "title": "Capital Planning Data Assistant Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792593775,
+        "date_posted": 1792593670,
+        "url": "https://jobs.lever.co/massschoolbuildings/d50b947b-cfb4-463a-8a1b-44fcbe26de6e/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Massachusetts-School-Building-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792593226,
+        "date_posted": 1792540800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "ccf5d6fe-14b2-403d-b0e8-2dd576f64329",
+        "title": "Computer Science Industrial Placement Student Intern - Data Capability",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792593039,
+        "date_posted": 1792540800,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915",
+        "locations": [
+            "Welwyn, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "2649142c-09b6-4a9e-84cd-10f97d29c2c1",
+        "title": "Research Scientist Intern - Robotics - World Models & Embodied AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792593048,
+        "date_posted": 1792592839,
+        "url": "https://www.metacareers.com/jobs/2281070982817094",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "20e281dd-0588-4bfa-9acf-46211e876ce9",
+        "title": "Graduate Student Associate Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792593056,
+        "date_posted": 1792540800,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/StatLab-Graduate-Associate--Student-Wage-_R0088483",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
