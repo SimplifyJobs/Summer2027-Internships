@@ -1,119 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Roku",
-        "id": "a1503017-1892-4478-a53e-8e271ea4bb95",
-        "title": "Software Engineer Intern - Full Stack",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771860216,
-        "date_posted": 1771860216,
-        "url": "https://www.weareroku.com/jobs/7645901?gh_jid=7645901",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accor",
-        "id": "7f3e4cd7-2a22-426b-943a-2b009f2d73e3",
-        "title": "Franchise Operations & Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771860132,
-        "date_posted": 1771860132,
-        "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000110720641",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Accor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Beta Technologies",
-        "id": "39ee1894-8701-4475-96df-dde3bd659cf0",
-        "title": "BETA Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771859931,
-        "date_posted": 1771859931,
-        "url": "https://jobs.lever.co/beta/4635bd43-d4f0-446f-9e86-1133edee60cf/apply",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/Beta-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Commonwealth of Massachusetts",
-        "id": "0e344935-7c28-4072-9ca7-87b408392e6e",
-        "title": "GIS Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771859893,
-        "date_posted": 1771859893,
-        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001IY",
-        "locations": [
-            "Massachusetts"
-        ],
-        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Veolia",
-        "id": "0128e4a1-4e95-480f-9eb7-51aa930c7067",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771859837,
-        "date_posted": 1771859837,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110751572",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "BorgWarner",
         "id": "0d30a219-5bc9-41c3-a020-aae0f2df3dd1",
@@ -217,51 +104,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Protiviti",
-        "id": "5387d61a-2046-47ed-a783-9d28adf0d2b0",
-        "title": "Technology Consulting Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771860726,
-        "date_posted": 1771860726,
-        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/DALLAS/Dallas-Technology-Consulting-Intern---2027_JR-258911-3",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Protiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Protiviti",
-        "id": "466a9816-a784-4163-882c-24d8f3654b58",
-        "title": "Technology Consulting Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771860709,
-        "date_posted": 1771860709,
-        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/NEW-YORK-CITY/New-York-Technology-Consulting-Intern---2027_JR-258932-3",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Protiviti",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -73181,27 +73023,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Global Channel Management",
-        "id": "dac2d80d-c906-4d8a-ac41-194f649beda9",
-        "title": "Data Analyst Lead",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774962361,
-        "date_posted": 1771859604,
-        "url": "https://jobs.smartrecruiters.com/GlobalChannelManagementInc/111343214",
-        "locations": [
-            "Mason, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Channel-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
