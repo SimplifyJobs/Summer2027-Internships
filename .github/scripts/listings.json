@@ -175878,7 +175878,7 @@
         "company_name": "Netflix",
         "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
         "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -203870,7 +203870,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -223227,7 +223227,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278949,7 +278949,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278972,7 +278972,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -279018,7 +279018,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280763,7 +280763,7 @@
         "company_name": "Uline",
         "id": "39479bef-648c-4874-b869-572f2b6b585a",
         "title": "Executive Operations Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281547,7 +281547,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -294082,7 +294082,7 @@
         "company_name": "Medpace",
         "id": "db751a34-9b4b-43f1-bf9b-46a955ce6cb5",
         "title": "Clinical Informatics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -302038,7 +302038,7 @@
         "company_name": "Ciena",
         "id": "a38a26f3-00b1-48d7-8944-7f7828bdcc63",
         "title": "Modem Hardware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -308154,7 +308154,7 @@
         "company_name": "Amgen",
         "id": "811210da-553e-4d37-b262-9897450dc43d",
         "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -310121,7 +310121,7 @@
         "company_name": "Guardian Life",
         "id": "8155c07e-de11-481a-ba23-c42178f1189c",
         "title": "Application Development Intern - Digital & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339995,7 +339995,7 @@
         "company_name": "William Blair",
         "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
         "title": "Application Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -343441,7 +343441,7 @@
         "company_name": "Analog Devices",
         "id": "c88eff3d-aa92-400f-81af-bc057b38bc77",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361652,7 +361652,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367175,7 +367175,7 @@
         "company_name": "General Motors",
         "id": "a251a7a4-2be2-4567-8c27-fe56f705f40e",
         "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367992,7 +367992,7 @@
         "company_name": "AltaGas",
         "id": "a4acdb05-a0e2-422c-b3fd-249925d03ea8",
         "title": "Digital Intern - NextGen AI & Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -376787,7 +376787,7 @@
         "company_name": "General Motors",
         "id": "4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
         "title": "Systems Engineer Intern - Asd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376812,7 +376812,7 @@
         "company_name": "General Motors",
         "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
         "title": "AV Sensor Design, Release and Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379678,7 +379678,7 @@
         "company_name": "General Motors",
         "id": "9336555d-472f-4804-b5f7-a1e52e004ac6",
         "title": "Autonomous Driving Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385141,7 +385141,7 @@
         "company_name": "General Motors",
         "id": "201e83f0-5fbc-4c24-8bdc-9590cb7ebbf5",
         "title": "Summer Intern - Research and Development - Machine Learning for Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388655,7 +388655,7 @@
         "company_name": "Eurostar International",
         "id": "e78304d0-a710-4fa0-8cdc-bed22362ba83",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392425,7 +392425,7 @@
         "company_name": "General Motors",
         "id": "8efc5434-3c49-410a-90f6-5f6124037e2b",
         "title": "Product Management Intern - Vehicle Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392449,7 +392449,7 @@
         "company_name": "General Motors",
         "id": "554a8d6f-461f-46af-a16c-958c34f78906",
         "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394066,7 +394066,7 @@
         "company_name": "General Motors",
         "id": "6be326d4-b4e5-4d1a-9440-abd55d5a377d",
         "title": "AI/ML Engineer Intern - Mapping - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394111,7 +394111,7 @@
         "company_name": "General Motors",
         "id": "ed9e210c-cd7d-439c-a71c-72609cf1bb48",
         "title": "Embodied AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396639,7 +396639,7 @@
         "company_name": "Invesco",
         "id": "825cae44-1221-442b-93fc-552072a0498e",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -405182,6 +405182,74 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "3faacf4c-c5be-4b5e-80fc-22e6a10c8888",
+        "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792575727,
+        "date_posted": 1792575604,
+        "url": "https://www.metacareers.com/jobs/2288012098648243",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "ece79785-c82a-4477-a018-a2d549575253",
+        "title": "Electrical Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792575363,
+        "date_posted": 1789049801,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Electrical-Engineering-Intern-UT-84116/1428460600/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TruStage",
+        "id": "8b26c26a-93b7-4702-b463-83420efc11af",
+        "title": "Information Technology Development and Infrastructure Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792575407,
+        "date_posted": 1788912000,
+        "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/TruStage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
