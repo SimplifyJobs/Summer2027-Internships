@@ -182814,7 +182814,7 @@
         "company_name": "Rakuten International",
         "id": "4dc5f31e-e744-4c5c-ac98-baeb6b6f17f3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -199417,7 +199417,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -210481,7 +210481,7 @@
         "company_name": "Skydio",
         "id": "9177815a-e02f-413c-b8ad-32c3c5c644cc",
         "title": "Hardware Test & Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -261597,7 +261597,7 @@
         "company_name": "US Foods",
         "id": "5c7c946a-b323-4e0e-a64c-88c22f40884b",
         "title": "Software Engineer Intern - Legacy Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301308,7 +301308,7 @@
         "company_name": "L3Harris Technologies",
         "id": "964d4697-ceeb-4e56-a65e-e0950d75991f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357475,7 +357475,7 @@
         "company_name": "Autodesk",
         "id": "6490f830-6cd7-42a5-9a36-ebb4d42d176b",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395679,7 +395679,7 @@
         "company_name": "Apple",
         "id": "6dee80eb-5b2d-4684-8dd3-8c5324036443",
         "title": "SoC Machine Learning Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399469,7 +399469,7 @@
         "company_name": "Autodesk",
         "id": "62120c19-c757-4c65-8f5f-e24d870fc386",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405001,6 +405001,290 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LinkedIn",
+        "id": "5635b14b-45dd-4bb0-925f-0231622eb338",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792546023,
+        "date_posted": 1792546006,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "0017fea4-31d8-44fc-a69d-2af57be2290e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792546087,
+        "date_posted": 1792454400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ClickHouse",
+        "id": "1396b282-ae49-4b5f-a315-27c109ef26fd",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792546023,
+        "date_posted": 1792545865,
+        "url": "https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b/application?embed=true",
+        "locations": [
+            "Remote in Germany",
+            "SF",
+            "Remote in USA",
+            "Remote in Netherlands"
+        ],
+        "company_url": "https://simplify.jobs/c/Clickhouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "ee44b333-d82d-4c69-8df1-fb3bb9a942ba",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792545887,
+        "date_posted": 1792545788,
+        "url": "https://www.metacareers.com/jobs/1510576574212840",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "c289fea9-67db-45d8-ab27-d9aa699b67cc",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792545886,
+        "date_posted": 1792454400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rakuten International",
+        "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792545858,
+        "date_posted": 1791958818,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rakuten-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paccar",
+        "id": "54dbab29-b27b-45d6-9211-b2a1dddbff2b",
+        "title": "Technical Content Author Intern - Technical Content Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792545692,
+        "date_posted": 1792545549,
+        "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-Technical-Content-Analytics-WA-98055/1449634733/?ats=successfactors",
+        "locations": [
+            "Renton, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GoFundMe",
+        "id": "b19cd017-644e-4e96-a828-cc031931226a",
+        "title": "MBA Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792545695,
+        "date_posted": 1792545647,
+        "url": "https://job-boards.greenhouse.io/gofundme/jobs/8304644",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GoFundMe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Heidelberg Materials",
+        "id": "75c1c665-cda7-40b3-8db3-ce25f1ddd6ea",
+        "title": "Digital Growth Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792545487,
+        "date_posted": 1792454400,
+        "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Digital-Growth-Intern_JR10018997-1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Heidelberg-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792545350,
+        "date_posted": 1792545218,
+        "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "4c21866b-8acd-4bce-b804-6482c07400fa",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792545159,
+        "date_posted": 1792454400,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Software-Engineering-Intern_8828",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PA Consulting",
+        "id": "c0513b75-db28-4ba5-8ce4-5115c017b0be",
+        "title": "Industrial Placement Intern - Digital - Digital & Data",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792545889,
+        "date_posted": 1792401564,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156517869",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
