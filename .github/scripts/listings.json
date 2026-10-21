@@ -110899,7 +110899,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219614,7 +219614,7 @@
         "company_name": "Specter Aerospace",
         "id": "58719875-03a5-4934-aa9f-46c5b044cc97",
         "title": "Image Processing Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -219661,7 +219661,7 @@
         "company_name": "Specter Aerospace",
         "id": "5cbd2b0f-806d-42d0-91fe-637455fe40c0",
         "title": "Front-End Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -274591,7 +274591,7 @@
         "company_name": "Brunswick",
         "id": "84f60c1d-5d94-4e3b-a460-466cccf1d021",
         "title": "Engineering Test Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278271,7 +278271,7 @@
         "company_name": "Adobe",
         "id": "a9900edf-029b-4f1e-98cb-a9a1c96f11b3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -308782,7 +308782,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -319175,7 +319175,7 @@
         "company_name": "Lunar Outpost",
         "id": "61b7386b-1994-439e-a17e-9346d940148d",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324699,7 +324699,7 @@
         "company_name": "CoStar Group",
         "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326409,7 +326409,7 @@
         "company_name": "Marvell",
         "id": "fb558c48-2236-4414-8b4a-bfdb26b31409",
         "title": "Analog Layout Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -335541,7 +335541,7 @@
         "company_name": "Tyson Foods",
         "id": "891675f9-d992-469b-b933-050b68293e04",
         "title": "Sensory Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -353873,7 +353873,7 @@
         "company_name": "KLA",
         "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
         "title": "Optical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367078,7 +367078,7 @@
         "company_name": "General Motors",
         "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
         "title": "ADAS Software Engineer Intern - Adpt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404290,7 +404290,7 @@
         "company_name": "Picton Mahoney Asset Management",
         "id": "42bed99f-4c2b-48e8-8628-267f69e7eaca",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
