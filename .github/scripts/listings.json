@@ -187461,7 +187461,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -240262,7 +240262,7 @@
         "company_name": "Brunswick",
         "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
         "title": "Product Management Intern - Parts & Accessories",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -304142,7 +304142,7 @@
         "company_name": "RTX",
         "id": "b698f712-411d-4005-b00c-49d33f52731c",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -323715,7 +323715,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325985,7 +325985,7 @@
         "company_name": "Northrop Grumman",
         "id": "cf896c51-1fa7-4b1d-9833-0c351e056b35",
         "title": "Software Engineer - Industrial Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339756,7 +339756,7 @@
         "company_name": "Marvell",
         "id": "b90ec8c6-62de-4677-9db4-1799997bef9e",
         "title": "Electrical Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -364895,7 +364895,7 @@
         "company_name": "Airbus",
         "id": "9a86cc73-6443-4f50-850e-597980caa699",
         "title": "Hardware Engineering Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -383226,7 +383226,7 @@
         "company_name": "Tencent",
         "id": "9102f3b7-93b5-45dc-a78f-663455e6e36d",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -398727,7 +398727,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
