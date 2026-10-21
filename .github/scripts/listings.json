@@ -294004,7 +294004,7 @@
         "company_name": "Booz Allen",
         "id": "85540257-a4da-4ca2-ac59-9b5aafe5068f",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -304919,7 +304919,7 @@
         "company_name": "Citizens Financial Group",
         "id": "5ee99f3c-d337-4cf1-87c9-d734f42a1f3f",
         "title": "Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367986,7 +367986,7 @@
         "company_name": "Astera Labs",
         "id": "f03758e3-efb5-4de3-adfe-a9160a034ace",
         "title": "Product Applications Engineer Intern - Signal and Connectivity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393475,7 +393475,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "74129f26-3f29-4069-9bd9-234810c4491a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
