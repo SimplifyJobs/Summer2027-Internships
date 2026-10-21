@@ -91266,7 +91266,7 @@
         "company_name": "Anthropic",
         "id": "0d4ecc36-f29c-4669-acc0-ccbfbdf04c9a",
         "title": "Anthropic Fellows Program - AI Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -196954,7 +196954,7 @@
         "company_name": "Trillium",
         "id": "311ec440-4ace-4b64-9b10-5400f36e62ac",
         "title": "Equity Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -243307,7 +243307,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -272676,7 +272676,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -278550,7 +278550,7 @@
         "company_name": "Skyward",
         "id": "1ea4c927-ae9b-4c03-a0ae-cb2af5e5a8cb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297896,7 +297896,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339948,7 +339948,7 @@
         "company_name": "William Blair",
         "id": "418c7dd2-b4c0-46c0-b387-96395ae563ea",
         "title": "Software Engineering Intern - Wit",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -351221,7 +351221,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390972,7 +390972,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
