@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Protiviti",
-        "id": "5ba2c64d-0bf4-44e5-a8a0-b3bdc0bd73fa",
-        "title": "Houston Technology Consulting Intern - 2027",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771854382,
-        "date_posted": 1771854381,
-        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/HOUSTON/Houston-Technology-Consulting-Intern---2027_JR-258921-3",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Protiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Protiviti",
-        "id": "53547224-9403-40ef-b264-618f51226c44",
-        "title": "Chicago Technology Consulting Intern - 2027",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771854406,
-        "date_posted": 1771854406,
-        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CHICAGO/Chicago-Technology-Consulting-Intern---2027_JR-258884-3",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Protiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Protiviti",
-        "id": "234f2ee2-f1c4-4f66-b556-0e22187ce69c",
-        "title": "Technology Consulting Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771854397,
-        "date_posted": 1771854397,
-        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/LOS-ANGELES/Los-Angeles-Technology-Consulting-Intern---2027_JR-258931-3",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Protiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Roku",
         "id": "a1503017-1892-4478-a53e-8e271ea4bb95",
@@ -305727,7 +305655,7 @@
         "company_name": "Armstrong Fluid Technology",
         "id": "de75794d-d7b3-4986-b72f-59bf9ce8daa1",
         "title": "Test Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -315845,7 +315773,7 @@
         "company_name": "Nexthop.ai",
         "id": "d95281cf-98b3-4a5a-95ed-2ad39d2197a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -404118,7 +404046,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "bc33b19a-c530-4a54-8133-36436abba0f9",
         "title": "Retail Risk Modeling Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
