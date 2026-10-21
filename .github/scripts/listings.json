@@ -219117,7 +219117,7 @@
         "company_name": "Specter Aerospace",
         "id": "3bb608c1-4704-4fe1-a877-eaf540f90cc1",
         "title": "Full Stack Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304867,7 +304867,7 @@
         "company_name": "Citizens Financial Group",
         "id": "2bd0a1e0-53b9-4154-a4eb-1c4f5c86e603",
         "title": "Data Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317666,7 +317666,7 @@
         "company_name": "L3Harris Technologies",
         "id": "2bcbafa1-71bc-4c04-97b2-9914eca0662c",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -318088,7 +318088,7 @@
         "company_name": "Oshkosh",
         "id": "357b4e4b-9b02-45e9-b47d-50320a354ee2",
         "title": "Autonomy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -318608,7 +318608,7 @@
         "company_name": "Lunar Outpost",
         "id": "34fe1394-8cf0-4ff3-9681-80bb4fa055dd",
         "title": "Simulation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328273,7 +328273,7 @@
         "company_name": "Insperity",
         "id": "59c4465f-c0d4-4d19-b808-988e46c72c88",
         "title": "Rotational Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -328296,7 +328296,7 @@
         "company_name": "Insperity",
         "id": "479be071-1ee4-4c93-8232-d2a91264024d",
         "title": "Rotational AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -349076,7 +349076,7 @@
         "company_name": "H&R Block",
         "id": "574c67ce-ff4f-4f56-825d-6e6dc66172f6",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377363,7 +377363,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5256093d-5cb5-4a20-ad27-35bd6274afc2",
         "title": "Electro-Optical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383100,7 +383100,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "4dc69fa1-8510-4bd9-b77b-9a4d8f07f1f3",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398811,7 +398811,7 @@
         "company_name": "Excellus BCBS",
         "id": "3a44b244-cc3e-47ea-9428-137c843acca3",
         "title": "College Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
