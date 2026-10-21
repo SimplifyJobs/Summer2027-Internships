@@ -393312,7 +393312,7 @@
         "company_name": "Microsoft",
         "id": "22f472db-a55d-48cd-92a5-2f2073b6e594",
         "title": "Applied Sciences Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399726,7 +399726,7 @@
         "company_name": "Autodesk",
         "id": "21094604-b4f6-408c-8e58-7b56b88e5d37",
         "title": "Research Intern - Context and Knowledge Systems for AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399749,7 +399749,7 @@
         "company_name": "Autodesk",
         "id": "027457c6-a362-4521-8e48-80e6e14feff7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
