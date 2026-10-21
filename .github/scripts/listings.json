@@ -261904,7 +261904,7 @@
         "company_name": "Tesla",
         "id": "c0acbe3a-c2ed-42ea-a71d-eb9df423a1c4",
         "title": "Robotaxi Simulation Engineer Intern - Systems Modeling & Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -261928,7 +261928,7 @@
         "company_name": "Tesla",
         "id": "84d2832d-f2be-4040-a7c8-6624a43f50fc",
         "title": "Machine Learning Engineer Intern - Charging Data Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -282738,7 +282738,7 @@
         "company_name": "Tesla",
         "id": "bdc2e5e0-9ec7-4480-af9b-d02e6fb8dbfd",
         "title": "Fleet Management Algorithms Intern - Vehicle Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
