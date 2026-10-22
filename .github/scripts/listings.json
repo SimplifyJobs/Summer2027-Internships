@@ -162448,7 +162448,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -162471,7 +162471,7 @@
         "company_name": "Palantir",
         "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
         "title": "Forward Deployed Software Engineer Intern - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -281228,7 +281228,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "fd543f97-1606-43cf-a204-aebdc7cddf32",
         "title": "Developer & IT Specialist Co-op - Global Asset Management",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -308326,7 +308326,7 @@
         "company_name": "Chemours",
         "id": "32023baa-10fc-4ab0-b943-ff9337e3f641",
         "title": "Data Visualization Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -319418,7 +319418,7 @@
         "company_name": "Wellington Management",
         "id": "8d8133f0-74a6-40be-939f-9edb753e10a5",
         "title": "Corporate Access & Research Services Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -374528,7 +374528,7 @@
         "company_name": "Moog",
         "id": "1f80afa8-c775-4da7-b930-bcb71e621fad",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -395032,7 +395032,7 @@
         "company_name": "Excellus BCBS",
         "id": "3a44b244-cc3e-47ea-9428-137c843acca3",
         "title": "College Operations Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -405692,6 +405692,656 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/S-And-C-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "fda1652b-309e-430c-af6e-32e1a4c5d107",
+        "title": "Machine Learning Engineer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792709112,
+        "date_posted": 1792627200,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Taylor",
+        "id": "2a14dfac-95c5-4836-a97d-4be97e8f0de1",
+        "title": "Enablement Data & Insights Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792709112,
+        "date_posted": 1792627200,
+        "url": "https://taylor.wd1.myworkdayjobs.com/external/job/OH-Remote/Enablement-Data---Insights-Intern--Temporary-_R30448",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Taylor-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KION Group",
+        "id": "8934c44e-851a-402c-8f79-742fdfd6e34c",
+        "title": "Software Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792709112,
+        "date_posted": 1792627200,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "f71ada42-a48b-411f-92d9-dae4b5ed502b",
+        "title": "Human Aware Interactions and Learning Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792708922,
+        "date_posted": 1792708757,
+        "url": "https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Badger Meter",
+        "id": "dbaa7bdc-d604-42e2-bec0-bcdb8228c50f",
+        "title": "Electronics/Electrical Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792708953,
+        "date_posted": 1792627200,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Electronics-Electrical-Engineering-Internship_4633",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Badger-Meter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Peak Energy",
+        "id": "e3e90086-74af-4597-8e04-73d96261bd06",
+        "title": "Systems Integration and Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708752,
+        "date_posted": 1792708684,
+        "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peak-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Man Group",
+        "id": "d80aecb9-4fb0-4778-a684-44e69469b4d4",
+        "title": "Systematic Quant Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792708752,
+        "date_posted": 1792708593,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "5ab39e57-a44b-4921-90d7-cd1cec06907c",
+        "title": "ASIC Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792708752,
+        "date_posted": 1792627200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214234",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "033a2dce-7821-4e99-b6e1-138c6671f830",
+        "title": "Forward Deployed Software Engineer Intern - Warp Speed",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792708790,
+        "date_posted": 1792708610,
+        "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "07eb8881-ab4b-4a72-8e1c-57b6954651cc",
+        "title": "Memory Server System Testing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708564,
+        "date_posted": 1792708480,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157198610",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "986abdef-dc72-4aa6-a4da-fbbcadaadc49",
+        "title": "Innovation & Technology Software Engineering: Data & Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708280,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "9147dac1-26c6-4658-9945-d0022e829e9a",
+        "title": "Medicaid Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708283,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "e9ffddfd-c901-481b-9318-85bd783fd600",
+        "title": "Innovation & Technology Internship - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708286,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CVS Health",
+        "id": "e6f687d4-8b6f-4d74-ac4d-6c6844ea1c93",
+        "title": "Innovation & Technology Internship - Product & Agile Delivery",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708207,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767",
+        "locations": [
+            "Dallas, TX",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "Woonsocket, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "4da3ddc6-8559-489a-b239-8d419ece6bad",
+        "title": "Software Engineer Intern - Platform & Applications",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708279,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
+        "locations": [
+            "Dallas, TX",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "Woonsocket, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "4ba872b4-8b90-4582-957d-659c7dbefe2f",
+        "title": "Innovation & Technology Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708279,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "3f06de58-bfa6-4e51-8270-e63a13d7367b",
+        "title": "AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708302,
+        "date_posted": 1792627200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "07734488-59c0-444f-8d79-5ab6d4283215",
+        "title": "Enterprise Cybersecurity Data and Business Intelligence Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792708278,
+        "date_posted": 1792627200,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sanofi",
+        "id": "7f0b7c25-d497-4aa4-a34c-ddb186a0c932",
+        "title": "Laboratory Automation Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792708277,
+        "date_posted": 1792627200,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanofi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "752e7b9a-ef6d-4bb0-883b-ec5cc4e3207c",
+        "title": "Innovation & Technology Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708279,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "63e6ac11-18af-4a74-b78e-fb596834ab90",
+        "title": "Innovation & Technology Software Engineering: Platform & Applications Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708292,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216",
+        "locations": [
+            "Dallas, TX",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "Woonsocket, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "7334fe9e-b263-4fcb-85ec-640af84c260d",
+        "title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708207,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "1af8cecc-ca3f-4421-8bff-4a3581036019",
+        "title": "Innovation & Technology Internship - Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708279,
+        "date_posted": 1792627200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Patreon",
+        "id": "f33ee050-5ecd-4a9d-b723-ccdf86839ec1",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708207,
+        "date_posted": 1792708073,
+        "url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Patreon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "3acab1ad-8c1c-4e51-b8d6-95ea67db24c1",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792708264,
+        "date_posted": 1792627200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451",
+        "locations": [
+            "Remote in USA",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "3a1df196-4b77-41ff-b9f7-833dfec00ba6",
+        "title": "Asset Management Data Scientist \u2013 Summer Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708246,
+        "date_posted": 1792708054,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "f486f9c7-55e1-4f50-a709-42dc62dccbed",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792708248,
+        "date_posted": 1792708056,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Assurant",
+        "id": "c7623bf9-5cd1-42b5-b3be-be695977f629",
+        "title": "Manufactured Housing Product Analysis Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792708606,
+        "date_posted": 1791158400,
+        "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Miami-FL/Summer-2027-Intern--Manufactured-Housing-Product-Analysis-Intern_R-115769",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Assurant",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
