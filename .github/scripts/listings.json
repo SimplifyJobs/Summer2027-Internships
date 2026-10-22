@@ -244401,7 +244401,7 @@
         "company_name": "Northwood Space",
         "id": "c81468d7-5674-4da5-8022-1abb69535db7",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244426,7 +244426,7 @@
         "company_name": "Northwood Space",
         "id": "b887b47d-3ded-45eb-8d5a-268813a2e75d",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335135,7 +335135,7 @@
         "company_name": "Navy Federal",
         "id": "d968f52e-5679-4270-b745-09f269337deb",
         "title": "IT Reporting & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -345014,7 +345014,7 @@
         "company_name": "Pebl",
         "id": "bd746203-4436-416a-927d-479cf3a8561f",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366484,7 +366484,7 @@
         "company_name": "West Monroe",
         "id": "bdaf339e-2338-4004-8c3d-30f3f5541a4c",
         "title": "Labs Asset Foundry Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -366507,7 +366507,7 @@
         "company_name": "West Monroe",
         "id": "93c766dc-482e-4560-9810-1490cf9f572f",
         "title": "Software Engineer Consulting Intern - AI Concentration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372371,7 +372371,7 @@
         "company_name": "Mastercard",
         "id": "bcda5eeb-196c-4f8a-a46a-519f22b3a082",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390661,7 +390661,7 @@
         "company_name": "Leidos",
         "id": "db110739-54fa-4657-865d-d24209219851",
         "title": "Electrical Hardware Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396042,7 +396042,7 @@
         "company_name": "Leidos",
         "id": "b18ea2c9-9c02-4095-924c-d220e62b930e",
         "title": "Electrical Hardware Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
