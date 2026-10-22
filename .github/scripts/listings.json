@@ -150871,7 +150871,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
