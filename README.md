@@ -7,13 +7,13 @@
 
 ---
 
-### Browse 1850 Internship Roles by Category
+### Browse 1848 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (633)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (631)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (115)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (116)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (690)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (689)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (84)
 
@@ -2678,13 +2678,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lowes?utm_source=GHList&utm_medium=company">Lowe's</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Charlotte, NC</td>
-<td><div align="center"><a href="https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6be172ec-d3a7-445d-8218-d442e9c6dd1c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Exploratory Software Engineer Intern</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/16259630-05fe-40a2-bf93-dd529c139975?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2891,13 +2884,6 @@
 <td>Software Engineer Intern - Technology & Medical Organizations</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/079b70ee-8105-46b4-9163-319c8610f157?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern - Amgen’s Technology & Medical Organizations</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5012230e-2a8b-4047-80ec-4b7c9ecbf427?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -4542,7 +4528,7 @@
 </table>
 
 
-🔒 **[See 791 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 793 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -4946,6 +4932,13 @@
 <td>Digital Product Management Intern</td>
 <td>Wyoming, MI</td>
 <td><div align="center"><a href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5304fddb-8f6b-4252-8dcd-417e6095ccf9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Zurn-Elkay-Water-Solutions?utm_source=GHList&utm_medium=company">Zurn Elkay Water Solutions</a></strong></td>
+<td>Product Management Intern - Summer 2027</td>
+<td>Erie, PA</td>
+<td><div align="center"><a href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c15b6c17-1727-4aaf-8fe1-537a96872d7b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -5372,7 +5365,7 @@
 </table>
 
 
-🔒 **[See 152 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 151 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -5826,13 +5819,6 @@
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>AI Data Science Intern 🎓</td>
 <td>Santa Clara, CA</td>
-<td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c35aada5-ad17-4000-baae-c7099528eabb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>AI Data Science Intern 🎓</td>
-<td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/226b2e00-45e3-4969-ae52-9edd0338ac22?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>3d</td>
 </tr>
@@ -5899,6 +5885,13 @@
 <td><div align="center"><a href="https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f51bdd40-5f4d-429e-a22b-1e826726e2ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>5d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Veeam-Software?utm_source=GHList&utm_medium=company">Veeam Software</a></strong></td>
+<td>Data & Analytics Engineering Intern</td>
+<td>Alpharetta, GA</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ce00eaa7-df83-4141-bab1-3a0646ca5c07?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>5d</td>
+</tr>
 
 </tbody>
 </table>
@@ -5925,13 +5918,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Veeam-Software?utm_source=GHList&utm_medium=company">Veeam Software</a></strong></td>
-<td>Data & Analytics Engineering Intern</td>
-<td>Alpharetta, GA</td>
-<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ce00eaa7-df83-4141-bab1-3a0646ca5c07?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
 <td>Analytics Intern</td>
@@ -10255,7 +10241,7 @@
 </table>
 
 
-🔒 **[See 811 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 812 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
