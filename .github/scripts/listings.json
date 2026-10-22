@@ -318552,7 +318552,7 @@
         "company_name": "Waymo",
         "id": "3401f1fc-ebd7-4153-b9b5-359896f63953",
         "title": "Software Engineer Intern - MS/PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385178,7 +385178,7 @@
         "company_name": "Chanel",
         "id": "28a00640-d571-438a-99ab-ba1fbf92f74e",
         "title": "Finance and ESG Performance Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397548,7 +397548,7 @@
         "company_name": "Scale AI",
         "id": "41101dfb-9fa5-4eac-b1cf-f6c93e3c3f48",
         "title": "Safety Research Scholar Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
