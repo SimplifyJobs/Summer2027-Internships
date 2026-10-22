@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ExxonMobil",
-        "id": "035190df-2227-400e-a7e2-71fab1e6b4cb",
-        "title": "Geoscience Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771928677,
-        "date_posted": 1771928677,
-        "url": "https://jobs.exxonmobil.com/ExxonMobil/job/St-Johns,-NL-Geoscience-Summer-Student-St_-John's-May-2026-NL/1367298600/?ats=successfactors",
-        "locations": [
-            "St. John's, NL, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/ExxonMobil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Roku",
         "id": "e8365cf1-74e3-4f55-a3c8-cb0ac2f2e16b",
         "title": "Applied Science Intern - PhD",
@@ -204256,7 +204231,7 @@
         "company_name": "Uline",
         "id": "de291c1a-da34-4159-9059-1234151298ef",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -263025,7 +263000,7 @@
         "company_name": "Intel",
         "id": "b854fca7-7546-478f-937b-a76b8dbbddae",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -282173,7 +282148,7 @@
         "company_name": "Marvell",
         "id": "b72627a2-345c-4008-84ca-772020b7b572",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -282307,7 +282282,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -298702,7 +298677,7 @@
         "company_name": "Walmart",
         "id": "b7359908-b1b9-4e89-befe-99ce05f4df7f",
         "title": "Senior Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -346489,7 +346464,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "c15b6c17-1727-4aaf-8fe1-537a96872d7b",
         "title": "Product Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362118,7 +362093,7 @@
         "company_name": "Lumentum",
         "id": "d72513fe-2382-446f-96ad-147acd1b864b",
         "title": "Embedded Software Developer Co-op - Optical Circuit Switch",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -371098,7 +371073,7 @@
         "company_name": "KLA",
         "id": "bf192a0d-358d-4d94-a443-18c9138fbcfa",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404047,6 +404022,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "2374fd2a-48e1-49bd-b761-a8ff1bc13220",
+        "title": "Data Science & Fraud Analytics Placement Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792664875,
+        "date_posted": 1792627200,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
