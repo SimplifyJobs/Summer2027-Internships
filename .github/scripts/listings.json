@@ -298654,7 +298654,7 @@
         "company_name": "Target",
         "id": "8ee871d8-4385-49e0-9f0d-1f89f3ed0863",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404304,5 +404304,143 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FedEx Freight",
+        "id": "a9482eaf-0940-4198-b8c8-e65d2e136819",
+        "title": "Media & Web Development Intern - Marketing",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792680342,
+        "date_posted": 1792627200,
+        "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/FedEx-Freight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Colibri Group",
+        "id": "e76fd68e-0dcf-4634-a0cb-8ecf5d2d5ec8",
+        "title": "Product Builder Returnship Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792679795,
+        "date_posted": 1790978708,
+        "url": "https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ColibriGroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "6f2b4d23-50f1-4385-a940-5a3daf9cd7b4",
+        "title": "Software Engineer Intern - iCloud Platform",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792679582,
+        "date_posted": 1792679478,
+        "url": "https://jobs.apple.com/en-us/details/200690044",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "e69dceb5-6c8d-4ad8-8e89-fdcdde38b605",
+        "title": "Machine Learning Engineer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792679404,
+        "date_posted": 1792627200,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ce026bae-c60a-419e-8307-847eafa898fd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792679451,
+        "date_posted": 1792627200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "770d0c2e-5cd5-4716-b307-3db3d3f8e1ce",
+        "title": "Research Scientist Intern - Central Applied Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792679447,
+        "date_posted": 1792679304,
+        "url": "https://www.metacareers.com/jobs/1582569213186235",
+        "locations": [
+            "Menlo Park, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
