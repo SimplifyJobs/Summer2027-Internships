@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 2338 Inactive Internship Roles by Category
+### Browse 2345 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (801)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (805)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (153)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (814)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (816)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (229)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (341)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (342)
 
 ---
 
@@ -149,6 +149,13 @@
 <td>Birmingham, UK</td>
 <td>🔒</td>
 <td>3d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Abridge?utm_source=GHList&utm_medium=company">Abridge</a></strong></td>
+<td>Member of Technical Staff Intern</td>
+<td>SF</td>
+<td>🔒</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Corporation?utm_source=GHList&utm_medium=company">Sierra Nevada Corporation</a></strong></td>
@@ -826,6 +833,13 @@
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Omaha, NE</td>
+<td>🔒</td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Orlando, FL</td>
 <td>🔒</td>
 <td>23d</td>
 </tr>
@@ -2440,6 +2454,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Immuta?utm_source=GHList&utm_medium=company">Immuta</a></strong></td>
+<td>Full-Stack Engineering Intern - Summer 2027</td>
+<td>Columbus, OH</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Gallup?utm_source=GHList&utm_medium=company">Gallup</a></strong></td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>SF</td>
@@ -2590,6 +2611,13 @@
 <td><strong><a href="https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies?utm_source=GHList&utm_medium=company">Rivian and Volkswagen Group Technologies</a></strong></td>
 <td>Software Engineering Intern - Vehicle Controls</td>
 <td>Vancouver, BC, Canada</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AnaVation-LLC?utm_source=GHList&utm_medium=company">AnaVation</a></strong></td>
+<td>Computer Science Intern - Summer Program</td>
+<td>San Antonio, TX</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -6808,6 +6836,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Shield-AI?utm_source=GHList&utm_medium=company">Shield AI</a></strong></td>
+<td>Data Science Intern</td>
+<td>San Diego, CA</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company">Parsons</a></strong></td>
 <td>Computer Vision/Robotics Intern</td>
 <td>Westminster, CO</td>
@@ -9457,6 +9492,13 @@
 <td><strong><a href="https://simplify.jobs/c/HD-Supply?utm_source=GHList&utm_medium=company">HD Supply</a></strong></td>
 <td>Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science 🎓</td>
 <td>Atlanta, GA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Fannie-Mae?utm_source=GHList&utm_medium=company">Fannie Mae</a></strong></td>
+<td>Finance Analytics Intern - Analytics & Modeling Program</td>
+<td>Washington, DC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -14658,6 +14700,13 @@
 <td><strong><a href="https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company">GlobalFoundries</a></strong></td>
 <td>Design Application Engineering Intern</td>
 <td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Mill?utm_source=GHList&utm_medium=company">Mill</a></strong></td>
+<td>Electrical Engineer Intern</td>
+<td>San Bruno, CA</td>
 <td>🔒</td>
 <td>27d</td>
 </tr>
