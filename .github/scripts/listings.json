@@ -233763,7 +233763,7 @@
         "company_name": "RTX",
         "id": "156e5e79-8f49-4e7b-bea1-7c52e9b98f85",
         "title": "Customer First Centre Intern - Customer First Centre - Technical Helpdesk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -244660,7 +244660,7 @@
         "company_name": "Qorvo",
         "id": "056e0096-9f6b-4c3a-844f-cd627807e7f6",
         "title": "Full-Stack Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -318576,7 +318576,7 @@
         "company_name": "Schonfeld",
         "id": "22788572-42f5-4949-95ac-5b883dbb7696",
         "title": "Quant Developer Intern - Discretionary Macro Fixed Income",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390485,7 +390485,7 @@
         "company_name": "Texas Instruments",
         "id": "1a27a280-38f3-4db8-a51f-1be2dfd0f0f5",
         "title": "Device Reliability Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
