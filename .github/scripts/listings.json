@@ -206634,7 +206634,7 @@
         "company_name": "Optiver",
         "id": "789f3f1a-8c80-4c58-bc82-1e831e81e1e7",
         "title": "Quantitative Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -298192,7 +298192,7 @@
         "company_name": "Target",
         "id": "8ee871d8-4385-49e0-9f0d-1f89f3ed0863",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313470,7 +313470,7 @@
         "company_name": "Hometap",
         "id": "c5436868-7e21-49cc-a04a-94724650c511",
         "title": "Full Stack Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -401279,7 +401279,7 @@
         "company_name": "Apple",
         "id": "fc7e57ed-e4b3-4658-b094-842e4a64636a",
         "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403311,7 +403311,7 @@
         "company_name": "Crusoe",
         "id": "fd1af9f8-2356-4f0f-b005-ab9f523e4e24",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
