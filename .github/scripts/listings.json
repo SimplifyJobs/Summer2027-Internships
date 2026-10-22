@@ -183580,7 +183580,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -318534,7 +318534,7 @@
         "company_name": "AeroVironment",
         "id": "3a88588d-781e-4310-871c-3d14276eb6dd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336815,7 +336815,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369725,7 +369725,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -403514,7 +403514,7 @@
         "company_name": "Qualcomm",
         "id": "92137443-d00e-4f65-8dae-89ee6c4dc0af",
         "title": "Camera Design Implementation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
