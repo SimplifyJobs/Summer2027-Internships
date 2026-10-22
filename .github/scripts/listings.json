@@ -1,165 +1,5 @@
 [
     {
-        "date_updated": 1772797315,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.eduarcline.us/careers/ml-ai-infrastructure-intern",
-        "company_name": "Arcline",
-        "title": "ML / AI Infrastructure Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "Remote in USa"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "jamesthechen",
-        "id": "5a37f613-d9c7-4393-860c-561551fd53c2",
-        "date_posted": 1771948958,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773060398,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://livenation.wd503.myworkdayjobs.com/en-US/TMExternalSite/details/Intern-Software-Engineering_JR-85192",
-        "company_name": "Ticketmaster",
-        "title": "Intern Software Engineering",
-        "locations": [
-            "Reston, VA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "4d4ce204-3303-45a5-91df-887562ce0843",
-        "date_posted": 1771949327,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "OCLC",
-        "id": "d6ad5f8b-3529-41fe-bc4a-ab3292939519",
-        "title": "Resource Sharing-Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771950275,
-        "date_posted": 1771950275,
-        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Resource-Sharing-Software-Engineer-Intern_R0003787",
-        "locations": [
-            "Dublin, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OCLC",
-        "id": "104fe4be-9886-46ce-a977-1914c5202d92",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771950271,
-        "date_posted": 1771950271,
-        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Data-Science-Summer-Intern_R0003786",
-        "locations": [
-            "Dublin, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Danaher Corporation",
-        "id": "013dcdd8-012a-4ba2-ae80-b6068b3ebfb8",
-        "title": "Data Scientist \u2013 Co-Op - Supply Chain AI",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1771949758,
-        "date_posted": 1771949758,
-        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Indianapolis---Multiple-OpCo/Data-Scientist--Supply-Chain-AI--Co-Op_R1306035",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "COUNTRY Financial",
-        "id": "c29d6772-2e1c-4df3-994b-b973bc7e1119",
-        "title": "Data Science Intern - Digitalab",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771949104,
-        "date_posted": 1771949104,
-        "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateExternal/job/DigitaLab-University-of-Illinois/Data-Science-Intern---DigitaLab_R26_0000000267-1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/COUNTRY-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "COUNTRY Financial",
-        "id": "1b4b0062-640e-447b-8769-af131e14cd65",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771949106,
-        "date_posted": 1771949106,
-        "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateExternal/job/DigitaLab-University-of-Illinois/Software-Developer-Intern---DigitaLab_R26_0000000265-1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/COUNTRY-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "ASML",
@@ -250602,7 +250442,7 @@
         "company_name": "Emerson Electric",
         "id": "1c2f0776-ffba-43df-b229-ca36d616f363",
         "title": "Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -253141,7 +252981,7 @@
         "company_name": "Vermeer",
         "id": "04a61c2d-6e66-4a63-8f80-ff50017c7095",
         "title": "Component Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -275452,7 +275292,7 @@
         "company_name": "Viavi Solutions",
         "id": "12d65c04-d3a8-4cc7-9c55-37318c97a6c8",
         "title": "Optical & Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -323903,7 +323743,7 @@
         "company_name": "Invesco",
         "id": "0ce4d977-ead8-46ed-a4c7-aa2b56802591",
         "title": "Early Career Intern - Private Markets Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346681,7 +346521,7 @@
         "company_name": "CACI",
         "id": "02f8a929-c160-48c2-818b-cebd23779a18",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363035,7 +362875,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "0173534b-1a00-43bf-8929-2a7c5bfa842d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384281,7 +384121,7 @@
         "company_name": "GlobalFoundries",
         "id": "19e66723-f0ca-497d-881a-e6d544f3ab31",
         "title": "Silicon Photonics Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
