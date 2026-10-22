@@ -183580,7 +183580,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304245,7 +304245,7 @@
         "company_name": "Amgen",
         "id": "dc2aebf1-8c3c-4139-937e-f31dfd69950e",
         "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -318534,7 +318534,7 @@
         "company_name": "AeroVironment",
         "id": "3a88588d-781e-4310-871c-3d14276eb6dd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322012,7 +322012,7 @@
         "company_name": "Copart",
         "id": "49b31087-1e4c-42c6-8ff8-bf49f6ad3153",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -336815,7 +336815,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369725,7 +369725,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378207,7 +378207,7 @@
         "company_name": "General Motors",
         "id": "91251409-4b30-4f80-a849-57426b7a2c9c",
         "title": "Data Scaling Intern - Data Scaling - Embodied AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -403537,7 +403537,7 @@
         "company_name": "Qualcomm",
         "id": "58d62252-3525-471b-8267-bdac7ba2d764",
         "title": "Applied AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
