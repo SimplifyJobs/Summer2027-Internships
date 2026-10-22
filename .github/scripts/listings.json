@@ -206634,7 +206634,7 @@
         "company_name": "Optiver",
         "id": "789f3f1a-8c80-4c58-bc82-1e831e81e1e7",
         "title": "Quantitative Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236152,7 +236152,7 @@
         "company_name": "Compeer Financial",
         "id": "6fa663cd-1579-4517-8525-ab4243d205b9",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284311,7 +284311,7 @@
         "company_name": "Loblaw Companies",
         "id": "6fa97316-f38b-4160-be60-aed1cd83b249",
         "title": "Analyst Co-op Student - Product Information Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -323791,7 +323791,7 @@
         "company_name": "Invesco",
         "id": "6f8f96a9-1d7a-4068-b399-2e3d6e8adf77",
         "title": "Early Career Intern - Private Markets Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357733,7 +357733,7 @@
         "company_name": "Magna",
         "id": "6ee40dfa-8c4e-43ab-a8a5-e92008f5a2c7",
         "title": "Humanoid Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -359166,7 +359166,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "66ef2704-3037-40ab-ac97-ad086c4309af",
         "title": "AI Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -370869,7 +370869,7 @@
         "company_name": "Booz Allen",
         "id": "74c29392-8eab-44f0-a1ae-0bb1d66ec96f",
         "title": "Junior AI Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
