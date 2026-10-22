@@ -244013,7 +244013,7 @@
         "company_name": "Qorvo",
         "id": "a3feb75e-fb0d-401b-abfb-16279ee9d49b",
         "title": "Analog Design Engineer Intern - High Performance Analog - Advanced Cellular",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -262728,7 +262728,7 @@
         "company_name": "Fannie Mae",
         "id": "c9c54060-ffee-49f0-9f09-f48daf72749b",
         "title": "Finance Analytics Intern - Analytics & Modeling Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262942,7 +262942,7 @@
         "company_name": "Qorvo",
         "id": "a7e65324-0658-4012-8e8b-24f252ba7a16",
         "title": "Radio Systems and Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -288346,7 +288346,7 @@
         "company_name": "AnaVation",
         "id": "bfd3e5c6-0630-477a-a77e-5849e825fd81",
         "title": "Computer Science Intern - Summer Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294318,7 +294318,7 @@
         "company_name": "Immuta",
         "id": "d5f1160b-114b-4a0e-b196-adf32447203e",
         "title": "Full-Stack Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -296940,7 +296940,7 @@
         "company_name": "L3Harris Technologies",
         "id": "be96ca83-b784-4e45-bd2c-ed8d07edff01",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -308139,7 +308139,7 @@
         "company_name": "Mill",
         "id": "a9414ec5-0835-415a-80c6-e5b228ffbccf",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -340523,7 +340523,7 @@
         "company_name": "Mill",
         "id": "ac1d9d95-dc9f-44d9-ab63-b5fbd5785de5",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385129,7 +385129,7 @@
         "company_name": "Electronic Arts",
         "id": "a90773c4-8d1d-4ae9-bcd0-5deecca8ed27",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390665,7 +390665,7 @@
         "company_name": "Abridge",
         "id": "abedfbfb-5d56-4e56-a4bc-2ce1b5424f8d",
         "title": "Member of Technical Staff Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027",
@@ -391806,7 +391806,7 @@
         "company_name": "Microsoft",
         "id": "c6ff31e0-f0ce-49d6-bbb7-e125633649b4",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400655,7 +400655,7 @@
         "company_name": "Shield AI",
         "id": "c57abcec-5e89-47ba-b6c2-a19d6a94917b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401231,7 +401231,7 @@
         "company_name": "Expedia Group",
         "id": "ae9b02e7-d087-43fd-aea6-d8e99a8307aa",
         "title": "Software Developer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
