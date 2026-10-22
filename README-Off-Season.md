@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 1083 Internship Roles by Category
+### Browse 1082 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (329)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (48)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (338)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (337)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (21)
 
@@ -15130,14 +15130,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>16d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AltaGas?utm_source=GHList&utm_medium=company">AltaGas</a></strong></td>
-<td>Data Analytics & Process Automation Co-op</td>
-<td>Calgary, AB, Canada</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/XMLNAME-2027-Data-Analytics---AltaGas---2027-Process-Automation-Co-op-Student_R7321-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/69682d02-afa7-43f7-b8b0-6e14272666ff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/American-Enterprise-Institute?utm_source=GHList&utm_medium=company">American Enterprise Institute</a></strong></td>
 <td>Spring Data Analyst and Education Policy Intern</td>
 <td>Washington, DC</td>
@@ -17302,7 +17294,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1685)</summary>
+<summary>🗃️ Inactive roles (1686)</summary>
 
 <table>
 <thead>
@@ -17496,6 +17488,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>↳</td>
 <td>Business Intelligence Enterprise Anti-Money Laundering Co-op</td>
 <td>Toronto, ON, Canada</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AltaGas?utm_source=GHList&utm_medium=company">AltaGas</a></strong></td>
+<td>Data Analytics & Process Automation Co-op</td>
+<td>Calgary, AB, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
 <td>16d</td>
@@ -31912,6 +31912,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>10d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Engineering Intern</td>
+<td>Kanata, Ottawa, ON, Canada</td>
+<td>Winter 2026</td>
+<td><div align="center"><a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4e7694ab-0ab1-45c3-9aaf-c9983216df76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>10d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Zipline?utm_source=GHList&utm_medium=company">Zipline</a></strong></td>
 <td>Firmware Engineer Intern</td>
 <td>South SF</td>
@@ -32365,14 +32373,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Palo Alto, CA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://www.tesla.com/careers/search/job/285153?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bc9e8818-9f8f-4083-9d35-d8f57bc2ddfb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
-<td>Embedded Design Engineer Intern - Firmware</td>
-<td>Huntsville, AL</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/89a55bb0-1a26-4c4b-8874-d26cf1f5d2b7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>22d</td>
 </tr>
 <tr>
@@ -34587,14 +34587,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
-<td>Engineering Intern</td>
-<td>Kanata, Ottawa, ON, Canada</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>10d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Controls?utm_source=GHList&utm_medium=company">Johnson Controls</a></strong></td>
 <td>Software Engineer Co-op</td>
 <td>Burlington, MA</td>
@@ -34758,6 +34750,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Monolithic-Power-Systems?utm_source=GHList&utm_medium=company">Monolithic Power Systems</a></strong></td>
 <td>CAD Intern</td>
 <td>San Jose, CA<br>Kirkland, WA</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>Embedded Design Engineer Intern - Firmware</td>
+<td>Huntsville, AL</td>
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>22d</td>

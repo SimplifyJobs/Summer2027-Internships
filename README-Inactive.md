@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 2320 Inactive Internship Roles by Category
+### Browse 2321 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (791)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (151)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (811)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (814)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (227)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (340)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (338)
 
 ---
 
@@ -6885,6 +6885,13 @@
 <td>11d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
+<td>Data Scaling Intern - Data Scaling - Embodied AI 🎓</td>
+<td>Sunnyvale, CA</td>
+<td>🔒</td>
+<td>13d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Walgreens?utm_source=GHList&utm_medium=company">Walgreens</a></strong></td>
 <td>Data Science Intern</td>
 <td>Deerfield, IL</td>
@@ -8461,6 +8468,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amgen?utm_source=GHList&utm_medium=company">Amgen</a></strong></td>
+<td>Machine Learning Engineer Intern - Technology & Medical Organizations</td>
+<td>Remote in USA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Data Engineer Intern - Technology & Medical Organizations</td>
 <td>Remote in USA</td>
 <td>🔒</td>
@@ -9793,6 +9807,13 @@
 <td><strong><a href="https://simplify.jobs/c/NiSource?utm_source=GHList&utm_medium=company">NiSource</a></strong></td>
 <td>Engineering Intern</td>
 <td>Valparaiso, IN</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Momentive-Performance-Materials?utm_source=GHList&utm_medium=company">Momentive</a></strong></td>
+<td>Service Quality Intern</td>
+<td>Waterford, NY</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -14039,13 +14060,6 @@
 <td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Cedar Rapids, IA</td>
-<td>🔒</td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Electrical Hardware Design Engineer Intern</td>
 <td>Huntsville, AL</td>
@@ -14658,13 +14672,6 @@
 <td>↳</td>
 <td>Test Engineering Intern - BS</td>
 <td>Irvine, CA<br>Santa Clara, CA<br>Westlake Village, CA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Embedded and Systems Engineering Intern - Digital Product</td>
-<td><details><summary><strong>4 locations</strong></summary>Austin, TX<br>Milford, MI<br>Mountain View, CA<br>Warren, MI</details></td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
