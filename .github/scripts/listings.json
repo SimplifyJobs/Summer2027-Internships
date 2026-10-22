@@ -186546,7 +186546,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -251302,7 +251302,7 @@
         "company_name": "Momentive",
         "id": "0d13979f-34e6-4863-983f-b931e8619e05",
         "title": "Service Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304245,7 +304245,7 @@
         "company_name": "Amgen",
         "id": "dc2aebf1-8c3c-4139-937e-f31dfd69950e",
         "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330696,7 +330696,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331289,7 +331289,7 @@
         "company_name": "CAE",
         "id": "60dc162c-a256-4cc0-bc15-a69b8366e773",
         "title": "Software Developer Intern - Immersive",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -351133,7 +351133,7 @@
         "company_name": "Leidos",
         "id": "89a55bb0-1a26-4c4b-8874-d26cf1f5d2b7",
         "title": "Embedded Design Engineer Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368126,7 +368126,7 @@
         "company_name": "AltaGas",
         "id": "69682d02-afa7-43f7-b8b0-6e14272666ff",
         "title": "Data Analytics & Process Automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -378207,7 +378207,7 @@
         "company_name": "General Motors",
         "id": "91251409-4b30-4f80-a849-57426b7a2c9c",
         "title": "Data Scaling Intern - Data Scaling - Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382352,7 +382352,7 @@
         "company_name": "Aptiv",
         "id": "4e7694ab-0ab1-45c3-9aaf-c9983216df76",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -394913,7 +394913,7 @@
         "company_name": "RTX",
         "id": "f2273a00-fd36-44f4-b959-cffdf589df8a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
