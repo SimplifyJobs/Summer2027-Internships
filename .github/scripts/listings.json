@@ -186546,7 +186546,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -195162,7 +195162,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -330696,7 +330696,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353570,7 +353570,7 @@
         "company_name": "L3Harris Technologies",
         "id": "65c6980b-4420-4767-a479-d749f5e67d26",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -382352,7 +382352,7 @@
         "company_name": "Aptiv",
         "id": "4e7694ab-0ab1-45c3-9aaf-c9983216df76",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -391588,7 +391588,7 @@
         "company_name": "KLA",
         "id": "f6398163-4e7d-4ddd-aaab-04adafd0ee67",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394913,7 +394913,7 @@
         "company_name": "RTX",
         "id": "f2273a00-fd36-44f4-b959-cffdf589df8a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404068,6 +404068,29 @@
             "Kenosha, WI"
         ],
         "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "3cccbd25-d96e-4da8-bc1a-bb46049aeaf4",
+        "title": "Optoelectronics Electrical Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792669740,
+        "date_posted": 1792368000,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optoelectronics-Electrical-Engineering-Co-Op_JR003044-1",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
