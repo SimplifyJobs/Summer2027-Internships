@@ -124387,7 +124387,7 @@
         "company_name": "Salesforce",
         "id": "3cb45823-f475-44c7-aaca-4a1335faf6ff",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -195162,7 +195162,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304530,7 +304530,7 @@
         "company_name": "Amgen",
         "id": "5012230e-2a8b-4047-80ec-4b7c9ecbf427",
         "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -309917,7 +309917,7 @@
         "company_name": "Lowe's",
         "id": "6be172ec-d3a7-445d-8218-d442e9c6dd1c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -313046,7 +313046,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -321989,7 +321989,7 @@
         "company_name": "Visa",
         "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
         "title": "Research Scientist Intern - Quantum",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -353570,7 +353570,7 @@
         "company_name": "L3Harris Technologies",
         "id": "65c6980b-4420-4767-a479-d749f5e67d26",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380113,7 +380113,7 @@
         "company_name": "GAF",
         "id": "9d869222-f96c-43a5-8aae-4150d28e05af",
         "title": "Master Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -390577,7 +390577,7 @@
         "company_name": "Intel",
         "id": "f4473dfb-1d23-48f0-8ea4-3bf930c7328d",
         "title": "Compiler Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -391588,7 +391588,7 @@
         "company_name": "KLA",
         "id": "f6398163-4e7d-4ddd-aaab-04adafd0ee67",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395029,7 +395029,7 @@
         "company_name": "Marvell",
         "id": "c35aada5-ad17-4000-baae-c7099528eabb",
         "title": "AI Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404041,6 +404041,33 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uline",
+        "id": "e41fbb04-5d3a-4afb-bf00-859f48e0a2aa",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792667575,
+        "date_posted": 1792627200,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Glenview, IL",
+            "Pleasant Prairie, WI",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
