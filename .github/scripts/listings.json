@@ -213904,7 +213904,7 @@
         "company_name": "Advanced Energy",
         "id": "34a18efe-cd13-4293-a683-2e44304e1154",
         "title": "Firmware Engineer Intern - Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239494,7 +239494,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -268794,7 +268794,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -285702,7 +285702,7 @@
         "company_name": "Micron Technology",
         "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -294083,7 +294083,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -300421,7 +300421,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -342653,7 +342653,7 @@
         "company_name": "Electronic Arts",
         "id": "8309b5a0-8e75-434e-b1e6-419b51f357ae",
         "title": "Gameplay Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347408,7 +347408,7 @@
         "company_name": "Moderna",
         "id": "14448cc0-3d1c-4951-95e8-357816e7a042",
         "title": "Biometrics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373207,7 +373207,7 @@
         "company_name": "DocuSign",
         "id": "3957ba6a-2e15-4316-9555-093683e2831e",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -374814,7 +374814,7 @@
         "company_name": "WSFS Bank",
         "id": "2355c32e-a301-4b8a-bf6b-352e71daf514",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385568,7 +385568,7 @@
         "company_name": "Ascension",
         "id": "7787c1ea-7ca3-47f9-913d-8d035d331bd9",
         "title": "Integrated Participant Solutions Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387136,7 +387136,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -390367,7 +390367,7 @@
         "company_name": "Pennsylvania State University",
         "id": "33bbbdb3-7bf2-4ddd-90dc-200d4e2d8f82",
         "title": "R&D Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393937,7 +393937,7 @@
         "company_name": "Ascension",
         "id": "73b77dc7-3276-4d7b-87c8-394b4520f7ac",
         "title": "Managed Care Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397639,7 +397639,7 @@
         "company_name": "Horizon Industries",
         "id": "8617ce4d-04fe-4f3d-ab6d-ea8c0dba1bea",
         "title": "Appian Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403188,7 +403188,7 @@
         "company_name": "Centific",
         "id": "156f07db-f266-4f91-89ee-41d3d1e7d650",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403975,6 +403975,30 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Advanced Energy",
+        "id": "5ad6a259-a2ca-4fcf-8e09-64f9e9311e90",
+        "title": "Service Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792658569,
+        "date_posted": 1787868955,
+        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Service-Product-Marketing-CO-80525/1424027800/?ats=successfactors",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
