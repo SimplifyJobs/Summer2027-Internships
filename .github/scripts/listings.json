@@ -365281,7 +365281,7 @@
         "company_name": "Mayo Clinic",
         "id": "a4c097c2-624c-422a-93a9-bc09a0ebf8aa",
         "title": "Research Fellow-Neurosurgery",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
