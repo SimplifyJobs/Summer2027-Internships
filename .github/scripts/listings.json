@@ -208074,7 +208074,7 @@
         "company_name": "Atoms",
         "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -236176,7 +236176,7 @@
         "company_name": "Compeer Financial",
         "id": "4ade01ff-90f7-40e7-88aa-1756bc4d6de1",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341996,7 +341996,7 @@
         "company_name": "Radiance Technologies",
         "id": "20e60473-ab0b-483d-8db0-683b9665e97c",
         "title": "Modeling Engineer Intern - Analytics & Simulation Sciences - Mass",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362875,7 +362875,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "0173534b-1a00-43bf-8929-2a7c5bfa842d",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364914,7 +364914,7 @@
         "company_name": "KKR",
         "id": "4e1207ba-ae8a-45e8-a367-c9a90e575587",
         "title": "Summer Analyst Intern - Insurance Risk - Quantitative Asset Liability Management/Liquidity Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366726,7 +366726,7 @@
         "company_name": "KKR",
         "id": "50597a72-b855-4e2f-a7fe-130439c9ff69",
         "title": "Summer Analyst Intern - Insurance Risk - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396366,7 +396366,7 @@
         "company_name": "Rogue Fitness",
         "id": "4f25a257-64eb-4345-9093-29d28e199773",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401255,7 +401255,7 @@
         "company_name": "Tencent",
         "id": "1d865eec-b857-4988-911b-f70dacd13ca6",
         "title": "LLM & Agent Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401899,7 +401899,7 @@
         "company_name": "Bank of Montreal",
         "id": "424885bf-4524-42f8-aae0-88ebf8504142",
         "title": "Data & AI Analyst Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
