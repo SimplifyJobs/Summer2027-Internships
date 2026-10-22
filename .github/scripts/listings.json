@@ -297697,7 +297697,7 @@
         "company_name": "L3Harris Technologies",
         "id": "910b0e07-917b-4b05-9865-591f847be5f6",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -351750,7 +351750,7 @@
         "company_name": "Dow Chemical Company",
         "id": "82b7074b-3840-4347-a125-e4d8ed0f7c3a",
         "title": "Data Engineer / Data Platform Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -366530,7 +366530,7 @@
         "company_name": "West Monroe",
         "id": "85f5fdbe-da5d-442d-be70-bf1fbe77e77b",
         "title": "Software Engineering Consulting Intern - AI Concentration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -366553,7 +366553,7 @@
         "company_name": "West Monroe",
         "id": "7771e28f-19b8-42e9-8cfb-42c1b63e5f24",
         "title": "Software Engineer Consulting Intern - AI Concentration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390165,7 +390165,7 @@
         "company_name": "Northwestern Mutual",
         "id": "85784523-0c03-4666-ae02-7febc36bc65c",
         "title": "Underwriting Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
