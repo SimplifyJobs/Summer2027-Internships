@@ -220727,7 +220727,7 @@
         "company_name": "Dee Zee",
         "id": "8d49244e-af9c-4cbb-bb68-827c8671b75d",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285145,7 +285145,7 @@
         "company_name": "Micron Technology",
         "id": "8ba55980-bb00-4f5d-8d2a-4b40243aa2ac",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -314994,7 +314994,7 @@
         "company_name": "Micron Technology",
         "id": "82d2f53d-fc5f-477d-bbfa-42b2f0710605",
         "title": "Product Engineer Intern - DRAM Technology - Node Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -330686,7 +330686,7 @@
         "company_name": "Leidos",
         "id": "74c6f87e-771c-4105-bcf1-13937407ee3c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -401851,7 +401851,7 @@
         "company_name": "Parsons",
         "id": "697dae09-767d-472a-a894-401a312cd1c9",
         "title": "Computer Vision/Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
