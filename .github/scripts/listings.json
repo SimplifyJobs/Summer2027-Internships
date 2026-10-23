@@ -1,76 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Applied Materials",
-        "id": "709f5c6b-7455-444d-bc17-1b677e0d5997",
-        "title": "Technical Product Manager Intern-PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771978198,
-        "date_posted": 1771978198,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Technical-Product-Manager-Intern--PhD--Santa-Clara--CA-_R2612839",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "30f78d3a-169a-470e-b97c-3ac541aa69e8",
-        "title": "2026 Summer Global Product Support Engineer Intern - Bachelor's - Kalispell MT",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771978183,
-        "date_posted": 1771978183,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/XMLNAME-2026-Summer-Global-Product-Support-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613404",
-        "locations": [
-            "Kalispell, MT"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rochester Regional Health",
-        "id": "a50e4caf-7051-4d1d-b3b1-268fd1f33d40",
-        "title": "RIT Co-op: Information Systems & Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771977980,
-        "date_posted": 1771977980,
-        "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Information-Systems---Technology_REQ_232328",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Rochester-Regional-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PG&E",
         "id": "ff8518f4-68ee-4472-a135-a178059b6701",
@@ -174088,7 +174018,7 @@
         "company_name": "WindBorne Systems",
         "id": "25121cbb-b042-4319-b7e2-7f1c9d2989bd",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317967,7 +317897,7 @@
         "company_name": "Emerson Electric",
         "id": "24774d9b-0c8e-4321-bcc0-934b0dc99931",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
