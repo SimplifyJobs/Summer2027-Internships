@@ -303770,7 +303770,7 @@
         "company_name": "American Express",
         "id": "84450d14-3ce4-477d-8045-7422bd8651d7",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328940,7 +328940,7 @@
         "company_name": "American Express",
         "id": "97ca49aa-6b36-411d-b082-d31f7cba8c5e",
         "title": "Digital Product Management Intern - Undergraduate GMNS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377557,7 +377557,7 @@
         "company_name": "TIAA",
         "id": "687f4ec0-0f2f-4d8d-b03a-b25321d74e44",
         "title": "Enterprise Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392913,7 +392913,7 @@
         "company_name": "Manulife Financial",
         "id": "89301830-3360-4f46-9be6-c3f71c2be86b",
         "title": "AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
