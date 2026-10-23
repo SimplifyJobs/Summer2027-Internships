@@ -1,99 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northwestern Mutual",
-        "id": "6fc78a74-18a9-4623-afde-99715cbe9297",
-        "title": "Application Development Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772003651,
-        "date_posted": 1772003651,
-        "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751711",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northwestern Mutual",
-        "id": "363bf983-6b24-4bf3-abba-83242e26fd12",
-        "title": "Analytics Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772003649,
-        "date_posted": 1772003649,
-        "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751677",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "9d1f00cf-b2ff-4d4d-aeaf-ba9bad343197",
-        "title": "Research Scientist - Computational Photography Algorithms",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772003583,
-        "date_posted": 1772003583,
-        "url": "https://jobs.bytedance.com/en/position/7610475050109798661/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Proximate Technologies",
-        "id": "5c8636dd-9a87-4f4e-b8d5-4feb37823af0",
-        "title": ".Net",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772003094,
-        "date_posted": 1772003094,
-        "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/743999661729966",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Proximate-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Eikon Therapeutics",
         "id": "0a560a3c-35cf-4175-b9e1-fae2c36aebdb",
@@ -75806,30 +75713,6 @@
         "date_updated": 1772446970,
         "date_posted": 1772446970,
         "url": "https://lifeattiktok.com/search/7532747359991859463",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "16f1fcf2-38ef-4e04-9a67-4b82b5c9433c",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772003686,
-        "date_posted": 1772003686,
-        "url": "https://lifeattiktok.com/search/7533295761208559890",
         "locations": [
             "San Jose, CA"
         ],
