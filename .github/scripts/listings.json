@@ -171849,7 +171849,7 @@
         "company_name": "Blackstone",
         "id": "25b9a125-ee47-46ff-852e-22fb108b21d6",
         "title": "Blackstone Credit and Insurance \u2013 Quant and Portfolio Analytics Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -182689,7 +182689,7 @@
         "company_name": "Databricks",
         "id": "ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -282137,7 +282137,7 @@
         "company_name": "Blackstone",
         "id": "26b899cd-fb20-45b5-b6b5-8dd3ad3e54c8",
         "title": "Software Engineer Summer Analyst - Technology and Innovations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -284722,7 +284722,7 @@
         "company_name": "Danaher",
         "id": "c9eab661-9431-472e-8adb-7c66f724ae81",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -299617,7 +299617,7 @@
         "company_name": "Quantinuum",
         "id": "f61a7695-7297-4d3e-9f68-3ef0b85baec3",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -299806,7 +299806,7 @@
         "company_name": "Quantinuum",
         "id": "58b0b092-9029-4fcf-b51a-7e1bfe20437b",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -302578,7 +302578,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -324937,7 +324937,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "07387e7d-77be-43e1-9d2b-2170a06a2a06",
         "title": "Operations Analytics and Problem Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -355261,7 +355261,7 @@
         "company_name": "Databricks",
         "id": "956eedbe-799d-459b-8556-9184a7f7f706",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377367,7 +377367,7 @@
         "company_name": "Databricks",
         "id": "3c4fd433-d0f1-4616-9949-70e4b7c5c452",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -403707,7 +403707,7 @@
         "company_name": "Databricks",
         "id": "515b2729-7d1c-4f5f-9e8d-a071384a10a2",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -404769,5 +404769,860 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "ceb699dc-3064-45df-b7bc-da8b373ba861",
+        "title": "Cloud Hardware Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720451,
+        "date_posted": 1792720306,
+        "url": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+        "locations": [
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "e25e3b00-f4dd-4ad2-8886-c75ae8fb511e",
+        "title": "ASIC Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720451,
+        "date_posted": 1792720306,
+        "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Amazon",
+        "id": "2c21f399-8e2e-449c-84e9-1d5eb6369068",
+        "title": "Economics Intern - Structural IO",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720494,
+        "date_posted": 1792720371,
+        "url": "https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027",
+        "locations": [
+            "Seattle, WA",
+            "Arlington County, Arlington, VA",
+            "NYC",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "8e8525b4-47c1-4431-a6ad-b4a61c3bdc2f",
+        "title": "Business Intelligence Engineer Intern - Supply Chain EU SCOT",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720466,
+        "date_posted": 1792720283,
+        "url": "https://amazon.jobs/en/jobs/10468207/business-intel-eng-1year-ftc-supply-chain-eu-scot",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "1da8c15f-8f15-4536-8273-0ff492755d70",
+        "title": "Business Intelligence Engineer Intern - Supply Chain EU SCOT",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720469,
+        "date_posted": 1792720283,
+        "url": "https://amazon.jobs/en/jobs/10511799/business-intel-eng-1year-ftc-supply-chain-eu-scot",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Amazon",
+        "id": "0d521e66-d314-45cc-81c2-a270c2d8f818",
+        "title": "PhD Economics Intern - Reduced Form Causal Inference",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720451,
+        "date_posted": 1792720370,
+        "url": "https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027",
+        "locations": [
+            "Seattle, WA",
+            "Arlington County, Arlington, VA",
+            "NYC",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "8878ddd1-1e49-42ed-bfb2-82a00cd15970",
+        "title": "ASIC Engineer Early Career Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720307,
+        "date_posted": 1792720222,
+        "url": "https://amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "5466f04d-9bfa-47d7-8f24-e4492d1a699c",
+        "title": "Embedded Firmware Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1792720261,
+        "date_posted": 1792720152,
+        "url": "https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
+        "locations": [
+            "North Reading, MA",
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "f4933265-5ae6-420b-b9b2-7b0c2bb825af",
+        "title": "Applied Science Intern - Master's Student Science",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720112,
+        "date_posted": 1792719944,
+        "url": "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "e4a79815-958c-4117-8e82-e122ebd1c81f",
+        "title": "Applied Science Intern - Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720112,
+        "date_posted": 1792719943,
+        "url": "https://amazon.jobs/en/jobs/10564601/2027-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "8b14ceed-aff9-4840-8149-5dae56d4d11d",
+        "title": "Research Science Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720115,
+        "date_posted": 1792719943,
+        "url": "https://amazon.jobs/en/jobs/10564602/2027-research-science-internship-united-states-phd-student-science-recruiting",
+        "locations": [
+            "Cambridge, MA",
+            "Boston, MA",
+            "Seattle, WA",
+            "Santa Clara, CA",
+            "Arlington County, Arlington, VA",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "e91b16a1-3d02-4a4f-a1f4-9e894c60c881",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720110,
+        "date_posted": 1792719946,
+        "url": "https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "ae4d3c51-a6cc-4491-a1a6-7872c85856f6",
+        "title": "Frontier AI & Robotics Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720104,
+        "date_posted": 1792719928,
+        "url": "https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Amazon",
+        "id": "fedc9268-dfe7-4d88-9700-02a53f0ee30f",
+        "title": "Technical Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720113,
+        "date_posted": 1792719947,
+        "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+        "locations": [
+            "Seattle, WA",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "f1608d09-987a-492d-8dc1-3007fd0b3f0e",
+        "title": "Applied Science Intern - Frontier AI & Robotics",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1792720115,
+        "date_posted": 1792719943,
+        "url": "https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "e7367bf7-aaea-4883-ab30-ea927d7b66a9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792720111,
+        "date_posted": 1792719940,
+        "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "b528e2b6-04c3-46be-bd21-cac3f2e018bb",
+        "title": "Systems Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1792720091,
+        "date_posted": 1792719940,
+        "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "78ea4501-d20c-468c-a9f7-9374fd9a67ad",
+        "title": "Applied Science Intern - Recommender Systems/ Information Retrieval - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792720113,
+        "date_posted": 1792719944,
+        "url": "https://amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+        "locations": [
+            "Palo Alto, CA",
+            "Boston, MA",
+            "Seattle, WA",
+            "Santa Clara, CA",
+            "Arlington County, Arlington, VA",
+            "NYC",
+            "Bellevue, WA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "69c078e8-a7a7-4519-9d6f-fd315814d6bb",
+        "title": "Applied Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720110,
+        "date_posted": 1792719940,
+        "url": "https://amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "58d142d9-2c57-4ca0-8836-120968205a60",
+        "title": "Applied Science Intern - Gen AI & Large Language Models",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720112,
+        "date_posted": 1792719943,
+        "url": "https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
+        "locations": [
+            "Cambridge, MA",
+            "Boston, MA",
+            "Seattle, WA",
+            "Santa Clara, CA",
+            "Pittsburgh, PA",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "b14e0231-d0b8-4267-b36d-5954003ab300",
+        "title": "ASIC Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720091,
+        "date_posted": 1792719939,
+        "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "861bd1a8-4df0-4259-85d2-0630849ece34",
+        "title": "Applied Scientist Intern - Automated Reasoning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720114,
+        "date_posted": 1792719946,
+        "url": "https://amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "79f3969b-886f-4281-9e1a-926e475353e8",
+        "title": "Hardware Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792720091,
+        "date_posted": 1792719937,
+        "url": "https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "4c1e849b-6ed3-4fc8-a84b-1f9dd177b17a",
+        "title": "Associate Delivery Consultant Intern - AWS Professional Services",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720091,
+        "date_posted": 1792719928,
+        "url": "https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services",
+        "locations": [
+            "Arlington County, Arlington, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "4169c155-cad3-467e-b8f4-6435181c35ba",
+        "title": "Software Engineer Intern - AWS Database",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Winter 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792720118,
+        "date_posted": 1792719942,
+        "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "25f26c89-68c7-42c7-8b1c-a1e4d61f5525",
+        "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792720106,
+        "date_posted": 1792719931,
+        "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "1f204319-dfd9-4b7a-b098-c48f8a6c1435",
+        "title": "Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720112,
+        "date_posted": 1792719944,
+        "url": "https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
+        "locations": [
+            "Palo Alto, CA",
+            "Boston, MA",
+            "Seattle, WA",
+            "Santa Clara, CA",
+            "Arlington County, Arlington, VA",
+            "NYC",
+            "Bellevue, WA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "180099af-2203-4310-be0d-11ae56d10f78",
+        "title": "Software Engineer Intern - Embedded Systems",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Winter 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792720115,
+        "date_posted": 1792719938,
+        "url": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "079ae62e-911c-4128-8407-7612d33d9eb5",
+        "title": "Applied Science Intern - PhD Student Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792720111,
+        "date_posted": 1792719943,
+        "url": "https://amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Burnaby, BC, Canada",
+            "Pitt Meadows, BC, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "66e9549c-044f-471c-a61e-d89819f98731",
+        "title": "Business Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1792720091,
+        "date_posted": 1792719943,
+        "url": "https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027",
+        "locations": [
+            "London, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Amazon",
+        "id": "5dcd55ac-c7f2-47c8-9bb8-4b2a6c16a6b9",
+        "title": "Product Manager Intern - ALA",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720110,
+        "date_posted": 1792719938,
+        "url": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "31aa4212-6234-46f9-beb5-ae44f354acb6",
+        "title": "Applied Science Intern - Natural Language Processing and Speech Technologies",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720114,
+        "date_posted": 1792719944,
+        "url": "https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting",
+        "locations": [
+            "Cambridge, MA",
+            "Boston, MA",
+            "Seattle, WA",
+            "Santa Clara, CA",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "2b19951c-67c9-4606-b94a-7ad022323200",
+        "title": "Systems Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792720091,
+        "date_posted": 1792719940,
+        "url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Circle K",
+        "id": "78be02f0-f685-4c52-be58-2170c2d99779",
+        "title": "Real Estate Strategy & Reporting Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792719182,
+        "date_posted": 1792627200,
+        "url": "https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Real-Estate-Strategy---Reporting-Intern_R630515-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle-K",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
