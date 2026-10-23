@@ -1,125 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PG&E",
-        "id": "ff8518f4-68ee-4472-a135-a178059b6701",
-        "title": "Electric Planning Policy & Modernization Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771985386,
-        "date_posted": 1771985386,
-        "url": "https://careers.pge.com/job/Oakland-Electric-Planning-Policy-&-Modernization-Intern-CA-94612/1367690900/?ats=successfactors",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/PGE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "992c1ae3-7931-4396-a3bd-290c87cb9275",
-        "title": "National Ignition Facility and Photon Science Undergraduate Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771985371,
-        "date_posted": 1771985371,
-        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011836086",
-        "locations": [
-            "Livermore, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LLNL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Transcarent",
-        "id": "d93f83e1-4241-4936-946c-740a96cece9b",
-        "title": "Machine Learning Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771985733,
-        "date_posted": 1771985733,
-        "url": "https://boards.greenhouse.io/transcarent/jobs/5806321004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Transcarent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "e2e26ee5-9379-4642-b36a-7fb13daa76c6",
-        "title": "Hardware Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771985728,
-        "date_posted": 1771985728,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-19699-1",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mattel",
-        "id": "7602a1e4-8129-4d88-962a-a2f5d20bba38",
-        "title": "IT Undergraduate Industrial Placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771985729,
-        "date_posted": 1771985729,
-        "url": "https://jobs.smartrecruiters.com/MattelInc/744000108565413",
-        "locations": [
-            "Slough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mattel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
@@ -164,52 +45,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cisco",
-        "id": "fa84649f-3632-46fe-b8fa-0d64d7bc0e0e",
-        "title": "AI Research Scientist 2 \u2013 Intern - United States",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771985965,
-        "date_posted": 1771985965,
-        "url": "https://careers.cisco.com/global/en/job/2007516",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Transcarent",
-        "id": "576d4925-2af7-42ed-ba93-6a5d50a92e81",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771985743,
-        "date_posted": 1771985743,
-        "url": "https://boards.greenhouse.io/transcarent/jobs/5806345004",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Transcarent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -2954,29 +2789,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "879ed308-a7ec-4ff3-bf72-d09f96a1bac5",
-        "title": "Systems / Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772101407,
-        "date_posted": 1771985215,
-        "url": "https://careers-gdms.icims.com/jobs/69489/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
