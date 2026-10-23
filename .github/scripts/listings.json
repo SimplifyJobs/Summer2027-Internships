@@ -169465,7 +169465,7 @@
         "company_name": "Optiver",
         "id": "a296d107-a3c9-4996-98c4-581930edc8df",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -180519,7 +180519,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -289944,7 +289944,7 @@
         "company_name": "S&P Global",
         "id": "b93e1e71-e120-4e6d-8deb-aff1ce68d3f1",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291905,7 +291905,7 @@
         "company_name": "Booz Allen",
         "id": "bf4ff037-a559-4845-9678-eb93cb17a890",
         "title": "Quantum Computing Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310105,7 +310105,7 @@
         "company_name": "Avis Budget Group",
         "id": "bcf5b326-6a1f-42e1-b189-3d314b84fc8d",
         "title": "IT Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -314200,7 +314200,7 @@
         "company_name": "CesiumAstro",
         "id": "e594a5ce-1e2e-4e72-97df-2dfbaee88a0e",
         "title": "Electrical Engineer Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360713,7 +360713,7 @@
         "company_name": "Cirrus Logic",
         "id": "e915a1c9-d59b-4f53-a81f-e7864f68f430",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362317,7 +362317,7 @@
         "company_name": "IEX",
         "id": "af98a22d-d813-4ff1-a656-3513cc954ee7",
         "title": "Options Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379390,7 +379390,7 @@
         "company_name": "Rainmaker",
         "id": "a37b51de-58fe-4812-bbb4-f01456abd797",
         "title": "Radar Science Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396319,7 +396319,7 @@
         "company_name": "Skydio",
         "id": "b8bee710-0e73-4628-b6c5-5f14de72eec9",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
