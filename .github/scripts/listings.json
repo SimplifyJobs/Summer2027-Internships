@@ -169394,7 +169394,7 @@
         "company_name": "Optiver",
         "id": "f49b4766-f352-4e81-9cb2-0f42fb9fd101",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -206403,7 +206403,7 @@
         "company_name": "Belvedere Trading",
         "id": "fc66b12e-8d7f-4a0e-b4f6-8f54189941d9",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330869,7 +330869,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "f2941a36-61c1-486f-bfb9-c38e195ec891",
         "title": "Electrical/Computer Engineering Intern - Space Science Electronics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408140,7 +408140,7 @@
         "company_name": "Sedgwick Claims Management Services",
         "id": "731a0491-8cb0-4279-a27e-9e40fcaff5da",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
