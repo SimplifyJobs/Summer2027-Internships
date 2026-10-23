@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 2443 Inactive Internship Roles by Category
+### Browse 2448 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (839)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (841)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (156)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (864)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (867)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (230)
 
@@ -945,6 +945,13 @@
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
 <td>Software Engineer Intern - Driver Refinement Foundations</td>
 <td>Mountain View, CA</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company">AbbVie</a></strong></td>
+<td>Business Technology Solutions Intern - Data & Software Engineering</td>
+<td>Irvine, CA</td>
 <td>🔒</td>
 <td>27d</td>
 </tr>
@@ -2639,6 +2646,13 @@
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Annapolis Junction, MD</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Kensho?utm_source=GHList&utm_medium=company">Kensho</a></strong></td>
+<td>Software Engineer Intern - Summer 2027</td>
+<td>Cambridge, MA<br>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -7614,6 +7628,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
+<td>Medical Economics Intern</td>
+<td>Missouri</td>
+<td>🔒</td>
+<td>21d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Medical Economics Analyst Intern</td>
 <td>Florida</td>
 <td>🔒</td>
@@ -9261,6 +9282,13 @@
 <td><strong><a href="https://simplify.jobs/c/The-Aerospace-Corporation?utm_source=GHList&utm_medium=company">The Aerospace Corporation</a></strong></td>
 <td>Machine Learning Engineering Intern 🎓</td>
 <td>Colorado Springs, CO<br>El Segundo, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company">S&P Global</a></strong></td>
+<td>Machine Learning Engineer Intern</td>
+<td>Cambridge, MA<br>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -10990,6 +11018,13 @@
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Applied AI Intern - University</td>
 <td>Washington, DC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Data Scientist Intern - University</td>
+<td>McLean, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
