@@ -6,11 +6,11 @@
 
 ---
 
-### Browse 2359 Inactive Internship Roles by Category
+### Browse 2362 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (809)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (810)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (153)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (155)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (824)
 
@@ -1001,6 +1001,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Dayton, OH</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GM-Financial?utm_source=GHList&utm_medium=company">GM financial</a></strong></td>
+<td>Software Development Engineer Intern</td>
+<td>Arlington, TX</td>
 <td>🔒</td>
 <td>29d</td>
 </tr>
@@ -5772,6 +5779,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/TIAA?utm_source=GHList&utm_medium=company">TIAA</a></strong></td>
+<td>Insurance Solutions & New Markets Intern</td>
+<td>Charlotte, NC</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/WSFS-Bank?utm_source=GHList&utm_medium=company">WSFS Bank</a></strong></td>
 <td>Product Intern</td>
 <td>Wilmington, DE</td>
@@ -6062,6 +6076,13 @@
 <td><strong><a href="https://simplify.jobs/c/Ulta-Beauty?utm_source=GHList&utm_medium=company">Ulta Beauty</a></strong></td>
 <td>Digital Product Management Intern</td>
 <td>Bolingbrook, IL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
+<td>Product Manager Intern - Undergraduate</td>
+<td>Burgess Hill, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
