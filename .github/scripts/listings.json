@@ -302989,7 +302989,7 @@
         "company_name": "Blue Robotics",
         "id": "4460b93d-f497-449c-9378-4be985d50e83",
         "title": "Electronics Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377838,7 +377838,7 @@
         "company_name": "VersaDesk",
         "id": "3a17ff4f-1c21-4aeb-9a19-515b7d02d1dc",
         "title": "Marketing Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
