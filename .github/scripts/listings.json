@@ -229565,7 +229565,7 @@
         "company_name": "Audax Group",
         "id": "2b1cb4ad-439e-499f-95a2-d30ea699fb24",
         "title": "AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -291420,7 +291420,7 @@
         "company_name": "HMH",
         "id": "56aeb6bb-7cae-408d-8f71-eb7b1a99ea96",
         "title": "Digital Services Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345302,7 +345302,7 @@
         "company_name": "DEKA Research & Development Corp.",
         "id": "3621cd26-a352-4183-b3a4-30fe4f0f25c6",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -391482,7 +391482,7 @@
         "company_name": "Northrop Grumman",
         "id": "3d0329e2-14b0-446f-859e-a1dea8bb23a0",
         "title": "Electrical Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
