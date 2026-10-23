@@ -277496,7 +277496,7 @@
         "company_name": "CIBC",
         "id": "f087940e-a5b0-4548-a6bc-e189b1848910",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285516,7 +285516,7 @@
         "company_name": "Boeing",
         "id": "e2123de3-a5ba-4c83-883a-ac9a270e7e40",
         "title": "Applied Mathematician Intern - Engineering & Technology Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295889,7 +295889,7 @@
         "company_name": "Hearst",
         "id": "e117e384-e58d-4b8c-be0d-eeb4ff54a0db",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -303906,7 +303906,7 @@
         "company_name": "American Express",
         "id": "9ccdafeb-a560-48e7-a199-38d185706e9c",
         "title": "Software Engineer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309382,7 +309382,7 @@
         "company_name": "Nexthop.ai",
         "id": "d95281cf-98b3-4a5a-95ed-2ad39d2197a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -319010,7 +319010,7 @@
         "company_name": "American Express",
         "id": "e42c5690-d416-4909-ba3c-fd4eca08295e",
         "title": "Marketing Analyst Intern - Undergraduate ICS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335719,7 +335719,7 @@
         "company_name": "TC Energy",
         "id": "f9aac5d5-d4f2-4936-93fc-e6a1cf4306f6",
         "title": "Work Management Capabilities & Platforms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346324,7 +346324,7 @@
         "company_name": "Itron",
         "id": "6236ea31-fdc8-485d-a8fc-b2fe9c0aa953",
         "title": "Data Science Intern - Distributed Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -359006,7 +359006,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386265,7 +386265,7 @@
         "company_name": "Johnson & Johnson",
         "id": "eed65ade-e9b6-4281-bfea-94e030327a6d",
         "title": "External Manufacturing Center of Excellence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390200,7 +390200,7 @@
         "company_name": "Northrop Grumman",
         "id": "fe413853-4493-4bf0-a4af-5723d1b9fdbc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405365,5 +405365,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "b9d691cf-e9a6-406c-a287-7cd9b08afc07",
+        "title": "Electrical Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792735735,
+        "date_posted": 1792627200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineering-Intern_1213409",
+        "locations": [
+            "Chippewa Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
