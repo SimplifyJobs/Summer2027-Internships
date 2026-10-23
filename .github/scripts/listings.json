@@ -288617,7 +288617,7 @@
         "company_name": "Hearst",
         "id": "0f01813c-18e9-48c2-9e47-4afaf74c1be9",
         "title": "AI Newsroom Developer Fellow - Hearst Journalism Fellowship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333860,7 +333860,7 @@
         "company_name": "Capital Group",
         "id": "1612b1ec-0741-41c1-b8d3-31f1060dc2aa",
         "title": "Data & Technology Summer Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396865,7 +396865,7 @@
         "company_name": "RTX",
         "id": "20670d26-2afd-4769-b533-a3e5ff77ca0c",
         "title": "Electrical Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398109,7 +398109,7 @@
         "company_name": "RTX",
         "id": "0017fea4-31d8-44fc-a69d-2af57be2290e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
