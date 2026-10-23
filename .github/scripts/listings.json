@@ -237605,7 +237605,7 @@
         "company_name": "Booz Allen",
         "id": "b5849ab7-6000-47b6-847d-99300b7d8722",
         "title": "Data Scientist Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275399,7 +275399,7 @@
         "company_name": "Geotab",
         "id": "dc3499d4-1da1-47d7-abd8-1851bee1e727",
         "title": "Software Developer Intern - Mygeotab",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -290014,7 +290014,7 @@
         "company_name": "S&P Global",
         "id": "b4d94132-e8a4-4b79-b217-987f984623b5",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290794,7 +290794,7 @@
         "company_name": "Kensho",
         "id": "d96e9b38-f776-431d-9b9c-d75fa74ab6a8",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332215,7 +332215,7 @@
         "company_name": "Lean TECHniques",
         "id": "aa53868c-7316-4c11-b2d1-387065247bb1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -340611,7 +340611,7 @@
         "company_name": "AbbVie",
         "id": "fec9533c-b5cc-4a22-b148-01e36f9516d4",
         "title": "Business Technology Solutions Intern - Data & Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353964,7 +353964,7 @@
         "company_name": "Centene",
         "id": "b87a0b81-a911-4993-996f-c2e07ab05067",
         "title": "Medical Economics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406429,7 +406429,7 @@
         "company_name": "CAE",
         "id": "e036c643-73e5-4aed-9393-88ba5c8585bd",
         "title": "Software Developer Intern - Operating System Image & Configuration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
