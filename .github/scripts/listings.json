@@ -248278,7 +248278,7 @@
         "company_name": "Emerson Electric",
         "id": "a1cfe3a9-e808-48c7-b5dc-8e6368b25a8c",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -284225,7 +284225,7 @@
         "company_name": "Buildertrend",
         "id": "c2c6db10-5836-4c07-a30a-b82ff757db89",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303862,7 +303862,7 @@
         "company_name": "American Express",
         "id": "c0e6ac9c-3a51-4bb6-99c2-9d3ed632d897",
         "title": "Product Manager Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336112,7 +336112,7 @@
         "company_name": "GM financial",
         "id": "c101ff9c-9897-4854-bc18-a135671acfc2",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340416,7 +340416,7 @@
         "company_name": "Haleon",
         "id": "a888752d-3464-483f-b4e3-0d5130bc28cd",
         "title": "Data & Governance Industrial Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348579,7 +348579,7 @@
         "company_name": "American Express",
         "id": "d58d138c-9f48-42e1-98ec-3081af31201c",
         "title": "Product Analyst Intern - Undergraduate - ECMX",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377718,7 +377718,7 @@
         "company_name": "TIAA",
         "id": "ad04fe43-1999-4f2e-b16a-2420d5395dfe",
         "title": "Insurance Solutions & New Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
