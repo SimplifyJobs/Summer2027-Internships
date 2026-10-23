@@ -105601,7 +105601,7 @@
         "company_name": "TIFIN",
         "id": "66154b24-f9a8-43fb-8911-8bffb75278df",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169419,7 +169419,7 @@
         "company_name": "Optiver",
         "id": "95f1deb7-1dce-443a-ad6d-1d1c78b64892",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -277040,7 +277040,7 @@
         "company_name": "Nokia",
         "id": "92d19f9f-b983-4fa7-a8f3-2344103d710e",
         "title": "AI Agent Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -362340,7 +362340,7 @@
         "company_name": "IEX",
         "id": "82c7882b-dc50-4738-b410-17d8fadcd128",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
