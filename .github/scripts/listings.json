@@ -153217,7 +153217,7 @@
         "company_name": "Walleye Capital",
         "id": "0b08ca4e-bd94-4d3b-b4c8-1fa0807b3175",
         "title": "Equity Volatility Quant Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -166274,7 +166274,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -170056,7 +170056,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -233911,7 +233911,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -259660,7 +259660,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -263211,7 +263211,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -263280,7 +263280,7 @@
         "company_name": "Foundation ",
         "id": "3fdba607-c52a-4da8-96b4-ad0933b78280",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -288500,7 +288500,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -314343,7 +314343,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -332421,7 +332421,7 @@
         "company_name": "Advanced Energy",
         "id": "720a793e-c47a-4855-ba94-f7a3b6ca695f",
         "title": "Firmware Engineer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -348904,7 +348904,7 @@
         "company_name": "Stripe",
         "id": "8d662f47-4018-4534-bc0e-e3a416371581",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2028"
@@ -356923,7 +356923,7 @@
         "company_name": "Intel",
         "id": "196825af-df08-45d5-a8e9-0d053f272e7b",
         "title": "AI Solution Architect Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -361304,7 +361304,7 @@
         "company_name": "Boston Scientific",
         "id": "532045a4-58bc-4fef-8105-cae7f1bdcccc",
         "title": "Equipment Engineering Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365236,7 +365236,7 @@
         "company_name": "NewYork-Presbyterian",
         "id": "157c3d24-c5e0-4535-9ed2-0627c925c4cc",
         "title": "Finance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380006,7 +380006,7 @@
         "company_name": "Aon",
         "id": "6af5e7e9-0fa2-4fbf-a037-ce3ebedd3daf",
         "title": "Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387386,7 +387386,7 @@
         "company_name": "Invesco",
         "id": "37d58ddd-afcb-49be-bd32-4911843a04c9",
         "title": "Quantitative Intern - Portfolio Engineering and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390759,7 +390759,7 @@
         "company_name": "GM financial",
         "id": "44c023e1-517d-40b7-8441-9b2c99ca6b4d",
         "title": "Oracle Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408217,6 +408217,48 @@
             "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KRAFTON",
+        "id": "5bb4ece4-430e-448a-b283-4429b6fa0aa5",
+        "title": "UI Programming Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792831373,
+        "date_posted": 1792679825,
+        "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/KRAFTON",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "StudyFetch",
+        "id": "560fbfa2-951c-4d72-adc2-93abc85d1a5b",
+        "title": "Robotics Intern - Learning Kits & Curriculum",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792831187,
+        "date_posted": 1791422612,
+        "url": "https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5",
+        "locations": [
+            "Beverly Hills, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/StudyFetch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
