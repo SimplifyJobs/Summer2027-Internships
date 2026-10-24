@@ -8,11 +8,11 @@
 
 ### Browse 2479 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (854)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (856)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (161)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (873)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (871)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (231)
 
@@ -88,6 +88,13 @@
 </thead>
 <tbody>
 <tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Redmond, WA</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Pattern?utm_source=GHList&utm_medium=company">Pattern</a></strong></td>
 <td>AI Infrastructure Engineer Intern</td>
 <td>Lehi, UT</td>
@@ -99,7 +106,7 @@
 <td>Software Engineer Intern</td>
 <td>SF</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
@@ -134,7 +141,7 @@
 <td>R&D Software Engineer Intern</td>
 <td>Arden Hills, MN</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -329,6 +336,13 @@
 <td><strong><a href="https://simplify.jobs/c/Kainos?utm_source=GHList&utm_medium=company">Kainos</a></strong></td>
 <td>Placement Technologist Intern</td>
 <td>Londonderry, UK</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Technologist Intern</td>
+<td>Belfast, UK</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
@@ -5142,7 +5156,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Media Engine</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -7025,7 +7039,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Product Manager Intern - Product Infrastructure - Account</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -7399,13 +7413,6 @@
 <td>↳</td>
 <td>Data Science Intern</td>
 <td>London, UK</td>
-<td>🔒</td>
-<td>10d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marsh?utm_source=GHList&utm_medium=company">Marsh</a></strong></td>
-<td>Finance Innovation & Technology Intern - Master's Finance Innovation & Technology 🎓</td>
-<td>NYC</td>
 <td>🔒</td>
 <td>10d</td>
 </tr>
@@ -9821,13 +9828,6 @@
 <td>↳</td>
 <td>Data Analytics Engineer Intern - Summer 2027</td>
 <td>Austin, TX</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marsh-McLennan?utm_source=GHList&utm_medium=company">Marsh & McLennan</a></strong></td>
-<td>Data & Analytics Intern - Data & Analytics</td>
-<td>Newcastle upon Tyne, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -16622,7 +16622,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Northwood-Space?utm_source=GHList&utm_medium=company">Northwood Space</a></strong></td>
+<td>↳</td>
 <td>Electrical Engineer Intern - Summer Internship</td>
 <td>LA<br>Torrance, CA</td>
 <td>🔒</td>
