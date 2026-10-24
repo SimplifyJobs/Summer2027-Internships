@@ -392909,7 +392909,7 @@
         "company_name": "Verizon Communications",
         "id": "069f3f4c-adc9-4e2d-919c-045fd3bef6b6",
         "title": "Call Routing Optimization Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393025,7 +393025,7 @@
         "company_name": "Verizon Communications",
         "id": "10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d",
         "title": "Call Routing Optimization Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408413,7 +408413,7 @@
         "company_name": "Aptiv",
         "id": "19189a03-be12-41d8-85ab-ff66a343ee22",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
