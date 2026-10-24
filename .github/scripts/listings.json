@@ -340881,7 +340881,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "c15b6c17-1727-4aaf-8fe1-537a96872d7b",
         "title": "Product Management Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -365513,7 +365513,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e7f4bf5f-d2db-4cf1-a052-81c57b0543b1",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
