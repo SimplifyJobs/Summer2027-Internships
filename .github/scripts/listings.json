@@ -287982,7 +287982,7 @@
         "company_name": "Xcel Energy",
         "id": "9f3cbb1e-b4a0-4f15-b1fc-ea0c6a200973",
         "title": "Residential Energy Product Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298758,7 +298758,7 @@
         "company_name": "Amgen",
         "id": "811210da-553e-4d37-b262-9897450dc43d",
         "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -300725,7 +300725,7 @@
         "company_name": "Guardian Life",
         "id": "8155c07e-de11-481a-ba23-c42178f1189c",
         "title": "Application Development Intern - Digital & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330026,7 +330026,7 @@
         "company_name": "Electronic Arts",
         "id": "e452e67d-358a-4687-ab4a-6d68876b312d",
         "title": "Rendering Engineer Intern - Apex Legends",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330599,7 +330599,7 @@
         "company_name": "William Blair",
         "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
         "title": "Application Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -348323,7 +348323,7 @@
         "company_name": "Veeam Software",
         "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
         "title": "Competitive Intelligence AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348952,7 +348952,7 @@
         "company_name": "Stripe",
         "id": "d9bb2856-f02d-4539-b7c0-81e9ade1a86b",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -357543,7 +357543,7 @@
         "company_name": "Electronic Arts",
         "id": "ec223388-d88d-4b7b-ad95-bc08ce04bd3c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -365494,7 +365494,7 @@
         "company_name": "Northrop Grumman",
         "id": "83a9740c-e026-4b0f-b269-23b44589b6bc",
         "title": "Senior Principal Intelligence Analyst Intern - SkillBridge",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372883,7 +372883,7 @@
         "company_name": "Intel",
         "id": "827e615a-db98-431b-849f-68a2ee50ad9e",
         "title": "AI-Driven Physical Design Engineering PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -380505,7 +380505,7 @@
         "company_name": "Faculte",
         "id": "e22ccf19-d6e8-4c19-8ad3-e0cd9dc5c79c",
         "title": "Data Science Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399029,7 +399029,7 @@
         "company_name": "Intel",
         "id": "ccdb3dc3-8922-4bcb-b317-28364bbe1843",
         "title": "Compiler Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
