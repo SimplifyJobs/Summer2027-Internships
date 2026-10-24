@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "T-Mobile",
-        "id": "4ad43aa5-128e-41e8-9926-3cc585078429",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772064215,
-        "date_posted": 1772064215,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ346600",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "c2c4d339-62ef-4ea9-a45e-1e7dc58d85f2",
         "title": "2026 AI Engineer/Data Scientist Intern-Bachelor's - Santa Clara - CA",
@@ -230204,7 +230180,7 @@
         "company_name": "Kodiak Robotics",
         "id": "078b686b-ef5b-4803-a291-b3762d2b81b9",
         "title": "Behavior Planning Intern - Motion Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -302956,7 +302932,7 @@
         "company_name": "Sun Life",
         "id": "1152eb49-b54c-4cf5-ac13-01753a599595",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320349,7 +320325,7 @@
         "company_name": "Tesla",
         "id": "a0411f20-98d8-4615-8a27-21bcd5d82808",
         "title": "Site Controller Software Engineer Intern - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -328448,7 +328424,7 @@
         "company_name": "Tesla",
         "id": "7b20c4df-f10b-41f9-8eb8-e8d3f55d3f10",
         "title": "Power Electronics Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -374015,7 +373991,7 @@
         "company_name": "Varda Space",
         "id": "0cad6520-05ac-4de6-9c37-5404fa8701b2",
         "title": "Avionics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -398582,7 +398558,7 @@
         "company_name": "Tesla",
         "id": "21f222bb-e42b-4075-a232-98dfa6d74053",
         "title": "Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -408449,6 +408425,30 @@
         "degrees": [
             "Bachelor's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "0065f072-c487-4769-b10d-6993af68f633",
+        "title": "Machine Learning Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792743131,
+        "date_posted": 1779516338,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
