@@ -319834,7 +319834,7 @@
         "company_name": "Rundoo",
         "id": "377f631c-ef18-4036-bcee-57777abb2135",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353434,7 +353434,7 @@
         "company_name": "Intel",
         "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
         "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -358077,7 +358077,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "425c8e2d-cf78-47d2-91a0-5aeca4485643",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392979,7 +392979,7 @@
         "company_name": "Verizon Communications",
         "id": "47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
