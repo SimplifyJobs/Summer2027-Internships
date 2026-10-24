@@ -278752,7 +278752,7 @@
         "company_name": "Marsh",
         "id": "bf10b85e-3c76-4d76-b8d1-e2e1ed813b56",
         "title": "Data & Analytics Industrial Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -321906,7 +321906,7 @@
         "company_name": "Central Hudson",
         "id": "4df28339-408f-45f0-8a26-bbaef8413cca",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388463,7 +388463,7 @@
         "company_name": "HCSC",
         "id": "c02d9734-d615-4259-8106-5100b09f6352",
         "title": "Finance Data & Analytics Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -393376,7 +393376,7 @@
         "company_name": "Intel",
         "id": "373613a0-5aec-44b7-b558-00424f8347e1",
         "title": "Data Science / Software Engineering PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393399,7 +393399,7 @@
         "company_name": "Intel",
         "id": "a2729249-c032-4091-80a0-735f36f2f36f",
         "title": "AI Data Science / Software Engineering PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -393422,7 +393422,7 @@
         "company_name": "Intel",
         "id": "9b0ee2ed-4191-490a-a1d4-f6a6c2872746",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -408396,6 +408396,30 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aptiv",
+        "id": "f8f71cc8-e182-498b-820d-39dc4e013c32",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792840861,
+        "date_posted": 1792713600,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704357",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
