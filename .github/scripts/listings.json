@@ -298612,7 +298612,7 @@
         "company_name": "Amgen",
         "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -340881,7 +340881,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "c15b6c17-1727-4aaf-8fe1-537a96872d7b",
         "title": "Product Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408481,6 +408481,29 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HCSC",
+        "id": "fbf3d29b-15cb-4390-9bb9-28010e5bcb46",
+        "title": "Security Data Classification Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792845568,
+        "date_posted": 1791417600,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HCSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
