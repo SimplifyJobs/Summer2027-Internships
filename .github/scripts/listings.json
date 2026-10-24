@@ -290623,7 +290623,7 @@
         "company_name": "Epic Games",
         "id": "26b76573-439e-42cf-b4a5-f38f8408610c",
         "title": "Backend Services Programmer Intern - Epic Games Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378281,7 +378281,7 @@
         "company_name": "Skydio",
         "id": "4cd89228-5cf0-4015-8a13-f56507d88e39",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
