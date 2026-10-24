@@ -1,31 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kaiser Permanente",
-        "id": "61155f11-cdf7-49e8-bc5b-c3b1c34b3102",
-        "title": "Consulting and Data Analytics Master's Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772103299,
-        "date_posted": 1772103299,
-        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410311",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rolls-Royce",
         "id": "846f5230-aa25-4b5b-a053-77098a55ceee",
@@ -278777,7 +278752,7 @@
         "company_name": "Marsh",
         "id": "bf10b85e-3c76-4d76-b8d1-e2e1ed813b56",
         "title": "Data & Analytics Industrial Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368954,7 +368929,7 @@
         "company_name": "Badger Meter",
         "id": "64ffe791-24fc-4b7a-b06b-90a8bc63b978",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -388488,7 +388463,7 @@
         "company_name": "HCSC",
         "id": "c02d9734-d615-4259-8106-5100b09f6352",
         "title": "Finance Data & Analytics Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393401,7 +393376,7 @@
         "company_name": "Intel",
         "id": "373613a0-5aec-44b7-b558-00424f8347e1",
         "title": "Data Science / Software Engineering PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393424,7 +393399,7 @@
         "company_name": "Intel",
         "id": "a2729249-c032-4091-80a0-735f36f2f36f",
         "title": "AI Data Science / Software Engineering PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393447,7 +393422,7 @@
         "company_name": "Intel",
         "id": "9b0ee2ed-4191-490a-a1d4-f6a6c2872746",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408330,6 +408305,97 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aptiv",
+        "id": "c44cf4ec-db1b-4ee1-9dc0-aefd474d61f6",
+        "title": "Cloud Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792838920,
+        "date_posted": 1792713600,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aptiv",
+        "id": "40dd1519-1e93-4ce3-bc14-101198366afa",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792838883,
+        "date_posted": 1792713600,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "bf3a1bd0-0f1c-4719-af15-7f67b32b2590",
+        "title": "Business Systems AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792838009,
+        "date_posted": 1791244800,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
+        "title": "Postdoctoral Scholar Intern",
+        "active": true,
+        "terms": [
+            "Spring 2022"
+        ],
+        "date_updated": 1792839428,
+        "date_posted": 1783165050,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
