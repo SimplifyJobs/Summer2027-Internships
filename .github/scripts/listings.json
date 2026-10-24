@@ -263932,7 +263932,7 @@
         "company_name": "Flex",
         "id": "ab9e71a3-a1bb-4ee3-8beb-d84f475d8796",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298612,7 +298612,7 @@
         "company_name": "Amgen",
         "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356705,7 +356705,7 @@
         "company_name": "Intel",
         "id": "fa6b1c85-77ab-4c0f-abf9-2175172bb65b",
         "title": "AI Solution Architect Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365840,7 +365840,7 @@
         "company_name": "Leidos",
         "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
         "title": "Business Systems AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387195,7 +387195,7 @@
         "company_name": "Invesco",
         "id": "825cae44-1221-442b-93fc-552072a0498e",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -392790,7 +392790,7 @@
         "company_name": "RTX",
         "id": "a5702f5f-906d-4b1f-8b18-e4034368a2cb",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396182,7 +396182,7 @@
         "company_name": "Northrop Grumman",
         "id": "fa9f1de2-6097-4e3f-9d78-36635f2d80de",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
