@@ -365425,7 +365425,7 @@
         "company_name": "Magna",
         "id": "e41ab9f0-270f-4d97-a14e-94c7cdd8ec77",
         "title": "Student Engineer ADAS Vehicle Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368954,7 +368954,7 @@
         "company_name": "Badger Meter",
         "id": "64ffe791-24fc-4b7a-b06b-90a8bc63b978",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399029,7 +399029,7 @@
         "company_name": "Intel",
         "id": "ccdb3dc3-8922-4bcb-b317-28364bbe1843",
         "title": "Compiler Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -408284,6 +408284,52 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fidelity Investments",
+        "id": "dd0253eb-1b0d-4b57-abfc-061656bcb829",
+        "title": "Investment Risk Management Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792837116,
+        "date_posted": 1792108800,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Chicago-IL/Intern--Operations_2136370",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "COUNTRY Financial",
+        "id": "6d12bdd4-f0e3-4ced-9e3d-481bc829fb72",
+        "title": "Consumer Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792836029,
+        "date_posted": 1788825600,
+        "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030",
+        "locations": [
+            "Bloomington, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/COUNTRY-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
