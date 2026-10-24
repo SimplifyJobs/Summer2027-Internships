@@ -331019,7 +331019,7 @@
         "company_name": "Dominion Energy",
         "id": "d0ed0c99-e192-4c3d-88e7-f0f4d4109f3b",
         "title": "GIS Development Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -378518,7 +378518,7 @@
         "company_name": "Rhombus",
         "id": "e76320a7-376a-4fcb-a89b-c5f1d4aca9a7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378750,7 +378750,7 @@
         "company_name": "H&R Block",
         "id": "cb062e22-3c1a-451f-a4b8-bcb8167ea270",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393002,7 +393002,7 @@
         "company_name": "Verizon Communications",
         "id": "cb08255f-ab56-485d-a46a-26e0cb2ada69",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393069,7 +393069,7 @@
         "company_name": "RTX",
         "id": "d6b959d0-3774-41d6-bc89-d62b84ca38bf",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404183,7 +404183,7 @@
         "company_name": "RTX",
         "id": "dec37e89-bc3d-4681-a0e6-f9485ecdd6e2",
         "title": "Test Engineering Specialist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
