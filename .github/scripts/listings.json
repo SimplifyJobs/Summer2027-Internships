@@ -189971,7 +189971,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -279313,7 +279313,7 @@
         "company_name": "Marsh & McLennan",
         "id": "3b1e5ee1-c09b-4eea-820a-35105021957d",
         "title": "Data & Analytics Intern - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360208,7 +360208,7 @@
         "company_name": "IEX",
         "id": "8b513951-647e-493d-974f-0e804f0a5137",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -360231,7 +360231,7 @@
         "company_name": "IEX",
         "id": "7c58c548-fe96-40a5-ad9c-226e9751449f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374105,7 +374105,7 @@
         "company_name": "Kainos",
         "id": "8c0c58e2-09a5-4405-af40-3b87b72fd72f",
         "title": "Placement Technologist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374151,7 +374151,7 @@
         "company_name": "Kainos",
         "id": "a7112c54-daee-40dc-9bdd-14200a12ff83",
         "title": "Technologist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382896,7 +382896,7 @@
         "company_name": "Marsh",
         "id": "73d1f84a-69e1-4693-b9a8-03e6ae82b0b1",
         "title": "Finance Innovation & Technology Intern - Master's Finance Innovation & Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390417,7 +390417,7 @@
         "company_name": "Marsh & McLennan",
         "id": "fa51c823-7828-457f-b4cf-bb1ef2097644",
         "title": "Data and Analytics Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -403063,7 +403063,7 @@
         "company_name": "Rainmaker",
         "id": "9391428d-0d75-496c-8618-de3689eb4c3d",
         "title": "Machine Learning Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408449,6 +408449,77 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sardine",
+        "id": "860a5d35-fd73-4f09-9dab-71f9950473cf",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792805112,
+        "date_posted": 1792713600,
+        "url": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sardine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "3233703b-70f4-4fd0-9bff-e8e8c935f40a",
+        "title": "Summer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792804920,
+        "date_posted": 1792802161,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aptiv",
+        "id": "19189a03-be12-41d8-85ab-ff66a343ee22",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792804517,
+        "date_posted": 1792804445,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
