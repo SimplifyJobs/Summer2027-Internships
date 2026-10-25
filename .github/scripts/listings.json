@@ -2,52 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Samsung",
-        "id": "8f50dca6-dcf4-4bcb-a512-6e799db97f18",
-        "title": "DRAM Field Application Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772158480,
-        "date_posted": 1772158480,
-        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7641072003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "onsemi",
-        "id": "a7b222e9-2760-40b3-92b1-25901cb6c6eb",
-        "title": "Spring 2026 Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1772158088,
-        "date_posted": 1772158088,
-        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504745",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Onsemi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cadence Design Systems",
         "id": "3d884cef-6d6c-447e-a5f7-3d97ca910306",
         "title": "Intern-Software Engineering",
@@ -156,29 +110,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Calyxo",
-        "id": "19ea54bf-1040-4b17-b948-a3cc22115824",
-        "title": "Sales Operations & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772159455,
-        "date_posted": 1772159455,
-        "url": "https://job-boards.greenhouse.io/calyxo/jobs/5057975007",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Calyxo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
