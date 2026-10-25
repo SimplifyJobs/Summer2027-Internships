@@ -380861,7 +380861,7 @@
         "company_name": "Interac",
         "id": "c74ff3ad-83c4-4bac-b33a-85c098bb91be",
         "title": "Technical Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -401599,7 +401599,7 @@
         "company_name": "Johnson & Johnson",
         "id": "85869f69-c01b-45a8-b389-441e1dd59e73",
         "title": "Data Operations & Operational Excellence Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402215,7 +402215,7 @@
         "company_name": "Airbus",
         "id": "a6e09346-6706-493a-a2fa-922d83877d21",
         "title": "Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
