@@ -2,50 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "d3e624fc-5c9c-4aad-b38f-f684adab013b",
-        "title": "Software Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772179689,
-        "date_posted": 1772179689,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "ac22f3a6-d292-4345-b9f7-3512cd542558",
-        "title": "Intern-Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772179689,
-        "date_posted": 1772179689,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Intern-Software-Engineering_R53488",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Graphcore",
         "id": "b97ccb00-fc34-435b-8a10-92fc41be7b22",
         "title": "2026 Software Engineering Intern - ML Kernels & Runtime Team",
@@ -252530,7 +252486,7 @@
         "company_name": "Edison International",
         "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
