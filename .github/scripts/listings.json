@@ -306902,7 +306902,7 @@
         "company_name": "APEX Analytix",
         "id": "45fec14d-2001-41b9-802c-251d000290e1",
         "title": "Data Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372499,7 +372499,7 @@
         "company_name": "Ascension",
         "id": "7f9efb23-69aa-4042-9954-1336de391b9b",
         "title": "Master Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405792,6 +405792,30 @@
             "Round Rock, TX"
         ],
         "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cadence Design Systems",
+        "id": "d3e624fc-5c9c-4aad-b38f-f684adab013b",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788506642,
+        "date_posted": 1783162138,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
