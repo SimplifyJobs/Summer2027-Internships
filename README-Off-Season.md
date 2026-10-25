@@ -17206,7 +17206,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1717)</summary>
+<summary>🗃️ Inactive roles (1718)</summary>
 
 <table>
 <thead>
@@ -27009,6 +27009,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>AI in Design & Manufacturing Intern 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td>Summer 2026, Fall 2026</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
+<td>Software Intern 🎓</td>
+<td>San Jose, CA</td>
+<td>Fall 2026</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
