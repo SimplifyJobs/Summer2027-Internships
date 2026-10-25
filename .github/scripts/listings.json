@@ -405332,5 +405332,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "8ea7dfa9-2c59-482d-9584-d63a1fd13505",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792968344,
+        "date_posted": 1792968258,
+        "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
