@@ -1,101 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Graphcore",
-        "id": "b97ccb00-fc34-435b-8a10-92fc41be7b22",
-        "title": "2026 Software Engineering Intern - ML Kernels & Runtime Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772190340,
-        "date_posted": 1772190340,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441326002",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Roku",
-        "id": "80f1f1df-e2ed-484b-a898-592df4c687ce",
-        "title": "Software Engineer Intern - UI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772190275,
-        "date_posted": 1772190275,
-        "url": "https://www.weareroku.com/jobs/7626180?gh_jid=7626180",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Graphcore",
-        "id": "23c22952-0eb8-4d58-8ec7-347863fa3de1",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772190335,
-        "date_posted": 1772190335,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441333002",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Graphcore",
-        "id": "03d644d7-4610-4e57-ab93-c93a4598f877",
-        "title": "Software Engineering Intern - Drivers",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772190334,
-        "date_posted": 1772190334,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441356002",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Johnson & Johnson",
         "id": "1d92d1ef-f6d5-404b-be6e-dfc29e212c84",
@@ -402568,7 +402473,7 @@
         "company_name": "RTX",
         "id": "7ffed1dc-9635-4e2b-87f6-9098f3eab4ac",
         "title": "Electro-Optics Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
