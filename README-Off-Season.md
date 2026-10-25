@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 998 Internship Roles by Category
+### Browse 997 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (300)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (44)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (314)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (313)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (23)
 
@@ -15834,14 +15834,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ivy-Tech-Community-College?utm_source=GHList&utm_medium=company">Ivy Tech Community College</a></strong></td>
-<td>Data Analysis Intern</td>
-<td>Indianapolis, IN</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/304f593d-cf05-46f9-aea4-676aa29e105e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Figma?utm_source=GHList&utm_medium=company">Figma</a></strong></td>
 <td>Data Engineer Intern</td>
 <td>SF<br>NYC</td>
@@ -17198,7 +17190,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1719)</summary>
+<summary>🗃️ Inactive roles (1720)</summary>
 
 <table>
 <thead>
@@ -18025,6 +18017,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Grit Co-op</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2027</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ivy-Tech-Community-College?utm_source=GHList&utm_medium=company">Ivy Tech Community College</a></strong></td>
+<td>Data Analysis Intern</td>
+<td>Indianapolis, IN</td>
+<td>Winter 2026</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
