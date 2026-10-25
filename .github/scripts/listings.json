@@ -221923,7 +221923,7 @@
         "company_name": "Susquehanna International Group",
         "id": "0d95ff8f-ccaa-4031-8bc2-ecf6014f6be0",
         "title": "Trading Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380792,7 +380792,7 @@
         "company_name": "Interac",
         "id": "294c6370-06b0-4fa2-9bb1-16d259be7a1b",
         "title": "Business Systems & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380815,7 +380815,7 @@
         "company_name": "Interac",
         "id": "18e52896-9fbc-4c54-8562-fb1a2fa192bf",
         "title": "Payments Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380838,7 +380838,7 @@
         "company_name": "Interac",
         "id": "0ce0d1ff-2fd1-40c7-92db-51ffc1568e80",
         "title": "Product Intern - Money Movement",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
