@@ -349505,7 +349505,7 @@
         "company_name": "Cox",
         "id": "fcc141fb-8cec-4631-8613-5c6dc6231e0c",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350051,7 +350051,7 @@
         "company_name": "Airbus",
         "id": "9a86cc73-6443-4f50-850e-597980caa699",
         "title": "Hardware Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350074,7 +350074,7 @@
         "company_name": "Airbus",
         "id": "db82b403-fb19-409c-bf56-457fd28a9c63",
         "title": "Software Engineer Intern Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369547,7 +369547,7 @@
         "company_name": "Expedia Group",
         "id": "f0f60486-393d-4f30-aa74-6049aa747fc3",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403330,6 +403330,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "29141e11-18f3-454f-9ef4-99bb74ed9da2",
+        "title": "Engineering Intern - Technical",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792995887,
+        "date_posted": 1792972800,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "f4b511b1-6685-48f6-b83f-a24aa441a213",
+        "title": "AI/ML Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792995305,
+        "date_posted": 1792886400,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
