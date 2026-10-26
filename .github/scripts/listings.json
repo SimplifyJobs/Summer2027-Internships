@@ -235199,7 +235199,7 @@
         "company_name": "The Home Depot",
         "id": "4060f153-ab15-44d4-9f86-1bf555dbf0f7",
         "title": "Data Science & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
