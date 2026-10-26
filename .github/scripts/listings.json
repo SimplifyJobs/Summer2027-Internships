@@ -283051,7 +283051,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -363983,7 +363983,7 @@
         "company_name": "Moog",
         "id": "1f80afa8-c775-4da7-b930-bcb71e621fad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382301,7 +382301,7 @@
         "company_name": "KPMG",
         "id": "5f8d1c66-3ed0-4764-950c-a542a30a1c58",
         "title": "AI Builder Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
