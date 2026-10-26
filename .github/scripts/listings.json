@@ -263851,7 +263851,7 @@
         "company_name": "Premier",
         "id": "8301a1da-b9e0-469a-9cb1-ed1913e214ed",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -269756,7 +269756,7 @@
         "company_name": "Schonfeld",
         "id": "9e38ba0d-ec3d-410d-9e74-03cba82dd023",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286307,7 +286307,7 @@
         "company_name": "L3Harris Technologies",
         "id": "afb3e427-b699-426c-8f7e-dcad458a9c1b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -341456,7 +341456,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "b1fbdfee-17e7-4ed9-b059-62aac557bae9",
         "title": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353127,7 +353127,7 @@
         "company_name": "Moment Energy",
         "id": "70881744-370a-416f-a722-daf7f7bcfbdf",
         "title": "Firmware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -356888,7 +356888,7 @@
         "company_name": "Ciena",
         "id": "9f171e65-e548-464d-b80e-d0ff93f9ca0a",
         "title": "Hardware Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -361502,7 +361502,7 @@
         "company_name": "RTX",
         "id": "a09d5d2b-9532-4945-a5a3-fd9ced82b420",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -399695,7 +399695,7 @@
         "company_name": "Astera Labs",
         "id": "be7ac98c-436f-4f64-946a-a313ab4d06e5",
         "title": "Product Applications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400660,7 +400660,7 @@
         "company_name": "Mayo Clinic",
         "id": "6e2e7956-6e84-46a8-8180-82443de62914",
         "title": "Undergraduate Intern - Neurology AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
