@@ -230,30 +230,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "07953fe3-43c0-412c-a737-922af4de9aef",
-        "title": "Millennium Space Systems Summer 2026 Internship Program - Assembly - Test','And Launch','Atlo','Operations",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772373543,
-        "date_posted": 1772284888,
-        "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Assembly--Test--and-Launch--ATLO--Operations_JR2026498295-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Bank of Montreal",
         "id": "62c8487c-5a4e-446a-a5c8-6cd84977add7",
@@ -235153,7 +235129,7 @@
         "company_name": "The Home Depot",
         "id": "fd8c8cd3-1a79-472d-8dae-d896f4660ce8",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -235176,7 +235152,7 @@
         "company_name": "The Home Depot",
         "id": "91cb2b7b-aa32-4e7d-82f1-4d95b00718d3",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -238540,7 +238516,7 @@
         "company_name": "Travelers",
         "id": "c6dd05de-594d-4fa3-8da1-c646ae0eca31",
         "title": "Engineering Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375524,7 +375500,7 @@
         "company_name": "LSEG",
         "id": "a217a750-20b7-4ee0-b9a2-1855fdd996b2",
         "title": "Finance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375571,7 +375547,7 @@
         "company_name": "LSEG",
         "id": "8a2d9b32-6b34-4e11-ab1a-faf886eae48a",
         "title": "Finance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375594,7 +375570,7 @@
         "company_name": "LSEG",
         "id": "81f6a6a0-ca1b-4a27-aafa-49735204bc0e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375709,7 +375685,7 @@
         "company_name": "LSEG",
         "id": "9bd3bc29-77ef-440c-9c59-3f852606c72c",
         "title": "Quantitative Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383907,7 +383883,7 @@
         "company_name": "Wise",
         "id": "e23e8b39-0bb4-40d5-8ffc-74ac90837a8e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
