@@ -147917,7 +147917,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -221975,7 +221975,7 @@
         "company_name": "DuCharme, McMillen & Associates",
         "id": "07fb9dda-5acf-40a0-8daa-9a4ef8e9d7a5",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -263875,7 +263875,7 @@
         "company_name": "Premier",
         "id": "018b3915-5456-4f05-b3d3-4f7410a98b0d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -290357,7 +290357,7 @@
         "company_name": "The Toro Company",
         "id": "06f8582b-d2e1-4928-8269-999eb07e3aa1",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330406,7 +330406,7 @@
         "company_name": "Johnson & Johnson",
         "id": "12a95e7d-c62e-4b8c-b8ff-491b854e7a20",
         "title": "Data Science Co-op - Critical Care - Applied Sciences & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -347385,7 +347385,7 @@
         "company_name": "Montreal Institute for Learning Algorithms",
         "id": "0e122058-7086-4d6f-a8cb-71e803be3af5",
         "title": "AI Safety Research Intern - AI Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
