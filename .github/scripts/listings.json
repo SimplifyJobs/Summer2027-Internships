@@ -133070,7 +133070,7 @@
         "company_name": "AQR Capital Management",
         "id": "d342e8d5-0959-45a5-a4b6-df3b930c83fd",
         "title": "Portfolio Implementation \u2013 Trading and Portfolio Finance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -200920,7 +200920,7 @@
         "company_name": "Deloitte",
         "id": "e87551ad-e266-4369-aa66-b85287a56ea2",
         "title": "Summer Scholar Intern - Government & Public Services - Cyber Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219034,7 +219034,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254550,7 +254550,7 @@
         "company_name": "Garda Capital Partners",
         "id": "985a4103-cb72-4623-892b-243318a9e041",
         "title": "Trading Analyst Intern - Mortgages",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265380,7 +265380,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "d6df302f-694e-405d-b557-61e18845a0be",
         "title": "Software Engineer Intern - Power Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284367,7 +284367,7 @@
         "company_name": "Tradeweb",
         "id": "c7e11532-97f0-4038-b67b-28a55c9f602a",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285958,7 +285958,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d87810fe-423a-4c90-94aa-56b6f291d9ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -310982,7 +310982,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "a4df1ba6-a9b3-47cb-ad51-5515e6284b2e",
         "title": "Maritime Modeling & Control Intern - Maritime Robotics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -318760,7 +318760,7 @@
         "company_name": "AMD",
         "id": "b9f6b322-68cf-4f50-bade-eeee73d9f55a",
         "title": "AI Research Intern - Reinforcement Learning and LLM Post-Training",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340878,7 +340878,7 @@
         "company_name": "Assurant",
         "id": "d3562842-a546-495a-bbe9-da2caa4618ac",
         "title": "Product Analyst Intern - Housing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342761,7 +342761,7 @@
         "company_name": "Veeam Software",
         "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
         "title": "Competitive Intelligence AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346173,7 +346173,7 @@
         "company_name": "Houlihan Lokey",
         "id": "d6edb373-31c9-46ca-b0c8-87877dcb9d6d",
         "title": "Financial Analyst - Corporate Valuation Advisory Services - Complex Securities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361429,7 +361429,7 @@
         "company_name": "RTX",
         "id": "d145d88e-f6ed-460e-b257-a01adef1548e",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -369368,7 +369368,7 @@
         "company_name": "1Password",
         "id": "ea18d599-afb1-4b87-8d7f-5298310d2473",
         "title": "Data Intern - Product Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -376660,7 +376660,7 @@
         "company_name": "Nissan Global",
         "id": "dd696d72-8a61-4391-a4a0-3677ae2b6157",
         "title": "Research Application Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378615,7 +378615,7 @@
         "company_name": "Commonwealth Fusion Systems",
         "id": "95542b2a-559f-4043-9abf-11784ddc524b",
         "title": "AI & Infrastructure Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -393422,7 +393422,7 @@
         "company_name": "Pattern",
         "id": "e595d9e8-49e8-4372-9e3b-e6e2708c26dc",
         "title": "AI Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400046,7 +400046,7 @@
         "company_name": "Marvell",
         "id": "b2385634-acd5-4fc2-b5b1-74b8054923c7",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -400451,7 +400451,7 @@
         "company_name": "Amperesand",
         "id": "e564ea1f-97d3-4cd1-99bd-c1445f56925a",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401798,7 +401798,7 @@
         "company_name": "Coretek Services",
         "id": "b62acb8f-73bb-4503-905b-d785adc23fe0",
         "title": "Data Consultant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
