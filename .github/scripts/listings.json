@@ -159468,7 +159468,7 @@
         "company_name": "Ribbon",
         "id": "97d542d1-34cd-4cd5-a7fc-6d841b5b0a28",
         "title": "UI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204655,7 +204655,7 @@
         "company_name": "ConnectPrep",
         "id": "6fcc37f1-f667-4483-a39c-eea9d0bbc924",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -253059,7 +253059,7 @@
         "company_name": "Northrop Grumman",
         "id": "68f77e24-7325-4a04-9e6f-048e16a551a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323761,7 +323761,7 @@
         "company_name": "CIBC",
         "id": "a3057bae-dd6b-423a-aa65-19b37fac301b",
         "title": "Software/Application Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -333225,7 +333225,7 @@
         "company_name": "Intuit",
         "id": "71018f38-602e-4001-9e45-698d20f81b5f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -350095,7 +350095,7 @@
         "company_name": "Airbus",
         "id": "68b19d6d-f755-4c52-a73d-48a9847eb255",
         "title": "Digital & Technology Solutions Plant Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -365158,7 +365158,7 @@
         "company_name": "Manulife Financial",
         "id": "7bd3b5ec-dd72-44c4-9ed5-2b05cff024ce",
         "title": "Grit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366756,7 +366756,7 @@
         "company_name": "Johnson & Johnson",
         "id": "688fb9b4-365c-4e25-b93a-9c4d8abb8f59",
         "title": "Digital Automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -366781,7 +366781,7 @@
         "company_name": "Johnson & Johnson",
         "id": "9a42eb0e-d390-47e7-85fa-9d1494c41240",
         "title": "Proteins Cell Engineering, Analytics & Screening Automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -369621,7 +369621,7 @@
         "company_name": "Expedia Group",
         "id": "90b46656-655e-4002-b29e-4cd358328a8e",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385868,7 +385868,7 @@
         "company_name": "AstraZeneca",
         "id": "778bedfe-4485-4261-a6fc-7fc81bd85975",
         "title": "Patient Data Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -390621,7 +390621,7 @@
         "company_name": "Enact Mortgage Insurance",
         "id": "6ffd85cb-55d0-40b0-bf5a-5ee5bb34056b",
         "title": "Risk Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393488,7 +393488,7 @@
         "company_name": "FedEx Freight",
         "id": "96fc7fa6-89ca-4a3f-afef-27ed0b8d6355",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
