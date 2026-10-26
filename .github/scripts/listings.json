@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vantage Data Centers",
-        "id": "ccbc31c1-4ec1-4a51-839d-48cbdbf187a8",
-        "title": "Design Management Intern Tool Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772281403,
-        "date_posted": 1772281403,
-        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Design-Management-Intern--NA_R21140",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Amazon",
         "id": "5eea2f48-7d19-4e02-9851-e52da422ed27",
@@ -335646,7 +335623,7 @@
         "company_name": "Stryker",
         "id": "edbfc137-545b-4ee8-a315-2c1bdeeaa277",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -383975,7 +383952,7 @@
         "company_name": "Wise",
         "id": "4f038232-125e-40c1-aa88-2701ec7c0353",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400448,7 +400425,7 @@
         "company_name": "Goodlord",
         "id": "20ab69e2-0291-4950-bcd8-5f25e296e51f",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
