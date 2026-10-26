@@ -226650,7 +226650,7 @@
         "company_name": "Brunswick",
         "id": "0bb11c52-e4bf-4eb0-b1e8-68d76b7aefe1",
         "title": "Transducer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319436,7 +319436,7 @@
         "company_name": "Assured Guaranty",
         "id": "125bd988-6772-4728-ae9c-d0c5bc2562d3",
         "title": "Product Software Developer - Back-End",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319768,7 +319768,7 @@
         "company_name": "Mastercard",
         "id": "12b0c5bd-1f3e-4864-9af8-f599c64bff48",
         "title": "AI & Data Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -329610,7 +329610,7 @@
         "company_name": "Marvell",
         "id": "030de51d-475d-4824-8b91-aa3e6ff1c86a",
         "title": "Analog Design Intern Co-op - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -375575,7 +375575,7 @@
         "company_name": "LSEG",
         "id": "112ac640-41ea-4a8d-9297-a0fab277b9a9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387481,7 +387481,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "10497907-6a16-498a-a06a-e40113931577",
         "title": "AI-Enabled Requirements Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
