@@ -1,103 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SoFi",
-        "id": "a903ffdf-cb35-41f9-bcfd-aac1eef3f46e",
-        "title": "Software Engineer - Home Equity Loans",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772245186,
-        "date_posted": 1772245186,
-        "url": "https://www.sofi.com/careers/sofi-university/7632233003?gh_jid=7632233003",
-        "locations": [
-            "Seattle, WA",
-            "Helena, MT"
-        ],
-        "company_url": "https://simplify.jobs/c/SoFi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oracle",
-        "id": "ced6a577-3de9-42b1-9eae-287a42a564ef",
-        "title": "PhD Research Assistant - Machine Learning Research Group",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772244951,
-        "date_posted": 1772244951,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/328944",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uber",
-        "id": "36ee2b8e-c0f8-41ad-acbb-bf26b0285a55",
-        "title": "PhD Scientist Intern - Competitive Intelligence",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772244576,
-        "date_posted": 1772244576,
-        "url": "https://university-uber.icims.com/jobs/156189/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF",
-            "Seattle, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uber",
-        "id": "16d13e7e-3e43-4c1e-a6a9-3f356ac2647c",
-        "title": "PhD Scientist Intern - Competitive Intelligence",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772244644,
-        "date_posted": 1772244644,
-        "url": "https://www.uber.com/global/en/careers/list/156189/",
-        "locations": [
-            "SF",
-            "Seattle, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "467921d2-d135-49f0-8e14-745ccdaa6803",
@@ -58989,29 +58892,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sandisk",
-        "id": "73da8d26-c2a8-4b79-828c-e139e594d966",
-        "title": "Intern \u2013 SSD System Design Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774981261,
-        "date_posted": 1772244524,
-        "url": "https://jobs.smartrecruiters.com/Sandisk/744000111948180",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sandisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
