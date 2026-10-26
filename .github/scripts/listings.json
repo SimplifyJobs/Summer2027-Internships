@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "5eea2f48-7d19-4e02-9851-e52da422ed27",
-        "title": "Infrastructure Delivery Technician",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772291483,
-        "date_posted": 1772291483,
-        "url": "https://amazon.jobs/en/jobs/3181426/work-based-learning-program-infrastructure-delivery-technician",
-        "locations": [
-            "Hermiston, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tatari",
         "id": "e8889127-074f-47a2-98fd-6aeb3b8207b1",
