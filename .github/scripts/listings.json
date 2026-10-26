@@ -347258,7 +347258,7 @@
         "company_name": "CME Group",
         "id": "eaefc21c-3712-43eb-9284-7017f77c1481",
         "title": "AI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -349482,7 +349482,7 @@
         "company_name": "Parsons",
         "id": "f865648f-b814-4503-ba7b-112c3f3fe9f1",
         "title": "CNO Developer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
