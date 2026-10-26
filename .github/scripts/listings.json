@@ -279193,7 +279193,7 @@
         "company_name": "Schonfeld",
         "id": "ef2721e7-d76b-48da-a16f-bbc0ef2757aa",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367460,7 +367460,7 @@
         "company_name": "Itron",
         "id": "ffc142d8-54ce-4628-b359-7770b0566d0e",
         "title": "HR AI Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
