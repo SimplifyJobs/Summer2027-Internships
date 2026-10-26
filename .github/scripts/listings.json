@@ -340613,7 +340613,7 @@
         "company_name": "Northrop Grumman",
         "id": "2b8a623c-d139-413c-aff2-d9afce6a38e4",
         "title": "Cyber Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381818,7 +381818,7 @@
         "company_name": "Assort Health",
         "id": "31c27bf5-e121-4183-a1d6-b31c6f3ab7b5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
