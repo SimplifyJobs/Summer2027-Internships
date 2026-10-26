@@ -280169,7 +280169,7 @@
         "company_name": "Fasanara",
         "id": "ee7df455-7d62-4d63-a298-d8b4959c809b",
         "title": "Quant Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -284056,7 +284056,7 @@
         "company_name": "Tradeweb",
         "id": "fa3df2ae-5069-483a-8e2a-bd02d06b7b4f",
         "title": "Java Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286032,7 +286032,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f14ef6e4-d6a5-471c-af7e-f435c1fb1576",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -333732,7 +333732,7 @@
         "company_name": "The Toro Company",
         "id": "ea082e48-c78b-42c1-9849-f0c07749c260",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377819,7 +377819,7 @@
         "company_name": "Tessera Labs",
         "id": "ff40ee27-6821-4bc8-8929-0a9a37fa6d77",
         "title": "Full Stack Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027",
@@ -393446,7 +393446,7 @@
         "company_name": "Pattern",
         "id": "eb3a32f4-7026-4b65-8a5e-02f0916dd693",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
