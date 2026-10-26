@@ -349920,7 +349920,7 @@
         "company_name": "Airbus",
         "id": "c08991f6-6763-42a3-98f0-a5bd3adee4b7",
         "title": "Digital and Technology Solutions Degree Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -365179,7 +365179,7 @@
         "company_name": "Manulife Financial",
         "id": "c9744d9d-5ddd-408e-816a-786dbe51e32e",
         "title": "Product Management & Risk Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -369360,7 +369360,7 @@
         "company_name": "TIAA",
         "id": "ad04fe43-1999-4f2e-b16a-2420d5395dfe",
         "title": "Insurance Solutions & New Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390485,7 +390485,7 @@
         "company_name": "Genworth Financial",
         "id": "b52b431d-2553-4faa-ac12-49e1b984dc25",
         "title": "Risk Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395293,7 +395293,7 @@
         "company_name": "Man Group",
         "id": "d80aecb9-4fb0-4778-a684-44e69469b4d4",
         "title": "Systematic Quant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399073,7 +399073,7 @@
         "company_name": "Airbus",
         "id": "bd93c9e1-34c6-4861-bd78-38f25dccb3ae",
         "title": "Operational Excellence Analyst Intern - Data Analytics - Operational Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
