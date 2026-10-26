@@ -183951,7 +183951,7 @@
         "company_name": "Deloitte",
         "id": "4b79443f-64b0-4381-aa54-5febee12149d",
         "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249452,7 +249452,7 @@
         "company_name": "Geotab",
         "id": "271b8fea-6d1f-4318-aaa7-aa9a13159d72",
         "title": "Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -253131,7 +253131,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -255653,7 +255653,7 @@
         "company_name": "Axon",
         "id": "2fe280fe-5031-4477-ba75-3261ae5e81fe",
         "title": "2027 US Electrical Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284343,7 +284343,7 @@
         "company_name": "Tradeweb",
         "id": "25c808c8-0a2f-4eaf-8ec7-e6ba82c075f6",
         "title": "C++ Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304504,7 +304504,7 @@
         "company_name": "Micron Technology",
         "id": "563ce3fa-deec-437a-883e-6c9179763ddc",
         "title": "HBM SoC Physical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -346335,7 +346335,7 @@
         "company_name": "Marvell",
         "id": "43bf967e-805b-45b1-af2d-493750d8e32f",
         "title": "Firmware Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378241,7 +378241,7 @@
         "company_name": "Deloitte",
         "id": "5006bca9-5a65-4bba-ae3e-89a860ed29ad",
         "title": "Audit & Assurance Intern - Valuation & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380845,7 +380845,7 @@
         "company_name": "Tesco",
         "id": "232d5844-222c-4143-92d0-bdecbe07bcc4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -386423,7 +386423,7 @@
         "company_name": "Sherwin-Williams",
         "id": "3a6b71e3-b56e-41f1-a0a1-d14156245466",
         "title": "R&D Innovation Color Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391880,7 +391880,7 @@
         "company_name": "RTX",
         "id": "59eafb00-c9d4-436d-9f61-8bd752396e1f",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -392960,7 +392960,7 @@
         "company_name": "Draper",
         "id": "3cccbd25-d96e-4da8-bc1a-bb46049aeaf4",
         "title": "Optoelectronics Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
