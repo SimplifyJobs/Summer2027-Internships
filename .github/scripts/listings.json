@@ -235243,7 +235243,7 @@
         "company_name": "The Home Depot",
         "id": "344cba34-8972-4eb0-b47d-64f9893987bc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335669,7 +335669,7 @@
         "company_name": "Stryker",
         "id": "a1e33777-66db-432c-ae5d-6cec88b6c107",
         "title": "Electrical and Electronic Engineering Co-op - HeartSine R&D Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
