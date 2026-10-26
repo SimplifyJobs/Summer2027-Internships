@@ -23,27 +23,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Vantage Data Centers",
-        "id": "7dbf87b0-5fc0-4015-947f-d80a709c91bc",
-        "title": "Design Management Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772287279,
-        "date_posted": 1772287279,
-        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Design-Management-Intern--NA_R21139",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Tatari",
         "id": "e8889127-074f-47a2-98fd-6aeb3b8207b1",
         "title": "Data Science BI \u2013 Intern",
@@ -3994,30 +3973,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "a7a85f8d-db27-4283-8416-1c42ea010fde",
-        "title": "Millennium Space Systems Intern Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772454591,
-        "date_posted": 1772286439,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Assembly--Test--and-Launch--ATLO--Operations_JR2026498295",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -381337,7 +381292,7 @@
         "company_name": "Apple",
         "id": "cae47bed-b842-4cee-8e20-e5fecb96fa80",
         "title": "Software Engineer Intern - Apple Services Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392134,7 +392089,7 @@
         "company_name": "ManTech",
         "id": "d005c265-e4c0-4cfe-a117-fe33afe73f8a",
         "title": "AI Workflow Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394927,7 +394882,7 @@
         "company_name": "STR",
         "id": "d2f74a87-aaab-4d5c-8b92-ce3716d85f6a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397340,7 +397295,7 @@
         "company_name": "QTS",
         "id": "ce71deaf-609d-4056-a87f-79161320e181",
         "title": "Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
