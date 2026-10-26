@@ -403550,5 +403550,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Man Group",
+        "id": "17b4c94a-fd86-4085-b17d-66856ae2da10",
+        "title": "Systematic Fast Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792978923,
+        "date_posted": 1792977518,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FTI Consulting",
+        "id": "4400b7b2-318d-4cfe-a277-a8687cae1078",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792978766,
+        "date_posted": 1792972800,
+        "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FTI-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
