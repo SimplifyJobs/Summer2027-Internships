@@ -186858,7 +186858,7 @@
         "company_name": "Melius",
         "id": "56196707-1bc1-44de-9e0e-a32456792771",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -201406,7 +201406,7 @@
         "company_name": "Micron Technology",
         "id": "5d13cd38-a186-470d-a3a8-b605e114e041",
         "title": "DRAM Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -221314,7 +221314,7 @@
         "company_name": "Audax Group",
         "id": "47fb79bc-9f49-407b-bb0c-52352eba40be",
         "title": "Data Analyst Co-op - Business Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -239668,7 +239668,7 @@
         "company_name": "Emerson Electric",
         "id": "528416aa-09e4-4f9c-a145-9747f978fe5d",
         "title": "Data Science Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -273712,7 +273712,7 @@
         "company_name": "Loblaw Companies",
         "id": "50d1f877-b643-482b-b35b-dc03572708d0",
         "title": "Technology Transformation Co-op - Technology Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -283358,7 +283358,7 @@
         "company_name": "Ankura Consulting Group",
         "id": "26c5d37a-2f9e-4eb5-bec6-346618906746",
         "title": "Forensic Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -289089,7 +289089,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -356302,7 +356302,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "5c36212c-2f70-482d-91ee-c4c8fdcd552f",
         "title": "Electro-Optical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371856,7 +371856,7 @@
         "company_name": "KLA",
         "id": "4f6c38aa-af24-4222-9bc8-745ccd365dc1",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375179,7 +375179,7 @@
         "company_name": "AECOM",
         "id": "92df1c73-b83b-4d1f-9366-ef07d2fa6bd7",
         "title": "Engineering/Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -391077,7 +391077,7 @@
         "company_name": "Kentro",
         "id": "496d4038-bec1-42db-a76d-a0f5ea63eb05",
         "title": "Performance and Marketing Communications Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
