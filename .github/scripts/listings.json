@@ -192997,7 +192997,7 @@
         "company_name": "Tesla",
         "id": "dc98760f-d794-4d68-be4d-5639d2bcf3f3",
         "title": "Cell Engineering Intern - Cell Qualification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -193276,7 +193276,7 @@
         "company_name": "Microsoft",
         "id": "ed31bd8d-9acf-436c-9628-1d4c79959bac",
         "title": "Full-Stack Product Engineer Intern - Web + Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -230258,7 +230258,7 @@
         "company_name": "Tesla",
         "id": "96a80fff-d4c9-467e-b9f7-80924676ceca",
         "title": "Product Support Engineer Intern - Service Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -240406,7 +240406,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278443,7 +278443,7 @@
         "company_name": "Keysight Technologies",
         "id": "95f70268-a80b-4e11-b4c3-587d08de81ba",
         "title": "R&D Packaging and Signal Integrity Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -278677,7 +278677,7 @@
         "company_name": "Dominion Energy",
         "id": "a4b2f748-ec54-430b-a168-1042a6acfa42",
         "title": "Electrical Engineer Intern - Operations Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2028"
         ],
@@ -308718,7 +308718,7 @@
         "company_name": "Farm Credit Canada",
         "id": "71cfea4b-117a-411b-abcb-252b359ec034",
         "title": "Data Analyst Student - Business Reporting",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -324059,7 +324059,7 @@
         "company_name": "Rippling",
         "id": "93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
         "title": "Machine Learning Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328438,7 +328438,7 @@
         "company_name": "Astranis",
         "id": "c52cc7c0-a4c3-4e69-9a96-3d56b8ddc27a",
         "title": "Software Defined Radio Hardware Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330627,7 +330627,7 @@
         "company_name": "Keysight Technologies",
         "id": "9c88b1dc-1cef-4857-93ee-282e00d802b7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -343420,7 +343420,7 @@
         "company_name": "Pinterest",
         "id": "9513cd12-01dd-4e85-99be-9b990a943ae9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -374904,7 +374904,7 @@
         "company_name": "BNY",
         "id": "5cdde90a-cf70-4281-9189-5e921c57dd2d",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383651,7 +383651,7 @@
         "company_name": "Wise",
         "id": "ab308341-4749-47aa-901c-995b58db10ab",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394330,7 +394330,7 @@
         "company_name": "Grassroots Analytics",
         "id": "a2ed0c93-4088-4cf5-b43d-984ae034313a",
         "title": "Campaigns Data Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -398514,7 +398514,7 @@
         "company_name": "onsemi",
         "id": "ef81bfb1-56bf-4a32-b001-020a5ce145b3",
         "title": "AI & Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
