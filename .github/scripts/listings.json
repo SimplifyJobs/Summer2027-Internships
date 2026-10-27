@@ -240406,7 +240406,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -374904,7 +374904,7 @@
         "company_name": "BNY",
         "id": "5cdde90a-cf70-4281-9189-5e921c57dd2d",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390553,7 +390553,7 @@
         "company_name": "Roche",
         "id": "ccf5d6fe-14b2-403d-b0e8-2dd576f64329",
         "title": "Computer Science Industrial Placement Student Intern - Data Capability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393372,7 +393372,7 @@
         "company_name": "Northrop Grumman",
         "id": "989d5de4-7861-4fd9-83e3-58b9395fdd59",
         "title": "Systems Engineering Intern - AI Experience",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398514,7 +398514,7 @@
         "company_name": "onsemi",
         "id": "ef81bfb1-56bf-4a32-b001-020a5ce145b3",
         "title": "AI & Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -407033,6 +407033,31 @@
             "Santa Rosa, CA"
         ],
         "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "lowRISC CIC",
+        "id": "9f53c835-37e0-454c-9b71-662641264345",
+        "title": "Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793094157,
+        "date_posted": 1793094053,
+        "url": "https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LowRISC-CIC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
