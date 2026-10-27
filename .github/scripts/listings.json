@@ -333352,7 +333352,7 @@
         "company_name": "Cencora",
         "id": "71efbec5-7a6e-44ef-996e-13ceb6d0df55",
         "title": "Software Developer Intern - EDI IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -346459,7 +346459,7 @@
         "company_name": "Harvey",
         "id": "b884d6ac-a1a0-4677-80ed-ce53c57be6e9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
