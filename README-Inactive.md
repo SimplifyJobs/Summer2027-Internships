@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 2672 Inactive Internship Roles by Category
+### Browse 2674 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (932)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (933)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (173)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (928)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (929)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (248)
 
@@ -3066,6 +3066,13 @@
 <td><strong><a href="https://simplify.jobs/c/Spirit-AeroSystems?utm_source=GHList&utm_medium=company">Spirit AeroSystems</a></strong></td>
 <td>Programmer Analyst / Developer Intern - IDT&S</td>
 <td>Wichita, KS</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Neighbor?utm_source=GHList&utm_medium=company">Neighbor</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Lehi, UT</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -8610,6 +8617,13 @@
 <td><strong><a href="https://simplify.jobs/c/Perchwell?utm_source=GHList&utm_medium=company">Perchwell</a></strong></td>
 <td>Data Analytics Engineering Intern</td>
 <td>NYC</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/WW-Grainger?utm_source=GHList&utm_medium=company">W.W. Grainger</a></strong></td>
+<td>Business Analyst Intern</td>
+<td>Green Bay, WI</td>
 <td>🔒</td>
 <td>27d</td>
 </tr>
