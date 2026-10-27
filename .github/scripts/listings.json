@@ -326201,7 +326201,7 @@
         "company_name": "Neuberger Berman",
         "id": "d19faef5-69be-4dee-b896-16d292336009",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335157,7 +335157,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "c15b6c17-1727-4aaf-8fe1-537a96872d7b",
         "title": "Product Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338493,7 +338493,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b3fa8bd3-148e-47bb-a65f-f2530b2dfc41",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338728,7 +338728,7 @@
         "company_name": "KLA",
         "id": "a7373af1-154a-4460-accf-0f684091471b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339666,7 +339666,7 @@
         "company_name": "Quantum Signal AI",
         "id": "d1dbaa59-82a3-42e7-a68f-6ec2a8ea58e9",
         "title": "Embedded and Real-Time Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342924,7 +342924,7 @@
         "company_name": "Nordson",
         "id": "bbaa19f4-71a8-4f61-a652-4fe6c534ef4b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -370973,7 +370973,7 @@
         "company_name": "Lake Michigan Credit Union",
         "id": "c4d25552-826d-4682-8edd-264a1371ee4b",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389317,7 +389317,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "977d6496-2a2b-4bba-83d0-e902e7ced1d6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391256,7 +391256,7 @@
         "company_name": "Meta",
         "id": "aacdee8b-5d3f-4b0b-ba7e-f6f590ca5792",
         "title": "Research Scientist Intern - Robot Foundation Models",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401750,7 +401750,7 @@
         "company_name": "RTX",
         "id": "a03eaf41-3ae1-4ad5-9fcd-cd0626da84e9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
