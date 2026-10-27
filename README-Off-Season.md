@@ -10,17 +10,17 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 912 Internship Roles by Category
+### Browse 909 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (282)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (281)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (44)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (278)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (277)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (21)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (287)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (286)
 
 ---
 
@@ -105,7 +105,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Watertown, MA</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4a9c560a-71b3-4d43-9fa2-b6bac7524628?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MSA-Safety?utm_source=GHList&utm_medium=company">MSA Safety</a></strong></td>
@@ -1612,14 +1612,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/DiligenceVault?utm_source=GHList&utm_medium=company">DiligenceVault</a></strong></td>
-<td>AI Engineer Intern</td>
-<td>NYC</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d08e5d29-f031-4f1a-a171-3f94c18c42e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Software Engineer Intern - Data Platforms</td>
 <td>Palo Alto, CA</td>
@@ -2336,7 +2328,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1267)</summary>
+<summary>🗃️ Inactive roles (1268)</summary>
 
 <table>
 <thead>
@@ -3811,6 +3803,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Software Engineer Co-op/Intern - Data Modeling & Integration</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/DiligenceVault?utm_source=GHList&utm_medium=company">DiligenceVault</a></strong></td>
+<td>AI Engineer Intern</td>
+<td>NYC</td>
+<td>Winter 2026</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -12963,6 +12963,30 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>25d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
+<td>Product Management Intern</td>
+<td>Toronto, ON, Canada</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Product Management Intern</td>
+<td>Toronto, ON, Canada</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
+<td>Product Management Intern</td>
+<td>Rochester, NY</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
 
 </tbody>
 </table>
@@ -12989,30 +13013,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
-<td>Product Management Intern</td>
-<td>Toronto, ON, Canada</td>
-<td>Winter 2027</td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Product Management Intern</td>
-<td>Toronto, ON, Canada</td>
-<td>Winter 2027</td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
-<td>Product Management Intern</td>
-<td>Rochester, NY</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>27d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Altice-USA?utm_source=GHList&utm_medium=company">Altice USA</a></strong></td>
 <td>Mobile Device Product Management Intern</td>
@@ -14711,7 +14711,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Watertown, MA</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/10347b2a-79ed-4cbc-991c-51a991fedf60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
@@ -16714,14 +16714,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Performance Indicator Development and Process and Project Management Internship</td>
-<td>Longueuil, QC, Canada</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Ancestry?utm_source=GHList&utm_medium=company">Ancestry</a></strong></td>
 <td>Applied AI Science Co-op - Embedding models - Personalization 🎓</td>
 <td>Remote in USA</td>
@@ -16918,7 +16910,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1755)</summary>
+<summary>🗃️ Inactive roles (1756)</summary>
 
 <table>
 <thead>
@@ -19783,6 +19775,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tr>
 <td>↳</td>
 <td>Data Analyst Intern - Spare Parts Services</td>
+<td>Longueuil, QC, Canada</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Performance Indicator Development and Process and Project Management Internship</td>
 <td>Longueuil, QC, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
@@ -32468,14 +32468,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Software Engineer Intern</td>
 <td>Clifton, NJ</td>
 <td>Winter 2026</td>
-<td><div align="center"><a href="https://jobs.l3harris.com/job/Clifton-Intern,-Software-Engineer-NJ-07014/1435263500/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b1ed0a55-576a-4662-ac4d-62535fe683e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern</td>
-<td>Clifton, NJ</td>
-<td>Winter 2026</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Clifton-Intern,-Software-Engineer-NJ-07014/1435263700/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ee30da52-e2dc-4cdc-b029-dec875a9b34e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>27d</td>
 </tr>
@@ -34284,7 +34276,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (898)</summary>
+<summary>🗃️ Inactive roles (899)</summary>
 
 <table>
 <thead>
@@ -34537,6 +34529,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Clifton, NJ</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
