@@ -201427,7 +201427,7 @@
         "company_name": "Micron Technology",
         "id": "5d13cd38-a186-470d-a3a8-b605e114e041",
         "title": "DRAM Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301760,7 +301760,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
