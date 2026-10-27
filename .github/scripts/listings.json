@@ -346532,7 +346532,7 @@
         "company_name": "Harvey",
         "id": "2149ec11-ebea-44e9-95ff-a9ef69ecacdf",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390529,7 +390529,7 @@
         "company_name": "RTX",
         "id": "09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
