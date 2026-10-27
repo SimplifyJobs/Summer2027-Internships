@@ -268648,7 +268648,7 @@
         "company_name": "General Dynamics UK",
         "id": "3f3c2722-e6f4-460f-a318-ada5d0e970f7",
         "title": "Systems Engineering Co-op - TacNET 8",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -271132,7 +271132,7 @@
         "company_name": "General Dynamics UK",
         "id": "0d504ec1-4c20-45c1-95c9-bd8e7239a5b8",
         "title": "Software Engineering Co-op - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -274679,7 +274679,7 @@
         "company_name": "GE Appliances",
         "id": "1e3d3a80-84e2-4576-8274-bb56e5167f47",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -283680,7 +283680,7 @@
         "company_name": "Smartly.io",
         "id": "0eae67de-ac0c-4f09-9e18-f53a762ea7e7",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336723,7 +336723,7 @@
         "company_name": "John Deere",
         "id": "0150e350-a32f-4473-a4ee-93b1e1b1ea7e",
         "title": "Software Engineer Part-Time Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381312,7 +381312,7 @@
         "company_name": "Behaviour Interactive",
         "id": "1dda6476-4e02-4025-a7b8-95a4e556235c",
         "title": "Product Management Intern - 7 Days to Die",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -401844,7 +401844,7 @@
         "company_name": "RTX",
         "id": "17267c54-883e-4270-aa47-9c1ba310d244",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405291,7 +405291,7 @@
         "company_name": "Pennsylvania State University",
         "id": "0e8ee149-0417-4a2f-b697-11a6071346ba",
         "title": "Part-Time Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
