@@ -156508,7 +156508,7 @@
         "company_name": "pony.ai",
         "id": "40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
         "title": "Research Intern - Deep Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -278443,7 +278443,7 @@
         "company_name": "Keysight Technologies",
         "id": "95f70268-a80b-4e11-b4c3-587d08de81ba",
         "title": "R&D Packaging and Signal Integrity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -282751,7 +282751,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324059,7 +324059,7 @@
         "company_name": "Rippling",
         "id": "93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
         "title": "Machine Learning Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330627,7 +330627,7 @@
         "company_name": "Keysight Technologies",
         "id": "9c88b1dc-1cef-4857-93ee-282e00d802b7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331481,7 +331481,7 @@
         "company_name": "Astranis",
         "id": "677e8f2d-1a4c-4b80-b630-cc24cd4ff3df",
         "title": "Software Developer Associate - Network Software",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -332969,7 +332969,7 @@
         "company_name": "Bedrock Robotics",
         "id": "468b84e5-6585-46ca-a0bc-c17392fa706d",
         "title": "Safety Engineer Intern - Agentic Safety Case Assessment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339500,7 +339500,7 @@
         "company_name": "Dandy",
         "id": "bd15f88f-f59c-49a4-915c-8c54dc3c8adc",
         "title": "PhD Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -340599,7 +340599,7 @@
         "company_name": "Astranis",
         "id": "8829a1c0-3369-4ffa-ad10-13cbf936c3c7",
         "title": "Radiation Effects Associate Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -343420,7 +343420,7 @@
         "company_name": "Pinterest",
         "id": "9513cd12-01dd-4e85-99be-9b990a943ae9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -348273,7 +348273,7 @@
         "company_name": "Keysight Technologies",
         "id": "4a804898-e17f-46b7-9518-a3588d965783",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -355555,7 +355555,7 @@
         "company_name": "Boston Scientific",
         "id": "532045a4-58bc-4fef-8105-cae7f1bdcccc",
         "title": "Equipment Engineering Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400170,7 +400170,7 @@
         "company_name": "RTX",
         "id": "28e9b3bb-4e8d-47e3-b752-d6a0e06de51b",
         "title": "Mission Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407012,6 +407012,31 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "5d8625b4-2f3c-4bb8-a7dc-6bf889d1b5db",
+        "title": "R&D Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793090375,
+        "date_posted": 1790115180,
+        "url": "https://jobs.keysight.com/jobs/54326?icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's",
             "PhD"
         ]
