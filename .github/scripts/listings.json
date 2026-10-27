@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "f4ffddb2-b621-4c7f-bcaf-3f94562b333d",
-        "title": "2026 Engineering Intern - Northridge CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772322385,
-        "date_posted": 1772322385,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2026-Engineering-Intern---Northridge-CA_R10210316",
-        "locations": [
-            "Northridge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Abacus Insights",
         "id": "d96f31da-5a9c-49f1-b957-f7a3d954a3bb",
