@@ -280411,7 +280411,7 @@
         "company_name": "Navy Federal",
         "id": "65ad38a7-2526-4991-8307-6c8daf2a8a35",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -282165,7 +282165,7 @@
         "company_name": "Solidigm",
         "id": "baeaa5ae-dc71-46ae-b8a9-41f4cf574934",
         "title": "Talent Acquisition Data Engineering & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336197,7 +336197,7 @@
         "company_name": "L3Harris Technologies",
         "id": "742c736b-3418-4c67-a0e4-f4dd7fa2dd8c",
         "title": "Systems Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -344643,7 +344643,7 @@
         "company_name": "Walleye Capital",
         "id": "7e635a7d-4a28-41ba-a06c-d0b08875dfae",
         "title": "Special Projects Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386097,7 +386097,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "674e587c-edc9-497e-b2f3-325b559527a2",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392840,7 +392840,7 @@
         "company_name": "Nutanix",
         "id": "8c79b347-4be7-4551-8b17-0eee3a073dc5",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399185,7 +399185,7 @@
         "company_name": "Freestone Capital Management",
         "id": "8af600d6-6ea1-466e-9f4d-3bbbce358d82",
         "title": "Technology & Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
