@@ -278441,7 +278441,7 @@
         "company_name": "Neighbor",
         "id": "0d9faa74-3c88-4420-95ea-f5e99ae6d84f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334804,7 +334804,7 @@
         "company_name": "W.W. Grainger",
         "id": "2535090d-f04a-40f9-afb9-01cd43e2af3f",
         "title": "Business Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2026"
