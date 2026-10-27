@@ -174644,7 +174644,7 @@
         "company_name": "Phaidra",
         "id": "b77751b6-859f-4a04-a1aa-66508bbaf277",
         "title": "PhD Studentship: Causal Reinforcement Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -199564,7 +199564,7 @@
         "company_name": "Marshall Wace",
         "id": "0a45c012-edc2-4b79-bd41-d7c92f3689ba",
         "title": "AI Placement - Imperial 6 month placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -201076,7 +201076,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "6538dcdb-7ff2-4214-ba47-f53b40274027",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -201125,7 +201125,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "46e43e77-a583-4b8b-a107-fac3536b5a7c",
         "title": "Product Intern - Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -201173,7 +201173,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "14051ce6-a050-4a8e-851b-555583f7ba2c",
         "title": "Data Engineer Intern - Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -218479,7 +218479,7 @@
         "company_name": "GE Vernova",
         "id": "4dcd82b7-38d8-4c45-b11f-1d0b3a75a1d0",
         "title": "Project Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -221195,7 +221195,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -269732,7 +269732,7 @@
         "company_name": "Apex",
         "id": "ad59a004-0776-406a-b86b-f75db844806d",
         "title": "Simulation Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -270059,7 +270059,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -273733,7 +273733,7 @@
         "company_name": "Loblaw Companies",
         "id": "50d1f877-b643-482b-b35b-dc03572708d0",
         "title": "Technology Transformation Co-op - Technology Transformation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -313107,7 +313107,7 @@
         "company_name": "Javelin Global Commodities",
         "id": "2569d7a8-a0c6-49dc-b828-f9c792898c61",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342357,7 +342357,7 @@
         "company_name": "Glean",
         "id": "94015ee8-32d2-4ad0-8394-3cb30e464aaa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366076,7 +366076,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "16b61d0f-fc3f-4be6-91dc-7dbdb0ba1a21",
         "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -370467,7 +370467,7 @@
         "company_name": "GAF",
         "id": "965d9d0a-6d28-4b11-877b-698242e3b2d3",
         "title": "Data Science (AI) Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370828,7 +370828,7 @@
         "company_name": "GAF",
         "id": "a13245a8-c3d3-4790-9835-386cfb36742e",
         "title": "IT Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406217,6 +406217,404 @@
         "sponsorship": "Other",
         "degrees": [
             "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "f3d3f266-8dd3-4d3a-b387-6431187b5e2a",
+        "title": "Defense Science and Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064430,
+        "date_posted": 1790633350,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990015740565",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highmark Health",
+        "id": "c917f0bc-a8d2-4468-ad7c-573f62b007bd",
+        "title": "Predictive Modeling & Data Science Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064453,
+        "date_posted": 1792972800,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Connecticut",
+            "Texas",
+            "Montana",
+            "Florida",
+            "New Hampshire",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Arizona",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Hawaii",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "New Jersey",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Alabama",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highmark Health",
+        "id": "bfbf3ca8-38df-48d8-9039-e1b886870dca",
+        "title": "Enterprise Master Data Management Analyst Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064453,
+        "date_posted": 1792972800,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Connecticut",
+            "Texas",
+            "Montana",
+            "Florida",
+            "New Hampshire",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Arizona",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Hawaii",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "New Jersey",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Alabama",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Generac",
+        "id": "224fe741-c383-4815-9832-c2d6f6e1096f",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793064443,
+        "date_posted": 1792972800,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "7e1845c8-0856-45a5-92cb-e20daea7e6ca",
+        "title": "Robotics Intern - Trustworthy Learning under Uncertainty",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064242,
+        "date_posted": 1793064072,
+        "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JM Family",
+        "id": "449e7a2b-969a-4ba0-9cdd-34a30c283b96",
+        "title": "Automation & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064061,
+        "date_posted": 1792972800,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Automation---Analytics-Intern_JR105132",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Niantic Spatial",
+        "id": "3619b4c7-53d4-4dcc-aa54-3f79280248ed",
+        "title": "Software Engineer Intern - Native SDK & Mobile Platforms",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064096,
+        "date_posted": 1792972800,
+        "url": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Niantic-Spatial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "ae277909-103c-4d44-9947-224d2c430997",
+        "title": "Research Scientist Intern - Search",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793063882,
+        "date_posted": 1793063880,
+        "url": "https://www.metacareers.com/jobs/2171476533578976",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altera",
+        "id": "905af909-78ec-4575-99ed-2c821a3b2d62",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793063927,
+        "date_posted": 1792972800,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "4a739f5c-35ee-4568-9824-17d4f357cd40",
+        "title": "Research Scientist Intern - Efficient World Foundation Models - PhD",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793063882,
+        "date_posted": 1793063881,
+        "url": "https://www.metacareers.com/jobs/1423049949381658",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "6a4d978f-591a-4db3-91fc-cf7e1e34458b",
+        "title": "Research Scientist Intern - Foundation Model Optimization",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793063928,
+        "date_posted": 1793063881,
+        "url": "https://www.metacareers.com/jobs/1435245618154892",
+        "locations": [
+            "Burlingame, CA",
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "af541023-610f-4d4f-8d40-d39c6cdd18f3",
+        "title": "Recording Electronics Data Analytics & Optimization Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793063727,
+        "date_posted": 1791842781,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000155109379",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "c3c93546-bbf2-43f9-ba0a-0dab4d0b469a",
+        "title": "Global Product Solutions and Operations Intern - Global Monetization Product and Technology",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793063584,
+        "date_posted": 1793063488,
+        "url": "https://lifeattiktok.com/search/7701069870360627509",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
