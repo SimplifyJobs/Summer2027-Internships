@@ -406869,5 +406869,100 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HP IQ",
+        "id": "d6d3b025-0991-4f92-ba7a-a3fb13c696fd",
+        "title": "Wireless Automation and Test Engineer Intern - Wireless Automation and Test",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793082277,
+        "date_posted": 1793071316,
+        "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HP-IQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HP IQ",
+        "id": "45b56cbb-a489-4ae6-a25a-52e4a70820f9",
+        "title": "Electrical Engineer Intern - Hardware",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793082273,
+        "date_posted": 1793071999,
+        "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116396004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HP-IQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "1d2964b6-07a1-49b7-a854-43e615ba1604",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793081552,
+        "date_posted": 1792972800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sherwin-Williams",
+        "id": "1def6b3e-6143-4509-9f6c-ca677a3669ec",
+        "title": "R&D Product Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793081402,
+        "date_posted": 1793081249,
+        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Sherwin-Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
