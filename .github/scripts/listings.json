@@ -308617,7 +308617,7 @@
         "company_name": "Farm Credit Canada",
         "id": "e0b8e129-86f6-4001-9587-d113110e4e9c",
         "title": "Data Analyst Student - Valuations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358371,7 +358371,7 @@
         "company_name": "Moog",
         "id": "2aca0513-4399-42cb-9896-91871273e679",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396693,7 +396693,7 @@
         "company_name": "Circle K",
         "id": "78be02f0-f685-4c52-be58-2170c2d99779",
         "title": "Real Estate Strategy & Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
