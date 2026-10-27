@@ -223337,7 +223337,7 @@
         "company_name": "John Deere",
         "id": "b36d77b3-8f2d-43d7-bf82-ad49189efa02",
         "title": "Robotics Engineer Part-Time Student - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -262819,7 +262819,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -290582,7 +290582,7 @@
         "company_name": "DiligenceVault",
         "id": "d08e5d29-f031-4f1a-a171-3f94c18c42e6",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338397,7 +338397,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b1ed0a55-576a-4662-ac4d-62535fe683e7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -371615,7 +371615,7 @@
         "company_name": "KLA",
         "id": "d41a0544-4590-49fe-9d93-868652d54419",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371687,7 +371687,7 @@
         "company_name": "KLA",
         "id": "c1d1f32a-c770-499d-aece-ef5b490c9f9a",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383745,7 +383745,7 @@
         "company_name": "BorgWarner",
         "id": "d0a36b27-0b6f-4956-9ecb-4952e191ed55",
         "title": "EPMO Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403713,7 +403713,7 @@
         "company_name": "L3Harris Technologies",
         "id": "af7f40ae-8255-41d7-a6e0-0ab503b0c166",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
