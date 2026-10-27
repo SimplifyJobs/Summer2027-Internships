@@ -164257,7 +164257,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
         "title": "Office of Career Services Intern - Technology Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -212901,7 +212901,7 @@
         "company_name": "Garda Capital Partners",
         "id": "d935bae6-e667-4bd1-b10d-4431b5555110",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -218595,7 +218595,7 @@
         "company_name": "GE Vernova",
         "id": "7d67654b-4933-41a8-b796-81003c0d2c31",
         "title": "Project Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -218986,7 +218986,7 @@
         "company_name": "H3X Technologies",
         "id": "bb7c0aac-5534-4988-b2eb-f17b650f5c9c",
         "title": "Embedded Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -294624,7 +294624,7 @@
         "company_name": "Klaviyo",
         "id": "90073809-4e42-4a91-9c65-c5750c320aba",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -294647,7 +294647,7 @@
         "company_name": "Klaviyo",
         "id": "155087e9-02c4-4e9c-af43-3d7e5a3a6091",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -301784,7 +301784,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -322854,7 +322854,7 @@
         "company_name": "GSK",
         "id": "948e552e-e9b9-4849-afe3-c06c0e5f216e",
         "title": "Data & Analytics - Multiple Roles",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337189,7 +337189,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "efff5c18-233b-49dd-a516-5c36f19636aa",
         "title": "Software Developer Intern - Tools & Apps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340264,7 +340264,7 @@
         "company_name": "NVIDIA",
         "id": "6eed7061-5a5f-4b68-98e6-bdfe0e5d31c2",
         "title": "PhD Research Intern - Programming Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347266,7 +347266,7 @@
         "company_name": "Deloitte",
         "id": "a0efdd93-97e9-48dc-b794-46db915d82ad",
         "title": "Business Analytics Summer Scholar Intern - Government & Public Services - Business Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -366076,7 +366076,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "16b61d0f-fc3f-4be6-91dc-7dbdb0ba1a21",
         "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -378357,7 +378357,7 @@
         "company_name": "NVIDIA",
         "id": "15f8d0bb-869f-465a-adb5-e585b4a54017",
         "title": "Product Management MBA Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2028"
@@ -388715,7 +388715,7 @@
         "company_name": "Altera",
         "id": "c4f91e7a-773d-4452-ad90-13a0491b66c1",
         "title": "FPGA IP Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395530,7 +395530,7 @@
         "company_name": "ABB",
         "id": "bc7d8bd5-8a92-4609-ab88-b1fe213fc0a4",
         "title": "R&D Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403195,7 +403195,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "b5717525-5e57-41e6-8b87-b9e3ef29eb44",
         "title": "AI & Stress Testing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -404865,7 +404865,7 @@
         "company_name": "Autodesk",
         "id": "cc64c279-61c8-4de3-a7b3-73b3da9745e9",
         "title": "Product Manager Intern - Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -405333,7 +405333,7 @@
         "company_name": "NASA Jet Propulsion Laboratory",
         "id": "ab62bbaa-de9e-4a17-932c-57a3bd31f722",
         "title": "Academic Part Time Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406614,6 +406614,280 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zillow",
+        "id": "f51fcb61-d19e-4ed3-81ec-258f5931b9db",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793065504,
+        "date_posted": 1792972800,
+        "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zillow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "e2505b77-7cf2-4649-ad34-77ec15332d45",
+        "title": "Associate \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793064989,
+        "date_posted": 1793064890,
+        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1443908200/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "53c80701-fd03-4de6-b3d7-defc622faa0b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793064983,
+        "date_posted": 1793064890,
+        "url": "https://jobs.l3harris.com/job/Rochester-Intern,-Software-Engineer-NY-14624/1443908600/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Saviynt",
+        "id": "aa777b1a-9c23-48b4-8c56-23f0944caa64",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064787,
+        "date_posted": 1793064670,
+        "url": "https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saviynt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aurora Innovation",
+        "id": "9b9c9131-4829-4126-8887-6e0efe753ad9",
+        "title": "Perception & Mapping Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064605,
+        "date_posted": 1790208000,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true",
+        "locations": [
+            "SF",
+            "Pittsburgh, PA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "626eb6cc-ead0-4682-883c-b93395cb4e04",
+        "title": "Core Autonomy Software Intern - C++",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064659,
+        "date_posted": 1790294400,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true",
+        "locations": [
+            "Pittsburgh, PA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "049cea50-d78a-47ec-bcdf-991d89ae226a",
+        "title": "Full Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064659,
+        "date_posted": 1790208000,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true",
+        "locations": [
+            "Pittsburgh, PA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "c4495dbb-9fdd-486f-bfc8-3b914424d558",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793064605,
+        "date_posted": 1791417600,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true",
+        "locations": [
+            "Seattle, WA",
+            "Pittsburgh, PA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aurora Innovation",
+        "id": "426d3a6b-3001-4dd4-acbd-89a9e2bec287",
+        "title": "Behavior and Planning Intern - ML Research",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064659,
+        "date_posted": 1790208000,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true",
+        "locations": [
+            "SF",
+            "Pittsburgh, PA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "14d9ebdd-7c3d-4e8a-acaf-97c40fc2d9fb",
+        "title": "Simulation Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064605,
+        "date_posted": 1790208000,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true",
+        "locations": [
+            "SF",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aurora Innovation",
+        "id": "65e488fa-baa8-48fd-8126-1c6ada908ef9",
+        "title": "Data & ML Platform Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793064660,
+        "date_posted": 1790208000,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
+        "locations": [
+            "SF",
+            "Pittsburgh, PA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
