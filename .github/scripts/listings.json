@@ -156508,7 +156508,7 @@
         "company_name": "pony.ai",
         "id": "40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
         "title": "Research Intern - Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -213573,7 +213573,7 @@
         "company_name": "Normal Computing",
         "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
         "title": "Thermodynamic Hardware Resident",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -282751,7 +282751,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339500,7 +339500,7 @@
         "company_name": "Dandy",
         "id": "bd15f88f-f59c-49a4-915c-8c54dc3c8adc",
         "title": "PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340576,7 +340576,7 @@
         "company_name": "Astranis",
         "id": "33de0b71-35eb-43c8-b0c6-c35c088c8ddf",
         "title": "Radiation Effects Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -347340,7 +347340,7 @@
         "company_name": "Electronic Arts",
         "id": "29da992e-43fd-42b0-bd50-1548d9b595b3",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383768,7 +383768,7 @@
         "company_name": "GM financial",
         "id": "01715d82-9e8f-436e-956d-164b5e0aceb2",
         "title": "Portfolio Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406980,6 +406980,33 @@
         "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
         "locations": [
             "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NormalComputing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Normal Computing",
+        "id": "3163c14a-7b55-40a3-b21d-2696e2c37cd5",
+        "title": "AI Research Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793089442,
+        "date_posted": 1787127897,
+        "url": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Copenhagen, Denmark",
+            "NYC",
+            "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/NormalComputing",
         "is_visible": true,
