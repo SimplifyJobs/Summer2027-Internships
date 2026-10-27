@@ -395836,7 +395836,7 @@
         "company_name": "General Motors",
         "id": "b2c03613-aaeb-429e-86b1-34d237dfe4c0",
         "title": "Fleet Reliability and Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395936,7 +395936,7 @@
         "company_name": "Amazon",
         "id": "8e8525b4-47c1-4431-a6ad-b4a61c3bdc2f",
         "title": "Business Intelligence Engineer Intern - Supply Chain EU SCOT",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404820,7 +404820,7 @@
         "company_name": "Wise",
         "id": "f099275d-3c06-40e4-87c7-21029caedc5f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
