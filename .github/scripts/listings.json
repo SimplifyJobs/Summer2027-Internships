@@ -389522,7 +389522,7 @@
         "company_name": "Applied Materials",
         "id": "c289fea9-67db-45d8-ab27-d9aa699b67cc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407127,6 +407127,30 @@
         "date_updated": 1793095205,
         "date_posted": 1793059200,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Visa",
+        "id": "d23757ff-eac9-4620-bfc5-fc65e0a43ed5",
+        "title": "Product Management Intern - Data and AI Team",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793101861,
+        "date_posted": 1793059200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
         "locations": [
             "Foster City, CA"
         ],
