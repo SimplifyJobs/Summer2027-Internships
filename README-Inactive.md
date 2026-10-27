@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 2678 Inactive Internship Roles by Category
+### Browse 2682 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (936)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (937)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (173)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (174)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (929)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (931)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (248)
 
@@ -2835,6 +2835,13 @@
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Payload Control System Software/Systems Engineering Intern - Summer 2027</td>
 <td>Middletown, RI<br>Manassas, VA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Collier-Aerospace?utm_source=GHList&utm_medium=company">Collier Aerospace</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Newport News, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -6703,6 +6710,13 @@
 <td>20d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
+<td>Product Manager Intern 🎓</td>
+<td>LA</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Associated-Bank?utm_source=GHList&utm_medium=company">Associated Bank</a></strong></td>
 <td>Corporate Intern - Product Development</td>
 <td>Milwaukee, WI</td>
@@ -7970,6 +7984,13 @@
 <td>7d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/GM-Financial?utm_source=GHList&utm_medium=company">GM financial</a></strong></td>
+<td>Portfolio Analytics Intern</td>
+<td>Fort Worth, TX</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Bosch-Home-Comfort?utm_source=GHList&utm_medium=company">Bosch Home Comfort</a></strong></td>
 <td>Data Analyst & Marketing/Sales Intern</td>
 <td>Denham, UK</td>
@@ -8610,6 +8631,13 @@
 <td><strong><a href="https://simplify.jobs/c/American-Family-Insurance-Group?utm_source=GHList&utm_medium=company">American Family Insurance Group</a></strong></td>
 <td>GenAI Intern</td>
 <td>Madison, WI<br>Boston, MA</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Dandy?utm_source=GHList&utm_medium=company">Dandy</a></strong></td>
+<td>PhD Research Intern 🎓</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
