@@ -2626,7 +2626,7 @@
         "company_name": "GE Aerospace",
         "id": "ea8a7a43-d2ba-4e7f-b5e9-a8a86b8e1946",
         "title": "Engines Engineering Intern/Co-op - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -17578,7 +17578,7 @@
         "company_name": "GE Aerospace",
         "id": "cfa33697-df27-4c7b-97c1-16002ecd55cd",
         "title": "Engines Engineering Co-op - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -363613,7 +363613,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "e17c0902-15e1-4da8-bea8-6e82bb016b07",
         "title": "Global Quality Co-op - Commercial Specification Committee",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
