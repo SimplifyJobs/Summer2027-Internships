@@ -222089,7 +222089,7 @@
         "company_name": "Kodiak Robotics",
         "id": "ff60bcb1-d7a6-4ee7-a471-cc9df5ae0dbb",
         "title": "Planning Intern - Mission Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -270383,7 +270383,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "fd543f97-1606-43cf-a204-aebdc7cddf32",
         "title": "Developer & IT Specialist Co-op - Global Asset Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -283155,7 +283155,7 @@
         "company_name": "Ankura Consulting Group",
         "id": "f6a196e0-04eb-49bd-b649-5db7a14421e5",
         "title": "Forensic Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -288281,7 +288281,7 @@
         "company_name": "Exegy",
         "id": "ef30e941-c64e-46bc-958c-d29519f7d16d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358744,7 +358744,7 @@
         "company_name": "Cl\u0113nera",
         "id": "f275fcd7-572d-4633-b737-96a5f019b985",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
