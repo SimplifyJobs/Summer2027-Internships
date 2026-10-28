@@ -177151,7 +177151,7 @@
         "company_name": "Eragon",
         "id": "07deba4f-f6e5-49f8-977e-dc943f689962",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -282475,7 +282475,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371052,7 +371052,7 @@
         "company_name": "Boston Scientific",
         "id": "19c22c7f-5af3-4bed-806e-2ee412ae0d63",
         "title": "R&D Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386191,7 +386191,7 @@
         "company_name": "Paccar",
         "id": "3555c695-037a-494d-b111-9652b4b91a08",
         "title": "Dealer Development Marketing Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388606,7 +388606,7 @@
         "company_name": "Paccar",
         "id": "352ca30a-f20a-448d-8092-68c1f8720f68",
         "title": "Field Service Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396530,7 +396530,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "0c0e98e9-17b7-4035-b381-670534175dff",
         "title": "Explainable AI Intern - Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396788,7 +396788,7 @@
         "company_name": "Keysight Technologies",
         "id": "0a8a54f4-4d35-4ad1-8c7e-de55bb8bc5c5",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
