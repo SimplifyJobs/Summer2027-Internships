@@ -191400,7 +191400,7 @@
         "company_name": "Chicago Trading Company",
         "id": "1637f003-d1c1-4f07-a7da-d53a33e61cc1",
         "title": "Quant Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -200636,7 +200636,7 @@
         "company_name": "Tesla",
         "id": "06fa48a4-38e1-4ac5-9534-ba1c6702b680",
         "title": "Applied AI Engineer Intern - AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -202065,7 +202065,7 @@
         "company_name": "Tesla",
         "id": "cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
         "title": "Software Engineer Intern - AI Inference Co Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -287629,7 +287629,7 @@
         "company_name": "Tesla",
         "id": "3c5a73cb-e206-4607-bba3-aa3fbb3b51b9",
         "title": "Data Engineer Intern - Fleet Data - Self-Driving",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -358232,7 +358232,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "1ed211df-94af-49fb-adc6-90893c7879b2",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371416,7 +371416,7 @@
         "company_name": "7-Eleven",
         "id": "07b72404-06cc-425a-80c5-b8a9a253652a",
         "title": "AI Analyst / AI Automation Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403601,7 +403601,7 @@
         "company_name": "Danaher",
         "id": "10a05117-a7ef-46fb-8efd-30906c28cd60",
         "title": "Supply Chain AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
