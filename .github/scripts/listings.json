@@ -234994,7 +234994,7 @@
         "company_name": "DraftKings",
         "id": "9952d1ca-819b-4568-b670-0b2cd6dc15af",
         "title": "Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327478,7 +327478,7 @@
         "company_name": "Booz Allen",
         "id": "c0f5bb29-73b3-4d6d-ae4a-8630ce8569e6",
         "title": "Quantum Research Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390293,7 +390293,7 @@
         "company_name": "Expedia Group",
         "id": "e477b869-0cb5-4ce8-8992-2d8545e4e8ca",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390682,7 +390682,7 @@
         "company_name": "Zebra Technologies",
         "id": "fd5b6e26-96b5-44b4-b0d5-ce1973787fdb",
         "title": "Business Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390994,7 +390994,7 @@
         "company_name": "CIBC",
         "id": "8e96998a-a5cb-4ae6-a9b9-b1943fd23535",
         "title": "Analyst Co-op - Enterprise Data and Records",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
