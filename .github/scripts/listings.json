@@ -282475,7 +282475,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332693,7 +332693,7 @@
         "company_name": "Bedrock Robotics",
         "id": "468b84e5-6585-46ca-a0bc-c17392fa706d",
         "title": "Safety Engineer Intern - Agentic Safety Case Assessment",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -356898,7 +356898,7 @@
         "company_name": "Meta",
         "id": "913185e4-c0b8-46bb-add7-d4de9eb77339",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387328,7 +387328,7 @@
         "company_name": "American Family Insurance Group",
         "id": "1b127c4c-2a7e-4f0d-86c3-6fe63558f83f",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405270,7 +405270,7 @@
         "company_name": "CIBC",
         "id": "1df85123-0b5c-4638-87f4-311ef7c74122",
         "title": "Governance Solutions Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411062,6 +411062,50 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Serval",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HP IQ",
+        "id": "88e69973-8eee-44d0-91fe-a0c3dce55ece",
+        "title": "Product Design Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793177823,
+        "date_posted": 1793071643,
+        "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HP-IQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lowe's",
+        "id": "27bfd64f-188b-4555-b5cf-fc9525cf15c3",
+        "title": "Store Operations Intern - Retail Facilities Support",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793177665,
+        "date_posted": 1789430400,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Real-Estate---Undergrad-Internship---Summer-2027_JR-02650537",
+        "locations": [
+            "Mooresville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
