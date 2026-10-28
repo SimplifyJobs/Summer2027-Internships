@@ -208662,7 +208662,7 @@
         "company_name": "Datadog",
         "id": "31355168-e211-42dc-a7b5-c84567c929cc",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -219389,7 +219389,7 @@
         "company_name": "Ambrook",
         "id": "45b27f18-198a-4ef0-b8f3-abb8018e7c99",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222918,7 +222918,7 @@
         "company_name": "Philips",
         "id": "327ffcc9-d306-44ce-8b6d-ddbdeb204304",
         "title": "Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -227300,7 +227300,7 @@
         "company_name": "Elk Valley Resources",
         "id": "38a986fa-b190-4465-b469-3c68fa8f62f4",
         "title": "Geographic Information Systems Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308768,7 +308768,7 @@
         "company_name": "AMD",
         "id": "3a8e2760-1a1a-4d40-ab39-93714d09030d",
         "title": "AI Model Optimization & Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -318479,7 +318479,7 @@
         "company_name": "AMD",
         "id": "2d01a847-4d79-431a-9db2-66efd16b5a12",
         "title": "HPC and Sovereign AI Center of Excellence Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -364133,7 +364133,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "40023184-e683-401b-8f3c-c48358d79459",
         "title": "Fuel Engineering Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377009,7 +377009,7 @@
         "company_name": "Meta",
         "id": "5feb8f9a-8cad-46ce-8320-b03d6be84b8b",
         "title": "Manufacturing Test Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387901,7 +387901,7 @@
         "company_name": "Meta",
         "id": "35a618f9-3e92-414f-9b23-8d8d2130672d",
         "title": "Research Scientist Intern - Multimodal Behavioral AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388531,7 +388531,7 @@
         "company_name": "Altera",
         "id": "420b65ad-93a7-4bf4-a5b8-8ff3d0fc4f75",
         "title": "Quartus User Interface Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396644,7 +396644,7 @@
         "company_name": "Amazon",
         "id": "2b19951c-67c9-4606-b94a-7ad022323200",
         "title": "Systems Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403531,7 +403531,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2bb61f16-8e2d-442a-868b-8aafa19032b7",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
