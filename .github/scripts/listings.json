@@ -196444,7 +196444,7 @@
         "company_name": "ByteDance",
         "id": "ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
         "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -202029,7 +202029,7 @@
         "company_name": "Deloitte",
         "id": "ab415b2f-4b79-4996-a204-a63273564c89",
         "title": "Software Engineering Analyst Intern - Government & Public Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259194,7 +259194,7 @@
         "company_name": "Brunswick",
         "id": "84f60c1d-5d94-4e3b-a460-466cccf1d021",
         "title": "Engineering Test Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331670,7 +331670,7 @@
         "company_name": "Bluestaq",
         "id": "d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9",
         "title": "Software Engineering Resident - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -339224,7 +339224,7 @@
         "company_name": "Dandy",
         "id": "bd15f88f-f59c-49a4-915c-8c54dc3c8adc",
         "title": "PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346969,7 +346969,7 @@
         "company_name": "Deloitte",
         "id": "a0efdd93-97e9-48dc-b794-46db915d82ad",
         "title": "Business Analytics Summer Scholar Intern - Government & Public Services - Business Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -356898,7 +356898,7 @@
         "company_name": "Meta",
         "id": "913185e4-c0b8-46bb-add7-d4de9eb77339",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -358610,7 +358610,7 @@
         "company_name": "Akuna Capital",
         "id": "ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
         "title": "Entry-Level C++ Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384117,7 +384117,7 @@
         "company_name": "Paccar",
         "id": "9f87174c-3de3-4a2b-a443-5cf09d0aadce",
         "title": "Warranty Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390916,7 +390916,7 @@
         "company_name": "Meta",
         "id": "cfaefc82-5787-4e0b-8091-f6b29bce3bda",
         "title": "Research Scientist Intern - Foundational Models for Robotics Research",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390937,7 +390937,7 @@
         "company_name": "Meta",
         "id": "b63c4110-277f-4996-b55f-2ae481bcaac2",
         "title": "Research Scientist Intern - Multimodal Learning for Robotics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394011,7 +394011,7 @@
         "company_name": "Meta",
         "id": "b997ca1f-399c-40bb-88af-2a86fe6e7f98",
         "title": "Research Scientist Intern - Fair - Video Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394096,7 +394096,7 @@
         "company_name": "Atoms",
         "id": "dcfec9cd-3dbd-45dc-bff5-52ab399de04a",
         "title": "Machine Learning/Artificial Intelligence Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395395,7 +395395,7 @@
         "company_name": "Paccar",
         "id": "df65c239-9fbb-4b32-a88e-fd7e66234cc4",
         "title": "Aftersales Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395974,7 +395974,7 @@
         "company_name": "Amazon",
         "id": "b528e2b6-04c3-46be-bd21-cac3f2e018bb",
         "title": "Systems Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -396648,7 +396648,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "9ce3fb07-e190-4d4e-b7aa-02d143af536f",
         "title": "Machine Learning Postdoctoral Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402160,7 +402160,7 @@
         "company_name": "Meta",
         "id": "a9be1606-3d61-455b-a156-8ad79d30f2a3",
         "title": "Research Scientist Intern - Policy Learning for Robotics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406600,7 +406600,7 @@
         "company_name": "HP IQ",
         "id": "d6d3b025-0991-4f92-ba7a-a3fb13c696fd",
         "title": "Wireless Automation and Test Engineer Intern - Wireless Automation and Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411110,6 +411110,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AngloGold Ashanti",
+        "id": "b1406c9e-19d9-4355-82b0-2b79c3d6e2db",
+        "title": "Tailings Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1793178723,
+        "date_posted": 1791324194,
+        "url": "https://careers.anglogoldashanti.com/job/Greenwood-Village-Tailings-Intern-CO-80111/1444876333/?ats=successfactors",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AngloGold-Ashanti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
