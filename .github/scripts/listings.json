@@ -312296,7 +312296,7 @@
         "company_name": "OCC",
         "id": "8db3fa59-c233-4a6e-9ccf-10a8b60303c2",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -313020,7 +313020,7 @@
         "company_name": "Clarios",
         "id": "ca4cd198-bc37-44f7-b2ea-070baf8df2a2",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
