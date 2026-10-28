@@ -168971,7 +168971,7 @@
         "company_name": "Akuna Capital University",
         "id": "18e99160-24c6-4a84-bc61-bec64dd7decb",
         "title": "Software Engineer Intern - Full Stack Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -169946,7 +169946,7 @@
         "company_name": "Akuna Capital University",
         "id": "17b55e16-4b9d-4870-ba60-51a53eaf71c5",
         "title": "Software Engineer Intern - C# .NET Desktop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -263753,7 +263753,7 @@
         "company_name": "Innovative Systems",
         "id": "2583c13c-1003-4d90-a33c-cb634ef5ba6e",
         "title": "Software Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -292218,7 +292218,7 @@
         "company_name": "Amgen",
         "id": "079b70ee-8105-46b4-9163-319c8610f157",
         "title": "Software Engineer Intern - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368055,7 +368055,7 @@
         "company_name": "Rochester Regional Health",
         "id": "24935e51-b901-4989-a690-71bc50e9ffc1",
         "title": "Information Systems & Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -397672,7 +397672,7 @@
         "company_name": "Lumentum",
         "id": "21b14afd-4e27-4309-a023-1ab79432f255",
         "title": "Reliability Test Automation Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399607,7 +399607,7 @@
         "company_name": "Thales",
         "id": "7a04abc6-6dbe-4af5-b0ac-c6df3e337263",
         "title": "Tools and Process Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400302,7 +400302,7 @@
         "company_name": "KLA Corporation",
         "id": "0cb46991-9b38-40a6-b1ff-9fa21895f597",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
