@@ -411014,5 +411014,220 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wabtec",
+        "id": "be409c15-d7f8-4de9-a9eb-56f6fd1af705",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793169739,
+        "date_posted": 1793157694,
+        "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016452226",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Wabtec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Quadric",
+        "id": "693a6a23-1e61-491b-a7ff-abae565448eb",
+        "title": "RTL Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793169361,
+        "date_posted": 1792713600,
+        "url": "https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2/application?embed=true",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quadric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quadric",
+        "id": "e9ea1661-68e7-422e-8093-f10f51fb0d07",
+        "title": "AI Kernel Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793169361,
+        "date_posted": 1792713600,
+        "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c/application?embed=true",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quadric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quadric",
+        "id": "7d4422bd-d3e5-46bf-aab9-1aa024e2e435",
+        "title": "Deep Learning Compiler Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793169422,
+        "date_posted": 1792713600,
+        "url": "https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52/application?embed=true",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quadric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Quadric",
+        "id": "769f3e01-48d4-4918-acae-525b67212820",
+        "title": "Design Verification Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793169361,
+        "date_posted": 1792713600,
+        "url": "https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168/application?embed=true",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quadric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurora Innovation",
+        "id": "365794f9-57cb-460f-a01a-ff545f9d0cc9",
+        "title": "LiDAR Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793169400,
+        "date_posted": 1790812800,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Certa",
+        "id": "f7843e36-e0e4-4531-866f-60aa4149321f",
+        "title": "Frontend Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793169011,
+        "date_posted": 1793168940,
+        "url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Remote in India",
+            "SF",
+            "Jaipur, Rajasthan, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Certa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xterra AI",
+        "id": "c5ebe3fd-12f6-4de5-b7ce-becce7b7b5c2",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793169016,
+        "date_posted": 1776124800,
+        "url": "https://jobs.ashbyhq.com/xterra%20ai/bc481f5a-3365-4048-8533-0c7728db512b/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Xterra-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OpenMind",
+        "id": "b6fe71a5-af19-464d-ba1a-1d74bf7a3a0c",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793169001,
+        "date_posted": 1786406400,
+        "url": "https://jobs.ashbyhq.com/openmind/7367a37a-37d9-42d8-91d4-f4d3e42f3e29/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenMind",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
