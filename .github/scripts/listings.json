@@ -402796,7 +402796,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f5035e53-554c-43fa-adcf-00ffabdcc1e4",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411142,6 +411142,27 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/VSP-Vision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "d7027afa-efad-4c6a-8b5a-853c11811670",
+        "title": "International Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793193571,
+        "date_posted": 1793145600,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694",
+        "locations": [
+            "Pleasant Prairie, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
