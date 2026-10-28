@@ -1,50 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Saputo",
-        "id": "7216d6d7-ac56-49f8-bd5a-29c1086520bf",
-        "title": "IT Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1772418043,
-        "date_posted": 1772418043,
-        "url": "https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Montral-QC/IT-Analytics-Intern---Finance---HR-Solutions_JR62566",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Saputo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Voyager Technologies",
-        "id": "6e73a1ce-2f07-4070-8599-e20456c82892",
-        "title": "Intern - Computational Material Design",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772418543,
-        "date_posted": 1772418543,
-        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4158337009",
-        "locations": [
-            "Strongsville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1773060398,
         "sponsorship": "Other",
         "active": false,
