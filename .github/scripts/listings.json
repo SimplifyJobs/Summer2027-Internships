@@ -372376,7 +372376,7 @@
         "company_name": "Genentech",
         "id": "2e55c5cc-b1d6-4917-aba7-5cbaa5b95933",
         "title": "Prescient Frontier Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -390269,7 +390269,7 @@
         "company_name": "Expedia Group",
         "id": "f305d367-0d5d-405d-a623-f7302ab77134",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411080,5 +411080,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "VSP Vision",
+        "id": "d54ad503-0917-4cd9-8e73-8ecd6fe2d56d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793187566,
+        "date_posted": 1793145600,
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VSP-Vision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
