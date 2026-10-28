@@ -168898,7 +168898,7 @@
         "company_name": "Akuna Capital University",
         "id": "30a79016-bc6f-4525-a5fe-a459b18de455",
         "title": "Software Engineer Intern - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292334,7 +292334,7 @@
         "company_name": "Amgen",
         "id": "5012230e-2a8b-4047-80ec-4b7c9ecbf427",
         "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292383,7 +292383,7 @@
         "company_name": "Amgen",
         "id": "27460c05-e022-499c-bcc8-2783559d2639",
         "title": "Digital Product Intern - Digital Product - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -296592,7 +296592,7 @@
         "company_name": "Chemours",
         "id": "32023baa-10fc-4ab0-b943-ff9337e3f641",
         "title": "Data Visualization Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -301411,7 +301411,7 @@
         "company_name": "Interco",
         "id": "521152f4-a049-4209-bcea-27cff986e55f",
         "title": "Software Development Intern - React",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -312197,7 +312197,7 @@
         "company_name": "Javelin Global Commodities",
         "id": "2569d7a8-a0c6-49dc-b828-f9c792898c61",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335951,7 +335951,7 @@
         "company_name": "The Toro Company",
         "id": "39225d3b-e5de-494d-a4bf-f66abdea1711",
         "title": "Ecommerce Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384517,7 +384517,7 @@
         "company_name": "Ursa Major",
         "id": "3fbf45ce-c71e-429a-a73a-65f345515651",
         "title": "Avionics Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394288,7 +394288,7 @@
         "company_name": "CVS Health",
         "id": "4da3ddc6-8559-489a-b239-8d419ece6bad",
         "title": "Software Engineer Intern - Platform & Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394337,7 +394337,7 @@
         "company_name": "Leidos",
         "id": "3f06de58-bfa6-4e51-8270-e63a13d7367b",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399607,7 +399607,7 @@
         "company_name": "Thales",
         "id": "7a04abc6-6dbe-4af5-b0ac-c6df3e337263",
         "title": "Tools and Process Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
