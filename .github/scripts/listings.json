@@ -292097,7 +292097,7 @@
         "company_name": "Amgen",
         "id": "9eef895c-2727-4ebb-92bc-fda2b10c3d34",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381044,7 +381044,7 @@
         "company_name": "Altera",
         "id": "c667509a-a75f-4862-a9ae-d0ca20846b62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
