@@ -192876,7 +192876,7 @@
         "company_name": "Uline",
         "id": "0d82ec26-0b14-48f3-a217-8d65f6a1646e",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301651,7 +301651,7 @@
         "company_name": "Guardian Life",
         "id": "1e56dea3-04d3-4da1-afb5-9f0efbf5bd42",
         "title": "Life Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377117,7 +377117,7 @@
         "company_name": "Meta",
         "id": "211198fe-5019-4e05-ac90-f22df00b5ecc",
         "title": "ASIC Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395346,7 +395346,7 @@
         "company_name": "CVS Health",
         "id": "1af8cecc-ca3f-4421-8bff-4a3581036019",
         "title": "Innovation & Technology Internship - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402434,7 +402434,7 @@
         "company_name": "Meta",
         "id": "20188b2b-e381-4017-b268-0ac421c4e7ab",
         "title": "Research Scientist Intern - Dexterous Manipulation and Contact-Rich Control - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403557,7 +403557,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "240d28d8-55dc-4e88-ab4c-f6ec1dda6110",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
