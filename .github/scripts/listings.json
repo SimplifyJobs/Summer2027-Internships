@@ -178502,7 +178502,7 @@
         "company_name": "Chicago Trading Company",
         "id": "59e1ceb1-c7e4-4305-99e7-7761b7545cdb",
         "title": "Quant Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -197268,7 +197268,7 @@
         "company_name": "Ameren",
         "id": "51b0d062-6f05-4d98-afb7-8dc7523b4758",
         "title": "Digital Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -286204,7 +286204,7 @@
         "company_name": "Insulet",
         "id": "4488d9e4-5ff9-4041-bb53-54feb6a20ba1",
         "title": "Life Cycle Engineering Co-op - Electrical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -339100,7 +339100,7 @@
         "company_name": "KLA",
         "id": "46bc2309-eff6-49b8-b663-051d87560282",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377683,7 +377683,7 @@
         "company_name": "RTX",
         "id": "450e4484-4377-400a-9da6-573dd1196e57",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389387,7 +389387,7 @@
         "company_name": "WisdomTree",
         "id": "4d4eca51-b895-46ce-9c44-183c741ddb11",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405909,7 +405909,7 @@
         "company_name": "Aurora Innovation",
         "id": "426d3a6b-3001-4dd4-acbd-89a9e2bec287",
         "title": "Behavior and Planning Intern - ML Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410708,7 +410708,7 @@
         "company_name": "VSP Vision",
         "id": "5a6710d9-eb37-4044-b352-2b23303dd73c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
