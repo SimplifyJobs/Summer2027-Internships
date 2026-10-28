@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1773060398,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.dayforcehcm.com/en-US/taiho/CANDIDATEPORTAL/jobs/4707",
-        "company_name": "Taiho Oncology",
-        "title": "Intern, Data Science",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "matthewjyhan",
-        "id": "8c31c2eb-9dea-4cc4-81b8-daac5d18d7f5",
-        "date_posted": 1772429812,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Product",
         "company_name": "TikTok",
