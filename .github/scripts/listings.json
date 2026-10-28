@@ -376149,7 +376149,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "40c89227-40af-427b-aaeb-4e23b9acb081",
         "title": "Artificial Intelligence for Power System Operations Intern - Artificial Intelligence for Power System Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390994,7 +390994,7 @@
         "company_name": "CIBC",
         "id": "8e96998a-a5cb-4ae6-a9b9-b1943fd23535",
         "title": "Analyst Co-op - Enterprise Data and Records",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402909,7 +402909,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f25ebaa7-2285-4593-85b8-22a0e5c13159",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408231,7 +408231,7 @@
         "company_name": "New Balance",
         "id": "c540896e-d8dc-431e-9e58-ce35607392a3",
         "title": "Kids Footwear Product Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411094,6 +411094,50 @@
         "date_updated": 1793187566,
         "date_posted": 1793145600,
         "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VSP-Vision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera",
+        "id": "0eed735c-1927-426f-bfd1-9ef4216f2f6e",
+        "title": "FPGA Hardware Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793190447,
+        "date_posted": 1793145600,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748",
+        "locations": [
+            "Marlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "VSP Vision",
+        "id": "5a6710d9-eb37-4044-b352-2b23303dd73c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793189370,
+        "date_posted": 1793145600,
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
         "locations": [
             "Remote in USA"
         ],
