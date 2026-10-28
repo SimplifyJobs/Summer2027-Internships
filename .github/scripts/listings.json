@@ -338309,7 +338309,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404245,7 +404245,7 @@
         "company_name": "CIBC",
         "id": "e301b1e5-66aa-4f93-8177-1b576a717a50",
         "title": "Governance Solutions Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408740,7 +408740,7 @@
         "company_name": "Centific",
         "id": "a5fd5222-6570-4e85-b109-2323b3abdff7",
         "title": "Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
