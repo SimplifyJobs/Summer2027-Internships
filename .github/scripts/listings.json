@@ -263930,7 +263930,7 @@
         "company_name": "Nationwide",
         "id": "6cc400a9-db6f-4550-9989-36f65cbe70b1",
         "title": "Feature Engineer Intern - Enterprise Analytics Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281142,7 +281142,7 @@
         "company_name": "TD Bank",
         "id": "5c97952b-4d8f-49c5-8265-8e697873743a",
         "title": "Data Engineer Intern/Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -326491,7 +326491,7 @@
         "company_name": "Lazard",
         "id": "63f4d5fe-1a58-43dc-8299-1dcb69b5b2f6",
         "title": "AI and Data Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328997,7 +328997,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "7d75bd70-f568-420d-985e-c8ccd2632c8f",
         "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339654,7 +339654,7 @@
         "company_name": "CACI",
         "id": "5db8bd0a-d6b5-46ef-b430-298959f57fe5",
         "title": "Software Development/Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342632,7 +342632,7 @@
         "company_name": "CACI",
         "id": "820f340e-8485-4c82-88a9-64ba5b31a76d",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395393,7 +395393,7 @@
         "company_name": "RTX",
         "id": "7ffed1dc-9635-4e2b-87f6-9098f3eab4ac",
         "title": "Electro-Optics Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
