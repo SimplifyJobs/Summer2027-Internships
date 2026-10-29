@@ -403226,7 +403226,7 @@
         "company_name": "Aurora Innovation",
         "id": "626eb6cc-ead0-4682-883c-b93395cb4e04",
         "title": "Core Autonomy Software Intern - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403353,7 +403353,7 @@
         "company_name": "Aurora Innovation",
         "id": "65e488fa-baa8-48fd-8126-1c6ada908ef9",
         "title": "Data & ML Platform Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
