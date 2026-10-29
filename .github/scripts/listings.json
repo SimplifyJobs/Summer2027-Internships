@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "a2c84b74-2810-4783-8f9e-82637d56d092",
-        "title": "College Sports Systems Technician - Michigan State University",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772535322,
-        "date_posted": 1772535322,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/b206c133-baef-4ac1-8cc3-60d6fc6bf114/application",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cboe",
         "id": "8f4b6c80-81f0-4c32-82d8-1f63307712ec",
@@ -225465,7 +225444,7 @@
         "company_name": "Booz Allen",
         "id": "e7293c88-f396-415f-920c-742686dde2e3",
         "title": "Data Scientist Intern - University",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
