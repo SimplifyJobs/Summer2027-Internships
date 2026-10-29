@@ -7,7 +7,7 @@
 
 ---
 
-### Browse 1814 Internship Roles by Category
+### Browse 1815 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (596)
 
@@ -17,7 +17,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (74)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (335)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (336)
 
 ---
 
@@ -1743,14 +1743,14 @@
 <td>Software Engineer Intern</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9c73b8be-e8be-4a91-9db0-df9eb032917a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8245211?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a5aa21ec-f587-41ab-bbf9-c451cbfe777b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Signifyd?utm_source=GHList&utm_medium=company">Signifyd</a></strong></td>
@@ -4624,7 +4624,7 @@
 <td>Product Management Intern</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/solutions/jobs/4715294006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3e820b10-ba47-4208-bb88-525a7dc5290a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mohawk?utm_source=GHList&utm_medium=company">Mohawk</a></strong></td>
@@ -7204,7 +7204,7 @@
 <td>AI/ML PhD Intern 🎓</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6173399c-5581-4c15-9b5b-8f08d3e0bfc4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
@@ -12066,6 +12066,13 @@
 <td>Electrical Engineer Co-op</td>
 <td>Rockford, IL<br>Elyria, OH</td>
 <td><div align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/717a9235-d891-49bf-845f-ebea0388bfe1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Rendezvous-Robotics?utm_source=GHList&utm_medium=company">Rendezvous Robotics</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Golden, CO</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8b4d0160-e50b-4b12-a510-29a4243ff741?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
