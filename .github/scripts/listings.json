@@ -364589,7 +364589,7 @@
         "company_name": "Aptiv",
         "id": "9fe5cb59-10c4-44a8-80e4-6cb6542c2889",
         "title": "Cloud Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -403451,7 +403451,7 @@
         "company_name": "NVIDIA",
         "id": "07c7ac36-a6b7-4d9a-a42c-4243b95697ae",
         "title": "Software Engineer Intern - AI Agents and Backend Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411287,5 +411287,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA Corporation",
+        "id": "4c771974-b2f4-4181-8fca-dc0284874d28",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793275308,
+        "date_posted": 1793232000,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
