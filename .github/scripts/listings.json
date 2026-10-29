@@ -376345,7 +376345,7 @@
         "company_name": "Boston Scientific",
         "id": "caf45b3a-d589-430c-816a-22a700822dd6",
         "title": "Marketing Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386452,7 +386452,7 @@
         "company_name": "Apple",
         "id": "fc7e57ed-e4b3-4658-b094-842e4a64636a",
         "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412077,6 +412077,672 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "2f680030-93c9-49f5-8bfa-c6c8bdcbda18",
+        "title": "Model Risk Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793285295,
+        "date_posted": 1793232000,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wave Life Sciences USA",
+        "id": "e46659b2-c5d9-4721-889b-e3e9d24f56d7",
+        "title": "Microsoft Copilot AI Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793285102,
+        "date_posted": 1789700781,
+        "url": "https://wavelifesciences.com/jobs?gh_jid=4409054009",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wave-Life-Sciences-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wave Life Sciences USA",
+        "id": "8d877b1b-437c-4ddd-94ef-af8b4819b9fb",
+        "title": "Intellectual Property/Data Science Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793285102,
+        "date_posted": 1789700433,
+        "url": "https://wavelifesciences.com/jobs?gh_jid=4403998009",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Wave-Life-Sciences-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Netcraft",
+        "id": "fb64e1f2-3b7a-4ca1-9b36-3e2b08047160",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793285148,
+        "date_posted": 1789996597,
+        "url": "https://job-boards.eu.greenhouse.io/netcraft/jobs/4975674101",
+        "locations": [
+            "London, UK",
+            "Bath, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Netcraft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Connor, Clark & Lunn Financial Group",
+        "id": "e24fe6c9-b4f4-4644-9ee0-0f9956a757c7",
+        "title": "Investment Analytics Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793285145,
+        "date_posted": 1790023039,
+        "url": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Connor-Clark-Lunn-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qube Research & Technologies",
+        "id": "956d7e6e-0435-403d-877c-4026d34ea7cc",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793285140,
+        "date_posted": 1793012494,
+        "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qube-Research-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Qube Research & Technologies",
+        "id": "e40e4287-aac7-4a1e-9d73-45d2647663f4",
+        "title": "Quantitative Research and Trading Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1793285133,
+        "date_posted": 1788876635,
+        "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+        "locations": [
+            "Aarhus, Denmark",
+            "London, UK",
+            "Paris, France",
+            "Geneva, Switzerland",
+            "Dubai - United Arab Emirates",
+            "Budapest, Hungary",
+            "Z\u00fcrich, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/Qube-Research-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Connor, Clark & Lunn Financial Group",
+        "id": "d565580f-a10f-4485-b524-d64f2ec12ec1",
+        "title": "Investment Analytics Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793285146,
+        "date_posted": 1790023037,
+        "url": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Connor-Clark-Lunn-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qube Research & Technologies",
+        "id": "2ef8d3a4-d742-471f-81ab-d84c40ed6070",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793285133,
+        "date_posted": 1788939335,
+        "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002",
+        "locations": [
+            "London, UK",
+            "Paris, France"
+        ],
+        "company_url": "https://simplify.jobs/c/Qube-Research-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Qube Research & Technologies",
+        "id": "4ebdb3ee-932e-4e34-80a3-dd7c09749e71",
+        "title": "Software Engineering Intern - Quantitative Development",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793285139,
+        "date_posted": 1788875790,
+        "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+        "locations": [
+            "Aarhus, Denmark",
+            "London, UK",
+            "Wroc\u0142aw, Poland",
+            "Paris, France",
+            "Amsterdam, Netherlands",
+            "Dubai - United Arab Emirates",
+            "Z\u00fcrich, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/Qube-Research-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Two Six Technologies",
+        "id": "bfa01257-724c-4c7e-9a32-1bd1a99d9b9e",
+        "title": "Systems Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793284962,
+        "date_posted": 1793283993,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DivcoWest",
+        "id": "7a7f7d6a-505a-4b29-afcc-af4eb8cbc647",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793284924,
+        "date_posted": 1778262768,
+        "url": "https://job-boards.greenhouse.io/divcowest/jobs/4244219009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/DivcoWest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OneEthos",
+        "id": "e7dad441-1919-402c-8936-123968e0e6b3",
+        "title": "Research and Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1793284813,
+        "date_posted": 1792511877,
+        "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459193009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OneEthos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "OneEthos",
+        "id": "4df32e9a-c2bf-41b5-a2d3-5bffe9caf0b5",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1793284742,
+        "date_posted": 1792598790,
+        "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459298009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OneEthos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Datasite",
+        "id": "af544dc0-7957-4ee1-8aa7-c8c161d3648e",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793284596,
+        "date_posted": 1793232000,
+        "url": "https://datasite.wd1.myworkdayjobs.com/datasite/job/GBR---London/Product-Intern_R36469",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Datasite",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mantari",
+        "id": "a00f22bf-8c0f-4b8b-b6cb-997259b24257",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793284600,
+        "date_posted": 1772747573,
+        "url": "https://job-boards.greenhouse.io/mantari/jobs/4173646009",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mantari",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mantari",
+        "id": "e6ce61ca-3c29-426e-aa5d-365b7f5cf7c2",
+        "title": "Electrical Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793284562,
+        "date_posted": 1772747830,
+        "url": "https://job-boards.greenhouse.io/mantari/jobs/4173653009",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mantari",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OLIX",
+        "id": "c1ac74d2-f7fa-4011-8d78-025691a38abc",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793284409,
+        "date_posted": 1793232000,
+        "url": "https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/OLIX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crystal Dynamics",
+        "id": "68688728-c254-4961-b5ba-f479aace81a0",
+        "title": "Gameplay Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793284385,
+        "date_posted": 1792705486,
+        "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crystal-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crystal Dynamics",
+        "id": "28764194-7d52-4d45-b292-fc66a47c6503",
+        "title": "Technical Artist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793284419,
+        "date_posted": 1792703554,
+        "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746826005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crystal-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ProCogia",
+        "id": "e6808cfb-6fc0-41a3-aa2a-b27d76e71392",
+        "title": "AI Applied & Agentic AI Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1793284422,
+        "date_posted": 1791555746,
+        "url": "https://procogia.com/about-us/careers/?gh_jid=5448664008",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ProCogia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ProCogia",
+        "id": "dfba2a45-4bb5-4cc4-aee8-3ac8f4af97f6",
+        "title": "LLM Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1793284385,
+        "date_posted": 1791556956,
+        "url": "https://procogia.com/about-us/careers/?gh_jid=5448685008",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ProCogia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ProCogia",
+        "id": "726bf5e5-369b-4f1f-8aa3-984297944379",
+        "title": "Statistical Programming Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1793284385,
+        "date_posted": 1781632565,
+        "url": "https://procogia.com/about-us/careers/?gh_jid=5265312008",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ProCogia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Burns Engineering",
+        "id": "a56c3be4-35d8-45ca-a8f7-c98206f9e105",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793284275,
+        "date_posted": 1793040714,
+        "url": "https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Burns-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Spaceium",
+        "id": "98084d5d-37e5-4d39-b53f-dac829c5d8e2",
+        "title": "Electrical Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793284224,
+        "date_posted": 1786651276,
+        "url": "https://job-boards.greenhouse.io/spaceium/jobs/4368438009",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Spaceium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Spaceium",
+        "id": "9909c024-1477-4bca-80c1-179c298eaba6",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793284288,
+        "date_posted": 1779748969,
+        "url": "https://job-boards.greenhouse.io/spaceium/jobs/4258525009",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Spaceium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sonos",
+        "id": "b748b636-64b5-4ca3-b76a-cc941b9c3ab4",
+        "title": "Software Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793284281,
+        "date_posted": 1793232000,
+        "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sonos",
+        "id": "54c83f6c-0c22-45e4-8f12-5db6bf3defd8",
+        "title": "Software Engineer Intern - Partner Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793284278,
+        "date_posted": 1793232000,
+        "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
