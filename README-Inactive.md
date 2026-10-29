@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 2786 Inactive Internship Roles by Category
+### Browse 2787 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (972)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (255)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (403)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (404)
 
 ---
 
@@ -18627,6 +18627,13 @@
 <td>↳</td>
 <td>Electrical Engineer Intern/Co-op - Research & Development Engineering</td>
 <td>Moon Twp, PA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Saab?utm_source=GHList&utm_medium=company">Saab</a></strong></td>
+<td>Systems Engineering Co-op</td>
+<td>East Syracuse, NY</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
