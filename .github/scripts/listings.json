@@ -225465,7 +225465,7 @@
         "company_name": "Booz Allen",
         "id": "e7293c88-f396-415f-920c-742686dde2e3",
         "title": "Data Scientist Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -238382,7 +238382,7 @@
         "company_name": "Booz Allen",
         "id": "c0d0a7a8-afbc-4283-886f-e4d7e36f52f0",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -343068,7 +343068,7 @@
         "company_name": "Tesla",
         "id": "6f49e470-0a16-4b21-86e6-7a8a8a5cd275",
         "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -401718,7 +401718,7 @@
         "company_name": "Booz Allen",
         "id": "c033b014-3543-4799-8be7-042be636bc14",
         "title": "Summer Games Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -411235,6 +411235,51 @@
             "Kenosha, WI"
         ],
         "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "e2a5cc10-9c89-4d98-a6f5-862cad47dd47",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793268187,
+        "date_posted": 1793232000,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "92028585-06ce-429a-8702-8cc1d5ce13f5",
+        "title": "Data Engineer Intern - Energy",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1793268033,
+        "date_posted": 1793267933,
+        "url": "https://www.tesla.com/careers/search/job/287982",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
