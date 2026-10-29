@@ -225583,7 +225583,7 @@
         "company_name": "Booz Allen",
         "id": "841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
         "title": "Software Developer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403402,7 +403402,7 @@
         "company_name": "RTX",
         "id": "ba329d2f-c0c8-448c-a44a-8b5c240afe6a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408715,7 +408715,7 @@
         "company_name": "Johnson Controls",
         "id": "47849388-b576-4ddd-83eb-f5893829c924",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
