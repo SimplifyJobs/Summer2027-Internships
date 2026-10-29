@@ -3357,29 +3357,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson Matthey",
-        "id": "7f8fcec8-c961-497f-99ee-c15d0bcbf1a0",
-        "title": "Industrial Placement Intern",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772632521,
-        "date_posted": 1772546622,
-        "url": "https://matthey.wd3.myworkdayjobs.com/Ext_Career_Site/job/Billingham---UK/Industrial-Placement-Student_R-014400",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Matthey",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1775481655,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -411353,6 +411330,753 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera",
+        "id": "c7550b04-9751-4a51-b27b-24ab209dcc1a",
+        "title": "FPGA Software Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793284051,
+        "date_posted": 1793232000,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749",
+        "locations": [
+            "Marlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "9e19ac06-ed59-4535-aae4-93a0f5ca7293",
+        "title": "Research Intern - Machine Intelligence",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793284075,
+        "date_posted": 1793284019,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557050083",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "2b2e5210-8084-4fd3-b375-bdd043c7b676",
+        "title": "AI Developer Co-op - Bilingual",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793283843,
+        "date_posted": 1793232000,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "CIBC",
+        "id": "05d25f11-31aa-465e-b08d-99af042a026f",
+        "title": "Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793283843,
+        "date_posted": 1793232000,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sallie Mae",
+        "id": "c24dc4cf-1483-4344-a627-727c9a26aeb3",
+        "title": "Data Science and Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283696,
+        "date_posted": 1793232000,
+        "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
+        "locations": [
+            "Newark, DE",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sallie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "941c5f3c-bdfe-418c-83e5-48d69272dcbe",
+        "title": "Electoral Reform Research Assistant Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1793283690,
+        "date_posted": 1793232000,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electoral-Reform-Research-Assistant-Part-Time_REQ_0000083798-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "d4989aa8-ab4d-4bc5-bb75-d9deaead306c",
+        "title": "Systems Engineering Co-op Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1793283579,
+        "date_posted": 1793232000,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JM Family",
+        "id": "ffc6266f-4786-4043-b824-c50c2f564d80",
+        "title": "Customer Experience Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283484,
+        "date_posted": 1793232000,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bank of Montreal",
+        "id": "abaefc1d-50b7-4172-a329-4fc9c7667dbd",
+        "title": "Quantitative Trading Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283503,
+        "date_posted": 1793232000,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JM Family",
+        "id": "f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283484,
+        "date_posted": 1793232000,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "16383177-59a6-4e58-94ba-2fb28a3c779a",
+        "title": "Software Engineering Co-op Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1793283542,
+        "date_posted": 1793232000,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pernod Ricard, cr\u00e9ateurs de convivialit\u00e9",
+        "id": "79c4704a-2757-414c-8d3f-8786e245bc77",
+        "title": "Data & Business Transformation Placement Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283518,
+        "date_posted": 1793232000,
+        "url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/London/Data---Business-Transformation-Placement---June-2027_JR-055452-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pernod-Ricard-Createurs-De-Convivialite",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quantiq",
+        "id": "fef80be2-32b2-45c7-8fd7-acdeba3b2295",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283352,
+        "date_posted": 1781714041,
+        "url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantiq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Syngenta Group",
+        "id": "f0720d7f-0077-43cf-959f-4ac76d40e302",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283302,
+        "date_posted": 1793273262,
+        "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Syngenta-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Riverlane",
+        "id": "c3172175-349d-40fb-b93b-1a5cad2eb972",
+        "title": "PhD Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793283357,
+        "date_posted": 1792506498,
+        "url": "https://www.riverlane.com/jobs?gh_jid=5010275101#vacancies",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverlane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Riverlane",
+        "id": "faaf5b8b-6d65-440e-b445-14d9f0e1bd7c",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283357,
+        "date_posted": 1791556414,
+        "url": "https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverlane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Riverlane",
+        "id": "5be918fc-af4e-4bf5-9db2-e4aa41c3982e",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283357,
+        "date_posted": 1792506474,
+        "url": "https://www.riverlane.com/jobs?gh_jid=5010283101#vacancies",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverlane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Riverlane",
+        "id": "76a80127-61cd-4505-a0ab-83a7a4f164b2",
+        "title": "PhD Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283358,
+        "date_posted": 1792181147,
+        "url": "https://www.riverlane.com/jobs?gh_jid=5009045101#vacancies",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverlane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Riverlane",
+        "id": "4b2be312-37f3-4192-9005-a5ed509457ef",
+        "title": "PhD Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793283355,
+        "date_posted": 1791557755,
+        "url": "https://www.riverlane.com/jobs?gh_jid=5001381101#vacancies",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverlane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Riverlane",
+        "id": "62bb0c27-4f37-47a9-a985-66df1cc61d39",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283356,
+        "date_posted": 1791556797,
+        "url": "https://www.riverlane.com/jobs?gh_jid=5001380101#vacancies",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverlane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Riverlane",
+        "id": "5878bf66-e4ea-4991-93a9-a7bf15303126",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283354,
+        "date_posted": 1791555990,
+        "url": "https://www.riverlane.com/jobs?gh_jid=5001377101#vacancies",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverlane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Advanced Space",
+        "id": "8281f41a-114f-4b46-bd00-8660449e0b4a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283191,
+        "date_posted": 1787603868,
+        "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Advanced Space",
+        "id": "7bc539ab-f191-44a4-b03e-dce55640d12d",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283188,
+        "date_posted": 1787602950,
+        "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324875009",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SiTime",
+        "id": "e7fa5b45-20a7-4a37-b6f1-ba848c73ef32",
+        "title": "ASIC Digital Verification Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793283152,
+        "date_posted": 1792112793,
+        "url": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4452852009",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SiTime",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Center for Strategic and International Studies",
+        "id": "e00c63c2-f408-47fd-b705-a88030744313",
+        "title": "Research Intern - Economics Program",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1793283125,
+        "date_posted": 1784044979,
+        "url": "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Center-For-Strategic-And-International-Studies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SiTime",
+        "id": "4978a662-1112-45c3-97b2-b976b35e7e7f",
+        "title": "Validation Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793283158,
+        "date_posted": 1792115987,
+        "url": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4452953009",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/SiTime",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SiTime",
+        "id": "68010781-d0a8-481c-b196-8485cb918231",
+        "title": "ASIC Digital Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793283156,
+        "date_posted": 1792112781,
+        "url": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SiTime",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TobogganLabs",
+        "id": "d3fea6f1-3557-4f70-b650-ab6dedaf6706",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793283066,
+        "date_posted": 1791131291,
+        "url": "https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003",
+        "locations": [
+            "Qu\u00e9bec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TobogganLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astronics",
+        "id": "3d956618-19c8-41b1-beb3-388e234964d5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793282946,
+        "date_posted": 1791223865,
+        "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astronics",
+        "id": "3cc9cc0f-0e1a-4dce-bb78-729c0ac8bddb",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793282946,
+        "date_posted": 1791243895,
+        "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431922009",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astronics",
+        "id": "1411f04b-0318-4e7d-9f6a-3d8abbd29414",
+        "title": "Electrical Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793283060,
+        "date_posted": 1790804412,
+        "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Keyrock",
+        "id": "b069173a-ffd5-4344-b3f1-7efd22920318",
+        "title": "DeFi Quant Trader Intern - Credit",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793283004,
+        "date_posted": 1793232000,
+        "url": "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Brussels, Belgium"
+        ],
+        "company_url": "https://simplify.jobs/c/Keyrock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Charles River Analytics",
+        "id": "29824d46-1292-4645-be50-863c4e2b43f8",
+        "title": "AI Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793282897,
+        "date_posted": 1793282089,
+        "url": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8333895",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-River-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
