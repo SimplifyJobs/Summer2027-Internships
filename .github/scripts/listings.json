@@ -304340,7 +304340,7 @@
         "company_name": "Wellington Management",
         "id": "8d8133f0-74a6-40be-939f-9edb753e10a5",
         "title": "Corporate Access & Research Services Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -342988,7 +342988,7 @@
         "company_name": "SpartanNash",
         "id": "a3297773-4d22-478c-97d6-f6f974481782",
         "title": "IS Intern - IT Ecommerce & Marketing Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406521,7 +406521,7 @@
         "company_name": "Perspective Therapeutics",
         "id": "a5292077-b7c5-403d-ab85-8809ba8c335c",
         "title": "AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412006,7 +412006,7 @@
         "company_name": "Connor, Clark & Lunn Financial Group",
         "id": "d565580f-a10f-4485-b524-d64f2ec12ec1",
         "title": "Investment Analytics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
