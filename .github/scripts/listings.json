@@ -375330,7 +375330,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ea0930c5-15f8-43f4-894d-cf6d01c9a145",
         "title": "Technology IM R&D Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -377881,7 +377881,7 @@
         "company_name": "Booz Allen",
         "id": "e500e206-2c16-4d2e-ae52-93231ed58452",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
