@@ -356940,7 +356940,7 @@
         "company_name": "ICF International",
         "id": "3d769859-1b78-490a-81be-a7cf9bc054bf",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411834,7 +411834,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2f680030-93c9-49f5-8bfa-c6c8bdcbda18",
         "title": "Model Risk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
