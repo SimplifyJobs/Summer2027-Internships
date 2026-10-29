@@ -225583,7 +225583,7 @@
         "company_name": "Booz Allen",
         "id": "841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
         "title": "Software Developer Intern - Summer Games",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -258157,7 +258157,7 @@
         "company_name": "Uline",
         "id": "96d99494-69a2-4bcf-b4b5-b88b9abb3c85",
         "title": "Sales Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411308,5 +411308,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "e7d2687d-8b7e-4615-88e6-df7f4f101331",
+        "title": "Technical Support Consultant Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793279967,
+        "date_posted": 1793232000,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "a25226c4-ad0d-4016-a9eb-072e72a8b5f0",
+        "title": "Technical Support Consultant Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793279970,
+        "date_posted": 1793232000,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172786",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
