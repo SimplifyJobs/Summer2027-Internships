@@ -411309,5 +411309,99 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rendezvous Robotics",
+        "id": "8b4d0160-e50b-4b12-a510-29a4243ff741",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793256503,
+        "date_posted": 1789581323,
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rendezvous-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rendezvous Robotics",
+        "id": "3c8619b7-10fa-46c2-aa69-0864a5118fd5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793256501,
+        "date_posted": 1784758000,
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rendezvous-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Castelion",
+        "id": "58001b74-5cf5-4090-9ded-e59302c22da0",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1793255941,
+        "date_posted": 1788800676,
+        "url": "https://job-boards.greenhouse.io/castelioncorporation/jobs/4386047009",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Castelion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Castelion",
+        "id": "08c3913b-f70d-4fc7-bce0-4f9a3caebd07",
+        "title": "Electrical Engineer Intern - Avionics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1793255941,
+        "date_posted": 1790114759,
+        "url": "https://job-boards.greenhouse.io/castelioncorporation/jobs/4417146009",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Castelion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
