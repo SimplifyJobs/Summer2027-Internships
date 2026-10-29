@@ -179734,7 +179734,7 @@
         "company_name": "Citadel Securities",
         "id": "d4041518-dc22-4f01-96d9-aa0030510fd8",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306188,7 +306188,7 @@
         "company_name": "Axcelis Technologies",
         "id": "0f046a92-f831-47c1-8f88-5cc31f1722a8",
         "title": "Manufacturing Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -314992,7 +314992,7 @@
         "company_name": "Geneva Trading",
         "id": "1aced91a-6fa5-4f69-8d6c-d3036f8c30df",
         "title": "C++ Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344113,7 +344113,7 @@
         "company_name": "Northrop Grumman",
         "id": "0f834c38-04b7-4ecf-a581-4c2dfb2df248",
         "title": "Principal Configuration Analyst Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397731,7 +397731,7 @@
         "company_name": "Carrier Global",
         "id": "0a6e08f1-d289-4ad9-b8df-01ed8f0f0a53",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409219,7 +409219,7 @@
         "company_name": "AMD",
         "id": "015289cb-f341-4c56-b934-ad5a39ac1cb8",
         "title": "Masters AI Training Software & Performance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
