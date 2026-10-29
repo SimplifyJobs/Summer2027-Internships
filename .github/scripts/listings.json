@@ -322215,7 +322215,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "3faca9c1-e66c-437c-a5bd-9ab5cd608a2f",
         "title": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343524,7 +343524,7 @@
         "company_name": "Waymo",
         "id": "3475b425-7296-4926-a897-0f74a61038af",
         "title": "Perception Intern - Evaluation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379430,7 +379430,7 @@
         "company_name": "Siemens",
         "id": "67257e1c-0c0e-4806-be26-e049ce9d65d1",
         "title": "Digital Degree Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388125,7 +388125,7 @@
         "company_name": "Rochester Regional Health",
         "id": "69271ed8-2aca-42a9-88ae-860250a656f9",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -392614,7 +392614,7 @@
         "company_name": "Altera",
         "id": "5f8e95d8-b5c0-4d21-9ec0-a25bd2e3943f",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393941,7 +393941,7 @@
         "company_name": "RTX",
         "id": "6610fc1e-6cb7-4c46-984b-e47a167d4860",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
