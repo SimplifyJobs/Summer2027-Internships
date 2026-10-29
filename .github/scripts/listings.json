@@ -402185,7 +402185,7 @@
         "company_name": "onsemi",
         "id": "ab58c3d1-4540-4198-a564-b9137141d44d",
         "title": "AI & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403575,7 +403575,7 @@
         "company_name": "Aurora Innovation",
         "id": "c4495dbb-9fdd-486f-bfc8-3b914424d558",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411312,6 +411312,209 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HPS Investment Partners",
+        "id": "bccf42b0-c25e-466d-8a81-1ca01fbb63f1",
+        "title": "Technology Intern - IT Data & Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793237951,
+        "date_posted": 1791306685,
+        "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739903005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/HPS-Investment-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "HPS Investment Partners",
+        "id": "b857cd85-6707-4978-800d-770a5472e07a",
+        "title": "Risk & Quant Strats Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793237952,
+        "date_posted": 1791306143,
+        "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739868005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/HPS-Investment-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HP Inc.",
+        "id": "b64d919f-170b-4ad3-aabb-30b23dc31666",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793237957,
+        "date_posted": 1793145600,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HPS Investment Partners",
+        "id": "a17f171c-8238-45aa-a6e0-59e031be13fe",
+        "title": "Technology Intern - App Dev",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793237950,
+        "date_posted": 1791306176,
+        "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739898005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/HPS-Investment-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HP Inc.",
+        "id": "84cc2b26-b1b3-4d2b-b9c5-6358d90c3cf1",
+        "title": "Software Systems Intern - IQ",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793237942,
+        "date_posted": 1793145600,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HP Inc.",
+        "id": "4a098ba2-02ea-4b14-babc-3e128389bce8",
+        "title": "Software Engineer Intern - Connectivity",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793237960,
+        "date_posted": 1793145600,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HP Inc.",
+        "id": "2b909bae-5bd4-4ea4-bf9a-e7bb804cddcc",
+        "title": "Software Quality Assurance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793237942,
+        "date_posted": 1793145600,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boston Scientific",
+        "id": "c97976da-bd27-48d0-88a3-6bfed6a0287c",
+        "title": "R&D Software Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793237586,
+        "date_posted": 1793237439,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862687",
+        "locations": [
+            "Arden Hills, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "c79fefe1-fbce-4cf7-ab66-bed442b0c2cb",
+        "title": "AI/ML Software Development and Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793237611,
+        "date_posted": 1790380800,
+        "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
         ]
     }
 ]
