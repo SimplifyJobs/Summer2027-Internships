@@ -12639,6 +12639,13 @@
 <td>2mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Data Scientist Intern - University</td>
+<td>San Diego, CA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company">Wells Fargo</a></strong></td>
 <td>Applied Computational Intelligence Intern - ACI Masters - Early Careers 🎓</td>
 <td>Charlotte, NC</td>
@@ -12705,13 +12712,6 @@
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Applied AI Intern - University</td>
 <td>Washington, DC</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Scientist Intern - University</td>
-<td>San Diego, CA</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
