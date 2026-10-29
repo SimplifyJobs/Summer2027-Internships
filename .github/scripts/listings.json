@@ -403251,7 +403251,7 @@
         "company_name": "Aurora Innovation",
         "id": "049cea50-d78a-47ec-bcdf-991d89ae226a",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407503,7 +407503,7 @@
         "company_name": "VSP Vision",
         "id": "178d0613-9e8b-480c-b35e-f7b89b94e02e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
