@@ -391776,7 +391776,7 @@
         "company_name": "Sanofi",
         "id": "7f0b7c25-d497-4aa4-a34c-ddb186a0c932",
         "title": "Laboratory Automation Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -400315,7 +400315,7 @@
         "company_name": "RTX",
         "id": "7798bf2e-3ece-4347-8e89-2b3368142206",
         "title": "Systems Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
