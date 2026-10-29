@@ -264350,7 +264350,7 @@
         "company_name": "Barclays",
         "id": "64a35586-2a6e-4c71-9919-ca8c55f250ed",
         "title": "Technology Developer Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355745,7 +355745,7 @@
         "company_name": "Autodesk",
         "id": "63ef67dc-65c7-4d5c-bda2-83d8c17308b5",
         "title": "Research Intern - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368024,7 +368024,7 @@
         "company_name": "7-Eleven",
         "id": "4bd4ad35-c7ba-43e2-aa79-c5f457eeda71",
         "title": "Fuel Pricing Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379560,7 +379560,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "51e30f02-0f7a-463f-a7e9-bbd16abb42bc",
         "title": "Electrical and Computer Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389525,7 +389525,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "42fe7b0a-b849-4383-a420-2ee613f89a3d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390603,7 +390603,7 @@
         "company_name": "S&C Electric Company",
         "id": "4374b23b-fdbf-49b3-975e-6007d5633dca",
         "title": "Electronics Engineering Intern - TBI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390970,7 +390970,7 @@
         "company_name": "CVS Health",
         "id": "4ba872b4-8b90-4582-957d-659c7dbefe2f",
         "title": "Innovation & Technology Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399096,7 +399096,7 @@
         "company_name": "CVS Health",
         "id": "4bc89fb6-aa1c-4885-baa5-14d7ba2a7849",
         "title": "Innovation & Technology Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
