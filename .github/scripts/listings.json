@@ -223113,7 +223113,7 @@
         "company_name": "Johnson & Johnson",
         "id": "0f474509-a4fe-4afd-a3b2-875ee4689df0",
         "title": "Data Science Co-op - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -271665,7 +271665,7 @@
         "company_name": "Danaher",
         "id": "0c0c50f3-9bb4-4e00-9b44-a6ec64006ebb",
         "title": "Software Engineer Intern - ICE Software Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -286279,7 +286279,7 @@
         "company_name": "Tesla",
         "id": "d5c67b95-ec5f-4c2d-b9dc-68c0a2efad5d",
         "title": "Vehicle Accessories & Merchandise Product Intern - Global Merchandise",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -363063,7 +363063,7 @@
         "company_name": "Itron",
         "id": "02902ce1-e453-4b13-95d6-e35d14fa4d60",
         "title": "People Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379674,7 +379674,7 @@
         "company_name": "Marvell",
         "id": "226b2e00-45e3-4969-ae52-9edd0338ac22",
         "title": "AI Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398918,7 +398918,7 @@
         "company_name": "Cadillac Formula 1 Team",
         "id": "07533b71-f7a2-4307-995f-db8988ffaa45",
         "title": "Aerodynamics AI Industrial Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403956,7 +403956,7 @@
         "company_name": "Fidelity Investments",
         "id": "1d265e9f-e469-4940-aa21-47a3bfbedc8b",
         "title": "Data Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
