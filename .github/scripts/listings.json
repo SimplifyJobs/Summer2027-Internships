@@ -190519,7 +190519,7 @@
         "company_name": "LUZCO TECHNOLOGIES LLC",
         "id": "6dfc5a86-055d-4015-b7e0-68b2545cf61d",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -226002,7 +226002,7 @@
         "company_name": "American Express",
         "id": "6a910274-8203-4361-9726-d22a315d1644",
         "title": "Product Development Intern - Global Commercial Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275368,7 +275368,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -291441,7 +291441,7 @@
         "company_name": "MBDA",
         "id": "12c894f9-f011-4d9e-8c47-838bcff731b5",
         "title": "Computer Vision and Artificial Intelligence Engineer - Image Processing UK",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -296531,7 +296531,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352499,7 +352499,7 @@
         "company_name": "S&C Electric Company",
         "id": "8606aed6-677f-4e1d-9f11-6e1a60e1e783",
         "title": "Test Equipment Engineering and Maintenance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356205,7 +356205,7 @@
         "company_name": "SharkNinja",
         "id": "772840e3-4552-42aa-b102-8cb0e1752b13",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -403215,7 +403215,7 @@
         "company_name": "DriveWealth",
         "id": "80919054-b40e-4ff9-9a11-e6e21dcf9d98",
         "title": "AI Consulting Associate Program Product Owner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410256,7 +410256,7 @@
         "company_name": "Centene",
         "id": "3413b6b5-f579-4fba-a273-c3cbea3a7a62",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412361,6 +412361,56 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SageSure",
+        "id": "515bc7ee-5cb6-4df0-904a-19e675ac3476",
+        "title": "Data Science Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793349547,
+        "date_posted": 1793132246,
+        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006",
+        "locations": [
+            "Fairfield, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gilead Sciences",
+        "id": "1da9ff90-138a-4692-b221-c8855a8f04db",
+        "title": "Research Intern - Strategy, Innovation & Portfolio - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793349757,
+        "date_posted": 1788825600,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD"
         ]
     }
 ]
