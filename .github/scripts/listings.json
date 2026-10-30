@@ -234599,7 +234599,7 @@
         "company_name": "Booz Allen",
         "id": "7637b476-395a-4c53-bc72-f6e375758876",
         "title": "Systems Engineer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241707,7 +241707,7 @@
         "company_name": "Booz Allen",
         "id": "6aedf2d9-49ab-471f-8cb3-45c3813875b0",
         "title": "Systems Engineer Intern - University - 2027 Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -259979,7 +259979,7 @@
         "company_name": "Ragle Inc",
         "id": "915593c6-e773-4ccd-9039-fc0ec4968ae5",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314356,7 +314356,7 @@
         "company_name": "Marvell",
         "id": "9cb80a43-fcfd-473d-8145-5aba8bb71782",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316697,7 +316697,7 @@
         "company_name": "Qorvo",
         "id": "97bafc91-6965-4190-9aca-eb19889919f9",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386148,7 +386148,7 @@
         "company_name": "Brookhaven Lab",
         "id": "7ca05d58-84bd-46f5-a7fd-18ff83187dc1",
         "title": "Data Engineering Student Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386882,7 +386882,7 @@
         "company_name": "Walmart",
         "id": "92d82ca0-59d0-4c94-948f-12722e49c262",
         "title": "Automation Product Manager Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408668,7 +408668,7 @@
         "company_name": "Datasite",
         "id": "af544dc0-7957-4ee1-8aa7-c8c161d3648e",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409731,7 +409731,7 @@
         "company_name": "Valeris",
         "id": "92a79dc2-c024-4a1f-ae05-1e5cc44e524f",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
