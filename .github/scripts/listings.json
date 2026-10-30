@@ -1,33 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "cb51dc27-0503-4a7e-b361-e7f489cb616f",
-        "title": "Data Analyst Intern - Tiktok Shop-FMCG",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772624217,
-        "date_posted": 1772624217,
-        "url": "https://lifeattiktok.com/search/7535048023182362887",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
-        ]
-    },
-    {
         "date_updated": 1775481655,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -333818,7 +333790,7 @@
         "company_name": "American Family Insurance Group",
         "id": "26a963c1-18c0-4267-9ad5-5d3daee62918",
         "title": "Quantum Computing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381957,7 +381929,7 @@
         "company_name": "Sony",
         "id": "535fd64c-e754-4f4a-b1f0-2b111731d1ff",
         "title": "Data Quality & Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
