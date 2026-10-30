@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 2839 Inactive Internship Roles by Category
+### Browse 2842 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (988)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (990)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (186)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (253)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (411)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (412)
 
 ---
 
@@ -87,6 +87,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
+<td>AI Engineer Intern</td>
+<td>Missouri</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/AMD?utm_source=GHList&utm_medium=company">AMD</a></strong></td>
 <td>Masters AI Training Software & Performance Co-op 🎓</td>
@@ -280,6 +287,13 @@
 <td>↳</td>
 <td>Software Engineering Intern</td>
 <td>San Jose, CA</td>
+<td>🔒</td>
+<td>10d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/DriveWealth?utm_source=GHList&utm_medium=company">DriveWealth</a></strong></td>
+<td>AI Consulting Associate Program Product Owner Intern</td>
+<td>Chicago, IL</td>
 <td>🔒</td>
 <td>10d</td>
 </tr>
@@ -2321,6 +2335,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/APEX-Analytix?utm_source=GHList&utm_medium=company">APEX Analytix</a></strong></td>
+<td>Automation Developer Intern</td>
+<td>Greensboro, NC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Elire?utm_source=GHList&utm_medium=company">Elire</a></strong></td>
 <td>AI Software Developer Intern - Multiple Teams</td>
 <td>Remote in USA<br>Minneapolis, MN</td>
@@ -3087,13 +3108,6 @@
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Payload Control System Software/Systems Engineering Intern - Summer 2027</td>
 <td>Middletown, RI<br>Manassas, VA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Collier-Aerospace?utm_source=GHList&utm_medium=company">Collier Aerospace</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Newport News, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -7692,14 +7706,14 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
 <td>Product Development Intern - Global Commercial Services</td>
-<td>NYC</td>
+<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Product Development Intern - Global Commercial Services</td>
-<td>Atlanta, GA</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -17458,6 +17472,13 @@
 <td><strong><a href="https://simplify.jobs/c/S-And-C-Electric-Company?utm_source=GHList&utm_medium=company">S&C Electric Company</a></strong></td>
 <td>Electronics Engineer Intern</td>
 <td>Chicago, IL</td>
+<td>🔒</td>
+<td>22d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Test Equipment Engineering and Maintenance Intern</td>
+<td>Franklin, WI</td>
 <td>🔒</td>
 <td>22d</td>
 </tr>
