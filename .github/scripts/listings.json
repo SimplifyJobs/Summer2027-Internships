@@ -170024,7 +170024,7 @@
         "company_name": "Firetiger",
         "id": "005ce970-8e7b-41e0-9e62-2f26655f9748",
         "title": "Product Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -226482,7 +226482,7 @@
         "company_name": "American Express",
         "id": "02a31be7-87fc-49be-b1d7-c9c697785260",
         "title": "Product Development Intern - Global Commercial Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -234523,7 +234523,7 @@
         "company_name": "American Express",
         "id": "26fc2a52-b260-4601-a804-43fb299bebf2",
         "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275368,7 +275368,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291441,7 +291441,7 @@
         "company_name": "MBDA",
         "id": "12c894f9-f011-4d9e-8c47-838bcff731b5",
         "title": "Computer Vision and Artificial Intelligence Engineer - Image Processing UK",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -300935,7 +300935,7 @@
         "company_name": "RTX",
         "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -412339,5 +412339,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marmon Holdings",
+        "id": "69225149-308a-4cc5-84fa-f22b334b94b9",
+        "title": "Data Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792748464,
+        "date_posted": 1778943827,
+        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
