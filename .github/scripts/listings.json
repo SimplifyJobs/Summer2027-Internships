@@ -190958,7 +190958,7 @@
         "company_name": "Kastle AI",
         "id": "600d65ac-5918-4d2c-80ed-c6a5ba2a90d4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -196942,7 +196942,7 @@
         "company_name": "GE Vernova",
         "id": "2c773875-aa62-411f-a839-511d6f823d7d",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -226659,7 +226659,7 @@
         "company_name": "Qorvo",
         "id": "3bae1dbd-ee80-4fc7-b484-b609aef7ca84",
         "title": "Software Engineer Intern - Information Technology Manufacturing Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -266837,7 +266837,7 @@
         "company_name": "Loblaw Companies",
         "id": "270784f8-dc55-49f4-a7d6-34c920ec696d",
         "title": "Supply Chain Business Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -304463,7 +304463,7 @@
         "company_name": "LSEG",
         "id": "58e8369f-2689-4d99-a38e-37e807ad938d",
         "title": "Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387065,7 +387065,7 @@
         "company_name": "Atoms",
         "id": "a74692a7-dea9-40ba-855f-836ad85b566b",
         "title": "Machine Learning/Artificial Intelligence Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
