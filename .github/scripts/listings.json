@@ -139987,7 +139987,7 @@
         "company_name": "Walleye Capital",
         "id": "6a61710a-02c6-4915-a7f3-863dbf8c835b",
         "title": "PhD Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -225616,7 +225616,7 @@
         "company_name": "Qorvo",
         "id": "70024d90-f585-47e3-a34d-e44315206f2d",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -244545,7 +244545,7 @@
         "company_name": "Qorvo",
         "id": "5945028e-6da9-4848-94a7-8683f2573886",
         "title": "Device Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300644,7 +300644,7 @@
         "company_name": "Ragle Inc",
         "id": "7be2e4ed-d0ba-4c23-b8da-b92cee3f07f1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301141,7 +301141,7 @@
         "company_name": "Emerson Electric",
         "id": "717a9235-d891-49bf-845f-ebea0388bfe1",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -303614,7 +303614,7 @@
         "company_name": "Marvell",
         "id": "5aa227fb-8db0-4113-81ec-a0441660db19",
         "title": "SRAM Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -307601,7 +307601,7 @@
         "company_name": "Qorvo",
         "id": "5dcadcb1-d4a0-4b60-9f0c-7ffcb4745416",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -335318,7 +335318,7 @@
         "company_name": "PNC Financial Services",
         "id": "87b9405b-3271-401d-80f0-e9af8c004479",
         "title": "Modeling Graduate Intern - Modeling - Chief Investment Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380627,7 +380627,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "7a73e6f4-b7ad-4f5e-990c-f6638569032e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
