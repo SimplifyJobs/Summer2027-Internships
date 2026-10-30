@@ -304254,7 +304254,7 @@
         "company_name": "LSEG",
         "id": "0fd4122e-ceb7-4f97-8f55-aaab32d000d7",
         "title": "Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379245,7 +379245,7 @@
         "company_name": "Accenture",
         "id": "20688eaf-1a51-4f19-8b7d-bfafc2497702",
         "title": "MES & Supply Chain Systems Co-op Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -387065,7 +387065,7 @@
         "company_name": "Atoms",
         "id": "a74692a7-dea9-40ba-855f-836ad85b566b",
         "title": "Machine Learning/Artificial Intelligence Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
