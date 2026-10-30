@@ -1,193 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Flextronics International",
-        "id": "e5513eb3-28b7-45a2-8ad3-240160eb25a1",
-        "title": "Test Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772591108,
-        "date_posted": 1772591108,
-        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Milpitas/Test-Engineering-Intern---Summer-2026_WD216524",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Flextronics-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Western Digital",
-        "id": "dfd9c07c-82e9-427f-b584-c3e5f6127f5c",
-        "title": "Co-op - Systems Integration Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772590713,
-        "date_posted": 1772590713,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000112538147",
-        "locations": [
-            "Rochester, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zoox",
-        "id": "c520248c-f371-4adf-a7ec-5ff790a1c72b",
-        "title": "Firmware Validation Tooling Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772590691,
-        "date_posted": 1772590691,
-        "url": "https://jobs.lever.co/zoox/fd2be6ec-162d-4955-802f-fb8d2de8b3c0/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Monarch Money",
-        "id": "56e3cb4c-6c5e-41f3-a721-354baa0f5878",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772590156,
-        "date_posted": 1772590156,
-        "url": "https://jobs.ashbyhq.com/monarchmoney/b62fbd01-4082-4ddf-9a39-ec0ae1e526ee/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Monarch-Money",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LSEG",
-        "id": "d58da08d-daf6-4012-ad6f-0075665e6562",
-        "title": "Degree Apprenticeship - Engineering - Nottingham Office",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1772589904,
-        "date_posted": 1772589904,
-        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Degree-Apprenticeship---Engineering--Nottingham-Office-_R0117002",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LSEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LSEG",
-        "id": "baf74d9b-6d44-4f6b-a0bf-cd65ad6e19e5",
-        "title": "Degree Apprenticeship - Engineering - London Office",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1772589921,
-        "date_posted": 1772589921,
-        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Degree-Apprenticeship---Engineering--London-Office-_R0116999",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LSEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "cba9ec1b-c390-40af-b816-7d5332d17d8b",
-        "title": "Chiplet Solution Development Internship",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1772589886,
-        "date_posted": 1772589886,
-        "url": "https://jobs.keysight.com/jobs/51830?lang=en-us&icims=1",
-        "locations": [
-            "Santa Clara, CA",
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "674191c9-70d2-43bd-8cf1-cff9a5a15dd2",
-        "title": "R&D Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1772589892,
-        "date_posted": 1772589892,
-        "url": "https://jobs.keysight.com/jobs/51836?lang=en-us&icims=1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Insomniac",
         "id": "57b55222-62e9-4a96-a8d7-1df7cf66aafe",
@@ -267657,7 +267470,7 @@
         "company_name": "Merck",
         "id": "fb5852a4-7dd6-4402-9294-65ab39f88f85",
         "title": "Information Science Intern - Future Talent Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388341,7 +388154,7 @@
         "company_name": "Ursa Major",
         "id": "fd09f346-c36c-4ce5-8491-1ad9de70aabd",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
