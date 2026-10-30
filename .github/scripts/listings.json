@@ -226715,7 +226715,7 @@
         "company_name": "Qorvo",
         "id": "dc33985b-41ed-48ef-a6a0-f77ac24e41ec",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -227173,7 +227173,7 @@
         "company_name": "Qorvo",
         "id": "b5053cec-5ef0-4b99-9a14-fa618448d301",
         "title": "Product Management Intern - Advanced Cellular",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -233406,7 +233406,7 @@
         "company_name": "Emerson Electric",
         "id": "d00b3611-6ef4-4084-8f7e-0bcd89e90261",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -317518,7 +317518,7 @@
         "company_name": "EMC Insurance",
         "id": "a6770ce6-e8cb-4716-8bc5-b5ed81550a93",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -326705,7 +326705,7 @@
         "company_name": "ICF International",
         "id": "acafb8f1-75b4-44f1-8450-4628ddf3b8a1",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339476,7 +339476,7 @@
         "company_name": "Centene",
         "id": "b87a0b81-a911-4993-996f-c2e07ab05067",
         "title": "Medical Economics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377413,7 +377413,7 @@
         "company_name": "Marvell",
         "id": "c35aada5-ad17-4000-baae-c7099528eabb",
         "title": "AI Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412797,6 +412797,76 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Commonwealth of Massachusetts",
+        "id": "7dcf9c9c-985e-4e6f-a942-9cbe7521e917",
+        "title": "HR Business Intelligence Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793324913,
+        "date_posted": 1793324841,
+        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "17267928-46c8-4fc2-b987-5b361fefad93",
+        "title": "Optical Engineer Co-op Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793324183,
+        "date_posted": 1793232000,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "8a9e6891-293e-40a9-b0cc-86a38defec9c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793323853,
+        "date_posted": 1793320794,
+        "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
+        "locations": [
+            "Seattle, WA",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
