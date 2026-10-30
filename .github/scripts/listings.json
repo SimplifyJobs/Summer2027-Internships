@@ -6615,7 +6615,7 @@
         "company_name": "Tilde Research",
         "id": "e61e91ef-e618-467a-8ce3-391dc8487535",
         "title": "ML Researcher \u2013 Intern and Full-time",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226613,7 +226613,7 @@
         "company_name": "Qorvo",
         "id": "ffbfdb0a-160a-44a5-90b1-76d8bdfccee7",
         "title": "IC Layout Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -241022,7 +241022,7 @@
         "company_name": "Qorvo",
         "id": "fbfa277c-e07d-4122-a980-c9364dbe899d",
         "title": "Database Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -244497,7 +244497,7 @@
         "company_name": "Qorvo",
         "id": "fd36acbc-a038-4f2d-8091-7e1afdcfedf0",
         "title": "SOI Design Engineer Intern - High Performance Analog - Advanced Cellular",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405383,7 +405383,7 @@
         "company_name": "Autodesk",
         "id": "d4c0c38c-926b-42df-9d00-d4571c9d812b",
         "title": "Software Engineer Intern - C++/.Net",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410333,7 +410333,7 @@
         "company_name": "Blackberry",
         "id": "c3ab4f77-d094-4084-bb94-7d744ca3e728",
         "title": "Application Engineering Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
