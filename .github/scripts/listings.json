@@ -234461,7 +234461,7 @@
         "company_name": "Booz Allen",
         "id": "097e5358-9e45-41e0-86bc-5289976e1828",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375019,7 +375019,7 @@
         "company_name": "HCSC",
         "id": "19c1720c-cfad-48e9-a226-cf3675ab78d2",
         "title": "Finance Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382090,7 +382090,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "3e95934a-d25a-49d5-af4b-1a2eeb4b3eef",
         "title": "Calibration Process Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -402055,7 +402055,7 @@
         "company_name": "Sonos",
         "id": "0d2ca455-3d54-4b58-b8ec-00f32efcc930",
         "title": "Data Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
