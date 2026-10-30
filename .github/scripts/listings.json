@@ -246005,7 +246005,7 @@
         "company_name": "Qorvo",
         "id": "4ad7f33c-6b82-41f8-b6cd-526539584b53",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -246054,7 +246054,7 @@
         "company_name": "Qorvo",
         "id": "42c6030d-0aa8-41cf-9c87-4a28b7497cfc",
         "title": "Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -260704,7 +260704,7 @@
         "company_name": "Qorvo",
         "id": "2da019b4-9b40-4d4f-8f22-f173c6f9e11f",
         "title": "RF/Analog IC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -288757,7 +288757,7 @@
         "company_name": "LSEG",
         "id": "574cf650-e6f4-42ae-a309-2bd87b5781da",
         "title": "Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294246,7 +294246,7 @@
         "company_name": "Waymo",
         "id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
         "title": "Software Engineering Intern - Commercialization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -306315,7 +306315,7 @@
         "company_name": "Qualcomm",
         "id": "4545deb5-ffdd-4032-ac96-4082299479fc",
         "title": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339167,7 +339167,7 @@
         "company_name": "Great American Insurance Company",
         "id": "319f5acd-d41e-4a2d-ba38-489c86ff3b27",
         "title": "Enterprise Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377484,7 +377484,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "51e30f02-0f7a-463f-a7e9-bbd16abb42bc",
         "title": "Electrical and Computer Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407831,7 +407831,7 @@
         "company_name": "Centene",
         "id": "3ef6909a-74ff-4899-975d-accbb93e4946",
         "title": "Business Technical Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
