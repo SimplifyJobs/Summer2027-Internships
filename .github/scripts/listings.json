@@ -196919,7 +196919,7 @@
         "company_name": "GE Vernova",
         "id": "f34b1f76-8c04-44e3-af69-ab94a7694d4b",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -226082,7 +226082,7 @@
         "company_name": "American Express",
         "id": "dc5059f5-acc3-4aa6-bb67-ecd5a9e42cbe",
         "title": "Product Management Intern - Global Commercial Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -288170,7 +288170,7 @@
         "company_name": "LSEG",
         "id": "ef25f573-6bcc-4ebb-810a-dcb531a4eabd",
         "title": "Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304300,7 +304300,7 @@
         "company_name": "LSEG",
         "id": "e9b7e6e4-f5c7-447c-bd8d-3c9a764d5f44",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304346,7 +304346,7 @@
         "company_name": "LSEG",
         "id": "f4082cd5-efa8-433b-a046-a2780c5286b5",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313675,7 +313675,7 @@
         "company_name": "Fidelity Investments",
         "id": "e90daa3f-ccbc-4cb4-a7b9-b19d4eaf6594",
         "title": "Quantitative Development & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316885,7 +316885,7 @@
         "company_name": "EMC Insurance",
         "id": "f1704ba8-4913-4db0-9ecc-28b25d7e465d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -323585,7 +323585,7 @@
         "company_name": "State Farm",
         "id": "f47bf68f-08e3-4d92-ade8-eff54ae7c108",
         "title": "Data Science Intern - Magnet Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Spring 2028",
@@ -395624,7 +395624,7 @@
         "company_name": "Fidelity Investments",
         "id": "dd0253eb-1b0d-4b57-abfc-061656bcb829",
         "title": "Investment Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
