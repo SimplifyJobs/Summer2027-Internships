@@ -328411,7 +328411,7 @@
         "company_name": "RTX",
         "id": "ec00eac5-4585-4280-840e-de9a25fe6595",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386788,7 +386788,7 @@
         "company_name": "Genentech",
         "id": "b01920f5-b93e-452e-b431-adc1e6351ea2",
         "title": "Data Science & Machine Learning Intern - Agentic AI Discovery & Prototyping",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
