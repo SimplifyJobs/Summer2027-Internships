@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "S&P Global ",
-        "id": "4b6463fe-097c-4ce0-89e8-4f1b3081b85f",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772642575,
-        "date_posted": 1772642575,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Summer-Intern---Commercial-Product-Analyst_326577-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Kaiser Permanente",
         "id": "dd3cf73a-9413-4059-ad06-843e4f54e203",
@@ -225880,7 +225857,7 @@
         "company_name": "Qorvo",
         "id": "38c47e15-ffc2-4197-bebd-ca87a329a030",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -230594,7 +230571,7 @@
         "company_name": "WhatNot",
         "id": "59b37959-7280-4f60-aad9-0c9a3265acc7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244544,7 +244521,7 @@
         "company_name": "Qorvo",
         "id": "239a31f1-e188-4154-9ad4-9ea2bbe1b45f",
         "title": "Radio Frequency Integrated Circuit Design Intern - High Performance Analog",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -244666,7 +244643,7 @@
         "company_name": "Qorvo",
         "id": "40959c0a-295f-47dc-92be-d538830d4a99",
         "title": "Digital Strategy Marketing Intern - Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -244689,7 +244666,7 @@
         "company_name": "Qorvo",
         "id": "3cf72ad2-5313-4eaa-a809-2c5301a6cfec",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -275773,7 +275750,7 @@
         "company_name": "Texas Instruments",
         "id": "47270b91-cce2-4846-9e38-c8026f366bce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -277419,7 +277396,7 @@
         "company_name": "Allegion",
         "id": "2ce4ef29-968f-4045-84f0-e56fde0cff72",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303428,7 +303405,7 @@
         "company_name": "Marvell",
         "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
         "title": "SRAM Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -361438,7 +361415,7 @@
         "company_name": "Nissan",
         "id": "4f779abb-5aab-4de8-951b-4fc91fc3daec",
         "title": "AI & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387717,7 +387694,7 @@
         "company_name": "JP Morgan Chase",
         "id": "3a1df196-4b77-41ff-b9f7-833dfec00ba6",
         "title": "Asset Management Data Scientist \u2013 Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389537,7 +389514,7 @@
         "company_name": "Qorvo",
         "id": "2979093e-2f1f-48ab-bc40-293355b7317f",
         "title": "Module Integration Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389561,7 +389538,7 @@
         "company_name": "Qorvo",
         "id": "4bc125e8-ba9b-4ebf-bc76-0d63f507ddec",
         "title": "RF Module Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390578,7 +390555,7 @@
         "company_name": "Qualcomm",
         "id": "1e221e75-765a-44ff-a610-e5a1327ce3af",
         "title": "Silicon Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395474,7 +395451,7 @@
         "company_name": "Leidos",
         "id": "3a3e1cad-1c4e-4313-b167-c5db6f4ab4fb",
         "title": "Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
