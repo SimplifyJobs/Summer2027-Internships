@@ -200885,7 +200885,7 @@
         "company_name": "RTX",
         "id": "44a036f1-8b46-4596-939b-e10b3f0e8761",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412257,6 +412257,411 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "New York ISO",
+        "id": "a44afb95-ee20-423c-be43-f22e3bffb5de",
+        "title": "Market Mitigation & Analysis Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793341727,
+        "date_posted": 1790864284,
+        "url": "https://job-boards.greenhouse.io/nyisointernships/jobs/5236684007",
+        "locations": [
+            "Rensselaer, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/New-York-ISO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "New York ISO",
+        "id": "a0d8e6af-a3c6-4997-a8df-66b79b70a2ec",
+        "title": "Market Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793341733,
+        "date_posted": 1789482339,
+        "url": "https://job-boards.greenhouse.io/nyisointernships/jobs/5236095007",
+        "locations": [
+            "Rensselaer, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/New-York-ISO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "New York ISO",
+        "id": "9ba8a150-c15e-4995-a5d1-3cc11163c254",
+        "title": "Energy Market Research and Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793341724,
+        "date_posted": 1789482333,
+        "url": "https://job-boards.greenhouse.io/nyisointernships/jobs/5236688007",
+        "locations": [
+            "Rensselaer, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/New-York-ISO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "New York ISO",
+        "id": "461ac8b2-4b9a-4a97-825c-f6dfc0624d58",
+        "title": "Information Technology Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793341725,
+        "date_posted": 1789482337,
+        "url": "https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007",
+        "locations": [
+            "Rensselaer, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/New-York-ISO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ncino",
+        "id": "b5646bd6-fe0f-4ecd-9059-5522d8fa320e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793341459,
+        "date_posted": 1790789205,
+        "url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/NCino",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DRW",
+        "id": "ab2d0948-c8de-434b-a065-d64cf16f2b93",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793341310,
+        "date_posted": 1783954819,
+        "url": "https://job-boards.greenhouse.io/drwfr/jobs/7991197",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DRW",
+        "id": "682fb06a-92cd-49dc-9d4b-15680c9f6d36",
+        "title": "AI/ML Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793341306,
+        "date_posted": 1783952772,
+        "url": "https://job-boards.greenhouse.io/drwfr/jobs/7991172",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "C3.ai",
+        "id": "fc548cb2-6ef0-4989-985c-dcdcc863281d",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793341119,
+        "date_posted": 1787350807,
+        "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/C3ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "C3.ai",
+        "id": "ee9ccca0-8bd3-4e29-a009-8eb52e728539",
+        "title": "AI Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793341117,
+        "date_posted": 1790967160,
+        "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/C3ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stratolaunch",
+        "id": "ac27249b-0f36-44ff-a07c-513168c4e98b",
+        "title": "Manufacturing Systems & Data Intern - Systems",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793341122,
+        "date_posted": 1793334097,
+        "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008",
+        "locations": [
+            "Mojave, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stratolaunch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "C3.ai",
+        "id": "5a3db098-8c38-40fa-be03-1d93ebd0e299",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793341117,
+        "date_posted": 1788199749,
+        "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/C3ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "84065c1e-ebdb-4e61-a553-324a104b2127",
+        "title": "Software Engineer Intern - Settlement Systems/Go Network",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793340940,
+        "date_posted": 1788477804,
+        "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "9b812413-6cc7-43e6-9c5e-1879a00f8abb",
+        "title": "Software Engineer Intern - Custody",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793340936,
+        "date_posted": 1788540458,
+        "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BitGo",
+        "id": "763fea1a-83aa-47f2-bf18-be039beae90b",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793340903,
+        "date_posted": 1788564137,
+        "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "420f0029-3727-4af7-b7d6-abd18e9b2b24",
+        "title": "Software Engineer Intern - Prime Trade",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793340934,
+        "date_posted": 1788477885,
+        "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "F&G",
+        "id": "fd5f230b-99df-4f7a-9232-1b95fac6d0f8",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793340413,
+        "date_posted": 1789160795,
+        "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/FG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "F&G",
+        "id": "9cb3446e-3c82-4d8d-b018-8c325d2f08b3",
+        "title": "IT Software Engineer Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793340413,
+        "date_posted": 1789491512,
+        "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/FG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
