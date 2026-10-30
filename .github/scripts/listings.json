@@ -6636,7 +6636,7 @@
         "company_name": "Tilde Research",
         "id": "c90fd52e-24ef-4129-b1c4-1af34d7b997b",
         "title": "ML Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -194069,7 +194069,7 @@
         "company_name": "Quantbot Technologies",
         "id": "d6fad79e-96ae-48cc-b352-313e695d5e0f",
         "title": "Data Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -225303,7 +225303,7 @@
         "company_name": "Qorvo",
         "id": "d5c68adb-84dd-4079-a377-d44a05b66a90",
         "title": "Electrical Engineer Intern - Physical Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -225378,7 +225378,7 @@
         "company_name": "Qorvo",
         "id": "b875eded-292c-4e53-b3ed-4fbb1d957ae5",
         "title": "Software Engineer Intern - SWR",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -225401,7 +225401,7 @@
         "company_name": "Qorvo",
         "id": "b4076972-d2bd-46b3-9238-b44ff84af6b4",
         "title": "Research Engineer Intern - High Performance Analog",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -225448,7 +225448,7 @@
         "company_name": "Qorvo",
         "id": "a23842cc-13e8-4c72-a5e2-972b101f7ad8",
         "title": "Analog Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -237548,7 +237548,7 @@
         "company_name": "Ragle Inc",
         "id": "af103bac-eb95-46b7-94e6-06439a9bd98c",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241096,7 +241096,7 @@
         "company_name": "Qorvo",
         "id": "98621c93-f516-46e0-8eda-22230c879010",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -244378,7 +244378,7 @@
         "company_name": "Qorvo",
         "id": "a73fee63-a9d2-4b2c-b209-412569ebdf95",
         "title": "RFIC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325511,7 +325511,7 @@
         "company_name": "Qorvo",
         "id": "9c4ef67f-3b4e-4b21-ad86-71ccdeca4645",
         "title": "Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -334735,7 +334735,7 @@
         "company_name": "PNC Financial Services",
         "id": "b8feae1a-90b4-43dd-ab49-8d200bb1cb49",
         "title": "Economics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -374995,7 +374995,7 @@
         "company_name": "HCSC",
         "id": "c02d9734-d615-4259-8106-5100b09f6352",
         "title": "Finance Data & Analytics Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382396,7 +382396,7 @@
         "company_name": "NVIDIA",
         "id": "a31a7c17-501a-4eb8-a17b-39bf87ed4403",
         "title": "Software Intern - Embedded Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390530,7 +390530,7 @@
         "company_name": "Qorvo",
         "id": "ba651fee-6104-46f7-820b-85c639594cb3",
         "title": "Digital Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404153,7 +404153,7 @@
         "company_name": "Autodesk",
         "id": "b79d2299-e52a-40c5-91ec-6001bb790237",
         "title": "Software Engineer Intern - Javascript",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410868,7 +410868,7 @@
         "company_name": "Synopsys",
         "id": "ae05080d-5298-4731-9bce-6c0748537d01",
         "title": "Technical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411536,7 +411536,7 @@
         "company_name": "Ncino",
         "id": "b5646bd6-fe0f-4ecd-9059-5522d8fa320e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
