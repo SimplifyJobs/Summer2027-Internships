@@ -412663,5 +412663,145 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SK hynix",
+        "id": "e0553b2c-7e2d-480a-9c85-f6a323f04d6c",
+        "title": "Research Intern - Loop Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1793342521,
+        "date_posted": 1791312584,
+        "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4435645009",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SK-Hynix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SK hynix",
+        "id": "6728eddb-f87c-470c-bc8f-0a8ac2bc5694",
+        "title": "ASIC Design Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1793342560,
+        "date_posted": 1792539542,
+        "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SK-Hynix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SK hynix",
+        "id": "b38d656b-48be-4515-bed0-c4d343166b32",
+        "title": "SSD Firmware Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1793342554,
+        "date_posted": 1788194112,
+        "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SK-Hynix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "9e32aee0-7914-4f32-ba07-f8e59cdbd480",
+        "title": "MS/PhD Intern - Weather Perception",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793342196,
+        "date_posted": 1793323300,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8335511",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vestmark",
+        "id": "740d2bae-04db-4eaa-9605-57aa4f111a6f",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793341982,
+        "date_posted": 1789499069,
+        "url": "https://job-boards.greenhouse.io/internrecruiting/jobs/8204511",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Newmont",
+        "id": "b1af74c5-7bce-4b61-a57f-bdbb3cb3926e",
+        "title": "Resource Modeling Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793341804,
+        "date_posted": 1793341775,
+        "url": "https://jobs.newmont.com/us/en/job/45053",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Newmont",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
