@@ -400738,7 +400738,7 @@
         "company_name": "Northrop Grumman",
         "id": "c99de1e7-b978-4456-ac51-8ec949d1c941",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405477,7 +405477,7 @@
         "company_name": "Micron Technology",
         "id": "899a6a36-b872-414e-bbce-aa5bc5b85fdc",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
