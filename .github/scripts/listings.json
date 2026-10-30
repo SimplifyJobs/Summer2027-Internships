@@ -231239,7 +231239,7 @@
         "company_name": "American Express",
         "id": "9e0bc00a-d5c9-45f4-bf25-da61a77dd946",
         "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -296531,7 +296531,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -302195,7 +302195,7 @@
         "company_name": "CoStar Group",
         "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378367,7 +378367,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "7b0c7936-f5ca-4813-a556-483b1e6edbf0",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385921,7 +385921,7 @@
         "company_name": "Synopsys",
         "id": "a26d39f9-787f-4f52-92dc-93c6847dd7ac",
         "title": "Technical-Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396968,7 +396968,7 @@
         "company_name": "Boston Scientific",
         "id": "b65c767b-a542-408b-8821-3378b57afe82",
         "title": "Software Engineer Intern - Graduates",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403215,7 +403215,7 @@
         "company_name": "DriveWealth",
         "id": "80919054-b40e-4ff9-9a11-e6e21dcf9d98",
         "title": "AI Consulting Associate Program Product Owner Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412325,7 +412325,7 @@
         "company_name": "Newmont",
         "id": "b1af74c5-7bce-4b61-a57f-bdbb3cb3926e",
         "title": "Resource Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
