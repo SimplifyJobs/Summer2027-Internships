@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "bc72b63e-6ae0-4a9a-8b08-12b958fbe06b",
-        "title": "Junior Analyst  Co-op/Internship - Distribution Strategy",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772640735,
-        "date_posted": 1772640735,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Analyst--Distribution-Strategy--Summer-2026--Co-op-Internship----4-months_R260006751",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "S&P Global ",
         "id": "4b6463fe-097c-4ce0-89e8-4f1b3081b85f",
@@ -225995,7 +225974,7 @@
         "company_name": "Qorvo",
         "id": "161824d8-3c87-453c-8d11-76c3a054219a",
         "title": "Software Engineer Intern - Software R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -226018,7 +225997,7 @@
         "company_name": "Qorvo",
         "id": "154d4d97-4af9-47bc-b7bd-8c9064dba671",
         "title": "Characterization Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -226066,7 +226045,7 @@
         "company_name": "Qorvo",
         "id": "0dc73f06-ff58-4c88-a5ba-6e29d70a5dfe",
         "title": "Software/Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -230615,7 +230594,7 @@
         "company_name": "WhatNot",
         "id": "59b37959-7280-4f60-aad9-0c9a3265acc7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244758,7 +244737,7 @@
         "company_name": "Qorvo",
         "id": "14cee7e9-93d6-408c-bcca-d96de8d1f61d",
         "title": "Electrical CAD Engineer Intern - High Performance Analog",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389606,7 +389585,7 @@
         "company_name": "Qorvo",
         "id": "1aace32c-f09c-43b9-b65a-35c8a5c88ebd",
         "title": "Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
