@@ -226393,7 +226393,7 @@
         "company_name": "Qorvo",
         "id": "80b838b9-2f84-4233-9372-a2cd6c5a76ab",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -231564,7 +231564,7 @@
         "company_name": "American Express",
         "id": "d23ff50c-42f1-4ab3-a445-5b7cfb2b8f28",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -253299,7 +253299,7 @@
         "company_name": "American Express",
         "id": "bb78f0cb-d806-4ae3-8996-ed333399cb6b",
         "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -260049,7 +260049,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -267242,7 +267242,7 @@
         "company_name": "Merck",
         "id": "8149b9c0-8cb1-41d8-9f26-64a1ae9716b5",
         "title": "Computer Scientist Co-op - Agentic & Augmented Authoring Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -309240,7 +309240,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d25191cb-2a6a-41b6-aebd-15d609a98d7b",
         "title": "Production Data Analyst Co-op - Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -310176,7 +310176,7 @@
         "company_name": "Johnson & Johnson",
         "id": "caf607e7-c4db-41eb-b84a-606fa07f4ae6",
         "title": "Product Management Co-op - Patient Management Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -318613,7 +318613,7 @@
         "company_name": "MFS",
         "id": "6fbf2b6a-c5c3-48f6-a16f-516366536b55",
         "title": "Enterprise Data Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353082,7 +353082,7 @@
         "company_name": "Autodesk",
         "id": "c9d78b85-421a-47ce-87a0-06184243c324",
         "title": "Research Intern - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
