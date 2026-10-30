@@ -288345,7 +288345,7 @@
         "company_name": "SEP",
         "id": "b7692605-3675-4ede-ac05-2e35ccc95ce8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -300252,7 +300252,7 @@
         "company_name": "Nanopath",
         "id": "db6132fd-fed0-4b00-a81b-82d5c312bd98",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391842,7 +391842,7 @@
         "company_name": "Procter & Gamble",
         "id": "b0d0ca56-091f-48ec-9442-c70e2901bad7",
         "title": "Consumer Analytics & Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410130,7 +410130,7 @@
         "company_name": "Path Robotics",
         "id": "adbedd81-f1ff-4fb4-b2f8-57640c235a16",
         "title": "Machine Learning & Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
