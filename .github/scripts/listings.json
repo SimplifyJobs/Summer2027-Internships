@@ -258579,7 +258579,7 @@
         "company_name": "Hy-Vee",
         "id": "0a09d266-9cc5-488d-a0f1-a5950423f368",
         "title": "Data Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397279,7 +397279,7 @@
         "company_name": "Betterment",
         "id": "2571b67c-fbd9-4e5e-9dd1-3cf2115d8bbc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027",
             "Spring 2028",
@@ -405866,7 +405866,7 @@
         "company_name": "Crystal Dynamics",
         "id": "28764194-7d52-4d45-b292-fc66a47c6503",
         "title": "Technical Artist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -408428,7 +408428,7 @@
         "company_name": "Qualcomm",
         "id": "38434b2b-bfda-48cf-ad0e-25b8565b11c2",
         "title": "Soft IP Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
