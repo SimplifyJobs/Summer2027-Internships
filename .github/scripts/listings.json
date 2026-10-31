@@ -405258,52 +405258,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Mantari",
-        "id": "a00f22bf-8c0f-4b8b-b6cb-997259b24257",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1793284600,
-        "date_posted": 1772747573,
-        "url": "https://job-boards.greenhouse.io/mantari/jobs/4173646009",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mantari",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Mantari",
-        "id": "e6ce61ca-3c29-426e-aa5d-365b7f5cf7c2",
-        "title": "Electrical Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1793284562,
-        "date_posted": 1772747830,
-        "url": "https://job-boards.greenhouse.io/mantari/jobs/4173653009",
-        "locations": [
-            "Torrance, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mantari",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "OLIX",
         "id": "c1ac74d2-f7fa-4011-8d78-025691a38abc",
         "title": "Software Engineer Intern",
