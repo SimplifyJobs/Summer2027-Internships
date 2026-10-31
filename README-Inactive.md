@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 2971 Inactive Internship Roles by Category
+### Browse 2975 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1033)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (197)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1046)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1050)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (258)
 
@@ -8880,6 +8880,13 @@
 <td>10d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
+<td>Computer Science Industrial Placement Student Intern - Data Capability</td>
+<td>Welwyn, UK</td>
+<td>🔒</td>
+<td>10d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company">Parsons</a></strong></td>
 <td>Computer Vision/Robotics Intern</td>
 <td>Westminster, CO</td>
@@ -10280,6 +10287,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Data Scientist Intern</td>
+<td>Plano, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/NewYork-Presbyterian?utm_source=GHList&utm_medium=company">NewYork-Presbyterian</a></strong></td>
 <td>Finance Intern</td>
 <td>NYC</td>
@@ -11095,6 +11109,13 @@
 <td>↳</td>
 <td>Business Intelligence Co-op</td>
 <td>Irving, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Technology and Digital Quality Intern</td>
+<td>Horsham, PA<br>Raritan, NJ</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -12131,6 +12152,13 @@
 <td>↳</td>
 <td>Analytic Consulting Advisor Intern</td>
 <td>Columbus, OH</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Hy-Vee?utm_source=GHList&utm_medium=company">Hy-Vee</a></strong></td>
+<td>Data Analytics Intern</td>
+<td>West Des Moines, IA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
