@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Moderna",
-        "id": "734faad6-a586-424e-9d6b-a298abc294a9",
-        "title": "Co-Op - Maintenance Excellence",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772672044,
-        "date_posted": 1772672044,
-        "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/XMLNAME-2026-Co-Op--Maintenance-Excellance_R18768",
-        "locations": [
-            "Norwood, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moderna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Premier",
         "id": "06f5ceec-a89a-4aa9-a846-075f3c420620",
@@ -178671,7 +178648,7 @@
         "company_name": "Zettabyte",
         "id": "5fdf7d5e-02c5-4d49-9d2b-a9b3dc38869d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245279,7 +245256,7 @@
         "company_name": "Roblox",
         "id": "45f530d7-4c78-4402-8da1-8e54f5c4a245",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262148,7 +262125,7 @@
         "company_name": "GE Aerospace",
         "id": "37f5de8f-da79-4e88-801b-65f4b77bd4e5",
         "title": "Software Engineering Placement - Month Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327920,7 +327897,7 @@
         "company_name": "DEKA Research & Development Corp.",
         "id": "3621cd26-a352-4183-b3a4-30fe4f0f25c6",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -353886,7 +353863,7 @@
         "company_name": "Sensata",
         "id": "2dd43b4d-a243-4996-826b-d46251f0fc5e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -353956,7 +353933,7 @@
         "company_name": "Sensata",
         "id": "5abedb52-732f-4c88-8e97-b4e013473a3f",
         "title": "Placement Student Intern - Aftermarket",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383146,7 +383123,7 @@
         "company_name": "NVIDIA",
         "id": "2afc5cb6-5d17-4a8f-b6e4-6f77835d6041",
         "title": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385677,7 +385654,7 @@
         "company_name": "Taylor",
         "id": "2a14dfac-95c5-4836-a97d-4be97e8f0de1",
         "title": "Enablement Data & Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402032,7 +402009,7 @@
         "company_name": "Aurora Innovation",
         "id": "365794f9-57cb-460f-a01a-ff545f9d0cc9",
         "title": "LiDAR Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
