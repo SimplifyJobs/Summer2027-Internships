@@ -214261,7 +214261,7 @@
         "company_name": "GE Vernova",
         "id": "9de89282-33d7-4fbd-a3ab-45e63fd1c0e0",
         "title": "Controls Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -235263,7 +235263,7 @@
         "company_name": "Microsoft",
         "id": "8df7539c-d0c7-4783-8d10-a19510da93da",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331600,7 +331600,7 @@
         "company_name": "The Federal Reserve System",
         "id": "6a49ef5e-35b1-491d-a761-59e0a5779a89",
         "title": "Statistics and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335656,7 +335656,7 @@
         "company_name": "Elevance Health",
         "id": "70f39f27-a2cd-424b-876f-4837ee7061e4",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335703,7 +335703,7 @@
         "company_name": "Elevance Health",
         "id": "938e1389-c62c-4512-aecc-c83536e5bea9",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347945,7 +347945,7 @@
         "company_name": "RTX",
         "id": "9f1c1a85-4cae-4368-9581-1d11c5fa2ed0",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350771,7 +350771,7 @@
         "company_name": "RTX",
         "id": "6c180347-5bb5-413b-b3af-4723b837b51f",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387777,7 +387777,7 @@
         "company_name": "RTX",
         "id": "776810c4-1ab5-4bb4-8ffd-d53090bcfb38",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388040,7 +388040,7 @@
         "company_name": "Panasonic Holdings",
         "id": "77d3a898-3115-43a0-a5c8-6bc7f55d1cae",
         "title": "Panasonic Transformation Group Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
