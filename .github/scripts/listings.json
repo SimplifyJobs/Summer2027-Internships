@@ -191840,7 +191840,7 @@
         "company_name": "ConocoPhillips",
         "id": "5123007b-1b8e-4d00-babb-8c1c4ec245cc",
         "title": "Trading Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -276407,7 +276407,7 @@
         "company_name": "Intel",
         "id": "708f11f6-e04e-4613-ab59-fb51bde3e253",
         "title": "AI Software Engineer Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -293252,7 +293252,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -316863,7 +316863,7 @@
         "company_name": "NVIDIA",
         "id": "3260a093-278c-48cc-90a4-1e13d6c9d177",
         "title": "Research Intern - Electronic Design Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338766,7 +338766,7 @@
         "company_name": "RTX",
         "id": "69dfe055-71d6-4af8-9d85-7b57e1f53b2f",
         "title": "Digital Electrical Design Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -359528,7 +359528,7 @@
         "company_name": "American Family Insurance Group",
         "id": "60bb015a-5f71-421c-9d8e-f15a0576fa7b",
         "title": "Data Analyst Intern - Agency Performance, Insights and Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379266,7 +379266,7 @@
         "company_name": "NVIDIA",
         "id": "66380619-8481-4fe4-947a-26176558c345",
         "title": "Systems Software Intern - Aerial PHY",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391206,7 +391206,7 @@
         "company_name": "Microsoft",
         "id": "a14ceb22-49c8-4897-9a3b-4ae3041a00fc",
         "title": "Software Engineer Intern - Security & Identity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
