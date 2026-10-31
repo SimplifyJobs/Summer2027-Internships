@@ -294629,7 +294629,7 @@
         "company_name": "NVIDIA",
         "id": "647e0b46-cfaa-46bc-8d91-9aa2103d57d6",
         "title": "Generative AI Research Intern - Fundamental Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -325919,7 +325919,7 @@
         "company_name": "NVIDIA",
         "id": "b2b7e2a7-9e82-4ddc-a910-d256f40be96a",
         "title": "PhD Research Intern - AI Accelerator Design and VLSI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -374022,7 +374022,7 @@
         "company_name": "NVIDIA",
         "id": "409557ba-787e-483f-90a0-5070340bc017",
         "title": "ASIC Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
