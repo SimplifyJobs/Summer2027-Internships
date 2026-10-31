@@ -2,74 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "KLA Corporation",
-        "id": "b8617db1-069d-4fcc-ac3f-747903acf99d",
-        "title": "AI/ML Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772709699,
-        "date_posted": 1772709699,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/AI-ML-Intern_2634349-2",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Synnex",
-        "id": "fcb9ff5f-3353-408b-a9af-d1082313a74c",
-        "title": "AI Automation Analyst",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772709660,
-        "date_posted": 1772709660,
-        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Basingstoke-United-Kingdom/AI-Automation-Analysis---Placement_R44802",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Synnex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CWS",
-        "id": "52ec14b1-35e6-43a9-9413-256a4e2b04fd",
-        "title": "Working Student Business Intelligence",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772709345,
-        "date_posted": 1772709345,
-        "url": "https://cws.wd3.myworkdayjobs.com/cws_jobs/job/Duisburg-Franz-Haniel-Platz/Werkstudent-Business-Intelligence_JR1013190",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/CWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Powell",
         "id": "ae0465bc-4a02-4989-8dba-774970214dbd",
         "title": "Manufacturing Reliability Intern",
@@ -338717,7 +338649,7 @@
         "company_name": "RTX",
         "id": "c87681f7-f024-4e16-8747-fb923be74d50",
         "title": "Digital Electrical Design Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377335,7 +377267,7 @@
         "company_name": "RTX",
         "id": "f373a612-0ef4-40c7-8033-08f1354ac0ab",
         "title": "Electrical Components Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413225,6 +413157,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "f682356d-55da-4f90-987d-77f140cc652d",
+        "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792755048,
+        "date_posted": 1783162882,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Bachelor's"
         ]
     }
