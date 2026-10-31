@@ -266528,7 +266528,7 @@
         "company_name": "RTX",
         "id": "c782a0fa-e20c-43ce-a32c-51fd89919b77",
         "title": "Digital Design Electrical Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322623,7 +322623,7 @@
         "company_name": "Gilead Sciences",
         "id": "fdf1e11e-14be-447e-a04a-23879851041d",
         "title": "Research Intern - Drug Metabolism - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378009,7 +378009,7 @@
         "company_name": "Genentech",
         "id": "e594a935-587e-4202-ab30-9e3057cbd9c8",
         "title": "Product Technical Development Intern - Digital Sciences Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413204,6 +413204,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "e8f323c9-7a0d-4a50-9915-19d7661ecb06",
+        "title": "Data Scientist Intern - Product Support",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793452542,
+        "date_posted": 1793318400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
