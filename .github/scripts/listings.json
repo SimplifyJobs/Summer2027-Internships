@@ -258696,7 +258696,7 @@
         "company_name": "Hy-Vee",
         "id": "cacd3bd3-7f7c-4a70-853d-7c88363173ff",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -260808,7 +260808,7 @@
         "company_name": "GE Aerospace",
         "id": "e50e21b7-95d2-497c-9bca-f25e90e4cfd7",
         "title": "Data Science Placement - Month Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -286271,7 +286271,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fab9af01-5b7a-416b-9ede-43f39adb375b",
         "title": "Technology and Digital Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313756,7 +313756,7 @@
         "company_name": "USAA",
         "id": "c3c60bf7-f580-4aaa-ab45-84224b74cdbb",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351849,7 +351849,7 @@
         "company_name": "Microsoft",
         "id": "d4e3c76d-f9b8-472c-9d21-a01ad5a58623",
         "title": "Applied Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372858,7 +372858,7 @@
         "company_name": "University of Ottawa",
         "id": "e22e5105-4050-4583-95a1-47a24adc4dad",
         "title": "Teaching Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -379985,7 +379985,7 @@
         "company_name": "Roche",
         "id": "ccf5d6fe-14b2-403d-b0e8-2dd576f64329",
         "title": "Computer Science Industrial Placement Student Intern - Data Capability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409021,7 +409021,7 @@
         "company_name": "SK hynix",
         "id": "e0553b2c-7e2d-480a-9c85-f6a323f04d6c",
         "title": "Research Intern - Loop Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
