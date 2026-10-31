@@ -222241,7 +222241,7 @@
         "company_name": "GE Vernova",
         "id": "07518274-9bcb-4d1e-a857-62891b0c9c6f",
         "title": "Product Management Intern - Controls Lifecare Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Winter 2027"
@@ -335630,7 +335630,7 @@
         "company_name": "Elevance Health",
         "id": "1379e1b7-e282-4180-bee2-043f56139dd9",
         "title": "Data Analyst Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341462,7 +341462,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "0173534b-1a00-43bf-8929-2a7c5bfa842d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375596,7 +375596,7 @@
         "company_name": "Accenture",
         "id": "20688eaf-1a51-4f19-8b7d-bfafc2497702",
         "title": "MES & Supply Chain Systems Co-op Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -393969,7 +393969,7 @@
         "company_name": "Northrop Grumman",
         "id": "24acfe0f-88f2-4bb9-886e-3ea454518e2c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397323,7 +397323,7 @@
         "company_name": "RTX",
         "id": "02949bdd-a9da-44b8-9c23-836dbfc84187",
         "title": "Secure Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406377,7 +406377,7 @@
         "company_name": "RTX",
         "id": "1c64f541-300e-43be-8269-a585d62556e0",
         "title": "Sustainment Data and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
