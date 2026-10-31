@@ -203199,7 +203199,7 @@
         "company_name": "NVIDIA",
         "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
         "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -258626,7 +258626,7 @@
         "company_name": "Hy-Vee",
         "id": "bfc80fee-bb28-459a-be87-125a0fef1495",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313348,7 +313348,7 @@
         "company_name": "Rippling",
         "id": "fff73d24-2557-417b-a791-58567415f245",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -334101,7 +334101,7 @@
         "company_name": "Intel",
         "id": "c29d0eb0-d886-48aa-910f-b36696f9f839",
         "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364979,7 +364979,7 @@
         "company_name": "RTX",
         "id": "e353be7e-8339-439c-b6fe-4aab0727eae0",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371360,7 +371360,7 @@
         "company_name": "Alliaxis",
         "id": "bd9058ee-980b-490d-9910-f4d7f92372ed",
         "title": "Manufacturing Excellence Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
