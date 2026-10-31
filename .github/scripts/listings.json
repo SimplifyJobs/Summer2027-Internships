@@ -204681,7 +204681,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -204782,7 +204782,7 @@
         "company_name": "NVIDIA",
         "id": "2698abcf-1f94-40b6-9881-1b14c416262f",
         "title": "Computer Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285539,7 +285539,7 @@
         "company_name": "NVIDIA",
         "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312545,7 +312545,7 @@
         "company_name": "NVIDIA",
         "id": "0a5aaa9d-f7d9-4898-8c8b-5f43d72e316f",
         "title": "Networking Research Intern - Networking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312827,7 +312827,7 @@
         "company_name": "NVIDIA",
         "id": "1563ef12-a5a1-4ab1-ad3f-d08d9b9a46f1",
         "title": "PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336486,7 +336486,7 @@
         "company_name": "NVIDIA",
         "id": "0c8d5691-6532-406a-8a25-f4032b51809e",
         "title": "PhD Research Intern - Embodied and Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -347218,7 +347218,7 @@
         "company_name": "NVIDIA",
         "id": "0e97ac62-0c17-4e03-94cd-c494e43101ee",
         "title": "PCIe Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -349516,7 +349516,7 @@
         "company_name": "NVIDIA",
         "id": "0b668c4d-84e2-4e02-9e89-88d8fb0cc46e",
         "title": "PhD Research Intern - Cross-Disciplinary Vision Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351268,7 +351268,7 @@
         "company_name": "NVIDIA",
         "id": "03d5a8d4-9286-47ee-8f02-5ab44a800d4e",
         "title": "PhD Research Intern - AI-Aided Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -360654,7 +360654,7 @@
         "company_name": "MEMX",
         "id": "02985926-4e37-4219-a8ab-21d9d6594ab2",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361432,7 +361432,7 @@
         "company_name": "NVIDIA",
         "id": "1094515c-ca9a-4ee1-8d5e-33f55799ef37",
         "title": "Differentiable Simulation Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369133,7 +369133,7 @@
         "company_name": "NVIDIA",
         "id": "15f8d0bb-869f-465a-adb5-e585b4a54017",
         "title": "Product Management MBA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2028"
@@ -380749,7 +380749,7 @@
         "company_name": "NVIDIA",
         "id": "12d5d73d-0f5a-459e-aede-1f15093ed6ed",
         "title": "Applied Research Intern - Integrated Sensing and Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397622,7 +397622,7 @@
         "company_name": "Aurora Innovation",
         "id": "14d9ebdd-7c3d-4e8a-acaf-97c40fc2d9fb",
         "title": "Simulation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
