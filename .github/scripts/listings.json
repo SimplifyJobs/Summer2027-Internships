@@ -335604,7 +335604,7 @@
         "company_name": "Elevance Health",
         "id": "638db733-b6c2-4e36-b1ad-1d4b6b77df9b",
         "title": "Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336842,7 +336842,7 @@
         "company_name": "Intel",
         "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
         "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
