@@ -411829,5 +411829,647 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Morph Labs",
+        "id": "aa2c7268-6de0-4779-a6f3-3bb996208ee7",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1793428102,
+        "date_posted": 1793030136,
+        "url": "https://job-boards.greenhouse.io/morph/jobs/4467369009",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morph-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morph Labs",
+        "id": "839d9426-00fc-4313-8725-55072d22d6e4",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1793428021,
+        "date_posted": 1792614084,
+        "url": "https://job-boards.greenhouse.io/morph/jobs/4463089009",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morph-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pretium",
+        "id": "dff0eb47-2fa8-4636-9c21-34ff0fca9959",
+        "title": "AI, Data & Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427851,
+        "date_posted": 1791312596,
+        "url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pretium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TPG",
+        "id": "94ce00a6-1104-4883-b62a-4615691ce825",
+        "title": "Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research Assistant",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793427852,
+        "date_posted": 1792020414,
+        "url": "https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/TPG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Pretium",
+        "id": "211b91fc-4182-4722-a8a3-8a956e36e7fa",
+        "title": "Quantitative Strategies Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427851,
+        "date_posted": 1791400713,
+        "url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868465002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pretium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "d405eb46-5d72-4d62-a75c-5eac2d7c18a7",
+        "title": "Full Stack Developer Intern - C#",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793427571,
+        "date_posted": 1792780500,
+        "url": "https://kinaxis.jibeapply.com/jobs/35343?icims=1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "51b69e29-80a2-4a17-87c3-a36e80ef1b10",
+        "title": "Intern Developer - Back End Technologies",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793427484,
+        "date_posted": 1790980020,
+        "url": "https://kinaxis.jibeapply.com/jobs/35372?icims=1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Blackhawk Network Holdings",
+        "id": "e5cda381-ca4d-4f56-beca-a30990d257a2",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427484,
+        "date_posted": 1788195960,
+        "url": "https://blackhawknetwork.jibeapply.com/jobs/26869?icims=1",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Blackhawk Network Holdings",
+        "id": "dbd3c9f3-3356-4fef-8bb9-245328a2c25f",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427484,
+        "date_posted": 1788196320,
+        "url": "https://blackhawknetwork.jibeapply.com/jobs/26868?icims=1",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackhawk Network Holdings",
+        "id": "6b57ac18-b109-4566-a7ef-80abeefd8757",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427484,
+        "date_posted": 1788195840,
+        "url": "https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "441204e5-25a0-40ff-8086-03becbb260e6",
+        "title": "Software Developer Co-op Intern - Core Algorithms",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793427566,
+        "date_posted": 1788543600,
+        "url": "https://kinaxis.jibeapply.com/jobs/35329?icims=1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kinaxis",
+        "id": "21479fdc-ebba-40c6-9d9e-8c263e7e7296",
+        "title": "Developer Co-op Intern - Machine Learning",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793427569,
+        "date_posted": 1788441900,
+        "url": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Ottawa, ON, Canada",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackhawk Network Holdings",
+        "id": "15129436-ae9b-4bc6-8628-b77a5b2874fb",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427484,
+        "date_posted": 1788195240,
+        "url": "https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emory University",
+        "id": "e5c6239c-4f2c-4a51-aa89-0b1bcdfde1d1",
+        "title": "Postdoctoral Fellow in Machine Learning and Data Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793427522,
+        "date_posted": 1793205600,
+        "url": "https://emory.jibeapply.com/jobs/164710?icims=1",
+        "locations": [
+            "Flowery Branch, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emory University",
+        "id": "b4a65dff-0eb6-425c-9886-f9ee7a0f70ea",
+        "title": "Postdoctoral Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793427528,
+        "date_posted": 1792586400,
+        "url": "https://emory.jibeapply.com/jobs/174970?icims=1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schneider Electric",
+        "id": "6342c388-0148-4eb2-9605-94161fabb703",
+        "title": "Electronics Hardware Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793427223,
+        "date_posted": 1790198520,
+        "url": "https://se.jibeapply.com/jobs/134457?icims=1",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schneider Electric",
+        "id": "585157cb-2a25-4e5d-8dbb-321781e13898",
+        "title": "AI Quality & Continuous Improvement Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793427213,
+        "date_posted": 1792155840,
+        "url": "https://se.jibeapply.com/jobs/136783?icims=1",
+        "locations": [
+            "Foxborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Publicis Groupe",
+        "id": "ac514eef-85b9-4b16-b1f4-64e545052831",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793426942,
+        "date_posted": 1792177800,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/172715?icims=1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schneider Electric",
+        "id": "61cb98db-4379-4439-a7df-2457c8c1797c",
+        "title": "Continuous Improvement Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793426942,
+        "date_posted": 1790179080,
+        "url": "https://se.jibeapply.com/jobs/135532?icims=1",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Publicis Groupe",
+        "id": "88eaf5f9-1259-44ff-ab84-75c4d2d6eb63",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427128,
+        "date_posted": 1788894060,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/173032?icims=1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Publicis Groupe",
+        "id": "56c51dc3-89fa-48ac-acd9-d8bb5ef31395",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793426942,
+        "date_posted": 1792178040,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/172717?icims=1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Schneider Electric",
+        "id": "25ed3c5b-d2ed-41cc-abdf-279ea3f1546f",
+        "title": "Graduate Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427182,
+        "date_posted": 1790804400,
+        "url": "https://se.jibeapply.com/jobs/135310?icims=1",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Publicis Groupe",
+        "id": "0706bb2f-8031-40cc-9e45-2952f9353f95",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793426942,
+        "date_posted": 1788965700,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/172577?icims=1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schneider Electric",
+        "id": "6dfc2aa4-779b-4d0a-b6b3-f59cbb1e7581",
+        "title": "Electronics Hardware Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427090,
+        "date_posted": 1791382560,
+        "url": "https://se.jibeapply.com/jobs/136319?icims=1",
+        "locations": [
+            "Raleigh, NC",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Publicis Groupe",
+        "id": "ee80920c-af56-413b-98f3-5ccb04862cd3",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793426942,
+        "date_posted": 1792178100,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/172716?icims=1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Publicis Groupe",
+        "id": "9b9456d9-4ae4-40b5-b658-deb0296a8d68",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793426942,
+        "date_posted": 1789767480,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/172574?icims=1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Publicis Groupe",
+        "id": "86741bed-09a2-4ca8-b7f9-be2c6f5019d1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793427001,
+        "date_posted": 1788894060,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/173034?icims=1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sierra",
+        "id": "69baa2b9-a852-4406-8a9e-db81c576d34e",
+        "title": "Applied Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793426847,
+        "date_posted": 1793404800,
+        "url": "https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
