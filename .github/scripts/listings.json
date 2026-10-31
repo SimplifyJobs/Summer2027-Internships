@@ -286039,7 +286039,7 @@
         "company_name": "Johnson & Johnson",
         "id": "7a2e4e2c-b2bc-4342-8cb2-9340dfc4d25b",
         "title": "Technology and Digital Quality Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -397066,7 +397066,7 @@
         "company_name": "RTX",
         "id": "aabec184-6bb9-483c-a9cb-d16e4cea6a01",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
