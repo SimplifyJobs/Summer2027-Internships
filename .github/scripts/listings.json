@@ -2,389 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Precisely",
-        "id": "53f7e36e-ab88-4d1c-944c-cc2706d0c6e6",
-        "title": "Data Analyst Intern - Wildfire Risk Suite",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772810641,
-        "date_posted": 1772810641,
-        "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4669670005?gh_jid=4669670005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Precisely",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Unlikely AI",
-        "id": "538e07e3-d139-4739-8f50-87adf5aa36dc",
-        "title": "Machine Learning Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772810569,
-        "date_posted": 1772810569,
-        "url": "https://jobs.ashbyhq.com/unlikelyai/8d50b0a8-0f5c-403e-8629-917d8b8430d2/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/UnlikelyAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tuesday Lab",
-        "id": "41c1ba39-57a5-4435-a125-e484e4ff6987",
-        "title": "Manipulation Co-op / Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772810642,
-        "date_posted": 1772810642,
-        "url": "https://jobs.ashbyhq.com/tuesday-lab/a4d1d67e-cf1c-4990-b6c4-ead0ad5762ac/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Tuesday-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rolls Royce",
-        "id": "0b2cb043-cca5-4d97-b0fd-08cfabaf9d77",
-        "title": "Total Vehicle System Integration and Validation Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1772810649,
-        "date_posted": 1772810649,
-        "url": "https://jobs.bmwgroup.com/job/Spartanburg-Total-Vehicle-System-Integration-and-Validation-Co-Op-(Fall-2026)-Sout/1371004133/?ats=successfactors",
-        "locations": [
-            "Spartanburg, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rolls Royce",
-        "id": "77261f70-1c17-460e-8bc8-20fe7e9cf55b",
-        "title": "Vehicle Electronics Test & Validation Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1772810479,
-        "date_posted": 1772810479,
-        "url": "https://jobs.bmwgroup.com/job/Spartanburg-Vehicle-Electronics-Test-&-Validation-Intern-(Fall-2026)-Sout/1371016333/?ats=successfactors",
-        "locations": [
-            "Spartanburg, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "586a5506-f036-4329-a1c3-8f45c8420f05",
-        "title": "Part-Time Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772810449,
-        "date_posted": 1772810449,
-        "url": "https://johndeere.eightfold.ai/careers/job/137479450474",
-        "locations": [
-            "Waterloo, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rolls Royce",
-        "id": "25201ab8-f751-48a3-91b6-488f69467630",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1772810481,
-        "date_posted": 1772810481,
-        "url": "https://jobs.bmwgroup.com/job/Spartanburg-Product-Engineering-Intern-(Fall-2026)-Sout/1371021633/?ats=successfactors",
-        "locations": [
-            "Spartanburg, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tilde Research",
-        "id": "f455fb7a-6e82-4af2-b378-c5deb178c84d",
-        "title": "Kernel Engineer \u2013 Intern and Full-time",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772810202,
-        "date_posted": 1772810202,
-        "url": "https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Tilde-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tilde Research",
-        "id": "e61e91ef-e618-467a-8ce3-391dc8487535",
-        "title": "ML Researcher \u2013 Intern and Full-time",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772810216,
-        "date_posted": 1772810216,
-        "url": "https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Tilde-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tilde Research",
-        "id": "c90fd52e-24ef-4129-b1c4-1af34d7b997b",
-        "title": "ML Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772810204,
-        "date_posted": 1772810204,
-        "url": "https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Tilde-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tuesday Lab",
-        "id": "a6ecbc28-332e-48ba-82e5-895c9cb4c467",
-        "title": "Reinforcement Learning Intern - Bipedal Locomotion",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772810048,
-        "date_posted": 1772810048,
-        "url": "https://jobs.ashbyhq.com/tuesday-lab/18bd51cd-ee37-4d4b-b48e-9fefa2e5be3d/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Tuesday-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arcadis",
-        "id": "2ab9d8f6-fb32-4f66-9b18-be92d39bbf31",
-        "title": "Climate Adaptation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772810188,
-        "date_posted": 1772810188,
-        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38913",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcadis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Roku",
-        "id": "79d66d37-3a38-4c3f-9422-9928beba2959",
-        "title": "Product Manager Intern - Livetv",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772809946,
-        "date_posted": 1772809946,
-        "url": "https://www.weareroku.com/jobs/7677396?gh_jid=7677396",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unlikely AI",
-        "id": "e7c7a2f9-8083-4f92-9ea8-e960ab4014a9",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772809750,
-        "date_posted": 1772809750,
-        "url": "https://jobs.ashbyhq.com/unlikelyai/a0f38397-9feb-407c-bb4e-94db4f3157ad/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/UnlikelyAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Proxima",
-        "id": "a4388a3e-cea8-4514-b572-a8874746ee53",
-        "title": "Target Prioritization CS Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772809750,
-        "date_posted": 1772809750,
-        "url": "https://jobs.ashbyhq.com/proxima/efacdf8d-966b-47a9-9ea7-07958050ecea/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Proxima-Bio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Coherent ",
-        "id": "a01fe5c8-36dc-4b6c-92f5-664d6dd7604b",
-        "title": "Intern - AI and Machine Learning",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772809765,
-        "date_posted": 1772809765,
-        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010408",
-        "locations": [
-            "Tarentum, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coherent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unwrap",
-        "id": "76d7f714-6ae6-4023-9bd3-f86932ff3787",
-        "title": "Full Stack Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772809727,
-        "date_posted": 1772809727,
-        "url": "https://jobs.ashbyhq.com/Unwrap/aa875007-108e-492b-86ad-1849f8740c5a/application",
-        "locations": [
-            "Santa Barbara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Unwrap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
         "id": "094d939d-c698-4092-ba76-859352c35265",
         "title": "Level 4 Data Analyst Apprenticeship",
@@ -420,31 +37,6 @@
             "Murray, UT"
         ],
         "company_url": "https://simplify.jobs/c/Intermountain-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Biogen",
-        "id": "69135df1-ca27-44d1-908e-153e283e9b6e",
-        "title": "Co-op \u2013 Artificial Intelligence Innovation",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1772810954,
-        "date_posted": 1772810954,
-        "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Artificial-Intelligence-Innovation_REQ22272",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Biogen",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -193237,7 +192829,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -193420,7 +193012,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -249094,7 +248686,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -249117,7 +248709,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -249163,7 +248755,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -249434,7 +249026,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -409306,7 +408898,7 @@
         "company_name": "Goldman Sachs",
         "id": "a79e1a77-0921-4fd2-ae92-5010c0c1ab71",
         "title": "Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409317,6 +408909,27 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TRG",
+        "id": "406b0816-39b7-4e44-bdd9-17030f08c8f2",
+        "title": "Full Stack Application Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793545561,
+        "date_posted": 1793545518,
+        "url": "https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TRG",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
