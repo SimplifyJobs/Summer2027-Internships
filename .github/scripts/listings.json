@@ -61902,27 +61902,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pearson",
-        "id": "14b2bb6d-74c1-4dac-9870-336d43169a16",
-        "title": "Intelligence Data Analyst Apprenticeship Coach",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775814551,
-        "date_posted": 1772792551,
-        "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22946",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Pearson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NOV",
         "id": "10dcbc02-0cdb-4de8-9af9-66df2c03fca0",
@@ -200567,7 +200546,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387810,7 +387789,7 @@
         "company_name": "StudyFetch",
         "id": "560fbfa2-951c-4d72-adc2-93abc85d1a5b",
         "title": "Robotics Intern - Learning Kits & Curriculum",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400585,7 +400564,7 @@
         "company_name": "Adobe",
         "id": "e7d2687d-8b7e-4615-88e6-df7f4f101331",
         "title": "Technical Support Consultant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
