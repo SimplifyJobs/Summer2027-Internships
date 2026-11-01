@@ -233074,7 +233074,7 @@
         "company_name": "Textron",
         "id": "1f33dede-1d64-4aeb-8345-18c5ceabdf28",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269174,7 +269174,7 @@
         "company_name": "Barclays",
         "id": "0da1449e-7007-4294-b336-740b56c5fbfc",
         "title": "Technology Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335755,7 +335755,7 @@
         "company_name": "State of North Carolina",
         "id": "20960b45-bcba-4977-a12f-eabbf6b2c80c",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -335776,7 +335776,7 @@
         "company_name": "State of North Carolina",
         "id": "0f621445-f310-4ae7-9e91-f830db926091",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
