@@ -194410,7 +194410,7 @@
         "company_name": "American Express",
         "id": "c344d643-aa8d-4d64-a497-67a78ca63dc9",
         "title": "Software Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -195612,7 +195612,7 @@
         "company_name": "American Express",
         "id": "d81967d4-8c47-4e80-bbb7-94d38eb66c5b",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -224371,7 +224371,7 @@
         "company_name": "American Express",
         "id": "de9099c6-40df-40d2-ab9a-82d46ae5b517",
         "title": "Product Management Intern - Global Merchant & Network Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -224878,7 +224878,7 @@
         "company_name": "American Express",
         "id": "c117ba86-33e1-47f4-8f2d-47273cec8534",
         "title": "Data Science Intern - Finance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369217,7 +369217,7 @@
         "company_name": "Johnson & Johnson",
         "id": "c9f2736c-ca54-46f8-98a1-81570a3bd159",
         "title": "Quality Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392396,7 +392396,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e2505b77-7cf2-4649-ad34-77ec15332d45",
         "title": "Associate \u2013 Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
