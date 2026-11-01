@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 3060 Inactive Internship Roles by Category
+### Browse 3061 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1067)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (202)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1067)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1068)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (263)
 
@@ -9342,6 +9342,13 @@
 <td>13d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
+<td>Quality Data Science Co-op</td>
+<td>Cincinnati, OH</td>
+<td>🔒</td>
+<td>13d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
 <td>Research Intern - Context and Knowledge Systems for AI 🎓</td>
 <td>Remote in UK</td>
@@ -13165,13 +13172,6 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Data Science Intern - Finance 🎓</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Data Analytics Intern - Enterprise Technology Services</td>
 <td>Phoenix, AZ</td>
 <td>🔒</td>
@@ -13251,6 +13251,13 @@
 <td>↳</td>
 <td>Data Engineer Intern - Enterprise Technology Services 🎓</td>
 <td>Phoenix, AZ</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Data Science Intern - Finance 🎓</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
