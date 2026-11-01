@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "b02124b5-0e3e-4b75-95dd-9c6469d41573",
-        "title": "Research Intern - Sustainable Architecture",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772765597,
-        "date_posted": 1772765597,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/California-USA---Remote/Research-Internship--Sustainable-Architecture_26WD96199",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chemours",
-        "id": "92408e99-d73a-466e-8cc8-ff49edcd0964",
-        "title": "Data Visualization Analyst Intern - Digital & Data Analytics Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772764774,
-        "date_posted": 1772764774,
-        "url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR14270",
-        "locations": [
-            "Remote in USA",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Chemours",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rolls Royce",
         "id": "9857ad60-014d-421a-a579-ae225b4b8c16",
