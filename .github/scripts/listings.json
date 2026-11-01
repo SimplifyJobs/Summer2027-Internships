@@ -227312,7 +227312,7 @@
         "company_name": "Deutsche Bank",
         "id": "ba998649-60fe-4182-b874-a218bea7dbce",
         "title": "Quantitative Analyst Intern - GSA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -227387,7 +227387,7 @@
         "company_name": "Deutsche Bank",
         "id": "ae872991-273f-487c-a956-d7c6b98f691a",
         "title": "Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393115,7 +393115,7 @@
         "company_name": "Altera",
         "id": "f1415371-af62-4b5e-af66-6016b5535562",
         "title": "IP Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
