@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Guidewire",
-        "id": "71cabcc0-9fe8-4f15-88f0-9f5d4b45545b",
-        "title": "Front-End Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772793766,
-        "date_posted": 1772793766,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Front-End-Developer-Intern_JR_14453",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Precisely",
         "id": "53f7e36e-ab88-4d1c-944c-cc2706d0c6e6",
@@ -178614,7 +178590,7 @@
         "company_name": "Microsoft",
         "id": "b412b084-36e9-45e2-b3a0-561c4336e62e",
         "title": "Software Engineer Security & Identity Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -294105,7 +294081,7 @@
         "company_name": "Tesla",
         "id": "a860c217-2741-42a5-99a3-bf7b86bc03d5",
         "title": "Factory Firmware Integration Intern - Energy Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
