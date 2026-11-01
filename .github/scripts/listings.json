@@ -206794,7 +206794,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -258436,7 +258436,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -289341,7 +289341,7 @@
         "company_name": "APEX Analytix",
         "id": "00026218-6b9b-420f-a490-b3b29742cf17",
         "title": "Data Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387810,7 +387810,7 @@
         "company_name": "StudyFetch",
         "id": "560fbfa2-951c-4d72-adc2-93abc85d1a5b",
         "title": "Robotics Intern - Learning Kits & Curriculum",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
