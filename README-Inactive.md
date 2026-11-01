@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 3058 Inactive Internship Roles by Category
+### Browse 3060 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1067)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (201)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (202)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1066)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1067)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (263)
 
@@ -7578,6 +7578,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Allstate-Insurance-Company?utm_source=GHList&utm_medium=company">Allstate</a></strong></td>
+<td>Technology Internship</td>
+<td>Illinois</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Patreon?utm_source=GHList&utm_medium=company">Patreon</a></strong></td>
 <td>Product Manager Intern</td>
 <td>SF<br>NYC</td>
@@ -8237,6 +8244,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Digital Product Management Intern - Enterprise Technology Services</td>
+<td>Phoenix, AZ</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Digital Product Management Intern - Enterprise Technology Services 🎓</td>
 <td>Phoenix, AZ</td>
 <td>🔒</td>
@@ -8246,13 +8260,6 @@
 <td>↳</td>
 <td>Product Management Intern - Global Merchant & Network Services 🎓</td>
 <td>NYC</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Digital Product Management Intern - Enterprise Technology Services</td>
-<td>Phoenix, AZ</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -9653,6 +9660,13 @@
 <td><strong><a href="https://simplify.jobs/c/Bristol-Myers-Squibb?utm_source=GHList&utm_medium=company">Bristol Myers Squibb</a></strong></td>
 <td>Global Quality Co-op - Commercial Specification Committee</td>
 <td>Madison, NJ</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Phillips-66?utm_source=GHList&utm_medium=company">Phillips 66</a></strong></td>
+<td>Digital & AI Analyst Placement Intern</td>
+<td>South Killingholme, UK</td>
 <td>🔒</td>
 <td>24d</td>
 </tr>
@@ -13151,13 +13165,6 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Data Science Intern - Finance</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Data Science Intern - Finance 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -13230,6 +13237,13 @@
 <td>↳</td>
 <td>Data Engineer Intern - Enterprise Technology Services 🎓</td>
 <td>Charlotte, NC</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Data Science Intern - Finance</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
