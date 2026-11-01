@@ -200567,7 +200567,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -234927,7 +234927,7 @@
         "company_name": "Edison International",
         "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
         "title": "Computer Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -268062,7 +268062,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293981,7 +293981,7 @@
         "company_name": "American Century Investments",
         "id": "13b8ede0-0485-42c1-a03a-c2fda0c4459b",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318994,7 +318994,7 @@
         "company_name": "American Century Investments",
         "id": "099a34f8-de36-4008-b851-c1546eb7f942",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319038,7 +319038,7 @@
         "company_name": "American Century Investments",
         "id": "127d880c-e16b-43e4-b4b6-c0788fbe90ae",
         "title": "Enterprise Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362991,7 +362991,7 @@
         "company_name": "Microsoft",
         "id": "2f809092-b7fc-460f-a4e3-0bb90bdac60b",
         "title": "Researcher Intern - Coreai",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
