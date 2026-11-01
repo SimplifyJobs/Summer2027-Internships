@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "094d939d-c698-4092-ba76-859352c35265",
-        "title": "Level 4 Data Analyst Apprenticeship",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1772811500,
-        "date_posted": 1772811500,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/London-United-Kingdom/Level-4-Data-Analyst-Apprenticeship_10142267-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intermountain Healthcare",
-        "id": "5f8c98c7-22b2-46cb-b360-cfae67f861c9",
-        "title": "Data Analyst Intern-1",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772811158,
-        "date_posted": 1772811158,
-        "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Transformation-Center/Data-Analyst-Summer-Intern-1_R164274",
-        "locations": [
-            "Murray, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Intermountain-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Arch Capital Group",
         "id": "a7b2b82f-dcef-48d1-9de7-5a3667a66828",
