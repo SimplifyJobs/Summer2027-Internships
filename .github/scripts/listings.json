@@ -249848,7 +249848,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "6e4167e4-c636-4cc7-8879-c3bb50f03ed5",
         "title": "Technology Support Intern - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -255864,7 +255864,7 @@
         "company_name": "incident.io",
         "id": "56542a8e-855c-488c-913e-1d63b6c0a8d6",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280058,7 +280058,7 @@
         "company_name": "Motorola",
         "id": "71d05d17-71a1-4ffd-ba5a-c4f5fb99f024",
         "title": "AI & Data Analytics Intern - Supply Resilience",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -285526,7 +285526,7 @@
         "company_name": "Keysight Technologies",
         "id": "5730d28b-f371-4f9b-ac42-075e86a87e65",
         "title": "ASIC Design-for-Test Engineer Intern - DFT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331577,7 +331577,7 @@
         "company_name": "Acron Aviation",
         "id": "52d30fe4-44b1-4d5c-bda2-2cbb4610f317",
         "title": "Electrical Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338389,7 +338389,7 @@
         "company_name": "Magnite",
         "id": "62d4ae7a-8cfd-487d-b184-59ecd3952a7d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -348866,7 +348866,7 @@
         "company_name": "Elk Valley Resources",
         "id": "5bcbaace-1f99-47f6-9f50-ec014dde039f",
         "title": "Business Administration Co-op - Maintenance Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -349898,7 +349898,7 @@
         "company_name": "Kyndryl",
         "id": "6af37fd6-50dd-4415-b8fd-2213d7e19394",
         "title": "Marketing Intern - Marketing Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389299,7 +389299,7 @@
         "company_name": "Meta",
         "id": "4a739f5c-35ee-4568-9824-17d4f357cd40",
         "title": "Research Scientist Intern - Efficient World Foundation Models - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395064,7 +395064,7 @@
         "company_name": "ABB",
         "id": "545bd8c9-5b0a-4acd-9cd7-e53ef6f722b3",
         "title": "AI Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
