@@ -222127,7 +222127,7 @@
         "company_name": "JP Morgan Chase",
         "id": "85495d7e-4673-4650-8d26-bbe8301a8736",
         "title": "Software Engineer Intern - Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265135,7 +265135,7 @@
         "company_name": "Cigna Group",
         "id": "b4c471c9-9a26-433f-a75a-81237cee7603",
         "title": "Data & Analytics Engineering Intern - Technology Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285341,7 +285341,7 @@
         "company_name": "Nokia",
         "id": "d94c84cc-d47a-4059-ba2f-57d2caabe29d",
         "title": "Hardware Engineer Co-op Intern - IP Routing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -287733,7 +287733,7 @@
         "company_name": "Nokia",
         "id": "d9edb3e4-6445-4b89-ba23-ab519604de04",
         "title": "Incubation Developer Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322708,7 +322708,7 @@
         "company_name": "American Express",
         "id": "d58d138c-9f48-42e1-98ec-3081af31201c",
         "title": "Product Analyst Intern - Undergraduate - ECMX",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331392,7 +331392,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d6145bb9-e227-4e58-93d0-88787216d111",
         "title": "Associate Multimedia Web Developer/Programmer Intern - Technical Training",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406893,7 +406893,7 @@
         "company_name": "KnowBe4",
         "id": "bf1ec0ef-494e-419c-abea-be20337732b0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
