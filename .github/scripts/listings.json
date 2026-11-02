@@ -333961,7 +333961,7 @@
         "company_name": "Intel",
         "id": "196825af-df08-45d5-a8e9-0d053f272e7b",
         "title": "AI Solution Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -376318,7 +376318,7 @@
         "company_name": "1Password",
         "id": "28e22b29-32bb-4e01-8a30-19fea4fe8f28",
         "title": "Developer Intern - Provisioning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -376340,7 +376340,7 @@
         "company_name": "1Password",
         "id": "1c5e8952-b8d8-438e-a4a2-0c43e815da28",
         "title": "Developer Intern - Machine Identity",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
