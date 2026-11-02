@@ -190663,7 +190663,7 @@
         "company_name": "RTX",
         "id": "44a036f1-8b46-4596-939b-e10b3f0e8761",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -215668,7 +215668,7 @@
         "company_name": "PIMCO",
         "id": "5f396023-d3b0-4532-8632-b4b75e97bd2b",
         "title": "Software Engineering Intern - Technology Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -238616,7 +238616,7 @@
         "company_name": "Quantinuum",
         "id": "37b97258-63a4-45f5-adf3-0a84d16998bf",
         "title": "Quantum Error Correction Intern - Quantum Error Correction",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -255815,7 +255815,7 @@
         "company_name": "Marsh",
         "id": "bf10b85e-3c76-4d76-b8d1-e2e1ed813b56",
         "title": "Data & Analytics Industrial Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -376296,7 +376296,7 @@
         "company_name": "1Password",
         "id": "379fb3aa-7732-4809-8b51-dac32b966e6c",
         "title": "Developer Intern - Extension Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -392745,7 +392745,7 @@
         "company_name": "The Walt Disney Company",
         "id": "87c62a0d-79a8-4512-8e50-eff920d0aa7a",
         "title": "Content Research Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
