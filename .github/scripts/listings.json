@@ -242305,7 +242305,7 @@
         "company_name": "Nationwide",
         "id": "02d9e13e-0a78-4ac3-ac88-bcc860a02ee5",
         "title": "State Product Analyst Intern - Personal Lines",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298530,7 +298530,7 @@
         "company_name": "Gordon Food Service",
         "id": "09f40dda-2ded-4174-ba81-78b97c133f7e",
         "title": "Software Engineer Intern - Low Code",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330851,7 +330851,7 @@
         "company_name": "incident.io",
         "id": "06f477fe-1ed4-46b5-8559-17cc078c0b8c",
         "title": "Product Engineer Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332722,7 +332722,7 @@
         "company_name": "Etched",
         "id": "2e947349-323e-4e5a-af34-b79087418d65",
         "title": "Physical Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027",
@@ -345830,7 +345830,7 @@
         "company_name": "Gordon Food Service",
         "id": "38c7776b-a885-4f1e-af66-2816ed57ba66",
         "title": "Software Engineer Intern - Transportation Routing",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348318,7 +348318,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "229a4d5b-5264-4536-9536-3b0b0059c653",
         "title": "Product Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -364855,7 +364855,7 @@
         "company_name": "John Deere",
         "id": "0056240c-a4a3-48c5-8715-8b3ed04b1590",
         "title": "Software Engineering Student Intern - Technology (CA)",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
