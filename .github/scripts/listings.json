@@ -205197,7 +205197,7 @@
         "company_name": "The Hartford",
         "id": "113452f5-8851-4266-8cfa-6e8ba357281e",
         "title": "Software Engineer Intern - Tech & Data Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222152,7 +222152,7 @@
         "company_name": "JP Morgan Chase",
         "id": "1698a59d-5825-45cf-9f74-49aad6a83aaf",
         "title": "Data & AI Intern - Data & AI Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
