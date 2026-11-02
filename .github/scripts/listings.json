@@ -263922,7 +263922,7 @@
         "company_name": "Navy Federal",
         "id": "a58125b0-2c66-4d05-ad80-42c3a6df7526",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297067,7 +297067,7 @@
         "company_name": "Gordon Food Service",
         "id": "c8aca959-9a59-41e5-b70f-6b65d4b67856",
         "title": "Vendor & Customer Master Data Intern - Master Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329463,7 +329463,7 @@
         "company_name": "HCSC",
         "id": "d9b64d1c-51e8-4aa5-8275-aee5eb3a274e",
         "title": "Early Careers Automation Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -335655,7 +335655,7 @@
         "company_name": "AMD",
         "id": "d633f8db-2cc5-4f14-95bb-788e2b639454",
         "title": "PhD Agentic/ML System Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -338833,7 +338833,7 @@
         "company_name": "Alston & Bird Law Firm",
         "id": "d0cef856-98c0-4742-86ea-e16297da53fb",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339443,7 +339443,7 @@
         "company_name": "KQED",
         "id": "c7379420-477b-4d1f-a015-7304f3461e25",
         "title": "Audience Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345618,7 +345618,7 @@
         "company_name": "Koch Industries",
         "id": "cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346729,7 +346729,7 @@
         "company_name": "Replit",
         "id": "b84cde68-8811-482e-ad0d-fb3108bad985",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -354305,7 +354305,7 @@
         "company_name": "CoStar Group",
         "id": "dc12ad6e-94a3-4674-995b-d23b3b5013e8",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367707,7 +367707,7 @@
         "company_name": "Cognex",
         "id": "d7811a02-7fd5-4ed0-a32a-d9a4ec9a068f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388239,7 +388239,7 @@
         "company_name": "CHS",
         "id": "add0b8bc-464a-47b8-a28b-b63532dc6262",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397370,7 +397370,7 @@
         "company_name": "HPS Investment Partners",
         "id": "a17f171c-8238-45aa-a6e0-59e031be13fe",
         "title": "Technology Intern - App Dev",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399662,7 +399662,7 @@
         "company_name": "RTX",
         "id": "ac529c5f-3436-4b43-ae06-72c731ff821c",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403151,7 +403151,7 @@
         "company_name": "Ciena",
         "id": "91d67b9b-12ca-4277-95ca-7d244fd447d1",
         "title": "Mixed Signal Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
