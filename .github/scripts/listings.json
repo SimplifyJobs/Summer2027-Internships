@@ -255840,7 +255840,7 @@
         "company_name": "incident.io",
         "id": "ed68772a-4ef4-445f-ae7d-35a26fa9cf11",
         "title": "Product Engineer Placement - 6 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -263030,7 +263030,7 @@
         "company_name": "Navy Federal",
         "id": "eeb6c52c-37fb-419b-98d3-d0f4866c100c",
         "title": "Fraud Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399222,7 +399222,7 @@
         "company_name": "OLIX",
         "id": "c1ac74d2-f7fa-4011-8d78-025691a38abc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403016,7 +403016,7 @@
         "company_name": "Snowflake",
         "id": "def9df22-e128-4dda-9596-1d0de6902d93",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
