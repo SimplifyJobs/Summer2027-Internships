@@ -223089,7 +223089,7 @@
         "company_name": "Hilton Worldwide",
         "id": "44915251-05bb-4109-b902-abd6c8cf811e",
         "title": "Data Management and Analysis Placement - Safety & Security",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -276034,7 +276034,7 @@
         "company_name": "Nokia",
         "id": "322a56aa-675d-4067-b109-b8fe03716b79",
         "title": "Data Scientist Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -306773,7 +306773,7 @@
         "company_name": "Eaton",
         "id": "3cd3db2a-093b-4ffb-b7fb-4348927dd1e1",
         "title": "Software Engineering Intern - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -406916,7 +406916,7 @@
         "company_name": "KnowBe4",
         "id": "2d8cadab-63ca-494f-bf8b-b7d5b157d376",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
