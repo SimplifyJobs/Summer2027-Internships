@@ -191662,7 +191662,7 @@
         "company_name": "Ryan Companies",
         "id": "bff3221b-d0ea-4c07-9c51-4ba9501e3a5c",
         "title": "Business Intelligence Intern - Mission Critical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -260930,7 +260930,7 @@
         "company_name": "COUNTRY Financial",
         "id": "d3a912ff-5ed8-40a6-8a28-91397669ffe8",
         "title": "Auto Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376251,7 +376251,7 @@
         "company_name": "1Password",
         "id": "c4f7b9a7-0136-490c-891e-ee3a84d6864c",
         "title": "Developer Intern - Vault Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -376362,7 +376362,7 @@
         "company_name": "1Password",
         "id": "a8540a76-75da-4ebe-9e00-0e8eefa3b9cf",
         "title": "Developer Intern - Front-End Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382533,7 +382533,7 @@
         "company_name": "1Password",
         "id": "e6004504-fc09-4fa4-8b4f-0e12d0e319a6",
         "title": "Developer Intern - Developer Interfaces",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382624,7 +382624,7 @@
         "company_name": "1Password",
         "id": "c27dd769-5cb4-46de-9658-90d85c12cfbc",
         "title": "Developer Intern - Credential Brokering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -405189,7 +405189,7 @@
         "company_name": "Pretium",
         "id": "dff0eb47-2fa8-4636-9c21-34ff0fca9959",
         "title": "AI, Data & Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
