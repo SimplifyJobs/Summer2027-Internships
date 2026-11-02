@@ -326651,7 +326651,7 @@
         "company_name": "C&S Wholesale Grocers",
         "id": "5e14584d-3148-449a-b903-28b77771e883",
         "title": "IS Intern - Web Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341205,7 +341205,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395112,7 +395112,7 @@
         "company_name": "7-Eleven",
         "id": "54dd8179-aad3-4d2b-8b66-a6e1a66cfc33",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
