@@ -302534,7 +302534,7 @@
         "company_name": "Eaton",
         "id": "eef6ecab-80f1-4954-a0d1-165cc62c51ed",
         "title": "Embedded Software Engineer Intern - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -316287,7 +316287,7 @@
         "company_name": "Nokia",
         "id": "ec4c3e54-19ef-459b-a915-d355cb2863b2",
         "title": "Operations Analytics Co-op Intern - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -333135,7 +333135,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340551,7 +340551,7 @@
         "company_name": "ABB",
         "id": "f8e5913f-abf8-4eed-838d-d784c5b7907b",
         "title": "AI Engineering ERP Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340943,7 +340943,7 @@
         "company_name": "ABB",
         "id": "fc5e6607-4ac0-4e9c-9d0d-429cb1076eee",
         "title": "AI Engineering Intern - Business Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349268,7 +349268,7 @@
         "company_name": "Johnson & Johnson",
         "id": "9a42eb0e-d390-47e7-85fa-9d1494c41240",
         "title": "Proteins Cell Engineering, Analytics & Screening Automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -388420,7 +388420,7 @@
         "company_name": "Sun Life",
         "id": "e5c5bd51-aad4-46ef-a77b-0dd49bee8594",
         "title": "Software Engineer Co-op - Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -390999,7 +390999,7 @@
         "company_name": "Northrop Grumman",
         "id": "ee1db599-f6bc-4f33-97e1-d5b75fa8d948",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395159,7 +395159,7 @@
         "company_name": "RTX",
         "id": "f51c760b-2cc4-48c5-b54a-fb26ce4db7ed",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402614,7 +402614,7 @@
         "company_name": "PTC",
         "id": "b1c85b2f-82a7-405f-be5e-b91959b2f8aa",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406927,6 +406927,29 @@
             "Clearwater, FL"
         ],
         "company_url": "https://simplify.jobs/c/KnowBe4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roku",
+        "id": "ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0",
+        "title": "Software Engineer Intern - AI Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793603392,
+        "date_posted": 1793601363,
+        "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
