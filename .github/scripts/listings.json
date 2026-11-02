@@ -370415,7 +370415,7 @@
         "company_name": "Microsoft",
         "id": "96501c84-a83b-453d-a76d-9cb6b18d192c",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375838,7 +375838,7 @@
         "company_name": "Apple",
         "id": "6f2b4d23-50f1-4385-a940-5a3daf9cd7b4",
         "title": "Software Engineer Intern - iCloud Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385353,7 +385353,7 @@
         "company_name": "COUNTRY Financial",
         "id": "6d12bdd4-f0e3-4ced-9e3d-481bc829fb72",
         "title": "Consumer Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404323,7 +404323,7 @@
         "company_name": "Farmers Mutual Hail",
         "id": "66abc21b-ff22-412a-8284-46a8e772c901",
         "title": "Data Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
