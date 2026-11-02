@@ -309,7 +309,7 @@
 <td>Software Engineer Intern</td>
 <td>Des Moines, IA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
@@ -365,7 +365,7 @@
 <td>Software Development Intern</td>
 <td>Cranberry Township, PA</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wise?utm_source=GHList&utm_medium=company">Wise</a></strong></td>
@@ -946,7 +946,7 @@
 <td>Software Engineer Intern</td>
 <td>Remote in USA<br>Remote in Canada</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Idemia?utm_source=GHList&utm_medium=company">IDEMIA</a></strong></td>
@@ -1065,7 +1065,7 @@
 <td>Software Engineer Intern</td>
 <td>LA</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Veeam-Software?utm_source=GHList&utm_medium=company">Veeam Software</a></strong></td>
@@ -9220,14 +9220,14 @@
 <td>AI Consulting Associate Program Brokerage Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
 <td>Field Service Data Analyst Intern</td>
 <td>Kirkland, WA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Space-Dynamics-Laboratory?utm_source=GHList&utm_medium=company">Space Dynamics Laboratory</a></strong></td>
@@ -9409,7 +9409,7 @@
 <td>AI/Data Science Intern</td>
 <td>Maple Grove, MN</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
@@ -9479,7 +9479,7 @@
 <td>Business Intelligence Intern</td>
 <td>United States</td>
 <td>🔒</td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AECOM?utm_source=GHList&utm_medium=company">AECOM</a></strong></td>
@@ -9682,7 +9682,7 @@
 <td>Data Science Intern</td>
 <td>Deerfield, IL</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Westinghouse-Electric-Company?utm_source=GHList&utm_medium=company">Westinghouse Electric Company</a></strong></td>
@@ -15961,7 +15961,7 @@
 <td>AI Intern 🎓</td>
 <td>La Jolla, San Diego, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -18439,14 +18439,14 @@
 <td>Systems Engineer Intern</td>
 <td>Woodland Hills, LA</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Synopsys?utm_source=GHList&utm_medium=company">Synopsys</a></strong></td>
 <td>Technical Engineer Intern</td>
 <td>Ottawa, ON, Canada</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/HP-IQ?utm_source=GHList&utm_medium=company">HP IQ</a></strong></td>
@@ -18502,7 +18502,7 @@
 <td>Memory Server System Testing Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Synopsys?utm_source=GHList&utm_medium=company">Synopsys</a></strong></td>
@@ -18572,7 +18572,7 @@
 <td>Avionics Electrical Engineer Intern</td>
 <td>Berthoud, CO</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
@@ -18607,7 +18607,7 @@
 <td>Electrical Hardware Engineer Intern</td>
 <td>Arden Hills, MN</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Synopsys?utm_source=GHList&utm_medium=company">Synopsys</a></strong></td>
