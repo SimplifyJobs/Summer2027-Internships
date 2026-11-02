@@ -265538,7 +265538,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -286701,7 +286701,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385286,7 +385286,7 @@
         "company_name": "StudyFetch",
         "id": "560fbfa2-951c-4d72-adc2-93abc85d1a5b",
         "title": "Robotics Intern - Learning Kits & Curriculum",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -393787,7 +393787,7 @@
         "company_name": "VSP Vision",
         "id": "178d0613-9e8b-480c-b35e-f7b89b94e02e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
