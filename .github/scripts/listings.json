@@ -178993,7 +178993,7 @@
         "company_name": "American Express",
         "id": "d73faddb-6b91-4205-a34a-ecb8289ec010",
         "title": "Product Management Intern - Global Merchant & Network Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301845,7 +301845,7 @@
         "company_name": "Geneva Trading",
         "id": "f0260062-2176-46f8-896e-37df2e86fbd4",
         "title": "Data Engineer Intern - PMO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326557,7 +326557,7 @@
         "company_name": "Cigna Group",
         "id": "e2eb087e-b56a-42ec-a623-0453920d302b",
         "title": "Product Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356230,7 +356230,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "b8a1f8e9-1bd0-4680-935f-b7db4f32be16",
         "title": "Data Analyst Emerging Talent Intern - Supplier Relations",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -362471,7 +362471,7 @@
         "company_name": "Cigna Group",
         "id": "c3cdc8d7-6453-4372-998a-5b325638910a",
         "title": "Healthcare Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368791,7 +368791,7 @@
         "company_name": "Meta",
         "id": "b8db69f4-9b3f-4c48-9334-daa51e9d5fc7",
         "title": "Research Scientist Intern - 3D-grounded Generalist Model for Robotics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374504,7 +374504,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "ca54c597-62db-4da0-94dc-586e386ef525",
         "title": "AI and Estimation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393724,7 +393724,7 @@
         "company_name": "General Magic",
         "id": "c06039c4-ba75-429d-bdd0-6d8a878845ee",
         "title": "Backend Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400610,7 +400610,7 @@
         "company_name": "Austin Community College District",
         "id": "b85f3bd2-2104-48c0-a956-131d726aae46",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
