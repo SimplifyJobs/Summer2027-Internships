@@ -406955,5 +406955,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "09939e91-4c36-4e3b-ace2-9d0117e05b68",
+        "title": "Explore Program Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793604987,
+        "date_posted": 1793604875,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
