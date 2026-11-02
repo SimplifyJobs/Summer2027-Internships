@@ -222877,7 +222877,7 @@
         "company_name": "BlueCross BlueShield of Nebraska",
         "id": "67c1b95e-7d8e-429c-8252-51543316efbd",
         "title": "Data Intern - Data Science - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -248907,7 +248907,7 @@
         "company_name": "Symphony",
         "id": "8f70e2c4-d1cf-4511-96be-48f94355b4ff",
         "title": "Business Intelligence and Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -262371,7 +262371,7 @@
         "company_name": "Gallup",
         "id": "8803001e-f0a9-470c-aabe-54792dc5ae04",
         "title": "Fintech Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -282000,7 +282000,7 @@
         "company_name": "Gordon Food Service",
         "id": "89c5e157-f2f0-4797-8fad-377cf5478e3d",
         "title": "Category Technology Intern - MMSC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322359,7 +322359,7 @@
         "company_name": "Epic Games",
         "id": "61e21545-5d83-4e49-ad52-454f47410004",
         "title": "Technical Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -342599,7 +342599,7 @@
         "company_name": "KLA",
         "id": "695b19fd-a757-4b61-95e6-b7d31ea50129",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361408,7 +361408,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "80351725-89cb-4be1-bc76-7efb15c12f6c",
         "title": "Commercial Analytics Co-op - Market Access",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382748,7 +382748,7 @@
         "company_name": "Sedgwick Claims Management Services",
         "id": "731a0491-8cb0-4279-a27e-9e40fcaff5da",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390654,7 +390654,7 @@
         "company_name": "RTX",
         "id": "6c29c238-5adb-4065-abd8-c8c9179900b5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398585,7 +398585,7 @@
         "company_name": "Advanced Space",
         "id": "8281f41a-114f-4b46-bd00-8660449e0b4a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398608,7 +398608,7 @@
         "company_name": "Advanced Space",
         "id": "7bc539ab-f191-44a4-b03e-dce55640d12d",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402972,7 +402972,7 @@
         "company_name": "The New York Times",
         "id": "6853cf9e-5cf2-46aa-a033-d2ec5a07823c",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406687,7 +406687,7 @@
         "company_name": "incident.io",
         "id": "6f8c758c-6226-484d-afe1-b9ad5f302b81",
         "title": "Product Engineer New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
