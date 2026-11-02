@@ -205151,7 +205151,7 @@
         "company_name": "Sage",
         "id": "0aa38a85-7be2-4d60-8ec3-0002a9643512",
         "title": "Software Engineer Intern - Edge - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319931,7 +319931,7 @@
         "company_name": "ICF International",
         "id": "05c9b1e2-1f2b-4278-a44f-e94d1a919981",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334390,7 +334390,7 @@
         "company_name": "AMD",
         "id": "0895d37b-42f3-4f85-9661-b7c78952d1b7",
         "title": "PhD Large Language Model Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -382131,7 +382131,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "0ab7c867-2323-4110-9daf-6b5d47cde582",
         "title": "Biologics MSAT Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -388375,7 +388375,7 @@
         "company_name": "CHS",
         "id": "24dd9218-cdad-48f0-b562-855c34fe9e7c",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396332,7 +396332,7 @@
         "company_name": "Sonos",
         "id": "1b1a0773-2947-45fb-8f7c-8a6429ed4941",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401328,7 +401328,7 @@
         "company_name": "Geotab",
         "id": "19d5ab17-78c6-4abc-ba99-50eb9cd0bd00",
         "title": "Data Governance & Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
