@@ -205221,7 +205221,7 @@
         "company_name": "The Hartford",
         "id": "82866724-4ab4-4955-9baf-42d63ab200e3",
         "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222055,7 +222055,7 @@
         "company_name": "JP Morgan Chase",
         "id": "7e598d20-5aab-49e6-8847-8d17c9948e41",
         "title": "Quantitative Research Markets Associate Intern - Quantitative Trading & Research Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -222078,7 +222078,7 @@
         "company_name": "JP Morgan Chase",
         "id": "7b78b68a-dea7-4e76-8753-553fdfda1113",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -222201,7 +222201,7 @@
         "company_name": "JP Morgan Chase",
         "id": "7ad48361-649c-4efe-abeb-2c80430792f5",
         "title": "Software Engineer Intern - Immersion Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275701,7 +275701,7 @@
         "company_name": "Nokia",
         "id": "8cea6153-adf8-447d-893b-27bd5b82e580",
         "title": "Optical Test Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -328426,7 +328426,7 @@
         "company_name": "Nokia",
         "id": "889b9ca8-2b1f-4fd5-b6f6-d9ab02236f83",
         "title": "Automation Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -342370,7 +342370,7 @@
         "company_name": "Roche",
         "id": "854b0375-7239-4af1-824a-67ccffe9066a",
         "title": "Data Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384561,7 +384561,7 @@
         "company_name": "Microsoft",
         "id": "7d6bf1c5-976f-4398-b41d-4408341be367",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
