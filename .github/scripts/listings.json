@@ -229768,7 +229768,7 @@
         "company_name": "Michelin",
         "id": "5894643a-c28e-4199-a424-35a670e0526f",
         "title": "R&D Testing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308456,7 +308456,7 @@
         "company_name": "Micron Technology",
         "id": "5a07cf07-d505-4525-bec1-6e0fa482b1d9",
         "title": "Design Engineer Intern - High Bandwidth Memory",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -321609,7 +321609,7 @@
         "company_name": "RTX",
         "id": "5ee87d96-970f-4544-9f60-1c689d45466d",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -324866,7 +324866,7 @@
         "company_name": "The Federal Reserve System",
         "id": "531577c4-883e-4ac7-9563-ab1ef47be527",
         "title": "Advanced Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350960,7 +350960,7 @@
         "company_name": "Tencent",
         "id": "2c3978ec-96e1-4cd8-aa36-f871453348ce",
         "title": "LLM & Agent Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384607,7 +384607,7 @@
         "company_name": "Philips",
         "id": "2550c060-9118-4f3e-9d5f-4654e2b82b0a",
         "title": "Service Offer Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394845,7 +394845,7 @@
         "company_name": "Workday",
         "id": "55838bcc-4e75-4ae8-99c1-4842181f1a8f",
         "title": "Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
