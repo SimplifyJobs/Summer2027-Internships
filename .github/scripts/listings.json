@@ -242076,7 +242076,7 @@
         "company_name": "QuEra Computing",
         "id": "1cd301cb-50d4-418a-b1d4-c45796ebb185",
         "title": "Quantum Computing Intern - Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252403,7 +252403,7 @@
         "company_name": "Schonfeld",
         "id": "2958c86d-fef5-4422-a0a1-7bd489bfebf1",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -261628,7 +261628,7 @@
         "company_name": "Vercel",
         "id": "282e63a7-0fb1-40c2-b5f5-6afd0e4a66d7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -332695,7 +332695,7 @@
         "company_name": "Etched",
         "id": "1677419e-8d02-4e05-b049-cd051f2b1b28",
         "title": "Chip Simulation Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027",
@@ -338202,7 +338202,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "15be9d45-06cf-4e9e-995b-50c4c8b1e67c",
         "title": "VLSI Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -356251,7 +356251,7 @@
         "company_name": "Avis Budget Group",
         "id": "19a4fd72-3ca2-426e-bd97-8a97d3d6aa8e",
         "title": "Product Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381230,7 +381230,7 @@
         "company_name": "Waymo",
         "id": "07ec9414-a580-4b59-87ad-55bc953f8447",
         "title": "Depot Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384306,7 +384306,7 @@
         "company_name": "Meta",
         "id": "216cdc89-c91f-4158-90d5-5b927673a806",
         "title": "Research Scientist Intern - Wearable Sensing & Human Motion Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393766,7 +393766,7 @@
         "company_name": "General Magic",
         "id": "1aa5987c-ec80-457f-9cf4-f0ad07ae342e",
         "title": "Design Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405392,7 +405392,7 @@
         "company_name": "Kinaxis",
         "id": "21479fdc-ebba-40c6-9d9e-8c263e7e7296",
         "title": "Developer Co-op Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
