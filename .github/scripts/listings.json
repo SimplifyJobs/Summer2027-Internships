@@ -252238,7 +252238,7 @@
         "company_name": "Schonfeld",
         "id": "3fbfec6a-6a08-4eb5-af05-582e9d6c9f63",
         "title": "Systematic COO Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -255555,7 +255555,7 @@
         "company_name": "NXP Semiconductors",
         "id": "5c47dfa0-2340-4231-a8bc-20e900f594c7",
         "title": "Data Science / Structured Problem Solving Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265538,7 +265538,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294474,7 +294474,7 @@
         "company_name": "Gordon Food Service",
         "id": "5304fddb-8f6b-4252-8dcd-417e6095ccf9",
         "title": "Digital Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405371,7 +405371,7 @@
         "company_name": "Kinaxis",
         "id": "441204e5-25a0-40ff-8086-03becbb260e6",
         "title": "Software Developer Co-op Intern - Core Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
