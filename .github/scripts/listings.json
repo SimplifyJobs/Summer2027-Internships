@@ -355445,7 +355445,7 @@
         "company_name": "Canadian Tire",
         "id": "d73bb505-f6f2-4b62-bd96-ad904a15d953",
         "title": "Product Strategy Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394588,7 +394588,7 @@
         "company_name": "RTX",
         "id": "e20b7038-01d7-4798-a53d-313f94bd9e80",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -408874,7 +408874,7 @@
         "company_name": "Parsons",
         "id": "cffd0bd5-d650-4e9e-ae41-cde4ff1d94d3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
