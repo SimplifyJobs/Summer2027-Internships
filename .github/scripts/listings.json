@@ -298011,7 +298011,7 @@
         "company_name": "Tesla",
         "id": "b3e74a6e-d3af-4e37-808e-8a94de03c75d",
         "title": "Systems Integration Engineer Intern - Body Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -345876,7 +345876,7 @@
         "company_name": "Sensata",
         "id": "2dd43b4d-a243-4996-826b-d46251f0fc5e",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -358175,7 +358175,7 @@
         "company_name": "LSEG",
         "id": "112ac640-41ea-4a8d-9297-a0fab277b9a9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
