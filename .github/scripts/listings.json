@@ -294099,7 +294099,7 @@
         "company_name": "Marvell",
         "id": "79ae0aa0-8312-4d1d-b4b1-4682d51f9ebe",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332169,7 +332169,7 @@
         "company_name": "EMC Insurance",
         "id": "a7c9aea2-4419-4128-b445-65d7c1f33bfe",
         "title": "Claims Intern - Property",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340034,7 +340034,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343399,7 +343399,7 @@
         "company_name": "McKesson",
         "id": "80e937f9-b321-42fa-98f7-8b8e97d42209",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367352,7 +367352,7 @@
         "company_name": "Highmark Health",
         "id": "a68523cd-29af-496f-972d-7053da12daa7",
         "title": "Data Analyst Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402993,7 +402993,7 @@
         "company_name": "Nokia",
         "id": "a599f712-084e-4e11-b0e8-5e9998ba52dc",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409709,7 +409709,7 @@
         "company_name": "Renesas Electronics",
         "id": "d91b2d87-4e92-482e-9044-33b749be0981",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
