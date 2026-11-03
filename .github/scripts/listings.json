@@ -88914,7 +88914,7 @@
         "company_name": "Cohere",
         "id": "6a053db8-23fb-4075-8cbb-7ed2328d5f43",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -174938,7 +174938,7 @@
         "company_name": "Persona AI",
         "id": "3d2ef8a9-a5da-4120-9c53-50ceec3023cd",
         "title": "Autonomy Software Engineer Intern - World Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -249871,7 +249871,7 @@
         "company_name": "Clyde Companies",
         "id": "5780af8f-74c3-4beb-8392-3d7de8373ed1",
         "title": "Finance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -258708,7 +258708,7 @@
         "company_name": "Allegion",
         "id": "6ad2b2e8-1efa-4963-b407-bb2739a3e675",
         "title": "Hardware Engineer Intern - Advanced Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -300849,7 +300849,7 @@
         "company_name": "Gordon Food Service",
         "id": "3fbd056c-e79f-488d-ba11-b3f5a12d40e5",
         "title": "Data Analyst Intern - Imports & Commodities",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -325050,7 +325050,7 @@
         "company_name": "L3Harris Technologies",
         "id": "65c6980b-4420-4767-a479-d749f5e67d26",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331829,7 +331829,7 @@
         "company_name": "EMC Insurance",
         "id": "358e91d0-b574-450b-8f1a-c8785fc0cfc2",
         "title": "Claims Intern - Property",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351549,7 +351549,7 @@
         "company_name": "Aon",
         "id": "39ed025b-7980-429e-ada4-45ac67995080",
         "title": "Health Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352365,7 +352365,7 @@
         "company_name": "KLA",
         "id": "6b312831-205c-40b2-bb44-e02ee5c53de8",
         "title": "AI/ML Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354743,7 +354743,7 @@
         "company_name": "KLA",
         "id": "5641eed2-7dd2-4dc6-8834-2db9066a87f3",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389231,7 +389231,7 @@
         "company_name": "Niantic Spatial",
         "id": "3619b4c7-53d4-4dcc-aa54-3f79280248ed",
         "title": "Software Engineer Intern - Native SDK & Mobile Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
