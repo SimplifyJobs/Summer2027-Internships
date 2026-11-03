@@ -259597,7 +259597,7 @@
         "company_name": "Trimble",
         "id": "63bb5635-fcbb-4c10-ac91-d7f76b6c3d75",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299386,7 +299386,7 @@
         "company_name": "Together AI",
         "id": "71d40ca7-1546-417c-8bf5-c360ac814bb0",
         "title": "Systems Research Engineer Intern - GPU Programming",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -306944,7 +306944,7 @@
         "company_name": "Mytra",
         "id": "7168238e-e901-4705-8d75-b33b99d49fa4",
         "title": "Robotics Intern - Winter 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369205,7 +369205,7 @@
         "company_name": "Trimble",
         "id": "4faaca93-0c42-437d-9ffe-3b46d8d67e62",
         "title": "Hardware/Software Testing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
