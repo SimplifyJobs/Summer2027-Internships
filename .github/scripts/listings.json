@@ -192275,7 +192275,7 @@
         "company_name": "American Express",
         "id": "35fb935f-b0e2-45fc-b47d-30f441bc8d56",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410201,7 +410201,7 @@
         "company_name": "Signet Jewelers",
         "id": "5563d9cd-597b-4688-8d72-017b1ac8d409",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
