@@ -254565,7 +254565,7 @@
         "company_name": "Xcel Energy",
         "id": "630f0123-95e1-4012-8c31-54195c80a1e5",
         "title": "Grid Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410178,7 +410178,7 @@
         "company_name": "Signet Jewelers",
         "id": "8599d845-17eb-4dd2-92bc-b525dbd56a96",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
