@@ -407866,7 +407866,7 @@
         "company_name": "Epic Games",
         "id": "8d1e76b1-c393-4e56-95a5-8fb8284ed06d",
         "title": "Tools Programmer Intern - Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410622,6 +410622,29 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICF International",
+        "id": "59dcdcf5-e048-4e2b-99c1-024440a01f9a",
+        "title": "Energy Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793714780,
+        "date_posted": 1791417600,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418",
+        "locations": [
+            "Arlington County, Arlington, VA",
+            "Reston, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
