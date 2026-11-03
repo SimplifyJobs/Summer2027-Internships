@@ -266329,7 +266329,7 @@
         "company_name": "American Equity",
         "id": "b0874b91-889a-4766-93f6-8f7d25e25cc7",
         "title": "IT Intern - Digital Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -274940,7 +274940,7 @@
         "company_name": "Oshkosh",
         "id": "be741c04-69a7-41b2-8fb3-8d280bacbe8c",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307637,7 +307637,7 @@
         "company_name": "William Blair",
         "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
         "title": "Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340080,7 +340080,7 @@
         "company_name": "KLA",
         "id": "b2d7f04b-6fe9-4f28-9170-5910cbcb245b",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -350729,7 +350729,7 @@
         "company_name": "C&S Wholesale Grocers",
         "id": "bb47dc93-f16f-46a0-b000-c7c3f10499df",
         "title": "IS Intern - Data Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351120,7 +351120,7 @@
         "company_name": "Aon",
         "id": "e3fc6149-4bf0-4f8f-8999-946aaf53e191",
         "title": "Health Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351752,7 +351752,7 @@
         "company_name": "Highmark Health",
         "id": "d053dcdd-9837-4c01-9ba4-fa29ddb4604f",
         "title": "Population Health Analytics Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368445,7 +368445,7 @@
         "company_name": "Waymo",
         "id": "c045834d-1264-48ed-8b93-503e55e7e604",
         "title": "Research Intern - Perception Foundation Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408762,7 +408762,7 @@
         "company_name": "Marriott Vacations Worldwide",
         "id": "dbebdf61-0349-46a7-ae9d-bb370afe1f22",
         "title": "Corporate Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
