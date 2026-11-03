@@ -222550,7 +222550,7 @@
         "company_name": "Emerson Electric",
         "id": "1039c116-f4d4-4ea6-b62b-f893dd21373b",
         "title": "Software Engineer Co-op - January 2027 - May 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -229747,7 +229747,7 @@
         "company_name": "Michelin",
         "id": "10e5e95c-8b55-4510-9620-5c7cf27c7589",
         "title": "R&D Performance Measurement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399686,7 +399686,7 @@
         "company_name": "RTX",
         "id": "1c64f541-300e-43be-8269-a585d62556e0",
         "title": "Sustainment Data and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405233,7 +405233,7 @@
         "company_name": "Pretium",
         "id": "211b91fc-4182-4722-a8a3-8a956e36e7fa",
         "title": "Quantitative Strategies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
