@@ -189979,7 +189979,7 @@
         "company_name": "Notion",
         "id": "c61b3999-cfc9-4184-8e3e-3a21a00ebcef",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -250601,7 +250601,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "b9ad0512-97d4-418a-bfab-854fbc68596a",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280180,7 +280180,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -288764,7 +288764,7 @@
         "company_name": "Brevium",
         "id": "9a1debfd-f76d-40d2-8f54-b93031f11a1c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -297962,7 +297962,7 @@
         "company_name": "Publicis Groupe",
         "id": "a4432340-1e42-4079-be3e-d590b4a323ec",
         "title": "Product Manager Intern - Class of 2028",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302321,7 +302321,7 @@
         "company_name": "Tyler Technologies",
         "id": "a71102ca-4c4d-4bc3-8084-fcf5d09cf645",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308410,7 +308410,7 @@
         "company_name": "RTX",
         "id": "9eba7545-19f8-461d-b313-6a523b17e88c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341578,7 +341578,7 @@
         "company_name": "Keysight Technologies",
         "id": "b8b19e5d-20b7-445f-8168-507858a3452c",
         "title": "Enterprise Software Development Intern - EDA Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -352300,7 +352300,7 @@
         "company_name": "KLA",
         "id": "9b2b1358-6a3c-48e5-afa1-219bc271af07",
         "title": "AI/ML Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371885,7 +371885,7 @@
         "company_name": "Zebra Technologies",
         "id": "cde3a717-b612-4994-bbd5-0272b6a0df41",
         "title": "Supplies & Sensors Product Manager Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391902,7 +391902,7 @@
         "company_name": "Salesforce",
         "id": "afcdf74f-6a05-4576-a4ca-e000980ec578",
         "title": "Forward Deployed Engineer Intern - Global Public Sector",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394565,7 +394565,7 @@
         "company_name": "Ace Hardware",
         "id": "bff9a492-ed06-4a94-8f0d-75a782dcefd8",
         "title": "IT Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404207,7 +404207,7 @@
         "company_name": "Pyrotek",
         "id": "fb4ff940-a824-4d20-bce3-e3331a46768e",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405718,7 +405718,7 @@
         "company_name": "Publicis Groupe",
         "id": "9b9456d9-4ae4-40b5-b658-deb0296a8d68",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
