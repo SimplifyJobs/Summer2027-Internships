@@ -410471,5 +410471,74 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "onepot",
+        "id": "c2b1b1ff-27fa-48bb-909f-52cf19e69b16",
+        "title": "Machine Learning Researcher Intern - Machine Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793692289,
+        "date_posted": 1793664000,
+        "url": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Onepot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
+        "title": "AI Compiler and Kernel Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793692261,
+        "date_posted": 1793577600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Paccar",
+        "id": "ef31b232-5a78-40fe-9d4a-b2cca861468f",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793692134,
+        "date_posted": 1793692077,
+        "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
+        "locations": [
+            "Denton, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
