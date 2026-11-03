@@ -152549,7 +152549,7 @@
         "company_name": "Jump Trading",
         "id": "300ea10e-7533-4da0-a0eb-023685450972",
         "title": "Campus ASIC Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -170187,7 +170187,7 @@
         "company_name": "Persona AI",
         "id": "24255193-3808-4715-852f-52963f5a98c1",
         "title": "Machine Learning Intern - Manipulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -230615,7 +230615,7 @@
         "company_name": "Michelin",
         "id": "23d6cc2e-855b-4458-a689-002cda7f4705",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236793,7 +236793,7 @@
         "company_name": "Nokia",
         "id": "048f86af-a1b6-4685-8cfc-9845dc599e4e",
         "title": "DSP Firmware Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -269057,7 +269057,7 @@
         "company_name": "L3Harris Technologies",
         "id": "2d8b3c17-ff1c-4be4-8d6f-46f4157c316c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -271045,7 +271045,7 @@
         "company_name": "The MJ Companies",
         "id": "03ddbf84-5e23-46af-b5c3-428a7ef7f009",
         "title": "Enterprise Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -271091,7 +271091,7 @@
         "company_name": "Exegy",
         "id": "252897b6-0446-4e1f-b21e-c75ab688eea9",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -275439,7 +275439,7 @@
         "company_name": "Perpay",
         "id": "2eee6626-9257-4fab-b76a-0a8674d9aa8a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -276472,7 +276472,7 @@
         "company_name": "MegazoneCloud",
         "id": "27deb3b5-50a4-4bab-9656-57bb2dd34ead",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280358,7 +280358,7 @@
         "company_name": "Figma",
         "id": "25263330-f6ce-4a47-baf8-d69b3086adf7",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -289052,7 +289052,7 @@
         "company_name": "NJM Insurance Group",
         "id": "0adb2d84-b56e-47f1-b4ca-f0267547814c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354567,7 +354567,7 @@
         "company_name": "KLA",
         "id": "2ceb1cdc-f5a5-4650-8fd1-1c54af7450ce",
         "title": "Software Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354767,7 +354767,7 @@
         "company_name": "KLA",
         "id": "0409c750-f9d4-4b63-ae69-f095bd0c95ee",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -356462,7 +356462,7 @@
         "company_name": "Phillips 66",
         "id": "05db4a21-e875-4682-901f-209b175e2597",
         "title": "University Intern - ERI Analytical Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370370,7 +370370,7 @@
         "company_name": "SOTI",
         "id": "29207f00-5df5-4bb4-a7d8-729ce95d921d",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371979,7 +371979,7 @@
         "company_name": "Zebra Technologies",
         "id": "29576300-070d-4528-9cc2-27e8d13cb9ed",
         "title": "Supplies and Sensors R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405647,7 +405647,7 @@
         "company_name": "Publicis Groupe",
         "id": "0706bb2f-8031-40cc-9e45-2952f9353f95",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
