@@ -212308,7 +212308,7 @@
         "company_name": "Phoenix Contact",
         "id": "ba997393-daa9-4477-9391-5eb428918ddb",
         "title": "Data Science & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -270178,7 +270178,7 @@
         "company_name": "AllianceBernstein",
         "id": "d57f2b05-8674-4998-ac7a-1c906d4976a1",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346874,7 +346874,7 @@
         "company_name": "Allegro MicroSystems",
         "id": "9d7498a9-3f4b-4af0-943c-58268a2a5e81",
         "title": "Electronic Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
