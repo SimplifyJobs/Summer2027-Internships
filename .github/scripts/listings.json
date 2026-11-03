@@ -328798,7 +328798,7 @@
         "company_name": "Trimble",
         "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331714,7 +331714,7 @@
         "company_name": "EMC Insurance",
         "id": "722989ed-df3d-4611-83a2-26c5369b1e66",
         "title": "Claims Intern - Workers' Compensation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332192,7 +332192,7 @@
         "company_name": "EMC Insurance",
         "id": "b96cf9b7-1f8d-47c4-8c9c-6c70376ffe7c",
         "title": "Claims Intern - Workers' Compensation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360703,7 +360703,7 @@
         "company_name": "Tencent",
         "id": "9017884c-ac21-4042-9b87-f21cc598295d",
         "title": "Game Development Tools Intern - AI Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386007,7 +386007,7 @@
         "company_name": "Tencent",
         "id": "cb28120a-d18d-4f68-9377-edcb04adaa4f",
         "title": "Game UI Intern - AI Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
