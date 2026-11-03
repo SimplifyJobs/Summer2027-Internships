@@ -266704,7 +266704,7 @@
         "company_name": "Publicis Groupe",
         "id": "ef40c957-572d-4f46-9bab-b7378678804d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286415,7 +286415,7 @@
         "company_name": "Tyler Technologies",
         "id": "e6d2ca10-47cc-492f-bfc3-51e1c414353b",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292000,7 +292000,7 @@
         "company_name": "Gordon Food Service",
         "id": "e229af0f-ee15-4743-b863-7a2ae2645455",
         "title": "Data Science Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354450,7 +354450,7 @@
         "company_name": "KLA",
         "id": "f25ac517-b641-4c69-87e1-685fcf4b4dbc",
         "title": "Software Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401172,7 +401172,7 @@
         "company_name": "CareSource",
         "id": "d479bef7-8f0d-4384-8b62-13d11f539acd",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
