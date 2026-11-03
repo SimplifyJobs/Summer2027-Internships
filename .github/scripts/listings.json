@@ -175322,7 +175322,7 @@
         "company_name": "The Boeing Company",
         "id": "3c052483-a306-453e-a3dc-ccfe99cf5624",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345922,7 +345922,7 @@
         "company_name": "Sensata",
         "id": "a5a7c6ed-12ef-47c1-bf9d-a14037da20b1",
         "title": "Electronics/Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -358104,7 +358104,7 @@
         "company_name": "LSEG",
         "id": "81f6a6a0-ca1b-4a27-aafa-49735204bc0e",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -410599,6 +410599,27 @@
         "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Applied-Data-and-AI-Apprentice---Edinburgh_165592",
         "locations": [
             "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lloyds Bank",
+        "id": "4332482c-4ea5-46b7-8be3-2fb8b77b0023",
+        "title": "Digital & Technology Solutions Degree Apprenticeship",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1793708822,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Digital---Technology-Solutions-Degree-Apprenticeship---Manchester_164903",
+        "locations": [
+            "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Lloyds-Bank",
         "is_visible": true,
