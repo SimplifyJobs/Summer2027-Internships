@@ -165361,7 +165361,7 @@
         "company_name": "Ardian",
         "id": "bb4315b8-bb8b-468f-932a-30ee22b6b85c",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -248552,7 +248552,7 @@
         "company_name": "Primer",
         "id": "a5f886cf-d5b6-41ac-9bfc-98833aff9bb6",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -325477,7 +325477,7 @@
         "company_name": "CoStar Group",
         "id": "be949df0-0657-4f39-b1f3-e45962a3eee3",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361289,7 +361289,7 @@
         "company_name": "CoverMyMeds",
         "id": "90d4be1a-888d-4b8c-a5e7-f07c01f135bb",
         "title": "CMM Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407794,7 +407794,7 @@
         "company_name": "Leidos",
         "id": "a6d1ed14-ec30-404a-88c2-2d7d1ab83a77",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411104,7 +411104,7 @@
         "company_name": "Apache Industrial",
         "id": "99711ceb-b4a5-4878-b79e-1d211bd64a29",
         "title": "AI Implementation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
