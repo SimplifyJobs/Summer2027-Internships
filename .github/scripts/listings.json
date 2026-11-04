@@ -282134,7 +282134,7 @@
         "company_name": "Tesla",
         "id": "3bb38aa8-f245-410c-8c91-5120b5b561a4",
         "title": "Software Engineer Intern - Camera & Robotics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -372993,7 +372993,7 @@
         "company_name": "Uline",
         "id": "10eb3ac4-0a87-4e8b-ba4d-5cc363d3d846",
         "title": "Executive Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381371,7 +381371,7 @@
         "company_name": "Micron Technology",
         "id": "0ced16f9-069d-4b6a-8c30-823f2f48b7ed",
         "title": "Signal Integrity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
