@@ -410906,7 +410906,7 @@
         "company_name": "Blackberry",
         "id": "85538caf-57c4-4dda-a1e6-29487048a352",
         "title": "Software Developer Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411016,7 +411016,7 @@
         "company_name": "Blackberry",
         "id": "7a2d15f6-6e49-4638-8a16-be4266a7cb87",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
