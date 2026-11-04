@@ -312982,7 +312982,7 @@
         "company_name": "Johnson & Johnson",
         "id": "11e12aaa-6e95-477a-a2ef-b0995c36edee",
         "title": "Electrical Engineer Co-op - Beatbox",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -368514,7 +368514,7 @@
         "company_name": "Microsoft",
         "id": "252654e5-a987-40e7-849a-d22f2a93a37f",
         "title": "Applied Science PhD Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369900,7 +369900,7 @@
         "company_name": "Steel",
         "id": "135b8fde-7c9d-4852-a29b-385efc07e7b4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399592,7 +399592,7 @@
         "company_name": "SmartFlower Solar",
         "id": "19e2c7d0-e3b3-4263-88fe-8756f1476060",
         "title": "Embedded Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -407519,7 +407519,7 @@
         "company_name": "Spring Venture Group",
         "id": "084c0466-e830-44e2-8928-73de5c92b614",
         "title": "Data Integrity Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
