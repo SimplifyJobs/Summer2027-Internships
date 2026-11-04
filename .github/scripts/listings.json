@@ -87034,7 +87034,7 @@
         "company_name": "DoorDash",
         "id": "1184bddc-5d14-4805-8849-f08c3efbfd74",
         "title": "AI Research Fellowship Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -259692,7 +259692,7 @@
         "company_name": "Talos",
         "id": "08aebc55-1f7d-4e55-b07f-6a07f7e62c71",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395811,7 +395811,7 @@
         "company_name": "T-Mobile",
         "id": "06cae492-38dc-4006-8d0c-4e89e122c1f5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408718,7 +408718,7 @@
         "company_name": "Paccar",
         "id": "3a491712-efae-41c7-9cf5-9e0c3367e9e1",
         "title": "AI-Driven Vehicle Definition Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413130,6 +413130,55 @@
             "Liberty Lake, WA"
         ],
         "company_url": "https://simplify.jobs/c/Itron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "2c9cd3f5-cf0f-4b19-9457-6cebd01bd0d4",
+        "title": "Power Electronics Electrical Engineer Intern - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1793784275,
+        "date_posted": 1790039221,
+        "url": "https://www.tesla.com/careers/search/job/284183",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Saronic",
+        "id": "2c0547c0-43f3-4b38-a65b-e1265d47d32a",
+        "title": "Enterprise Technology Intern - AI and Automation",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1793784244,
+        "date_posted": 1788993285,
+        "url": "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Saronic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
