@@ -281049,7 +281049,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "46da9fb1-59b8-4586-9a3e-f058863575ba",
         "title": "AI Engineer Co-op - Global Equities",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -303430,7 +303430,7 @@
         "company_name": "Fidelity Investments",
         "id": "dabb4ebf-ba8a-4eab-bd00-4c63117ca5d1",
         "title": "Quantitative Analyst Intern - Fixed Income Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -305168,7 +305168,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392085,7 +392085,7 @@
         "company_name": "Allstate",
         "id": "a62c1131-5951-4f98-a994-716a5ac115d7",
         "title": "Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395718,7 +395718,7 @@
         "company_name": "American Family Insurance Group",
         "id": "f3c001a6-09ca-4767-b14e-d993af289699",
         "title": "Talent Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412993,5 +412993,26 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "82c1d524-c386-4b7e-bf66-9b62fa2fcc50",
+        "title": "AI Engineer Co-op - Global Equities",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793776093,
+        "date_posted": 1793664000,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
