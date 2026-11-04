@@ -236581,7 +236581,7 @@
         "company_name": "CAE",
         "id": "c416ad28-d7e6-4fca-98ee-f4a2119e49e5",
         "title": "Software Engineering Intern - AI, Automation and Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382176,7 +382176,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d0f04360-74ec-4023-91f0-43c502e3a7e9",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
