@@ -385894,7 +385894,7 @@
         "company_name": "Aegon Asset Management",
         "id": "87f79d6e-961d-4192-82c5-fa7132d0e234",
         "title": "Actuarial Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391389,7 +391389,7 @@
         "company_name": "Videotron",
         "id": "8d627dab-f4e0-4e1f-b6a1-16c50fc616bd",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394384,7 +394384,7 @@
         "company_name": "VSP Vision",
         "id": "5a6710d9-eb37-4044-b352-2b23303dd73c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405811,7 +405811,7 @@
         "company_name": "First Citizens BancShares",
         "id": "47d45caa-b7cf-4f72-b59d-2b3c52395472",
         "title": "Summer Intern - AI Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
