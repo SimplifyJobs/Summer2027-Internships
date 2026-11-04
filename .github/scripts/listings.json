@@ -368514,7 +368514,7 @@
         "company_name": "Microsoft",
         "id": "252654e5-a987-40e7-849a-d22f2a93a37f",
         "title": "Applied Science PhD Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
