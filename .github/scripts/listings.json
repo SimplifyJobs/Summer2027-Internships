@@ -327077,7 +327077,7 @@
         "company_name": "Nokia",
         "id": "59046a71-0513-4ef7-8135-b195a6fa7f3f",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -383767,7 +383767,7 @@
         "company_name": "American Family Insurance Group",
         "id": "24d68083-3cb9-4678-ae53-e6a2fcd638fe",
         "title": "AI Platform Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398830,7 +398830,7 @@
         "company_name": "Charles River Analytics",
         "id": "29824d46-1292-4645-be50-863c4e2b43f8",
         "title": "AI Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403284,7 +403284,7 @@
         "company_name": "Wex",
         "id": "29a95b15-0c3d-48df-b7cf-6a72e17df163",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
