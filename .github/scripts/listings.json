@@ -104732,29 +104732,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
-        "title": "Human Resources Data Analyst",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1778834227,
-        "date_posted": 1773091904,
-        "url": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Secureframe",
         "id": "3f94d282-4523-424c-8450-0e34874128ab",
@@ -253409,7 +253386,7 @@
         "company_name": "CNA Insurance",
         "id": "0a75b69f-fba4-4309-b421-2815efd80e76",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324747,7 +324724,7 @@
         "company_name": "Principal Financial Group",
         "id": "150975a3-5da9-4ebe-8e99-a6efe8822741",
         "title": "Quantitative Analyst Intern - Quantitative Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328329,7 +328306,7 @@
         "company_name": "Regeneron Pharmaceuticals",
         "id": "1c799f05-b926-4be3-ae23-debd91b8eabf",
         "title": "Precision Medicine Operations Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -365942,7 +365919,7 @@
         "company_name": "Chainlink Labs",
         "id": "25fc66da-f7d2-4a82-b918-c0645c1eb9db",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375414,7 +375391,7 @@
         "company_name": "CoStar Group",
         "id": "0f1bea68-104b-4a4a-b7e1-562e9c4a1b50",
         "title": "Associate Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394992,7 +394969,7 @@
         "company_name": "Renesas Electronics",
         "id": "05b8b7d6-5bbd-48e6-866d-42664b9adfe5",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404965,7 +404942,7 @@
         "company_name": "VSP Vision",
         "id": "046091a9-a6ce-44b7-9a9f-151534102afe",
         "title": "AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407377,7 +407354,7 @@
         "company_name": "First Citizens BancShares",
         "id": "10c72e68-a2b9-4a9a-9ec6-f4a30060d277",
         "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412263,7 +412240,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "13555928-de64-4ba5-8289-0ad61d7345b8",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
