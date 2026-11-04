@@ -1,195 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "First American",
-        "id": "2adbbdcc-fff1-441c-91c0-d563e35b9980",
-        "title": "Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773098589,
-        "date_posted": 1773098589,
-        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-South-Carolina-Fort-Mill/Product-Management-Intern_R054902-1",
-        "locations": [
-            "Fort Mill, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/First-American",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "386d44f4-d2be-4d3e-b3cc-16177c263057",
-        "title": "Surgery Field Engineer Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773098247,
-        "date_posted": 1773098247,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Accenture",
-        "id": "d29931e3-3c96-40da-a38f-d57b1041e8f0",
-        "title": "PeopleShores",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773098042,
-        "date_posted": 1773098042,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/PeopleShores---ATC-Packaged-Application-Development-Associate---Atlanta--NAELFY26_R00317661",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vertex Pharmaceuticals",
-        "id": "0eb0a2a5-cdc7-45fe-9873-e34467bae5c6",
-        "title": "Vertex Co-op - Data and Engineering Governance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773098066,
-        "date_posted": 1773098066,
-        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--Data-and-Engineering-Governance_REQ-28326-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "8eae29f6-acb7-4e3a-892a-6a8ca1ba0f9c",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773097796,
-        "date_posted": 1773097796,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-18373",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tencent",
-        "id": "fd9bf6e0-5a8d-4097-a168-0904b2335582",
-        "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773097655,
-        "date_posted": 1773097655,
-        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Game-Research---Development-Intern--Engine-Research_R107040-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "92f7c9b5-ecbf-4909-8876-459645b2f03f",
-        "title": "Strategic Insight & Analytics Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1773097492,
-        "date_posted": 1773097492,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight---Analytics-Co-Op_R-054213",
-        "locations": [
-            "New Hope, PA",
-            "Horsham, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "244a9909-1c91-4de8-96e5-23987daa7e2d",
-        "title": "Millennium Space Systems Intern Program \u2013 Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773097468,
-        "date_posted": 1773097468,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Data-Engineer-Intern_JR2026499816-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ciena",
         "id": "dd9afc98-3ef2-4527-86c5-4d066f8a5270",
@@ -7239,33 +7050,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bob's Discount Furniture",
-        "id": "13dca38f-d493-4065-8dcf-1f42665509a9",
-        "title": "IT SAP Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773310158,
-        "date_posted": 1773097631,
-        "url": "https://bobsdf.wd1.myworkdayjobs.com/bobs_careers/job/Corporate-Headquarters-Manchester-CT/IT-SAP-Intern_R-30874",
-        "locations": [
-            "Waterbury, CT",
-            "Rhode Island",
-            "Massachusetts",
-            "Manchester, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Bobs-Discount-Furniture",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -145372,7 +145156,7 @@
         "company_name": "Docugami",
         "id": "e6eb833f-8ff9-4da8-98de-2001135f3e0b",
         "title": "Data Science PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -193477,7 +193261,7 @@
         "company_name": "Foundation Finance",
         "id": "ffbf2ca8-9b8e-4aa7-8227-9a11f77abc90",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -269827,7 +269611,7 @@
         "company_name": "RTX",
         "id": "b698f712-411d-4005-b00c-49d33f52731c",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -309620,7 +309404,7 @@
         "company_name": "Wurl",
         "id": "adb0bde1-6acf-4a2d-b952-e77db57cea5c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379224,7 +379008,7 @@
         "company_name": "TransUnion",
         "id": "c9443ff8-a611-4d5a-b7eb-50e96c3035cf",
         "title": "Financial Services Argus Advisory Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403806,7 +403590,7 @@
         "company_name": "First Citizens BancShares",
         "id": "dc225990-b400-400e-a1e3-c5d7dadb10f2",
         "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408173,7 +407957,7 @@
         "company_name": "GlobalFoundries",
         "id": "96473a10-c969-46e3-93de-64ab0f07a746",
         "title": "Device Engineer Intern - Silicon Photonics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
