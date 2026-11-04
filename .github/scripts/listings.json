@@ -276256,7 +276256,7 @@
         "company_name": "Xcimer Energy",
         "id": "b399880a-a936-4d77-ba1c-e108a00e5e51",
         "title": "Computational and Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -286604,7 +286604,7 @@
         "company_name": "APEX Analytix",
         "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366323,7 +366323,7 @@
         "company_name": "ZS",
         "id": "9dd99ce3-b29a-44bc-afef-611ed1cdc75f",
         "title": "Decision Analytics Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413245,6 +413245,29 @@
             "Warrendale, PA"
         ],
         "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "William Blair",
+        "id": "c9bb0b72-5857-4e2b-8a56-716d3c602ea7",
+        "title": "Agentic AI Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793787882,
+        "date_posted": 1790115289,
+        "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/William-Blair",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
