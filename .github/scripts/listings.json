@@ -175467,7 +175467,7 @@
         "company_name": "Samsara",
         "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -259692,7 +259692,7 @@
         "company_name": "Talos",
         "id": "08aebc55-1f7d-4e55-b07f-6a07f7e62c71",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -312398,7 +312398,7 @@
         "company_name": "Corning",
         "id": "56a971f3-b99a-4529-adf4-d9c950b25ef5",
         "title": "Measurements Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322894,7 +322894,7 @@
         "company_name": "Electronic Arts",
         "id": "4b22095f-9ebe-47ac-a266-2aefd5230751",
         "title": "AI Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354929,7 +354929,7 @@
         "company_name": "Electronic Arts",
         "id": "504555e2-06ee-4bcb-a0aa-e8c7d79b0652",
         "title": "Technical Artist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365156,7 +365156,7 @@
         "company_name": "DoorDash",
         "id": "3cec2916-805d-4dcf-80c9-f78e480c4753",
         "title": "Electrical Engineer Intern - Labs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397508,7 +397508,7 @@
         "company_name": "Boston Scientific",
         "id": "5617d404-c12b-458b-ab00-3c6cd2ec70e9",
         "title": "AI Solutions Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413179,6 +413179,72 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Saronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "4d207b94-6c57-4827-a7b2-35c24b64e728",
+        "title": "Research Scientist Intern - ML Innovation for Products",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793785007,
+        "date_posted": 1793238059,
+        "url": "https://www.metacareers.com/jobs/1060093353751700",
+        "locations": [
+            "Menlo Park, CA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University Corporation for Atmospheric Research",
+        "id": "1f9e540a-3a0e-499f-b89a-4d9b45b9f7f8",
+        "title": "Data Science Student Assistant 3 Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793785532,
+        "date_posted": 1793145600,
+        "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Center-For-Atmospheric-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "6e77db86-68fd-4230-b94e-ef69b5581fa6",
+        "title": "System Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793785705,
+        "date_posted": 1792190273,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-System-Test-Engineering-OR/1433673100/?ats=successfactors",
+        "locations": [
+            "Warrendale, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
