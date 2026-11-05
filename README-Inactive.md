@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 3273 Inactive Internship Roles by Category
+### Browse 3274 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1132)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1133)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (221)
 
@@ -92,10 +92,10 @@
 <td>Software Developer Intern</td>
 <td>Denton, TX</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
+<td>↳</td>
 <td>AI-Driven Vehicle Definition Intern</td>
 <td>Denton, TX</td>
 <td>🔒</td>
@@ -1561,6 +1561,13 @@
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Orlando, FL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/HR-Block?utm_source=GHList&utm_medium=company">H&R Block</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Kansas City, MO</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -13669,14 +13676,14 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Artificial Intelligence Specialist Intern - Operations</td>
+<td>Web Analytics Intern</td>
 <td>Niles, IL</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Web Analytics Intern</td>
+<td>Artificial Intelligence Specialist Intern - Operations</td>
 <td>Niles, IL</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -21586,13 +21593,6 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Electrical Engineer Intern - Digital Circuitry & Test Automation</td>
-<td>Niles, IL</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Audio DSP Engineer Intern</td>
 <td>Niles, IL</td>
 <td>🔒</td>
@@ -21600,7 +21600,7 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>FPGA Development Intern</td>
+<td>Electrical Engineer Intern - Digital Circuitry & Test Automation</td>
 <td>Niles, IL</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -21609,6 +21609,13 @@
 <td>↳</td>
 <td>Audio Test Engineering Intern</td>
 <td>Skokie, IL</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>FPGA Development Intern</td>
+<td>Niles, IL</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -22041,13 +22048,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stryten?utm_source=GHList&utm_medium=company">Stryten</a></strong></td>
-<td>Industrial or Mechanical Engineering Intern</td>
-<td>Salina, KS</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>System Engineer Intern</td>
 <td>Alpharetta, GA</td>
 <td>🔒</td>
@@ -22057,6 +22057,13 @@
 <td>↳</td>
 <td>Electrical Engineer Intern</td>
 <td>Alpharetta, GA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Industrial or Mechanical Engineering Intern</td>
+<td>Salina, KS</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
