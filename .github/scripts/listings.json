@@ -365608,7 +365608,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "7b0c7936-f5ca-4813-a556-483b1e6edbf0",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395043,7 +395043,7 @@
         "company_name": "KLA",
         "id": "e2a5cc10-9c89-4d98-a6f5-862cad47dd47",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412009,7 +412009,7 @@
         "company_name": "Renesas Electronics",
         "id": "86f29393-c9a9-4a9a-b1c5-1a45932658b1",
         "title": "PMIC Analog Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
