@@ -242025,7 +242025,7 @@
         "company_name": "Uline",
         "id": "6e078f21-cd89-48b1-8782-532d1868bc93",
         "title": "Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414787,5 +414787,55 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uline",
+        "id": "30f3d124-8689-4553-8520-4e6bfee3b9a6",
+        "title": "Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793878228,
+        "date_posted": 1793836800,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Glenview, IL",
+            "Pleasant Prairie, WI",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NASA Jet Propulsion Laboratory",
+        "id": "e04d6353-4982-4bf4-ac14-0b166b6ecaaa",
+        "title": "Electrical & Computer Engineering Intern - Flight Communications and Tracking Section - GNSS, Radiometric & Gravity Sensing Instruments Group",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793878225,
+        "date_posted": 1793577600,
+        "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Academic-Part-Time-Intern_R6220",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NASA-JPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
