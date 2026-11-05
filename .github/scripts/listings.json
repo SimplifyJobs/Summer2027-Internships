@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpotHero",
-        "id": "d8127df4-9df6-4d58-adf3-fffc9ace18b9",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773106652,
-        "date_posted": 1773106652,
-        "url": "https://spothero.com/careers/7695956/?gh_jid=7695956",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/SpotHero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Proofpoint",
         "id": "821a022d-864a-4695-a711-15f6bcb8e26a",
@@ -109864,7 +109840,7 @@
         "company_name": "Apple",
         "id": "6a306828-3b85-47ed-89fe-3f0f61322ac7",
         "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134153,7 +134129,7 @@
         "company_name": "Zoox",
         "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -212626,7 +212602,7 @@
         "company_name": "Persona AI",
         "id": "88ee222e-f092-4c2a-ad37-b63eb0445010",
         "title": "Robotics Software Intern - Manipulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027",
@@ -237759,7 +237735,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380513,7 +380489,7 @@
         "company_name": "Radiance Technologies",
         "id": "5ad805b2-7bb5-407f-af19-ec1cbb30345d",
         "title": "High Energy Laser Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
