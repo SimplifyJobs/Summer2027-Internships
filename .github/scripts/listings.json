@@ -2,52 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "7b46dfd9-ac35-43d9-8122-0f857f8e4f79",
-        "title": "Software Programmer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773154006,
-        "date_posted": 1773154006,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0156070",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Spectrum Control",
-        "id": "e8e4aa1f-a3e1-4f24-aaef-b1d583bf0620",
-        "title": "Engineering Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773153615,
-        "date_posted": 1773153615,
-        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101305",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/673d4af5-d1fd-4cb6-b32e-e8897216cb37",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Ciena",
         "id": "4550f176-53a5-4040-bf40-924240d9c2e4",
         "title": "Hardware Design Engineer Intern",
@@ -67,52 +21,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "S&P Global ",
-        "id": "f06f6eb6-7310-44d8-ac4d-2083a6cd01e2",
-        "title": "AI Agent Developer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773154730,
-        "date_posted": 1773154730,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/AI-Agent-Developer--Summer-Intern_325750-1",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Techtronic Industries",
-        "id": "03ab4d41-5cba-45c5-8db8-f4a6b4ccb687",
-        "title": "Lab Power Platform Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773154810,
-        "date_posted": 1773154810,
-        "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Lab-Power-Platform-Development-Intern_R71591",
-        "locations": [
-            "Anderson, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/7b5dc30f-d4b0-4752-be0b-3844a8f590e9",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -75966,7 +75874,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9424072c-485e-43c4-91e8-4f124356a286",
         "title": "Trading System Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346325,7 +346233,7 @@
         "company_name": "Tenet3",
         "id": "94c00b41-c5d0-4d08-bb13-68af273a24c1",
         "title": "Software Developer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -368801,7 +368709,7 @@
         "company_name": "Zebra Technologies",
         "id": "c822b6e8-081c-4db0-94b6-8425ce02c277",
         "title": "Mechanical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
