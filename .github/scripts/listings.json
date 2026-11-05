@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "0c5a0f23-8175-4d54-8f71-99db02aa84c4",
-        "title": "Applied Scientist",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773134562,
-        "date_posted": 1773134562,
-        "url": "https://amazon.jobs/en/jobs/3149074/applied-scientist",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Circle",
         "id": "3f2ee60b-2491-47df-84e6-76a49a82c1c8",
@@ -56451,7 +56427,7 @@
         "company_name": "Anthropic",
         "id": "0d4ecc36-f29c-4669-acc0-ccbfbdf04c9a",
         "title": "Anthropic Fellows Program - AI Safety",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -414604,6 +414580,148 @@
             "New Kensington, PA"
         ],
         "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Minerals Technologies",
+        "id": "ca9871a2-328f-44bb-b21f-cb2045f5f8e4",
+        "title": "Geographic Information Science Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793869202,
+        "date_posted": 1792540800,
+        "url": "https://careers-mineralstech.icims.com/jobs/4903/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Belle Fourche, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Minerals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Minerals Technologies",
+        "id": "a75290cc-dc2e-4f40-8f0b-ffa8ffba7549",
+        "title": "Finance Intern - Data Analysis",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793869202,
+        "date_posted": 1792540800,
+        "url": "https://careers-mineralstech.icims.com/jobs/4896/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minerals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group",
+        "id": "3164dba8-b1d8-4a4a-9df0-36d4603c8550",
+        "title": "Technology Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793869277,
+        "date_posted": 1791936000,
+        "url": "https://careers-sig.icims.com/jobs/11654/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group",
+        "id": "3f1af33c-1a12-43ba-b656-613117851e83",
+        "title": "Business Analytics AI Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793869275,
+        "date_posted": 1792022400,
+        "url": "https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Noblis",
+        "id": "4d6a2eee-395d-4849-9e7a-eb3d1c61aec4",
+        "title": "Applied Research Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793869168,
+        "date_posted": 1793306520,
+        "url": "https://careers.noblis.org/jobs/28089?icims=1&lang=en-us",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "7274511d-039e-4c72-8752-a5ed8b0d3a57",
+        "title": "Data Science and Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793869167,
+        "date_posted": 1793647260,
+        "url": "https://careers.noblis.org/jobs/28097?icims=1&lang=en-us",
+        "locations": [
+            "Springfield, VA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
