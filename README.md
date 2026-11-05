@@ -7,9 +7,9 @@
 
 ---
 
-### Browse 1748 Internship Roles by Category
+### Browse 1747 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (585)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (584)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (103)
 
@@ -1554,13 +1554,6 @@
 <td>PHY Software Engineer Intern</td>
 <td>Bristol, UK</td>
 <td><div align="center"><a href="https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/807bcae2-3ba9-4165-9819-a41fe28c13c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Zebra-Technologies?utm_source=GHList&utm_medium=company">Zebra Technologies</a></strong></td>
-<td>Mechanical Engineer Intern</td>
-<td>Holtsville, NY</td>
-<td><div align="center"><a href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c822b6e8-081c-4db0-94b6-8425ce02c277?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>16d</td>
 </tr>
 <tr>
@@ -4206,7 +4199,7 @@
 </table>
 
 
-🔒 **[See 1121 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 1122 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -5645,7 +5638,7 @@
 <td>Underwriting Data & Analytics Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://careers.axa.com/jobs/25498?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ce8c7adb-0ba0-4fdd-b6e8-4832a9f1043d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Syngenta-Group?utm_source=GHList&utm_medium=company">Syngenta Group</a></strong></td>
@@ -5799,7 +5792,7 @@
 <td>Geothermal Production Analytics Engineer Intern</td>
 <td>Middletown, CA</td>
 <td><div align="center"><a href="https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a13ec5a5-3635-45bd-83ca-08be107e7ef1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Uline?utm_source=GHList&utm_medium=company">Uline</a></strong></td>
@@ -10303,7 +10296,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Qube-Research-Technologies?utm_source=GHList&utm_medium=company">Qube Research & Technologies</a></strong></td>
 <td>Software Engineering Intern - Quantitative Development</td>
 <td><details><summary><strong>7 locations</strong></summary>Aarhus, Denmark<br>London, UK<br>Wrocław, Poland<br>Paris, France<br>Amsterdam, Netherlands<br>Dubai - United Arab Emirates<br>Zürich, Switzerland</details></td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4ebdb3ee-932e-4e34-80a3-dd7c09749e71?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -11516,7 +11509,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Cambridge-Consultants?utm_source=GHList&utm_medium=company">Cambridge Consultants</a></strong></td>
 <td>Electronics Engineering Intern</td>
 <td>United Kingdom</td>
 <td><div align="center"><a href="https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989398101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/03d37c7b-88d7-44dd-9ddb-f1fdf27a85f5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
