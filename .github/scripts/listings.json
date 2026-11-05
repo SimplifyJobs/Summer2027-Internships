@@ -179748,7 +179748,7 @@
         "company_name": "Montenson",
         "id": "5acb5ba5-b61d-4432-922b-9dea91c7815d",
         "title": "Data Analytics Intern - Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -230825,7 +230825,7 @@
         "company_name": "McKesson",
         "id": "44f6dccc-a71b-4d91-a0ad-e30134365802",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -282933,7 +282933,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356503,7 +356503,7 @@
         "company_name": "Meta",
         "id": "4c802f1b-d9ec-49bc-8193-d9180e4a61cf",
         "title": "Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384097,7 +384097,7 @@
         "company_name": "Meta",
         "id": "4268d952-ceed-4e2e-ac74-506e2aa6efff",
         "title": "Research Scientist Intern - Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404890,7 +404890,7 @@
         "company_name": "Mayo Clinic",
         "id": "3ef8021a-1a98-4200-9c19-1750d422e1ef",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405758,7 +405758,7 @@
         "company_name": "Meta",
         "id": "4489f18f-4490-438c-9c19-4a7c9724659f",
         "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
