@@ -216250,7 +216250,7 @@
         "company_name": "Tesla",
         "id": "65097872-fc5a-464c-a9ca-5d4d382c4765",
         "title": "Mobile App Intern - Mobile Applications - Automated Diagnostics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -295010,7 +295010,7 @@
         "company_name": "Tesla",
         "id": "b83b0b5a-fe98-4d36-8a28-f5ae99b19dd8",
         "title": "Embedded Software Engineer Intern - Body Controls Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -306152,7 +306152,7 @@
         "company_name": "Entrust",
         "id": "e8a23788-bd3c-493a-9ede-be9de1645c55",
         "title": "Software Development Intern - Citizen Remote Identity Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -395043,7 +395043,7 @@
         "company_name": "KLA",
         "id": "e2a5cc10-9c89-4d98-a6f5-862cad47dd47",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
