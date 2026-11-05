@@ -232392,7 +232392,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -273009,7 +273009,7 @@
         "company_name": "AMD",
         "id": "5cefc7e6-b923-4f8b-805c-97d558b50afd",
         "title": "SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -306599,7 +306599,7 @@
         "company_name": "Johnson & Johnson",
         "id": "75d3af44-afc1-48c6-a0ac-5a69ec3e6694",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -361836,7 +361836,7 @@
         "company_name": "Signify",
         "id": "6bdd4996-2fe0-4af6-9bb8-86d10bc846c0",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -391391,7 +391391,7 @@
         "company_name": "Sonos",
         "id": "67c38e84-2904-4f41-b7d9-11a2d287366b",
         "title": "Software Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
