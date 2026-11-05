@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Circle",
-        "id": "3f2ee60b-2491-47df-84e6-76a49a82c1c8",
-        "title": "Intern \u2013 Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773136739,
-        "date_posted": 1773136739,
-        "url": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Intern--Product-Management_JR100924",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Circle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Copart",
         "id": "2ea36264-4a6b-4272-96a3-ac8f3d6ed663",
@@ -342644,7 +342620,7 @@
         "company_name": "DoorDash",
         "id": "66fcf084-7f7c-43ed-8947-83179031963c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359222,7 +359198,7 @@
         "company_name": "Ciena",
         "id": "195eb66b-6fcb-48d5-b586-3b300d83b4f2",
         "title": "Embedded Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -370479,7 +370455,7 @@
         "company_name": "University of Virginia",
         "id": "20e281dd-0588-4bfa-9acf-46211e876ce9",
         "title": "Graduate Student Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -386877,7 +386853,7 @@
         "company_name": "Normal Computing",
         "id": "3163c14a-7b55-40a3-b21d-2696e2c37cd5",
         "title": "AI Research Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396664,7 +396640,7 @@
         "company_name": "T-Mobile",
         "id": "1aa8cd60-efe9-45f0-b008-c7ed2b71091c",
         "title": "Associate AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400067,7 +400043,7 @@
         "company_name": "The New York Times",
         "id": "6853cf9e-5cf2-46aa-a033-d2ec5a07823c",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400534,7 +400510,7 @@
         "company_name": "Brain Co.",
         "id": "3336f385-0b66-4e71-af69-42c243613d83",
         "title": "AI Platform Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -404080,7 +404056,7 @@
         "company_name": "Nebius",
         "id": "45f6734f-e60b-44a6-920a-9cc63b07564e",
         "title": "ML Solution Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
