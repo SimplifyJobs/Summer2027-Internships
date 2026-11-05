@@ -281773,7 +281773,7 @@
         "company_name": "Entegris",
         "id": "19d8e1f9-fd1a-43d1-a864-b5ab2e3e3cea",
         "title": "Operations Technical Training Platforms Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -392399,7 +392399,7 @@
         "company_name": "Florida Atlantic University",
         "id": "10d1dbfd-ff69-4f3d-9f91-7d5ea9d715fb",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
