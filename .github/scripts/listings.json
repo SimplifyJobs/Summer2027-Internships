@@ -267392,7 +267392,7 @@
         "company_name": "AeroVironment",
         "id": "781220ce-8975-4483-bc2b-569408de6e4f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387122,7 +387122,7 @@
         "company_name": "Visa",
         "id": "aaed6a57-f590-49ac-8e77-d080f6f2de89",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
