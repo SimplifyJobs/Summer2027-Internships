@@ -75848,7 +75848,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -266384,7 +266384,7 @@
         "company_name": "SCOR",
         "id": "08f1e49a-46a6-497b-886c-20ec77b565b4",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -404664,7 +404664,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "0fe9f15d-03e4-48d3-b51b-4509e048d44c",
         "title": "Student 2 Intern - BA Enterprise Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
