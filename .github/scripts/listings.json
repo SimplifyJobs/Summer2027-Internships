@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "National Renewable Energy Laboratory",
-        "id": "d6f2a5bf-78fb-41e1-8215-478d2a7edbcf",
-        "title": "Graduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773125049,
-        "date_posted": 1773125049,
-        "url": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-Summer-Intern---I-O-optimization-for-data-intensive-workflows-on-HPC_R14204",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "National Renewable Energy Laboratory",
-        "id": "07193313-4b7f-4e7d-9651-d545f7602e5e",
-        "title": "Graduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773125043,
-        "date_posted": 1773125043,
-        "url": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-Summer-Intern---Benchmarking-and-performance-prediction-of-AI-ML-workflows-on-high-performance-hardware_R14205",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Axon",
         "id": "38306e33-298e-4142-9910-ca199102a99b",
@@ -373417,7 +373369,7 @@
         "company_name": "Aon",
         "id": "d6463eba-e813-4fa5-9089-81c95da2e2db",
         "title": "Actuarial Intern - Client Consulting",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -400834,7 +400786,7 @@
         "company_name": "RTX",
         "id": "af61c16b-e3f3-4498-971a-24a426d9c094",
         "title": "Electrical Engineer Co-op - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -407320,7 +407272,7 @@
         "company_name": "GlobalFoundries",
         "id": "b07e10e9-36f7-459e-aefc-6c0628655233",
         "title": "Silicon Photonics Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
