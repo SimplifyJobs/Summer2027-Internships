@@ -292874,7 +292874,7 @@
         "company_name": "4AG Robotics",
         "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
         "title": "Robotics Software Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -398330,7 +398330,7 @@
         "company_name": "Overland AI",
         "id": "e6698a06-642e-483b-8dfb-1d1b5ec9299c",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -405052,7 +405052,7 @@
         "company_name": "RTX",
         "id": "dc8093d9-92fc-4b74-bcc3-cf52247e4b13",
         "title": "Vision Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406652,7 +406652,7 @@
         "company_name": "Northrop Grumman",
         "id": "95f6ee82-d1a7-4d33-8f7d-6f060135baa6",
         "title": "Engineering Software and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
