@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Axon",
-        "id": "38306e33-298e-4142-9910-ca199102a99b",
-        "title": "DFx Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773130035,
-        "date_posted": 1773130035,
-        "url": "https://job-boards.greenhouse.io/axon/jobs/7245404003",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Amazon",
         "id": "0c5a0f23-8175-4d54-8f71-99db02aa84c4",
@@ -198622,7 +198599,7 @@
         "company_name": "Susquehanna International Group",
         "id": "78f9e1b5-9870-4a25-816c-c69294b6b6cb",
         "title": "Quantitative Strategy Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -240014,7 +239991,7 @@
         "company_name": "Kinaxis",
         "id": "249847ab-d7a0-4993-a3ae-0dd0e2e831ed",
         "title": "Developer Intern Co-op - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -255873,7 +255850,7 @@
         "company_name": "Peraton",
         "id": "e6d169c5-4031-467b-a077-10fc12f8df10",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -257699,7 +257676,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "e808ba48-68a5-402a-b394-ca05a260cfe8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -260652,7 +260629,7 @@
         "company_name": "Kinaxis",
         "id": "5ac1d7a8-5581-4468-b12a-92c221dd3cd0",
         "title": "Developer Intern - AI Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -260925,7 +260902,7 @@
         "company_name": "Peraton",
         "id": "53214376-dcb6-4b32-99dd-b69bd332ee7e",
         "title": "Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -260950,7 +260927,7 @@
         "company_name": "Peraton",
         "id": "a3c8fc71-5658-4914-be57-ce61c100da82",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -261435,7 +261412,7 @@
         "company_name": "Federated Insurance",
         "id": "ef63f2cb-2deb-4e58-928e-18652d0733b3",
         "title": "IT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -261579,7 +261556,7 @@
         "company_name": "Hexagon AB",
         "id": "42986ac3-5294-4881-b427-474d53f9bf74",
         "title": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -262379,7 +262356,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "054b254c-cc0b-47dd-a2c2-98cf50c0269f",
         "title": "Payload Control System Software/Systems Engineering Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -263725,7 +263702,7 @@
         "company_name": "Shure",
         "id": "71aba8dd-67b4-48bf-b97f-19f464bcb391",
         "title": "Application Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -263749,7 +263726,7 @@
         "company_name": "ITT",
         "id": "a6d9fcc3-2f85-4609-9b2d-2ed435325914",
         "title": "Product Management Co-op - Spring/Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -274233,7 +274210,7 @@
         "company_name": "Cooper University Health Care",
         "id": "24833818-6ff2-491a-8e1b-ae7d1315db17",
         "title": "Enterprise Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -278145,7 +278122,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "37c7d447-a271-4b55-a24d-1c3b10578cf3",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -278235,7 +278212,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "d6982728-ea01-4ca4-9306-b9a827503905",
         "title": "Engineer Intern Co-op - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -279942,7 +279919,7 @@
         "company_name": "Highgate",
         "id": "29efc01f-ded3-4731-b798-5b9a09c13427",
         "title": "Data Services Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -282066,7 +282043,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "8761ed1a-63bf-43df-8b6b-4a034fbf86c8",
         "title": "Engineer Intern - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -284540,7 +284517,7 @@
         "company_name": "Titan Materials Group",
         "id": "73a6fbfc-9cda-4bcc-a8f3-31176a3bbeb9",
         "title": "Digitalization Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -286709,7 +286686,7 @@
         "company_name": "Enterprise Holdings",
         "id": "a05d7a49-eb81-476c-8100-ee50da876874",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -288956,7 +288933,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "63b699dd-2e4c-435b-aea0-708ad1a7e4f3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -291986,7 +291963,7 @@
         "company_name": "Lennox International",
         "id": "2f899503-8bb3-4e7a-a9df-cf5adee0fe01",
         "title": "IoT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -292295,7 +292272,7 @@
         "company_name": "Lennox International",
         "id": "39f01228-39ab-4e88-b966-1d902f06e97b",
         "title": "AI & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -292342,7 +292319,7 @@
         "company_name": "Lennox International",
         "id": "b19ed1eb-aa8f-4af1-a327-0008140019c7",
         "title": "AI Engineering Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -292365,7 +292342,7 @@
         "company_name": "Lennox International",
         "id": "e93487a3-6a04-4449-a6f6-eb2616b57c63",
         "title": "Full-Stack Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -292388,7 +292365,7 @@
         "company_name": "Lennox International",
         "id": "d2ed8bfd-47d2-42c8-a039-2a2a90b3c635",
         "title": "Hardware Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -292735,7 +292712,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "82a93596-7cbe-4829-b269-945ad9cbdd91",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -292759,7 +292736,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -294402,7 +294379,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "5db86393-0062-4115-9a67-61cd752ef337",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -295200,7 +295177,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "34f4261c-0f6d-4a84-b0e0-28b9f1aa0cc4",
         "title": "Engineering Intern - FPGA",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296860,7 +296837,7 @@
         "company_name": "Cotiviti",
         "id": "1e080067-6ebc-4e83-be3e-6231a1a8ff1d",
         "title": "Generative AI Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -298407,7 +298384,7 @@
         "company_name": "Atlassian",
         "id": "9a33b73a-0e3a-42d3-a81a-ac9a4f99a22c",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -302310,7 +302287,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -303298,7 +303275,7 @@
         "company_name": "West Bend Insurance",
         "id": "5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e",
         "title": "IT Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -306505,7 +306482,7 @@
         "company_name": "West Bend Insurance",
         "id": "80fb1054-5f89-41bf-9c32-1132bd4aad16",
         "title": "Data Solution Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -308648,7 +308625,7 @@
         "company_name": "Enterprise Holdings",
         "id": "576efb35-6523-4979-8e5d-7188d3bd98b9",
         "title": "Data Engineer Intern - IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -310433,7 +310410,7 @@
         "company_name": "State Farm",
         "id": "f47bf68f-08e3-4d92-ade8-eff54ae7c108",
         "title": "Data Science Intern - Magnet Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Spring 2028",
@@ -310579,7 +310556,7 @@
         "company_name": "Susquehanna International Group",
         "id": "b60dd607-5a1b-423f-a318-f333734e8063",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -311923,7 +311900,7 @@
         "company_name": "Barrios",
         "id": "ee8ed5ad-3be9-407e-8020-0d9a037d60be",
         "title": "Data and Computer Engineering/Computer Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -312189,7 +312166,7 @@
         "company_name": "Kinaxis",
         "id": "d3e5ba1e-a291-46e1-a4b3-7da47159deb3",
         "title": "Developer Intern - Back End Technologies",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -312235,7 +312212,7 @@
         "company_name": "Atlassian",
         "id": "799d62f1-1dde-4bfb-83e1-3f4c656bf2d8",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317335,7 +317312,7 @@
         "company_name": "Iridium Communications",
         "id": "7e94c6d9-c88c-4d70-8bd0-51a2cc801485",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319122,7 +319099,7 @@
         "company_name": "ITT",
         "id": "41f0a82d-c8df-476e-bdf4-626934104325",
         "title": "Data Analytics / AI Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319641,7 +319618,7 @@
         "company_name": "IDeaS",
         "id": "0ff85d31-6c19-40f4-ad7a-e27a92172e0f",
         "title": "Data Science Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -319966,7 +319943,7 @@
         "company_name": "Peraton",
         "id": "f3437876-fa5c-490c-a81a-74af68437738",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -321221,7 +321198,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f677f254-7897-48f1-b179-ae9eb46071bc",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -321244,7 +321221,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ee6082f2-dc5a-4ade-bf5d-c8f9411bd431",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321267,7 +321244,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "280d6126-f176-44b7-9781-fc2dc2d8d099",
         "title": "Integration and Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321583,7 +321560,7 @@
         "company_name": "Cook Group",
         "id": "214f7fa6-b2de-4a0b-9ccd-29c3c807ebd7",
         "title": "Information Technology Intern - Artificial Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321941,7 +321918,7 @@
         "company_name": "Corgan",
         "id": "b9e02195-e8aa-4296-8ba7-766a14912486",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324386,7 +324363,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c821a189-b150-4657-a1c7-b7a27d61e0b8",
         "title": "Electrical Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -324432,7 +324409,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "26421879-2b39-4d9e-bb39-48c7ed152482",
         "title": "Electrical Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -325151,7 +325128,7 @@
         "company_name": "IDeaS",
         "id": "4200fef6-f177-438c-aaf7-eb7c087f048b",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -326053,7 +326030,7 @@
         "company_name": "Kinaxis",
         "id": "a105f8ab-2cdc-4f08-8687-fb4a75573615",
         "title": "AI/ML Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -330096,7 +330073,7 @@
         "company_name": "Cook Group",
         "id": "e6b611b1-56cf-4323-bd4d-9566f7d450d5",
         "title": "Statistics & Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331245,7 +331222,7 @@
         "company_name": "Atlassian",
         "id": "2d3cd1b8-063f-41a1-a9ba-c834e3114c68",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331700,7 +331677,7 @@
         "company_name": "IDEMIA",
         "id": "60ab7a67-de85-40c1-889d-104e6d6019cd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331746,7 +331723,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "a0d1ae40-cc95-41c1-b7b0-1b9c30b2ce8a",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331888,7 +331865,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "aa739d1b-e0d2-4ce1-bb8a-be88fe2687f1",
         "title": "Software Engineer Intern - CWL",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332394,7 +332371,7 @@
         "company_name": "American Enterprise Institute",
         "id": "119b2289-4cfd-4347-abe9-cb1d4c09baf8",
         "title": "Spring Data Analyst and Education Policy Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -335714,7 +335691,7 @@
         "company_name": "IDEMIA",
         "id": "ca81a621-2f36-49ca-a53c-8b2ade452ded",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336795,7 +336772,7 @@
         "company_name": "Cook Group",
         "id": "ca1c343b-c596-426d-b7d7-4f8ee16d5b4a",
         "title": "Applied AI & Full Stack Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337669,7 +337646,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "f465e7dc-6075-4d52-aa52-c4c142f3401b",
         "title": "Embedded Firmware Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -341430,7 +341407,7 @@
         "company_name": "Werfen",
         "id": "560dca20-ee7d-4406-bef2-be998ced912d",
         "title": "Acute Care Hardware Systems Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -344553,7 +344530,7 @@
         "company_name": "DocuSign",
         "id": "6df93910-4192-4f25-8596-45199ca04c6f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -345392,7 +345369,7 @@
         "company_name": "Werfen",
         "id": "d16d5776-a774-4531-951a-cf1dede1cc30",
         "title": "R&D Systems Hardware Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -345961,7 +345938,7 @@
         "company_name": "Lennox International",
         "id": "15944838-ed3a-4423-8644-e0a8ada22a49",
         "title": "Business Compliance Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -352655,7 +352632,7 @@
         "company_name": "H&R Block",
         "id": "cb062e22-3c1a-451f-a4b8-bcb8167ea270",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -411973,7 +411950,7 @@
         "company_name": "AMD",
         "id": "5af9e4a2-62e4-479e-a872-0450860c73bd",
         "title": "Senior Systems Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412654,6 +412631,754 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Publicis Groupe",
+        "id": "6a614540-0ae2-4f36-ae68-ab93d4857da1",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793867041,
+        "date_posted": 1792177800,
+        "url": "https://careers.publicisgroupe.com/jobs/172715?icims=1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Publicis Groupe",
+        "id": "b614fa2e-7a03-4758-90ba-ac5fb5eb7049",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793867041,
+        "date_posted": 1792178100,
+        "url": "https://careers.publicisgroupe.com/jobs/172716?icims=1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Publicis Groupe",
+        "id": "7a225481-17bf-4ff1-809f-c42cf1757c2b",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793867041,
+        "date_posted": 1792178040,
+        "url": "https://careers.publicisgroupe.com/jobs/172717?icims=1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cook Group",
+        "id": "49202fb5-c465-4ec5-b01d-e7c14d518773",
+        "title": "Artificial Intelligence & Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793867193,
+        "date_posted": 1791849600,
+        "url": "https://americas-cookmedical.icims.com/jobs/19427/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cook-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wolf & Company",
+        "id": "9c51dc6c-562b-465a-86eb-936000535f57",
+        "title": "AI & Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867041,
+        "date_posted": 1791936000,
+        "url": "https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wolf-And-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlassian",
+        "id": "634443fc-4a58-4ac7-8515-ba7138c1a4d6",
+        "title": "AI Researcher Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793867105,
+        "date_posted": 1792972800,
+        "url": "https://campus-americas.icims.com/jobs/26246/ai-researcher-%28phd%29%2c-2027-graduate-u.s./job",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlassian",
+        "id": "47844ec4-47df-4eab-b49c-c2dabea703ec",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867041,
+        "date_posted": 1792972800,
+        "url": "https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alaska Air Group",
+        "id": "dac9ed6b-56bc-46cd-9df0-a15db5581717",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867091,
+        "date_posted": 1793577600,
+        "url": "https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SeaTac, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alaska-Air-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ViaSat",
+        "id": "fa5194c0-3966-4580-a96a-7ce946e87342",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867041,
+        "date_posted": 1793639940,
+        "url": "https://careers.viasat.com/jobs/7757?icims=1",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ViaSat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ViaSat",
+        "id": "0d220c65-d483-4ced-b1bf-02c913e9a686",
+        "title": "Pointing and Tracking Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867041,
+        "date_posted": 1793134320,
+        "url": "https://careers.viasat.com/jobs/6752?icims=1",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ViaSat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alaska Air Group",
+        "id": "eb8a2e35-b9c4-4e33-89cf-b145e732f581",
+        "title": "BI Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867095,
+        "date_posted": 1793577600,
+        "url": "https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Renton, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alaska-Air-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alaska Air Group",
+        "id": "2e1a5e1d-e688-49b9-9369-a2f5deb491a6",
+        "title": "VR Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867093,
+        "date_posted": 1793577600,
+        "url": "https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Renton, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alaska-Air-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alaska Air Group",
+        "id": "cdb6fb97-891a-42fe-8c20-fc82c2234b21",
+        "title": "Guest Products Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867092,
+        "date_posted": 1793577600,
+        "url": "https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SeaTac, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alaska-Air-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ViaSat",
+        "id": "1ccd517f-4453-4126-acbc-67c060c7b92e",
+        "title": "Digital and Programmable Logic Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793867041,
+        "date_posted": 1793645340,
+        "url": "https://careers.viasat.com/jobs/7088?icims=1",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ViaSat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Liberty Mutual",
+        "id": "f27d4db4-22be-4779-8dba-e9009de6ab08",
+        "title": "Analyst Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793866552,
+        "date_posted": 1793864503,
+        "url": "https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IDeaS",
+        "id": "36ccbb5c-a602-4e91-9ae6-a3c46f881bfe",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793866465,
+        "date_posted": 1793863248,
+        "url": "https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/IDeaS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "e02b0a85-0fde-4075-baba-1e4e48f6f949",
+        "title": "Social Media & Marketing Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793866401,
+        "date_posted": 1793862555,
+        "url": "https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "e28bc2b5-da52-4348-a45e-d5604ec71d0e",
+        "title": "FPGA Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793866303,
+        "date_posted": 1793864886,
+        "url": "https://careers-gdms.icims.com/jobs/75125/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "e6562a35-85d8-44a6-8bd1-d9b45bd1659e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793866305,
+        "date_posted": 1793864886,
+        "url": "https://careers-gdms.icims.com/jobs/75040/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "dabf05d4-39a8-42bd-9bcf-fe7b98c996c1",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793866304,
+        "date_posted": 1793864885,
+        "url": "https://careers-gdms.icims.com/jobs/75142/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Novelis",
+        "id": "6bc5b653-b20f-4693-af73-032c636a4618",
+        "title": "Automotive Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793866283,
+        "date_posted": 1793862914,
+        "url": "https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Kennesaw, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Novelis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Framatome",
+        "id": "360037b5-8813-417a-825b-1779df7c6a8f",
+        "title": "AI and Software Innovation Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793865961,
+        "date_posted": 1793864529,
+        "url": "https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Framatome",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "59e8bcfa-d272-4908-b44c-ffb7fa90719a",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793866308,
+        "date_posted": 1793864887,
+        "url": "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lakewood, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "044ee2f0-a8b5-474b-9c1d-bbb5611214d7",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793866308,
+        "date_posted": 1793864887,
+        "url": "https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "0ff66bea-367c-4fcd-932b-11b2ae359105",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793866306,
+        "date_posted": 1793864885,
+        "url": "https://careers-gdms.icims.com/jobs/75141/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "b5870ec6-9637-4d19-953b-1a0b79dcf750",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793866227,
+        "date_posted": 1793864888,
+        "url": "https://careers-gdms.icims.com/jobs/75108/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Farm",
+        "id": "b6c102ff-263e-4702-96a9-65f26a42bb79",
+        "title": "Magnet Program Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1793866098,
+        "date_posted": 1793864080,
+        "url": "https://jobs.statefarm.com/jobs/46301?icims=1",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Farm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "East Penn Manufacturing",
+        "id": "620db921-a48d-4d17-a568-e83e604c7290",
+        "title": "Research & Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793866128,
+        "date_posted": 1793864279,
+        "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Kutztown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/East-Penn-Manufacturing-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "31b390de-ce34-4df7-9935-808f52002862",
+        "title": "Systems Engineer Intern - FCS Auxiliary and Training Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793866115,
+        "date_posted": 1793864887,
+        "url": "https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "15d406e9-3878-4d74-9dad-5e1263d13af7",
+        "title": "Engineer Intern - Infrastructure Hardware/Network",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793866088,
+        "date_posted": 1793864886,
+        "url": "https://careers-gdms.icims.com/jobs/75025/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "c83bdc1d-5eb0-41f6-a236-0a2822d82b7b",
+        "title": "Cyber Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793865838,
+        "date_posted": 1793862559,
+        "url": "https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "West Lafayette, IN",
+            "Basking Ridge, Bernards, NJ",
+            "Silver Spring, MD",
+            "Bedford, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Farm",
+        "id": "fe8d2783-4265-46f3-bf32-0172e2ddfe65",
+        "title": "Magnet Program @ University of Illinois Urbana-Champaign Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1793865765,
+        "date_posted": 1793864069,
+        "url": "https://jobs.statefarm.com/jobs/46049?icims=1",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Farm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
