@@ -109691,7 +109691,7 @@
         "company_name": "Apple",
         "id": "9dc730cf-7fa0-4052-b285-b1301c4db9e7",
         "title": "Software Undergrad Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -109807,7 +109807,7 @@
         "company_name": "Apple",
         "id": "6a306828-3b85-47ed-89fe-3f0f61322ac7",
         "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181622,7 +181622,7 @@
         "company_name": "Micron Technology",
         "id": "c4745709-5fa9-4f56-b6f8-9e2f7d7a0cb3",
         "title": "DRAM Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -188139,7 +188139,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -188181,7 +188181,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -188230,7 +188230,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -188322,7 +188322,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -188348,7 +188348,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -188374,7 +188374,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -188420,7 +188420,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -208991,7 +208991,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -209288,7 +209288,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -243996,7 +243996,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244019,7 +244019,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244042,7 +244042,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244065,7 +244065,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244107,7 +244107,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244149,7 +244149,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244172,7 +244172,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244219,7 +244219,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244242,7 +244242,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244265,7 +244265,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244288,7 +244288,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244312,7 +244312,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244336,7 +244336,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244406,7 +244406,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -290121,7 +290121,7 @@
         "company_name": "Smith+Nephew",
         "id": "aacdb2a7-7399-4a61-a456-f1b8651ac552",
         "title": "Data Science Intern - AI Center of Excellence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -290169,7 +290169,7 @@
         "company_name": "Smith+Nephew",
         "id": "e89448c1-21ee-450a-85e8-84ad429d6f3e",
         "title": "Robotics Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299892,7 +299892,7 @@
         "company_name": "EMC Insurance",
         "id": "fb3a1f41-a8da-429d-b5e3-547dea480442",
         "title": "Claims Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310315,7 +310315,7 @@
         "company_name": "NCR Voyix",
         "id": "b02fcae4-ac36-4769-8a28-85242403362c",
         "title": "Software Engineer Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -310723,7 +310723,7 @@
         "company_name": "Boston Scientific",
         "id": "b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329072,7 +329072,7 @@
         "company_name": "EMC Insurance",
         "id": "cb8e36f2-8593-4793-bcf8-e10743512481",
         "title": "Claims Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354732,7 +354732,7 @@
         "company_name": "Parsons",
         "id": "b135be7e-bf73-4526-9c91-0158ffed7bce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368092,7 +368092,7 @@
         "company_name": "Meta",
         "id": "35a618f9-3e92-414f-9b23-8d8d2130672d",
         "title": "Research Scientist Intern - Multimodal Behavioral AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383858,7 +383858,7 @@
         "company_name": "Altera",
         "id": "f909d244-f6ab-4f24-95c1-cd78cb7e919f",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391403,7 +391403,7 @@
         "company_name": "Aurora Innovation",
         "id": "365794f9-57cb-460f-a01a-ff545f9d0cc9",
         "title": "LiDAR Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404714,7 +404714,7 @@
         "company_name": "Semtech",
         "id": "b82461c9-bd4a-4d07-9c86-a428e3f4566a",
         "title": "Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -404735,7 +404735,7 @@
         "company_name": "Semtech",
         "id": "852bd1df-9c2a-4356-bd93-fde6c1c519b2",
         "title": "Product Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -407487,7 +407487,7 @@
         "company_name": "GlobalFoundries",
         "id": "f59645fd-b938-4a04-8aa8-1bf0b5d46760",
         "title": "PDK Design Engineering Intern - Silicon Photonics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408949,7 +408949,7 @@
         "company_name": "Samsung Research America",
         "id": "f107f36b-2d7b-4407-a73c-6eccd1a4a0fa",
         "title": "Agentic AI Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411731,6 +411731,1050 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Chubb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "e9dda23d-3911-472d-bbd5-7edadfd89abc",
+        "title": "Analog Design Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793847085,
+        "date_posted": 1793846891,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019663",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "692ed089-dd60-4de5-8ed9-0502b8138b5c",
+        "title": "Analog IC Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793847078,
+        "date_posted": 1793846889,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019660",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "994390d2-e931-4203-9755-1169361ef34d",
+        "title": "Software Engineering & AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793847084,
+        "date_posted": 1793750400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
+        "locations": [
+            "Remote in USA",
+            "Shiloh, IL",
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "59d90128-c024-48d1-89af-71216610ba82",
+        "title": "Digital Design Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793847091,
+        "date_posted": 1793846893,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019665",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Constellation Brands",
+        "id": "9d610f75-14b4-4095-8829-06ceb168c9f2",
+        "title": "Marketing Technology & Digital Product Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793846741,
+        "date_posted": 1793750400,
+        "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Marketing-Technology---Digital-Product_R-41658",
+        "locations": [
+            "Rochester, NY",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "b7daac34-0a43-4511-bd61-102463daf2e2",
+        "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Summer 2026"
+        ],
+        "date_updated": 1793846702,
+        "date_posted": 1793846630,
+        "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "adf27a1a-83ec-43d1-9803-5725ebe314bc",
+        "title": "Robotics Research Intern - Manipulation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793846702,
+        "date_posted": 1793846637,
+        "url": "https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Brands",
+        "id": "5cb904dd-75ca-4e89-8e6d-2fb161c05b35",
+        "title": "AI and Automation Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793846740,
+        "date_posted": 1793750400,
+        "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA Corporation",
+        "id": "0c31db02-1b9a-4cc0-81b4-25d414bc07db",
+        "title": "Applications Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793846729,
+        "date_posted": 1793750400,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Applications-Engineering-Intern_2642296",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "3aceb4c9-14ad-4757-a002-02295684f0ec",
+        "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Summer 2026"
+        ],
+        "date_updated": 1793846702,
+        "date_posted": 1793846632,
+        "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "60ae9031-138a-419b-bd54-f4237a95f0ea",
+        "title": "Human-Centered AI Research Intern - Human Language Models",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846702,
+        "date_posted": 1793846633,
+        "url": "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA Corporation",
+        "id": "3d71ef5f-cb4f-44eb-88bf-4d43eeb0b33c",
+        "title": "Algorithm Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793846702,
+        "date_posted": 1793750400,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2641512",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "84be8de0-2299-47e9-bf47-ca06db9e2c13",
+        "title": "Graduate Intern - Artificial Learning and Intelligence for Transportation Safety and Operations",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793846525,
+        "date_posted": 1793750400,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern----Artificial-Learning-and-Intelligence-for-Transportation-Safety-and-Operations_R14590",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "3bb4fff0-d717-4d88-8569-a649bc5534b3",
+        "title": "Research Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846525,
+        "date_posted": 1793821192,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823946101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bose",
+        "id": "24c0beef-0178-4ee1-9cc0-a0ee2aa50f69",
+        "title": "DSP/ML Research Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846525,
+        "date_posted": 1793750400,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bose",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DataVisor",
+        "id": "c663031b-a4c5-44d8-a1dc-1e3e9eb84a47",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793846536,
+        "date_posted": 1793846395,
+        "url": "https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DataVisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bose",
+        "id": "80ef3947-a6a1-4822-9ae0-b81b9e52347a",
+        "title": "DSP/ML Research Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793846525,
+        "date_posted": 1793750400,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bose",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "34d5b977-2661-420f-8b7b-cd912b8eecb7",
+        "title": "Research Scientist Intern - Monetization Technology - Ads Core",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846343,
+        "date_posted": 1793846226,
+        "url": "https://lifeattiktok.com/search/7703777085291415813",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "29722dbc-fe6d-4c27-841d-c178c7c79f80",
+        "title": "Optics-Physics Sensor Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846373,
+        "date_posted": 1793750400,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "5f438b5b-8f19-4780-b104-36fd3633f9e1",
+        "title": "Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846205,
+        "date_posted": 1793750400,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "5af9e4a2-62e4-479e-a872-0450860c73bd",
+        "title": "Senior Systems Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793846220,
+        "date_posted": 1793826960,
+        "url": "https://careers.amd.com/jobs/95806?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PayPal",
+        "id": "e60dfb39-6279-46ca-9802-7328d053355a",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793845982,
+        "date_posted": 1793845832,
+        "url": "https://paypal.eightfold.ai/careers/job/274922983149",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vizient",
+        "id": "b82c266b-358b-4cf2-b927-d7bda329770e",
+        "title": "Pharmacy Aggregation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846005,
+        "date_posted": 1793750400,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1",
+        "locations": [
+            "Washington, DC",
+            "Centennial, CO",
+            "Remote in USA",
+            "Edina, MN",
+            "Chicago, IL",
+            "Alpharetta, GA",
+            "Cape Girardeau, MO",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vizient",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PayPal",
+        "id": "ce81bab2-f54c-4774-92ac-b82f7b0c9eb3",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793845982,
+        "date_posted": 1793845831,
+        "url": "https://paypal.eightfold.ai/careers/job/274922982814",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Chicago, IL",
+            "Omaha, NE",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "86f29393-c9a9-4a9a-b1c5-1a45932658b1",
+        "title": "PMIC Analog Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793845982,
+        "date_posted": 1793829388,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000159733449",
+        "locations": [
+            "San Jose, CA",
+            "Plano, TX",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualcomm",
+        "id": "c7d8c2f2-7484-461a-acdb-a0a8efece281",
+        "title": "Machine Learning Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846023,
+        "date_posted": 1793845921,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721969461",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "90152193-d0a4-41f6-9a8c-c9a3d4f2a4c7",
+        "title": "Urology R&D Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793845982,
+        "date_posted": 1793845864,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813743813",
+        "locations": [
+            "Marlborough, MA",
+            "Maple Grove, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PayPal",
+        "id": "9e2a3eab-c04d-4789-a788-f263deafe9ab",
+        "title": "Mobile Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793845982,
+        "date_posted": 1793845831,
+        "url": "https://paypal.eightfold.ai/careers/job/274922982818",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Chicago, IL",
+            "Omaha, NE",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PayPal",
+        "id": "895e7a39-8d76-43eb-8176-ea90e58b2223",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793845982,
+        "date_posted": 1793845831,
+        "url": "https://paypal.eightfold.ai/careers/job/274922982821",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Boston Scientific",
+        "id": "59604790-9f6c-43b4-b02a-c8c8e3d6e9e8",
+        "title": "R&D Product Development Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793846014,
+        "date_posted": 1793845863,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813850819",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PayPal",
+        "id": "29d1ca4c-8aae-42e9-8f47-ad9a51a8afe4",
+        "title": "Machine Learning Engineer PhD Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793845982,
+        "date_posted": 1793845832,
+        "url": "https://paypal.eightfold.ai/careers/job/274922983152",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "41a64d96-46b9-4d28-8fc8-cd45e1c52362",
+        "title": "Display IP FPGA Emulation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793846029,
+        "date_posted": 1793845922,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721972361",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zebra Technologies",
+        "id": "d21074f9-91d2-4034-bdc6-343e4b7baf92",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793845882,
+        "date_posted": 1793750400,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "85773b47-5ed9-48dd-abb9-1d1c91adb439",
+        "title": "Software Engineer Co-op Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793845871,
+        "date_posted": 1793750400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329",
+        "locations": [
+            "McClellan Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "929a4211-aa7e-4011-9c18-b021c6b75c2c",
+        "title": "Research Scientist Intern - Monetization Ranking & AI Foundations",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845813,
+        "date_posted": 1793845715,
+        "url": "https://www.metacareers.com/jobs/1920724172670221",
+        "locations": [
+            "Menlo Park, CA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "b18ff132-aa14-44b4-be12-11abaa64b110",
+        "title": "Research Scientist Intern - Generative AI & Computational Photography",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845813,
+        "date_posted": 1793845715,
+        "url": "https://www.metacareers.com/jobs/2862704290847533",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "acc1d10c-9e3b-4cd5-a018-7fba5b2fe664",
+        "title": "Research Scientist Intern - AI Maps",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845813,
+        "date_posted": 1793845714,
+        "url": "https://www.metacareers.com/jobs/2439439363131036",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "df8b9abb-bf4b-429e-bea4-1f4446146ba3",
+        "title": "Research Scientist Intern - Generative AI & Computational Photography",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845813,
+        "date_posted": 1793845715,
+        "url": "https://www.metacareers.com/jobs/2572072169967580",
+        "locations": [
+            "Cambridge, MA",
+            "Burlingame, CA",
+            "Redmond, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "7c1bbb4d-9914-41c7-a380-95de6cbc42b5",
+        "title": "Research Scientist Intern - Humanoid Control & Dexterous Manipulation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845813,
+        "date_posted": 1793845719,
+        "url": "https://www.metacareers.com/jobs/1832390484751700",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "22d552c2-2ca2-491c-bcbd-f6c23cb08d84",
+        "title": "Research Scientist Intern - Generative AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845813,
+        "date_posted": 1793845709,
+        "url": "https://www.metacareers.com/jobs/1139996808441103",
+        "locations": [
+            "London, UK",
+            "Z\u00fcrich, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "3eacf92d-e5c6-4bcb-a075-2caec8c4ae32",
+        "title": "ASIC EDA Infrastructure Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845852,
+        "date_posted": 1793845711,
+        "url": "https://www.metacareers.com/jobs/1883872846321140",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "2829786f-ab16-4e99-ae3e-e89a46653381",
+        "title": "Research Scientist Intern - Spatial Reasoning & Localization",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845813,
+        "date_posted": 1793845711,
+        "url": "https://www.metacareers.com/jobs/1218542847568705",
+        "locations": [
+            "Boston, MA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "bcdf33ad-1cf3-4e61-abd7-d5aa4a43f53a",
+        "title": "Hardware Systems Architecture Intern - Performance & Workload Analysis",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845855,
+        "date_posted": 1793845711,
+        "url": "https://www.metacareers.com/jobs/1296272445973940",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "3908d24b-c394-4088-bc0c-28c8fd0821d2",
+        "title": "Research Scientist Intern - Foundation Model Optimization - PhD",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793845854,
+        "date_posted": 1793845715,
+        "url": "https://www.metacareers.com/jobs/2111078129773109",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
