@@ -176167,7 +176167,7 @@
         "company_name": "ByteDance",
         "id": "4af25efe-2dc0-4ef6-bd62-34ad9f646360",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -260511,7 +260511,7 @@
         "company_name": "Peraton",
         "id": "53214376-dcb6-4b32-99dd-b69bd332ee7e",
         "title": "Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -269228,7 +269228,7 @@
         "company_name": "Lightmatter",
         "id": "3286eb4f-5511-4560-ae4e-9d241dca2cda",
         "title": "Photonics Characterization Intern New Grad - New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -278217,7 +278217,7 @@
         "company_name": "BDO Canada",
         "id": "49121f69-8abd-4bf4-a1f0-3e903d810e64",
         "title": "Data & Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -403897,7 +403897,7 @@
         "company_name": "CoStar Group",
         "id": "4e5f22da-1551-4dbf-a079-0c987a791f0d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411303,7 +411303,7 @@
         "company_name": "Toyota Research Institute",
         "id": "3aceb4c9-14ad-4757-a002-02295684f0ec",
         "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Summer 2026"
