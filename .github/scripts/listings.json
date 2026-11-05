@@ -258427,7 +258427,7 @@
         "company_name": "Medpace",
         "id": "f3052650-6edb-49cf-934d-837770fd0a64",
         "title": "Feasibility Informatics Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269205,7 +269205,7 @@
         "company_name": "Geotab",
         "id": "e0a4c475-6f3c-4f3e-a7ad-2e4046a608dd",
         "title": "Embedded Developer Intern - Engine Data Reliability",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -291741,7 +291741,7 @@
         "company_name": "OCC",
         "id": "cddeab16-284b-4b09-b61f-5bdb9dac600d",
         "title": "Data Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292209,7 +292209,7 @@
         "company_name": "OCC",
         "id": "d042c4df-d400-4412-8a8f-e088dca5e104",
         "title": "Quantitative Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294244,7 +294244,7 @@
         "company_name": "Rockwell Automation",
         "id": "abf124c8-1933-4db2-9f87-cde430c76a3f",
         "title": "Robotics Research Co-op - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -294361,7 +294361,7 @@
         "company_name": "Rockwell Automation",
         "id": "bd67b0ae-4054-4285-a5c6-d177c44acd54",
         "title": "Robotics Research Co-op - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -308401,7 +308401,7 @@
         "company_name": "Semtech",
         "id": "ddca628e-b43b-42c7-9f3a-7aafbed7b688",
         "title": "Validation Engineering Intern - Signal Integrity Products Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308422,7 +308422,7 @@
         "company_name": "Semtech",
         "id": "d52793a7-e981-4bcd-8ba2-982aa7c315ed",
         "title": "Analog Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358206,7 +358206,7 @@
         "company_name": "Leidos",
         "id": "d22f3e14-e4d1-4fff-9e8a-373760835d7d",
         "title": "Performance Enablement AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
