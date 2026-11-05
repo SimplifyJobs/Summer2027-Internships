@@ -234958,7 +234958,7 @@
         "company_name": "Texas Instruments",
         "id": "599825f7-b453-45b1-870a-8ab037aefcb2",
         "title": "Product Engineer Intern - Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -238398,7 +238398,7 @@
         "company_name": "Persona AI",
         "id": "63e35d52-59ef-41f5-9562-df62a222e103",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027",
@@ -280700,7 +280700,7 @@
         "company_name": "Waymo",
         "id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
         "title": "Software Engineering Intern - Commercialization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389284,7 +389284,7 @@
         "company_name": "Sun Life",
         "id": "44acd052-ab48-4d92-9278-346e815a40dc",
         "title": "Quality Engineering Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -409891,7 +409891,7 @@
         "company_name": "Wabtec",
         "id": "a6442bf8-bef9-418e-8d8d-c02521c3e1d9",
         "title": "Firmware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
