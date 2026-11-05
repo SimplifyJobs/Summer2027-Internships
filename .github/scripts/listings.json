@@ -121259,7 +121259,7 @@
         "company_name": "Medpace",
         "id": "b010cb61-ec8b-4ef7-af0b-f83cdb8fb6fb",
         "title": "Feasibility Informatics Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -282720,7 +282720,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b29a12e0-e7bf-4c22-bd76-853097e3a788",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -308527,7 +308527,7 @@
         "company_name": "Semtech",
         "id": "8e6446b2-df27-41d9-b055-ed7d81c3cc62",
         "title": "Analog Design Engineer Intern - Signal Integrity Products Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309662,7 +309662,7 @@
         "company_name": "NCR Voyix",
         "id": "b02fcae4-ac36-4769-8a28-85242403362c",
         "title": "Software Engineer Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343151,7 +343151,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "e9431d48-77fa-4f21-aada-d15b27d9738c",
         "title": "Business Digitalisation & AI Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383417,7 +383417,7 @@
         "company_name": "Highmark Health",
         "id": "c653bbbf-b416-4571-bf39-8208f6011a49",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383482,7 +383482,7 @@
         "company_name": "Highmark Health",
         "id": "aac08f60-5598-4676-9fbd-0bb81e77da07",
         "title": "Software Engineer Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
