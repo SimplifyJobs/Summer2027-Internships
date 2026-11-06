@@ -292846,7 +292846,7 @@
         "company_name": "Centene",
         "id": "a3df12be-fbf0-4c4f-a784-f55100ad8aaa",
         "title": "Data and Analytics Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353183,7 +353183,7 @@
         "company_name": "Businessolver",
         "id": "c3531726-3761-43df-9283-622508689b62",
         "title": "Business Intelligence Analyst Intern - Innovation & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
