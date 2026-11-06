@@ -301003,7 +301003,7 @@
         "company_name": "Rippling",
         "id": "fff73d24-2557-417b-a791-58567415f245",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384089,7 +384089,7 @@
         "company_name": "Visa",
         "id": "be8d5807-1506-4439-94ef-cbbc4820f02b",
         "title": "Product Management Intern - Data and AI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384137,7 +384137,7 @@
         "company_name": "Visa",
         "id": "d23757ff-eac9-4620-bfc5-fc65e0a43ed5",
         "title": "Product Management Intern - Data and AI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
