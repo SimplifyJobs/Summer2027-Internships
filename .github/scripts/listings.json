@@ -1,97 +1,5 @@
 [
     {
-        "date_updated": 1773236130,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/interplay/da19ed8a-f03c-49d8-a2fd-d2988b8c3369",
-        "company_name": "Internship",
-        "title": "AI Deployment Engineering Internship",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "d3558132-2367-473c-930c-63416534e389",
-        "date_posted": 1773236130,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1777381408,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/73a2fa9e-69e0-4dc6-8f83-a66db12fb2b3",
-        "company_name": "Veolia",
-        "title": "AI Engineering Intern (SLM)",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "837ebc63-4345-4f2f-b9e4-1523d0d089fb",
-        "date_posted": 1773236309,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1777381408,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/060f2b47-8c58-4d3d-86a0-f2dcbcb2bf9b",
-        "company_name": "Veolia",
-        "title": "AI Engineering Intern (LLM)",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "a4a7721f-e359-413c-8931-4b3ec11dc431",
-        "date_posted": 1773236341,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773237526,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Software--R-D-Summer-2026_R00232838",
-        "company_name": "Magna",
-        "title": "Robotics AI Software- R&D",
-        "locations": [
-            "Troy, MI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "93aad207-f111-43b0-be25-98c6db424327",
-        "date_posted": 1773237526,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1773237943,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -228280,7 +228188,7 @@
         "company_name": "McKesson",
         "id": "2fb8aa8a-8920-42b2-9a24-167f54d6cc81",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -287416,7 +287324,7 @@
         "company_name": "Visa",
         "id": "42074831-4df6-43c3-a5e6-cd8a61daef56",
         "title": "Staff Research Scientist Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368496,7 +368404,7 @@
         "company_name": "EDF Energy",
         "id": "533bfc9f-abc1-4f2d-9e3e-11e7a3bad773",
         "title": "Chemistry Industrial Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402766,7 +402674,7 @@
         "company_name": "Zebra Technologies",
         "id": "f95a9943-a08d-468f-9a14-13f5b26ac3e3",
         "title": "Software Engineer Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
