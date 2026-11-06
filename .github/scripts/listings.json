@@ -299805,7 +299805,7 @@
         "company_name": "West Bend Insurance",
         "id": "5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e",
         "title": "IT Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326580,7 +326580,7 @@
         "company_name": "Quantum Signal AI",
         "id": "726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
         "title": "Software Engineer Intern - Tools and Prototypes",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367987,7 +367987,7 @@
         "company_name": "ICF International",
         "id": "73395dc9-ae40-45b9-b46a-7c823d29cc98",
         "title": "Full-Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383822,7 +383822,7 @@
         "company_name": "Visa",
         "id": "7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
         "title": "Sophomore Program Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383922,7 +383922,7 @@
         "company_name": "Visa",
         "id": "4bc03fa9-1a0f-4972-b9ba-e0f07d3372ff",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384088,7 +384088,7 @@
         "company_name": "Visa",
         "id": "58b2fdc7-432f-48f0-80a9-5e970ba2b3e0",
         "title": "Sophomore Program Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392777,7 +392777,7 @@
         "company_name": "DivcoWest",
         "id": "7a7f7d6a-505a-4b29-afcc-af4eb8cbc647",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396335,7 +396335,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "54bf1db6-ad2a-4a55-8eba-9726ba4c9e1c",
         "title": "Robotics Engineer Intern - Maritime Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397652,7 +397652,7 @@
         "company_name": "Altera",
         "id": "5e2d984e-53bd-486c-a6e7-04c15a9ff87b",
         "title": "Hardware Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
