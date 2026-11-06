@@ -1,73 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brigham Young University - Provo",
-        "id": "fe29bf90-a830-44db-9b7f-ee1ecd343340",
-        "title": "Research Assistant",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773210051,
-        "date_posted": 1773210051,
-        "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Research-Assistant_JR-8464",
-        "locations": [
-            "Provo, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Brigham-Young-University-Provo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "M&G",
-        "id": "5f129450-352a-48c1-b5a9-246d39241e63",
-        "title": "Finance Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1773209868,
-        "date_posted": 1773209868,
-        "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Finance-Data-Analyst-Apprentice_R18765",
-        "locations": [
-            "Stirling, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/M-And-G",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "00f32b64-b58c-4797-aab5-0598455c331b",
-        "title": "Intern - Material Scientist / Thin Film Processes Engineer - Ph.D. Only",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773209509,
-        "date_posted": 1773209509,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000113857350",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mizuho Securities USA",
         "id": "748035c0-8d17-45bc-b171-510ba89e2f1d",
@@ -2286,27 +2219,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Air Liquide",
-        "id": "9a50b998-0876-4fd2-8ae4-caf81a03f2ab",
-        "title": "VIE Product Management NCE",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773210678,
-        "date_posted": 1773210678,
-        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Germany-Krefeld/VIE-Product-Management-NCE----F-M-D-_R10080448",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Air-Liquide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -168134,7 +168046,7 @@
         "company_name": "JP Morgan Chase",
         "id": "736ed5d6-63be-4dfa-b0d6-5eb9c5d4e663",
         "title": "Quantitative Research Intern - Risk and Treasury",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -186381,7 +186293,7 @@
         "company_name": "GE Aerospace",
         "id": "5f3d33fb-4b34-47a8-a127-86e779a876b6",
         "title": "Aerospace Engineering Engines Co-op - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -230096,7 +230008,7 @@
         "company_name": "Northrop Grumman",
         "id": "68f77e24-7325-4a04-9e6f-048e16a551a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -274300,7 +274212,7 @@
         "company_name": "ExodusPoint",
         "id": "62c3b982-db7b-4ad1-a538-560067cf4279",
         "title": "Quantitative Intern - Credit",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334606,7 +334518,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "95c4cff1-400b-4054-ab5a-96b8ea6662dd",
         "title": "Capital Markets Intern - Quantitative Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367127,7 +367039,7 @@
         "company_name": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
         "id": "8dc6bc25-3165-4a3d-846d-1a908bb5c78f",
         "title": "Business Strategy & Product Management Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -403150,7 +403062,7 @@
         "company_name": "Zebra Technologies",
         "id": "62bf04c8-18c9-48d2-911d-93ed5a597077",
         "title": "Software/AI Engineer Intern - Handheld Mobile Computers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
