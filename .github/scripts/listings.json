@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mizuho Securities USA",
-        "id": "748035c0-8d17-45bc-b171-510ba89e2f1d",
-        "title": "Commercial Lending Technology Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773210828,
-        "date_posted": 1773210828,
-        "url": "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Mizuho-Securities-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Accenture",
-        "id": "f39b06b7-ed90-4dc9-bf43-20128cd6d975",
-        "title": "ATC Analysts",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773211436,
-        "date_posted": 1773211436,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/St-Pete-140-Fountain-Pkwy-Tampa-Corp/ATC-Summer-Analysts---Tampa---NAELFY26_R00317741",
-        "locations": [
-            "Tampa, FL",
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Monolithic Power Systems",
         "id": "a2f342be-ccae-44b7-8563-6589e27bd20c",
@@ -167960,7 +167914,7 @@
         "company_name": "JP Morgan Chase",
         "id": "c603c749-ab7d-489e-a4f7-a962ea05b835",
         "title": "Quantitative Research Intern - Markets - Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -272359,7 +272313,7 @@
         "company_name": "American Express",
         "id": "c0e6ac9c-3a51-4bb6-99c2-9d3ed632d897",
         "title": "Product Manager Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307710,7 +307664,7 @@
         "company_name": "Boston Scientific",
         "id": "b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332891,7 +332845,7 @@
         "company_name": "Boston Scientific",
         "id": "80c856e0-3ec4-4026-9444-8ee61d28bf1e",
         "title": "Equipment Engineering AI Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402949,7 +402903,7 @@
         "company_name": "Zebra Technologies",
         "id": "be146f78-4172-4dbd-9839-b35a87ef06be",
         "title": "Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402973,7 +402927,7 @@
         "company_name": "Zebra Technologies",
         "id": "ae59bf1a-6bc0-4208-9390-f2775cf89664",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
