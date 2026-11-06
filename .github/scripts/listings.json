@@ -382330,7 +382330,7 @@
         "company_name": "Nissan Global",
         "id": "b6b193dc-5974-4336-a73b-253af3ceaec2",
         "title": "Market Intelligence (Customer Insights) Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414140,6 +414140,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "b5719b13-e976-4a46-a904-a27b96888b47",
+        "title": "Data Expert Intern - Compliance by Design - Data Capability",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793970029,
+        "date_posted": 1792972800,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533",
+        "locations": [
+            "Welwyn, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
