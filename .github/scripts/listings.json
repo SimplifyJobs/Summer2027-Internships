@@ -2,126 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Skechers",
-        "id": "4c02604f-250e-4801-af41-30e1ae5ce871",
-        "title": "Data and Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773193390,
-        "date_posted": 1773193390,
-        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-and-Analytics-Intern--Summer-2026-_JR125957",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skechers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centific",
-        "id": "d31418b4-7b87-4734-acd9-678ffa7c410f",
-        "title": "Speech Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773193235,
-        "date_posted": 1773193235,
-        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Research-Intern--3_JR106159-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ercot",
-        "id": "6ecb5d5a-dc0a-44d3-b578-be1f6a11c3d8",
-        "title": "Intern Portfolio Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773193231,
-        "date_posted": 1773193231,
-        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Portfolio-Management_R2206",
-        "locations": [
-            "Pflugerville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Ercot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Iron Mountain",
-        "id": "336ae0cf-4855-43ea-ae1b-fc8f8648e6c2",
-        "title": "Global RIM Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773193204,
-        "date_posted": 1773193204,
-        "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--MS--Remote/Summer-2026-Global-RIM-Analytics-Intern_J0099226",
-        "locations": [
-            "Boston, MA",
-            "Remote in USA",
-            "Mississippi"
-        ],
-        "company_url": "https://simplify.jobs/c/Iron-Mountain",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cadence Design Systems",
-        "id": "51d2b518-8a4c-4a03-bcfb-e1d13172cd6e",
-        "title": "LLM/ML Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773193082,
-        "date_posted": 1773193082,
-        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/LLM-ML-Intern--PhD--Summer-2026-_R53409",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Brigham Young University - Provo",
         "id": "fe29bf90-a830-44db-9b7f-ee1ecd343340",
         "title": "Research Assistant",
@@ -2406,27 +2286,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Parsons",
-        "id": "aa20fa7f-c18a-4cf1-be7b-b9aaa7116d94",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773193837,
-        "date_posted": 1773193837,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Developer-Intern---US-Citizenship-Required_R178372-1",
-        "locations": [
-            "Centreville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -257844,7 +257703,7 @@
         "company_name": "Navy Federal",
         "id": "3b7f6701-dabe-416a-af5f-efb2491cfbd4",
         "title": "Mobile Developer Intern - Summer Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -271092,7 +270951,7 @@
         "company_name": "Businessolver",
         "id": "4cc8603a-045d-4506-b7d3-d174a4194ef0",
         "title": "Business Intelligence Intern - Innovation & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -310663,7 +310522,7 @@
         "company_name": "American Family Insurance Group",
         "id": "2e7f3daf-eaeb-4204-b73c-45641a2379f4",
         "title": "Machine Learning Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -393358,7 +393217,7 @@
         "company_name": "Astronics",
         "id": "3cc9cc0f-0e1a-4dce-bb78-729c0ac8bddb",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405590,7 +405449,7 @@
         "company_name": "Commonwealth Fusion Systems",
         "id": "3095dc51-647e-45c6-8c95-5791bcf93583",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406335,7 +406194,7 @@
         "company_name": "Highmark Health",
         "id": "33365070-1b3c-4991-85fb-04e2cdc26de7",
         "title": "AI Services and Platforms Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
