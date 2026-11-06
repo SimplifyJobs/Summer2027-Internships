@@ -234381,7 +234381,7 @@
         "company_name": "GE Aerospace",
         "id": "336b94ac-b891-4459-bd54-23d89446c8e2",
         "title": "Engines Engineering Intern - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307510,7 +307510,7 @@
         "company_name": "Johnson & Johnson",
         "id": "46c77ff4-d626-47a9-bdb5-d46938c07a50",
         "title": "Software Engineer Co-op - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379655,7 +379655,7 @@
         "company_name": "Johnson & Johnson",
         "id": "47b1aeb6-587f-4d70-974c-6dd226fbf9e7",
         "title": "Laboratory Automation Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
