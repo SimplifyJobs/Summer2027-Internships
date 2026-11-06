@@ -229081,7 +229081,7 @@
         "company_name": "Stryten",
         "id": "054be3ce-3039-4545-b02e-d2f875075a76",
         "title": "Industrial or Mechanical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366989,7 +366989,7 @@
         "company_name": "Roche",
         "id": "ccf5d6fe-14b2-403d-b0e8-2dd576f64329",
         "title": "Computer Science Industrial Placement Student Intern - Data Capability",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -414160,5 +414160,281 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elucid",
+        "id": "64f0c82b-f660-4b18-87f3-9dcbb33d8a48",
+        "title": "Machine Learning PhD Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793979954,
+        "date_posted": 1793979860,
+        "url": "https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elucid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SAS",
+        "id": "4c1d2a29-8238-4827-a622-c10a3a4efcf9",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793979952,
+        "date_posted": 1793923200,
+        "url": "https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SAS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uhaul",
+        "id": "db41e13a-6afd-4f24-add1-1583b303b9dc",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793979867,
+        "date_posted": 1793923200,
+        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Uhaul",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "9b71ea4e-4f93-4b31-ab20-fe6e359bba99",
+        "title": "Robotics Intern - World Action Models for Robot Policy",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793979544,
+        "date_posted": 1793979516,
+        "url": "https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "8a924ee7-0fe1-4b54-b6ad-a4130a1cf787",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793979392,
+        "date_posted": 1793923200,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "7a83f725-2668-448f-9d0f-dba4070b39e8",
+        "title": "PMU Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793979391,
+        "date_posted": 1793979242,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722000505",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waymo",
+        "id": "e13a771d-0bef-4eba-8e4c-922902e13085",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793979382,
+        "date_posted": 1793974883,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "e069ea1c-b571-46be-95e2-d1071dbcb2dd",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793979393,
+        "date_posted": 1793923200,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "59fde1fa-2b4d-435e-962e-25ae5aea3a40",
+        "title": "RF/Analog Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793979394,
+        "date_posted": 1793979242,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722001120",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "dce9fd9f-e2c7-4cce-ac21-2cdf97ae4509",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793979008,
+        "date_posted": 1793923200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "S&P Global",
+        "id": "1d693bc4-5cb6-4d9a-928a-5c72e45a7ecc",
+        "title": "Managed Data Services Intern - Ilevel - GP Mds",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793979035,
+        "date_posted": 1793923200,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "6674b1fc-940a-48c7-86a8-2b55cab6a36d",
+        "title": "AI/ML Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793979008,
+        "date_posted": 1793923200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
