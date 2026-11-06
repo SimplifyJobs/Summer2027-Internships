@@ -168192,7 +168192,7 @@
         "company_name": "JP Morgan Chase",
         "id": "067fde7e-5b83-40ed-8830-3864aced6f33",
         "title": "Quantitative Research Summer Analyst Intern - Asset Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -204591,7 +204591,7 @@
         "company_name": "Tesla",
         "id": "6f67b1f9-a488-41fb-81ab-1c90fbd557d4",
         "title": "Software Engineer Intern - Maps & Navigation - Robotaxi",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -278893,7 +278893,7 @@
         "company_name": "Tesla",
         "id": "044235a0-420e-4de8-b8f8-d03207616f48",
         "title": "Solar Hardware Engineer Intern - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
