@@ -169089,7 +169089,7 @@
         "company_name": "Samsara",
         "id": "db36b892-52d0-41cd-a477-521af6328b70",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2028",
             "Summer 2028",
@@ -213128,7 +213128,7 @@
         "company_name": "Epic Games",
         "id": "bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
         "title": "Frontend Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -218850,7 +218850,7 @@
         "company_name": "Booz Allen",
         "id": "c0d0a7a8-afbc-4283-886f-e4d7e36f52f0",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293416,7 +293416,7 @@
         "company_name": "Epic Games",
         "id": "e4639935-0247-4578-b4a3-814cab5c5c8e",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383749,7 +383749,7 @@
         "company_name": "Visa",
         "id": "e0a98377-2ab5-44f4-a19a-bb11a98699a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383773,7 +383773,7 @@
         "company_name": "Visa",
         "id": "d03f3f61-cfe8-441f-90db-b9831bc5205c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383873,7 +383873,7 @@
         "company_name": "Visa",
         "id": "ea89ecc3-ebf3-48b1-8f0a-a496dfa9755b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384040,7 +384040,7 @@
         "company_name": "Visa",
         "id": "aecfefcb-c6a4-4161-ac54-0464570e82a9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384185,7 +384185,7 @@
         "company_name": "Visa",
         "id": "b6f3c11d-afce-4ebd-b16f-8f3bfb75b164",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387989,7 +387989,7 @@
         "company_name": "VSP Vision",
         "id": "d54ad503-0917-4cd9-8e73-8ecd6fe2d56d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396712,7 +396712,7 @@
         "company_name": "Cadillac Formula 1 Team",
         "id": "ecea9da4-9f7c-4d0c-b6d4-365719c8aa35",
         "title": "Aerodynamics AI Industrial Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -410986,7 +410986,7 @@
         "company_name": "Docusign",
         "id": "c5e30c95-0275-4fc7-8451-c385ea2348bf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
