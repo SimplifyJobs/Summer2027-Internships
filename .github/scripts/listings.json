@@ -384137,7 +384137,7 @@
         "company_name": "Visa",
         "id": "27ce0059-c008-45e2-93c4-f9e612b9f8e8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
