@@ -153021,7 +153021,7 @@
         "company_name": "Zuru",
         "id": "123d7224-e9a5-46fb-b148-01e9c4ea720c",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -288826,7 +288826,7 @@
         "company_name": "Republic Airways",
         "id": "160dce7d-d418-4675-8ae3-901527a5de03",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293012,7 +293012,7 @@
         "company_name": "Together AI",
         "id": "2b1aa535-49dc-48bc-ad30-bfb91a26e6ec",
         "title": "Research Intern - Frontier Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -293079,7 +293079,7 @@
         "company_name": "Together AI",
         "id": "1d8b7a9a-aad7-445b-8465-b11074c1fc87",
         "title": "Research Intern - Inference",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -299693,7 +299693,7 @@
         "company_name": "Emerson Electric",
         "id": "2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
         "title": "Software Engineer Intern - Process Systems and Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344838,7 +344838,7 @@
         "company_name": "Nokia",
         "id": "24c2d5a3-467d-49eb-a5e6-8d36e5ded684",
         "title": "Hardware Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -357748,7 +357748,7 @@
         "company_name": "Behaviour Interactive",
         "id": "1dda6476-4e02-4025-a7b8-95a4e556235c",
         "title": "Product Management Intern - 7 Days to Die",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -364339,7 +364339,7 @@
         "company_name": "FanDuel",
         "id": "46a45053-654d-405d-9ac0-371cda4b6f79",
         "title": "Sports Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367964,7 +367964,7 @@
         "company_name": "ICF International",
         "id": "24537423-4d5f-4c4e-96e3-47f55defe704",
         "title": "Seasonal Associate Intern - Full Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384112,7 +384112,7 @@
         "company_name": "Visa",
         "id": "394fd625-992b-45aa-9d72-e2ae53a17bf3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -390004,7 +390004,7 @@
         "company_name": "Sonos",
         "id": "47fc293a-86ff-4dfb-9ef9-71a0f154f798",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413009,7 +413009,7 @@
         "company_name": "Lumbermen's",
         "id": "328d4568-bcae-457f-96e8-ea5e59164c08",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
