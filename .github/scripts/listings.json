@@ -198748,7 +198748,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -250368,7 +250368,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -379584,7 +379584,7 @@
         "company_name": "Sardine",
         "id": "860a5d35-fd73-4f09-9dab-71f9950473cf",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383776,7 +383776,7 @@
         "company_name": "Meta",
         "id": "6a4d978f-591a-4db3-91fc-cf7e1e34458b",
         "title": "Research Scientist Intern - Foundation Model Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387883,7 +387883,7 @@
         "company_name": "NUVACORE",
         "id": "6b8067fc-13e3-461e-99b4-7b43a2991856",
         "title": "CPU Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409287,7 +409287,7 @@
         "company_name": "AMD",
         "id": "5af9e4a2-62e4-479e-a872-0450860c73bd",
         "title": "Senior Systems Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413963,6 +413963,75 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Light & Wonder",
+        "id": "f175936e-7cd2-44d3-8f3d-2c881af188ce",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793931679,
+        "date_posted": 1793931548,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Invesco",
+        "id": "519aa545-7ad9-4720-9fc1-926b6e963038",
+        "title": "Digital Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793931347,
+        "date_posted": 1793836800,
+        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Invesco",
+        "id": "d8cc7189-431c-4e08-938a-58fd924c969f",
+        "title": "Digital Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793930965,
+        "date_posted": 1793836800,
+        "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
