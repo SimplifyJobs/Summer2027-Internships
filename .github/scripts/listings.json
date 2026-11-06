@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RXO",
-        "id": "610bc206-1c39-4dc4-8b3c-3f08de8ef5dc",
-        "title": "Brokerage AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773241622,
-        "date_posted": 1773241622,
-        "url": "https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Naperville-Illinois/Brokerage-AI-Intern_JR102230",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/RXO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Trane Technologies",
         "id": "e651c39f-47c7-45b4-849c-468bd4658f61",
@@ -197964,7 +197941,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -229104,7 +229081,7 @@
         "company_name": "Stryten",
         "id": "054be3ce-3039-4545-b02e-d2f875075a76",
         "title": "Industrial or Mechanical Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -240287,7 +240264,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240310,7 +240287,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240356,7 +240333,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -249584,7 +249561,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -279453,7 +279430,7 @@
         "company_name": "Viavi Solutions",
         "id": "efe647db-4e6b-4952-a9dd-2f6c3cddab30",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -413698,6 +413675,490 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tinder",
+        "id": "e2ba2687-1ac6-40c9-a236-61fad22d9407",
+        "title": "Android Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793978829,
+        "date_posted": 1793978800,
+        "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tinder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tinder",
+        "id": "b0484564-9325-4e1a-a91d-2005a8c9bbfb",
+        "title": "Backend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793978829,
+        "date_posted": 1793978800,
+        "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply",
+        "locations": [
+            "Palo Alto, CA",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tinder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tinder",
+        "id": "7116355b-7504-4a7e-bd3e-a2309d10544a",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793978829,
+        "date_posted": 1793978801,
+        "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Tinder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tinder",
+        "id": "64d85b01-4fd3-46dd-a653-7af4e042cd4c",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793978829,
+        "date_posted": 1793978801,
+        "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tinder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tinder",
+        "id": "2a9865db-8f3e-40ac-a2fb-b90b64595d1e",
+        "title": "iOS Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793978859,
+        "date_posted": 1793978802,
+        "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply",
+        "locations": [
+            "Palo Alto, CA",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tinder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rivian",
+        "id": "4e3e8dfe-e27e-41fe-a748-d6582600db35",
+        "title": "Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793978853,
+        "date_posted": 1793976480,
+        "url": "https://careers.rivian.com/jobs/35896?icims=1&lang=en-us",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medtronic",
+        "id": "c01692fb-46b1-4cf9-b387-0face897eedc",
+        "title": "Data Quality & Stewardship Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1793978493,
+        "date_posted": 1793923200,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Watford-Hertfordshire-United-Kingdom/Apprentice-Data-Quality---Stewardship_R79643-1",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gannett Fleming",
+        "id": "b6066d28-4c1a-4054-8aa7-e561fe9b9080",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1793978503,
+        "date_posted": 1793923200,
+        "url": "https://careers-gannettfleming.icims.com/jobs/15085/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gannett-Fleming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "28aebc28-8053-49a1-82cd-f57734a9e64d",
+        "title": "Vision-Language-Action Research Intern - Vision-Language-Action",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793978514,
+        "date_posted": 1793974402,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160212170",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "5ef8daf8-ad4f-4cea-b963-be50d5d118f4",
+        "title": "Motorsport Software and Data Analytics Graduate Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793978466,
+        "date_posted": 1793973419,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160208440",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Spectrum Control",
+        "id": "ba35c253-36e9-4541-be80-6b3558722e8f",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1793978153,
+        "date_posted": 1793923200,
+        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101547",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spectrum-Control",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The New York Times",
+        "id": "e83280af-86b2-46ea-8179-6344933c3f14",
+        "title": "Interactive News Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793978146,
+        "date_posted": 1793976463,
+        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Ottawa",
+        "id": "3344e973-66b8-44a4-99b3-66715dc4ed29",
+        "title": "Research Assistant Intern - Data Analysis",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1793977986,
+        "date_posted": 1793923200,
+        "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Ottawa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medtronic",
+        "id": "520f1ac7-8ae5-43e8-a9ac-7c1e9c8741d5",
+        "title": "Data Quality & Stewardship Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1793977806,
+        "date_posted": 1793923200,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Watford-Hertfordshire-United-Kingdom/Apprentice-Data-Quality---Stewardship_R79643",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "8e9386a9-d035-4b7e-b0c8-882a67e2bb20",
+        "title": "Data Analyst Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1793977745,
+        "date_posted": 1793977618,
+        "url": "https://amazon.jobs/en/jobs/10598579/data-analyst-apprentice-42-month-fixed-term-contract",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "f9653292-a302-4c21-8fc5-a787755024dd",
+        "title": "Software Development Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1793977745,
+        "date_posted": 1793977616,
+        "url": "https://amazon.jobs/en/jobs/10598608/software-development-engineer-apprentice-42-month-fixed-term-contract",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "bb1b5428-f0ef-4b5c-af37-6b28e35d359c",
+        "title": "Software Development Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1793977745,
+        "date_posted": 1793977608,
+        "url": "https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "20102156-230a-4d18-a3eb-dcc6a46d3a14",
+        "title": "Software Development Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1793977745,
+        "date_posted": 1793977604,
+        "url": "https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract",
+        "locations": [
+            "Swansea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cummins",
+        "id": "b5dbe368-ddd4-4221-9c4d-63cdbaa04219",
+        "title": "Data Analytics Placement Student Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793977710,
+        "date_posted": 1793977493,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440904",
+        "locations": [
+            "Darlington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "id": "875cd515-4b04-435e-b962-b55e6e5acc44",
+        "title": "Mechatronics Lab Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1793977566,
+        "date_posted": 1793923200,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "778f1600-e8a7-4aea-a06b-f1816458adf3",
+        "title": "Research Assistant Intern - Large Language Models and AI for Data Analysis",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1793977733,
+        "date_posted": 1793923200,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-Positions---LLMs-and-AI-for-Data-Analysis--Spring-2027-_REQ_0000084012-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
