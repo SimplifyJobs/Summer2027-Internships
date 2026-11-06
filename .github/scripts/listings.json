@@ -229754,7 +229754,7 @@
         "company_name": "Stryten",
         "id": "054be3ce-3039-4545-b02e-d2f875075a76",
         "title": "Industrial or Mechanical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331481,7 +331481,7 @@
         "company_name": "Visa",
         "id": "e4738229-86c5-4fe9-9a51-cbce3fd29815",
         "title": "Staff Research Scientist Intern - PhD - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334987,7 +334987,7 @@
         "company_name": "Northwestern Mutual",
         "id": "900cb2e6-bb32-47f1-b267-ed7ef0f7142a",
         "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385321,7 +385321,7 @@
         "company_name": "Northrop Grumman",
         "id": "ee1db599-f6bc-4f33-97e1-d5b75fa8d948",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414050,5 +414050,50 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HoYoverse",
+        "id": "77127d50-fe05-4069-a053-a1d3aed35a10",
+        "title": "Research Scientist Intern - Video Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793949309,
+        "date_posted": 1793923200,
+        "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ho-Yoverse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mizuho Securities USA",
+        "id": "748035c0-8d17-45bc-b171-510ba89e2f1d",
+        "title": "Commercial Lending Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792755768,
+        "date_posted": 1781359784,
+        "url": "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mizuho-Securities-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
