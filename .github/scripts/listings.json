@@ -331273,7 +331273,7 @@
         "company_name": "Visa",
         "id": "88238ab7-c59e-4359-b012-7275c7bc75a8",
         "title": "Staff Research Scientist Intern - PhD Foundational AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406902,7 +406902,7 @@
         "company_name": "Northrop Grumman",
         "id": "f3d897bf-f136-496c-9994-5a34953c7c3b",
         "title": "Flight Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
