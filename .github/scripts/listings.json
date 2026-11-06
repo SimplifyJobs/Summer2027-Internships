@@ -220283,7 +220283,7 @@
         "company_name": "Booz Allen",
         "id": "901d71ff-ed64-4848-95e0-094ad0610036",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270282,7 +270282,7 @@
         "company_name": "Avis Budget Group",
         "id": "8262d1b0-a155-42eb-b4f5-a14a377ffb1b",
         "title": "Transformation Engineer Intern - Accelerate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331594,7 +331594,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ba58b179-0e30-4af3-a502-6d0438336a3f",
         "title": "PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337655,7 +337655,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "b8e998a3-d1d0-4dfe-a9fe-d72ab136f1f9",
         "title": "Environmental Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380199,7 +380199,7 @@
         "company_name": "L3Harris Technologies",
         "id": "bb2a450a-92f6-43c4-a4ec-8f9b171ab169",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383897,7 +383897,7 @@
         "company_name": "Visa",
         "id": "86cb1b02-b094-4e5e-94bf-bb2c80d2c69e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -400841,7 +400841,7 @@
         "company_name": "Tecsys",
         "id": "932b8b82-9a55-4a83-a9a8-8cdead995b71",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
