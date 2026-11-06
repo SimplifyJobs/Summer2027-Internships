@@ -1,149 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": " CCC Intelligent Solutions",
-        "id": "835a6b2c-b642-463d-ab7f-36c5e157a7cc",
-        "title": "Automotive Service Group \u2013 Product Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773240522,
-        "date_posted": 1773240522,
-        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Automotive-Service-Group--ASG--Product-Analyst-Internship-Summer-2026_0014530",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rockwell Automation",
-        "id": "74e32eea-4d08-4306-bc76-b426bad0cf98",
-        "title": "Co-op Hardware Development Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773240592,
-        "date_posted": 1773240592,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--May---Dec-2026-_R25-7363",
-        "locations": [
-            "Mayfield Heights, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rockwell Automation",
-        "id": "51fb9701-1b5e-44a1-8ef5-90abe6dcb804",
-        "title": "Intern \u2013 Innovation Platform Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773240580,
-        "date_posted": 1773240580,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Innovation-Platform-Software-Engineer_R25-6933",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Guidewire",
-        "id": "3c7a2512-c6b9-481a-ad48-58c081ee5025",
-        "title": "AI Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773240633,
-        "date_posted": 1773240633,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/AI-Engineering-Intern_JR_14530",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rockwell Automation",
-        "id": "37fc632e-6336-4237-8134-acb3e3918173",
-        "title": "Co-op Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1773240564,
-        "date_posted": 1773240564,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Engineering--May-2026---December-2026-_R25-7377",
-        "locations": [
-            "Mayfield Heights, OH",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Assurant",
-        "id": "1adb3c50-af75-4061-bec3-5d4885f40b24",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773240287,
-        "date_posted": 1773240287,
-        "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Florida-Virtual/Summer-2026--Software-Engineering-Intern_R-112866",
-        "locations": [
-            "Florida",
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/Assurant",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RXO",
         "id": "610bc206-1c39-4dc4-8b3c-3f08de8ef5dc",
@@ -163,30 +20,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "20bdb912-9cf3-4e4f-943b-a08cfb760bf0",
-        "title": "Data Science Metadata Governance Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773240836,
-        "date_posted": 1773240836,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Data-science-metadata-governance-intern_R-056161",
-        "locations": [
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -1729,50 +1562,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Precisely",
-        "id": "cf11b795-9a7e-47e9-a94b-7b2ebe7981c7",
-        "title": "AI Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773239523,
-        "date_posted": 1773239523,
-        "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4672029005?gh_jid=4672029005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Precisely",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ultra",
-        "id": "6bc1c8b6-0834-4f96-82c5-b54ba9ce08d8",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773239929,
-        "date_posted": 1773239929,
-        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Chantilly-VA-United-States/Software-Engineering-Intern--Summer-2026-_REQ-11492",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ultra",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -258766,7 +258555,7 @@
         "company_name": "Pilot Company",
         "id": "ece3f59c-0b44-40f0-8f75-a361ad895c47",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351825,7 +351614,7 @@
         "company_name": "Philips",
         "id": "cd4adf61-4026-464d-8208-c2d4c6258943",
         "title": "Insights and Analytics Intern - Health Systems Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353215,7 +353004,7 @@
         "company_name": "Jain Global",
         "id": "d58e6fdc-c150-4d88-bff1-16000fd3a8c1",
         "title": "Compliance Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
