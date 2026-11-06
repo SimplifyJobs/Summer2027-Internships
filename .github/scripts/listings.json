@@ -1,101 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Monolithic Power Systems",
-        "id": "a2f342be-ccae-44b7-8563-6589e27bd20c",
-        "title": "Application Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773220685,
-        "date_posted": 1773220685,
-        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Monolithic Power Systems",
-        "id": "92f48b0c-4e0e-4619-9698-e8339a3a3182",
-        "title": "IT System Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773220684,
-        "date_posted": 1773220684,
-        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/IT-System-Software-Intern_R-1089",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Monolithic Power Systems",
-        "id": "685ce683-1a8d-4426-949b-5542c9ae5a5b",
-        "title": "AI Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773220688,
-        "date_posted": 1773220688,
-        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-674",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Monolithic Power Systems",
-        "id": "e1259328-4f62-4df2-a9ec-4fa7f3ace9c7",
-        "title": "Product Marketing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773220681,
-        "date_posted": 1773220681,
-        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Product-Marketing-Intern_R-1105",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Loblaw Companies",
         "id": "b91a35c3-bf48-441d-8e9d-8fb75dfe8ba9",
@@ -272334,7 +272239,7 @@
         "company_name": "American Express",
         "id": "275ffbf9-4e98-440f-92a7-a43740911ff4",
         "title": "AI Engineer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -272399,7 +272304,7 @@
         "company_name": "American Express",
         "id": "15a612f8-7ce3-4c46-98d5-88ed711a1aec",
         "title": "Product Manager Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392016,7 +391921,7 @@
         "company_name": "WGU",
         "id": "0c948dc9-1eb1-44a6-86f9-c0695549d3b4",
         "title": "Data Governance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403968,7 +403873,7 @@
         "company_name": "Northrop Grumman",
         "id": "03dcc6a0-7074-41ed-b801-a60f6116f591",
         "title": "Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
