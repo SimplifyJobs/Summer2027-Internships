@@ -1,74 +1,5 @@
 [
     {
-        "date_updated": 1774873042,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Lincoln-NE/INTERN-Software-Quality-Specialist_R22409",
-        "company_name": "Nelnet",
-        "title": "INTERN Software Quality Specialist",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3bcce497-1cb7-451e-899e-12f6ecfeae4d",
-        "date_posted": 1773228985,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773746134,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://abcfinancial.wd5.myworkdayjobs.com/en-US/abcfinancialservices/job/Remote-United-States/Front-End-Developer-Intern_REQ-1178",
-        "company_name": "Trainerize",
-        "title": "Front-End Developer Intern",
-        "locations": [
-            "Remote in US"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "b85d6890-18f4-498f-a4c3-abb03ae59a10",
-        "date_posted": 1773229106,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774873042,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-sargentlundy.icims.com/jobs/22878/it-infrastructure-%26-cloud-operations-intern-%28summer-2026%29/job",
-        "company_name": "Sargent & Lundy",
-        "title": "IT Infrastructure & Cloud Operations Intern",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "8274a622-cbef-451f-a6dc-8305ea09eb2a",
-        "date_posted": 1773229251,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1773236130,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -384065,7 +383996,7 @@
         "company_name": "Visa",
         "id": "9b71b062-0254-4731-8c73-14ea6becaeb3",
         "title": "Data Science Intern - Data and AI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384113,7 +384044,7 @@
         "company_name": "Visa",
         "id": "6700105f-c97f-4e96-a186-4814ab00fa72",
         "title": "Data Science Intern - Data and AI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406786,7 +406717,7 @@
         "company_name": "RTX",
         "id": "2d8c299e-32f6-48b9-96af-74653d10e44a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407019,7 +406950,7 @@
         "company_name": "Northrop Grumman",
         "id": "c5e86824-dfe7-4736-af3b-f8a7222c6536",
         "title": "Ground Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
