@@ -15151,7 +15151,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Champaign, IL</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://careers.rivian.com/jobs/35896?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4e3e8dfe-e27e-41fe-a748-d6582600db35?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/University-Of-Ottawa?utm_source=GHList&utm_medium=company">University of Ottawa</a></strong></td>
@@ -15471,7 +15471,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Cambridge, MA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4467398009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9ec1752c-1474-4db2-b945-15fdc3102303?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
@@ -34120,7 +34120,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Montreal, QC, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
@@ -37115,7 +37115,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Electromagnetic Compatibility Engineer Intern</td>
 <td>Palo Alto, CA</td>
 <td>Spring 2027</td>

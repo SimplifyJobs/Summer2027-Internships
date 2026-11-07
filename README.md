@@ -7,7 +7,7 @@
 
 ---
 
-### Browse 1728 Internship Roles by Category
+### Browse 1727 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (559)
 
@@ -15,7 +15,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (694)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (75)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (74)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (295)
 
@@ -196,7 +196,7 @@
 <td>Interactive News Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e83280af-86b2-46ea-8179-6344933c3f14?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
@@ -5806,7 +5806,7 @@
 <td>Underwriting Data & Analytics Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://careers.axa.com/jobs/25498?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ce8c7adb-0ba0-4fdd-b6e8-4832a9f1043d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Syngenta-Group?utm_source=GHList&utm_medium=company">Syngenta Group</a></strong></td>
@@ -5986,7 +5986,7 @@
 <td>Geothermal Production Analytics Engineer Intern</td>
 <td>Middletown, CA</td>
 <td><div align="center"><a href="https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a13ec5a5-3635-45bd-83ca-08be107e7ef1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Uline?utm_source=GHList&utm_medium=company">Uline</a></strong></td>
@@ -10232,18 +10232,11 @@
 <td><div align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e40e4287-aac7-4a1e-9d73-45d2647663f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Software Engineering Intern - Quantitative Development</td>
-<td><details><summary><strong>7 locations</strong></summary>Aarhus, Denmark<br>London, UK<br>Wrocław, Poland<br>Paris, France<br>Amsterdam, Netherlands<br>Dubai - United Arab Emirates<br>Zürich, Switzerland</details></td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4ebdb3ee-932e-4e34-80a3-dd7c09749e71?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
 
-🔒 **[See 274 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 275 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
@@ -11481,7 +11474,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Cambridge-Consultants?utm_source=GHList&utm_medium=company">Cambridge Consultants</a></strong></td>
 <td>Electronics Engineering Intern</td>
 <td>United Kingdom</td>
 <td><div align="center"><a href="https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989398101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/03d37c7b-88d7-44dd-9ddb-f1fdf27a85f5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>

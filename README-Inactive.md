@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 3392 Inactive Internship Roles by Category
+### Browse 3393 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1184)
 
@@ -14,7 +14,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1182)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (274)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (275)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (525)
 
@@ -498,7 +498,7 @@
 <td>Software Engineer Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -18650,6 +18650,13 @@
 <td>London, UK</td>
 <td>🔒</td>
 <td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Qube-Research-Technologies?utm_source=GHList&utm_medium=company">Qube Research & Technologies</a></strong></td>
+<td>Software Engineering Intern - Quantitative Development</td>
+<td><details><summary><strong>7 locations</strong></summary>Aarhus, Denmark<br>London, UK<br>Wrocław, Poland<br>Paris, France<br>Amsterdam, Netherlands<br>Dubai - United Arab Emirates<br>Zürich, Switzerland</details></td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/US-Bank?utm_source=GHList&utm_medium=company">U.S. Bank</a></strong></td>
