@@ -8,11 +8,11 @@
 
 ### Browse 3387 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1181)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1182)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (226)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1182)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1181)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (274)
 
@@ -679,6 +679,13 @@
 <td>↳</td>
 <td>Mobile Engineer Intern</td>
 <td>London, UK</td>
+<td>🔒</td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/DriveWealth?utm_source=GHList&utm_medium=company">DriveWealth</a></strong></td>
+<td>AI Consulting Associate Program – AI Engineer Intern</td>
+<td>Chicago, IL<br>NYC</td>
 <td>🔒</td>
 <td>17d</td>
 </tr>
@@ -10836,13 +10843,6 @@
 <td><strong><a href="https://simplify.jobs/c/MEMX?utm_source=GHList&utm_medium=company">MEMX</a></strong></td>
 <td>Data Engineer Intern</td>
 <td>NYC</td>
-<td>🔒</td>
-<td>25d</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
-<td>Intern - Multiple Teams 🎓</td>
-<td>Mountain View, CA</td>
 <td>🔒</td>
 <td>25d</td>
 </tr>
