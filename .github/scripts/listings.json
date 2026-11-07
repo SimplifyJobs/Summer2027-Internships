@@ -1,131 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Schnucks",
-        "id": "ca862c32-e69f-41b2-95f6-bff01432530c",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773325663,
-        "date_posted": 1773325663,
-        "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/Data-Science-Intern--Year-Round-_R-0040878",
-        "locations": [
-            "Remote in USA",
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Schnucks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Coherent ",
-        "id": "8b72c081-d3dd-4273-a7eb-c18b8ceab41b",
-        "title": "Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773325204,
-        "date_posted": 1773325204,
-        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011271",
-        "locations": [
-            "Easton, PA",
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Coherent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Strand Therapeutics",
-        "id": "baf991ae-ee31-46ba-a55a-c8b278c5cbff",
-        "title": "Intern Software",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773324775,
-        "date_posted": 1773324775,
-        "url": "https://job-boards.greenhouse.io/strandtherapeutics/jobs/5824281004",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Strand-Therapeutics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Coherent ",
-        "id": "c972bd47-e599-488a-a85d-56015cb4f119",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773324742,
-        "date_posted": 1773324742,
-        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011270",
-        "locations": [
-            "Easton, PA",
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Coherent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Federal Reserve System",
-        "id": "1a92bd92-152b-45ce-acea-9cfadc1c891e",
-        "title": "BTS Innovation Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773324249,
-        "date_posted": 1773324249,
-        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2026-Summer-Internship-Program---BTS-Innovation-Analyst-Intern_R-0000030757-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Draper",
         "id": "b56c192e-3bd0-4ad3-ad35-da41ab86d0c1",
@@ -171,29 +46,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Premier Truck Rental",
-        "id": "340c36e7-5afb-4e6d-843e-3d54cf559b14",
-        "title": "Intern Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773325950,
-        "date_posted": 1773325950,
-        "url": "https://rentptr.com/jobs/?gh_jid=5150736008",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Premier-Truck-Rental",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Creative Artists Agency",
         "id": "b8589b99-a1f6-4f30-8688-8153990762df",
@@ -212,29 +64,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Graco",
-        "id": "005915c9-675f-4056-b4e9-a49ef3e5ead8",
-        "title": "Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773325870,
-        "date_posted": 1773325870,
-        "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/North-Canton-Ohio-USA/Application-Engineering-Intern_R0022225-2",
-        "locations": [
-            "Canton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Graco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -319432,7 +319261,7 @@
         "company_name": "Hitachi Energy",
         "id": "afb85700-ea58-43bf-99ac-13cfaadcee3e",
         "title": "Hardware Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -405702,7 +405531,7 @@
         "company_name": "Northrop Grumman",
         "id": "85773b47-5ed9-48dd-abb9-1d1c91adb439",
         "title": "Software Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
