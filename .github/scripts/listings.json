@@ -383776,7 +383776,7 @@
         "company_name": "JM Family",
         "id": "2565907b-9dfe-4eb9-8edf-80ae650ac2ad",
         "title": "Sales Reporting & Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404883,7 +404883,7 @@
         "company_name": "Zebra Technologies",
         "id": "2241ec96-bc3b-4561-b94a-4e27e020422c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
