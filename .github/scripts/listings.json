@@ -1,171 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "0184bfd5-a5c9-4e10-8e6f-c58271bc7dbf",
-        "title": "Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773277852,
-        "date_posted": 1773277852,
-        "url": "https://lifeattiktok.com/search/7613587198434855173",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "4e77ff67-2e6a-4599-81af-8642b9826d26",
-        "title": "Intern - Failure Analysis Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773278419,
-        "date_posted": 1773278419,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114157217",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "34f423a3-cf91-486d-b772-1ae4bec4cf61",
-        "title": "Intern - HDD Testing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773278008,
-        "date_posted": 1773278008,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114156737",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "267ae766-62a2-47ce-9b84-96058e9babd8",
-        "title": "Intern - Software Engineering - Firmware",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773278400,
-        "date_posted": 1773278400,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114157092",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Diligent Corporation",
-        "id": "dedcc703-79cc-4e4e-9063-3b24848ac7c6",
-        "title": "Product Marketing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773278865,
-        "date_posted": 1773278865,
-        "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5822511004",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Western Digital",
-        "id": "b853e6d1-dc81-4283-be57-96a5e38e9ed2",
-        "title": "Intern - Data Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773278419,
-        "date_posted": 1773278419,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114157337",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "cb078be0-abe5-4197-82d4-f18a0201fcdd",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773278290,
-        "date_posted": 1773278290,
-        "url": "https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/92665698320",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "da24eef9-8063-4662-bf9b-fb925e2bc951",
@@ -282262,7 +282097,7 @@
         "company_name": "Apera AI",
         "id": "0e6b54b7-af1e-4918-8224-6720703ec563",
         "title": "Software Developer Co-op - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -336010,7 +335845,7 @@
         "company_name": "Nordson",
         "id": "23de01d7-5bd1-4b33-9c59-b797d4e84b43",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -351383,7 +351218,7 @@
         "company_name": "ICF International",
         "id": "285be14e-467c-40bd-9e7d-e1efeee8735f",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386380,7 +386215,7 @@
         "company_name": "WebFX",
         "id": "0b8c6fb2-17bf-4a14-9cb9-90b1c075aec5",
         "title": "Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400962,7 +400797,7 @@
         "company_name": "Toshiba Global Commerce Solutions",
         "id": "1deda976-5920-4586-8a2e-b904ee4d0863",
         "title": "Agentic Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -400985,7 +400820,7 @@
         "company_name": "Toshiba Global Commerce Solutions",
         "id": "276857c3-5c43-48d5-a26f-cdf148f72a7d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
