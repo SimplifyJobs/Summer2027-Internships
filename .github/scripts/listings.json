@@ -195756,7 +195756,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -212781,7 +212781,7 @@
         "company_name": "Trane Technologies",
         "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -223464,7 +223464,7 @@
         "company_name": "Baird",
         "id": "8c416546-f532-484d-92fd-9dd055fb19d8",
         "title": "Capital Markets Compliance Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -247376,7 +247376,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -296632,7 +296632,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -305708,7 +305708,7 @@
         "company_name": "Intuitive Surgical",
         "id": "c074fa48-973a-4955-b90e-24dc948ef224",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -349101,7 +349101,7 @@
         "company_name": "Johnson & Johnson",
         "id": "6c74498a-09f5-4f4d-8cbc-8697e435f29d",
         "title": "AI/ML/Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -414200,6 +414200,99 @@
         "degrees": [
             "Bachelor's",
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "f303399c-a772-4484-a337-6a409adfe1bf",
+        "title": "GEO Content Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794017715,
+        "date_posted": 1794017714,
+        "url": "https://lifeattiktok.com/search/7696000178264361269",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "b21b1dd0-f3e1-498f-b48e-8ca16e2503a8",
+        "title": "Data Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794017715,
+        "date_posted": 1794017714,
+        "url": "https://lifeattiktok.com/search/7704912455690504453",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "9c92be34-fc24-4149-8e94-eea572329c07",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794017800,
+        "date_posted": 1794017714,
+        "url": "https://lifeattiktok.com/search/7705012688944810245",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "269361e6-7489-4a2a-96a6-4cf863538625",
+        "title": "Research Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794017715,
+        "date_posted": 1794017715,
+        "url": "https://lifeattiktok.com/search/7704981006856145205",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
