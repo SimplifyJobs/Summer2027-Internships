@@ -183660,7 +183660,7 @@
         "company_name": "American Express",
         "id": "d81967d4-8c47-4e80-bbb7-94d38eb66c5b",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404382,7 +404382,7 @@
         "company_name": "Zebra Technologies",
         "id": "fb3b0be5-05d3-471f-8734-bfaa6cfe7c70",
         "title": "Software Engineer Intern - AI Features & Product Convergence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407252,7 +407252,7 @@
         "company_name": "State Farm",
         "id": "fe8d2783-4265-46f3-bf32-0172e2ddfe65",
         "title": "Magnet Program @ University of Illinois Urbana-Champaign Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
