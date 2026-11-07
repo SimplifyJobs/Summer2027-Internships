@@ -175,123 +175,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Paramount Global",
-        "id": "b46f1e90-c065-4361-a8d7-63ff88dfe2d2",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773296414,
-        "date_posted": 1773296414,
-        "url": "https://careers.paramount.com/job/New-York-Data-Science-Intern-(Summer-2026-In-Person-NYC)-NY-10036/1372589600/?ats=successfactors",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Paramount-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nightwing Intelligence Solutions",
-        "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
-        "title": "Radio Frequency Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773295748,
-        "date_posted": 1773295748,
-        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nightwing Intelligence Solutions",
-        "id": "a23c7bac-674a-4946-b5b6-fe0be369b3b8",
-        "title": "Vulnerability Researcher Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773295740,
-        "date_posted": 1773295740,
-        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Vulnerability-Researcher-Intern---2026_JR101083",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nightwing Intelligence Solutions",
-        "id": "8d4cc684-f28e-4312-9767-b52df6a83125",
-        "title": "Artificial Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773295747,
-        "date_posted": 1773295747,
-        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Artificial-Intelligence-Intern---2026_JR101096",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nightwing Intelligence Solutions",
-        "id": "0e09c7e0-57be-41ea-968b-152b75961c14",
-        "title": "Cyber CNO Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1773295740,
-        "date_posted": 1773295740,
-        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Greenville-SC/Cyber-CNO-Development-Intern---2026_JR101076",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Netflix",
         "id": "10e2fd1d-740d-42f6-8edd-0e534b0b0212",
         "title": "Analytics Engineer Intern",
@@ -184092,7 +183975,7 @@
         "company_name": "American Express",
         "id": "7b295350-3015-456a-8a5a-c1c0bc02557c",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404860,7 +404743,7 @@
         "company_name": "Zebra Technologies",
         "id": "792c0825-337f-4b99-aa3f-bf1c72df18ac",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410523,7 +410406,7 @@
         "company_name": "Bank of Montreal",
         "id": "8d4cae73-29ee-4941-9cf4-db0240fa681a",
         "title": "Machine Learning Developer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
