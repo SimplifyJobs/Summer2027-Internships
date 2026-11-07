@@ -195138,7 +195138,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -246758,7 +246758,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362420,7 +362420,7 @@
         "company_name": "DriveWealth",
         "id": "7f0b6226-d723-4097-a060-879f717c121d",
         "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404525,7 +404525,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404598,7 +404598,7 @@
         "company_name": "RTX",
         "id": "3bb515cc-bf19-4065-84f7-a2267d491859",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413773,6 +413773,77 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "West Monroe",
+        "id": "82d52f8a-60a6-470b-abc6-feb1c6b7df89",
+        "title": "Software Engineering Consultant Intern - AI Concentration",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794045817,
+        "date_posted": 1791269207,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anthropic",
+        "id": "9984868b-8b2f-4184-b0d6-97a792f99699",
+        "title": "Research Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794046534,
+        "date_posted": 1793214542,
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
+        "locations": [
+            "London, UK",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DriveWealth",
+        "id": "90ce8440-7b7f-4a23-9faf-98290634d956",
+        "title": "AI Consulting Associate Program Brokerage Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794046344,
+        "date_posted": 1792454400,
+        "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
         ]
     }
 ]
