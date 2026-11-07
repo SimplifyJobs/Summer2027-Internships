@@ -150281,7 +150281,7 @@
         "company_name": "NeoSigma",
         "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
         "title": "Member of Technical Staff Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -205977,7 +205977,7 @@
         "company_name": "Northwood Space",
         "id": "f6b7f447-ad5a-434e-bf7f-b120f36843eb",
         "title": "Supply Chain Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362350,7 +362350,7 @@
         "company_name": "DriveWealth",
         "id": "f53a894a-ab47-4376-99ff-d2e440e9c33d",
         "title": "AI Consulting Associate Program Brokerage Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -405468,7 +405468,7 @@
         "company_name": "KLA Corporation",
         "id": "3d71ef5f-cb4f-44eb-88bf-4d43eeb0b33c",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -413844,6 +413844,29 @@
         "degrees": [
             "Bachelor's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "60fd1301-4412-4891-b853-6eec26f242df",
+        "title": "Software Engineer Intern - SI Reinforcement Learning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794050015,
+        "date_posted": 1794049799,
+        "url": "https://www.tesla.com/careers/search/job/289241",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
