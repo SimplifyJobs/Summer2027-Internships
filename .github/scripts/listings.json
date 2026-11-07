@@ -115,35 +115,6 @@
         "is_visible": true
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Occidental Petroleum Corporation (Oxy)",
-        "id": "482740e0-68a4-4908-a047-e4788e000945",
-        "title": "Co-Op \u2013 Data - Well Servicing & Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773307020,
-        "date_posted": 1773307020,
-        "url": "https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Co-Op--Data--Well-Servicing---Engineering-_JR100413",
-        "locations": [
-            "Midland, TX",
-            "Houston, TX",
-            "Fort Lupton, CO",
-            "Morton, TX",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Oxy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's"
-        ]
-    },
-    {
         "date_updated": 1776663682,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -329,140 +300,6 @@
         "date_posted": 1773323577,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Environmental Defense Fund",
-        "id": "b732a71f-8320-4d62-a705-6fced4702522",
-        "title": "Methane Infrastructure Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773307644,
-        "date_posted": 1773307644,
-        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Raleigh/XMLNAME---Methane-Infrastructure-Data-Intern_REQ-002296",
-        "locations": [
-            "Boston, MA",
-            "Washington, DC",
-            "SF",
-            "Austin, TX",
-            "Raleigh, NC",
-            "NYC",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "PEAK6",
-        "id": "acc81bdc-e252-41cb-b7c7-0bc5600172cf",
-        "title": "Trading Bootcamp Micro-Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773307728,
-        "date_posted": 1773307728,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2026_JR103143",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/PEAK6",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Environmental Defense Fund",
-        "id": "2fc52ff7-2ba6-4da1-997f-3bf2390990f4",
-        "title": "Net Zero Data Analysis Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773307632,
-        "date_posted": 1773307632,
-        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/New-York/Net-Zero-Data-Analysis-Intern_REQ-002331",
-        "locations": [
-            "Boston, MA",
-            "Washington, DC",
-            "SF",
-            "Austin, TX",
-            "Remote in USA",
-            "Raleigh, NC",
-            "NYC",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Environmental Defense Fund",
-        "id": "08f297dd-a814-49fc-b187-685d58ecce39",
-        "title": "Community Air Monitoring Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773307638,
-        "date_posted": 1773307638,
-        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/San-Francisco/XMLNAME---Community-Air-Monitoring-Intern-_REQ-002321",
-        "locations": [
-            "Boston, MA",
-            "Houston, TX",
-            "Washington, DC",
-            "SF",
-            "Austin, TX",
-            "Raleigh, NC",
-            "NYC",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Environmental Defense Fund",
-        "id": "67e686f9-bacd-4000-8b2c-3101b4ba4e78",
-        "title": "Agricultural Resilience Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773307641,
-        "date_posted": 1773307641,
-        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Agricultural-Resilience-Intern_REQ-002266",
-        "locations": [
-            "Raleigh, NC",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -50283,7 +50120,7 @@
         "company_name": "Anthropic",
         "id": "0d633297-0371-40a5-bcfe-d66992c2ba79",
         "title": "Anthropic Fellows Program - ML Systems & Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -344171,7 +344008,7 @@
         "company_name": "Waymo",
         "id": "2c73ca1b-9721-4b27-8136-c1168f53106c",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400061,7 +399898,7 @@
         "company_name": "Microsoft",
         "id": "0def15fc-cae9-402b-85fd-6b0139206423",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404451,7 +404288,7 @@
         "company_name": "Paccar",
         "id": "2f96e3d6-e7b7-4c8f-ac5d-832fdca16735",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
