@@ -231389,7 +231389,7 @@
         "company_name": "GE Aerospace",
         "id": "336b94ac-b891-4459-bd54-23d89446c8e2",
         "title": "Engines Engineering Intern - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321661,7 +321661,7 @@
         "company_name": "Intel",
         "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
         "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380672,7 +380672,7 @@
         "company_name": "JM Family",
         "id": "449e7a2b-969a-4ba0-9cdd-34a30c283b96",
         "title": "Automation & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402592,7 +402592,7 @@
         "company_name": "Zebra Technologies",
         "id": "555a6f45-0d0f-46e0-a4a3-d09256541f1c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404508,7 +404508,7 @@
         "company_name": "Northrop Grumman",
         "id": "354fa9d8-b057-4738-8d2f-90507d404a89",
         "title": "Software Embedded Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
