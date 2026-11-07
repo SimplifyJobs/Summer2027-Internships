@@ -1,192 +1,5 @@
 [
     {
-        "date_updated": 1776663682,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US121898BREXTERNAL/GXP-Software-Intern-Summer-2026",
-        "company_name": "BAE Systems",
-        "title": "GXP Software Intern",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "93a55c12-a8e6-40b3-aaa4-330df3f6763f",
-        "date_posted": 1773322330,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773322731,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677",
-        "company_name": "Smiths Detection",
-        "title": "Software Engineering Intern (Cyber focus)",
-        "locations": [
-            "Edgewood, MD"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "751867f3-533e-4690-8897-2b77e95e20b3",
-        "date_posted": 1773322731,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774960588,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Dallas-TX/Year-Round-Intern---Software-Engineering-Risk-Analytics_REQ-4592",
-        "company_name": "OCC",
-        "title": "Year-Round Intern - Software Engineering Risk Analytics",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Winter 2026",
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e27dbf68-d1b8-4b61-9b2a-14bd8eba1b9d",
-        "date_posted": 1773322863,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773746134,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/82f00ee2-1329-4c64-a4f8-c4fc2d0191c6",
-        "company_name": "Bosch Group",
-        "title": "Sales Data Science & Analytics Intern",
-        "locations": [
-            "Farmington Hills, MI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "c2caf7c3-6b39-45af-b2a2-940c9840b19f",
-        "date_posted": 1773322995,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776440234,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.ensono.com/careers/intern-capacity-management-data-analyst/",
-        "company_name": "Ensono",
-        "title": "Intern \u2013 Capacity Management Data Analyst",
-        "locations": [
-            "Remote in US"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "6095bf86-c5a1-47a6-b912-3845e034899e",
-        "date_posted": 1773323122,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776943643,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.ensono.com/careers/project-portfolio-data-analyst-intern/",
-        "company_name": "Ensono",
-        "title": "Project Portfolio Data Analyst Intern",
-        "locations": [
-            "Remote in US"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f393ac51-4331-4cbf-b4e9-5aaa2c99b5f0",
-        "date_posted": 1773323147,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1777633706,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.ensono.com/careers/ai-data-scientist-intern/",
-        "company_name": "Ensono",
-        "title": "AI Data Scientist Intern",
-        "locations": [
-            "Remote in US"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "5b580c16-893a-4c0e-b13e-96064ae2d0e9",
-        "date_posted": 1773323206,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774532327,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/NASA-LaRC---Hampton-VA/Algorithm-Development---Intern_R-100504",
-        "company_name": "Analytical Mechanics Associates",
-        "title": "Algorithm Development - Intern",
-        "locations": [
-            "Remote in US"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "cdfa6599-19ff-419e-81ca-d46d594cb8bc",
-        "date_posted": 1773323577,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Schnucks",
@@ -319619,7 +319432,7 @@
         "company_name": "Hitachi Energy",
         "id": "afb85700-ea58-43bf-99ac-13cfaadcee3e",
         "title": "Hardware Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404197,7 +404010,7 @@
         "company_name": "Northrop Grumman",
         "id": "715edfbe-9e25-4d5c-b17b-230a7cd1efa2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
