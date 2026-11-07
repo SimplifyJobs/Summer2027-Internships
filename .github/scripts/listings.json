@@ -1,343 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "d7f7bb74-5a92-4922-9cdc-052e08d92e7f",
-        "title": "Data Visualization Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297668,
-        "date_posted": 1773297668,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Data-Visualization-Engineering-Intern--Summer-2026_JR37464",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "bab3ab2f-ba35-47bb-8885-90bbf853e598",
-        "title": "Machine Learning/AI Scientist Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1773297673,
-        "date_posted": 1773297673,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-Intern--PhD---2026_JR36511",
-        "locations": [
-            "LA",
-            "Los Gatos, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "7854f44d-0c91-43d9-ad63-fa02ca30cbec",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297591,
-        "date_posted": 1773297591,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Data-Engineering-Intern--Summer-2026_JR37463",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Netflix",
-        "id": "64537452-c4db-4b8f-91c5-fce40ed4c676",
-        "title": "Software Engineer PhD Intern - Streaming Algorithms",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297666,
-        "date_posted": 1773297666,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Software-Engineer-PhD-Intern--Streaming-Algorithms--Summer-2026-_JR37687",
-        "locations": [
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "85f0869c-e664-4ea0-9936-44de4212fd42",
-        "title": "Experimentation & Causal Inference Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297570,
-        "date_posted": 1773297570,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Experimentation---Causal-Inference-Intern--Summer-2026_JR37465",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "ba366c5e-dd76-419c-962d-cf72cfbacb5b",
-        "title": "Digital Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297252,
-        "date_posted": 1773297252,
-        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Digital-Engineer-Intern---Manhattan-Beach-CA_R10215135-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "4b3ff341-926d-40cd-9f89-3a52df428b20",
-        "title": "Intern Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297263,
-        "date_posted": 1773297263,
-        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-California-San-Diego/XMLNAME-2026-Intern-Software-Engineer_R10217175-2",
-        "locations": [
-            "Palmdale, CA",
-            "Oklahoma City, OK",
-            "Grand Forks, ND",
-            "San Diego, CA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "10e2fd1d-740d-42f6-8edd-0e534b0b0212",
-        "title": "Analytics Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297662,
-        "date_posted": 1773297662,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Analytics-Engineer-Intern---Content-Decision-Sciences-and-Conversation-Scaling--Summer-2026_JR37460",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Thales",
-        "id": "f5bb15c2-a5c9-4488-96a3-27b94b792423",
-        "title": "Co-op Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773298142,
-        "date_posted": 1773298142,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/COOP-Software-Developer--Summer-Fall-2026--8-months-term-_R0318614",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "e8f5b418-edd6-48de-ab3b-cf4ca6801429",
-        "title": "Intern \u2013 Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773298002,
-        "date_posted": 1773298002,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--IN-_01829309",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "6d82a28d-7fb4-458e-a2cd-a2dfe65ba8bd",
-        "title": "Machine Learning Engineer Intern - Master of Science/Doctor of Philosophy",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1773297662,
-        "date_posted": 1773297662,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-Engineer-Intern---MS-PhD--2026_JR36512-1",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nordson",
-        "id": "6b193ead-6081-4898-b8a8-f84c6b5323d1",
-        "title": "Intern - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297902,
-        "date_posted": 1773297902,
-        "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Summer-Intern---Software-Engineer_REQ50054",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/Nordson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "5a49546c-a59a-411c-8310-ac0a51676d7e",
-        "title": "Video Algorithms Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297659,
-        "date_posted": 1773297659,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Video-Algorithms-Intern--Summer-2026_JR37467",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "3128bce7-bcb8-4994-9982-0fa22f75bdff",
-        "title": "Analytics Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773297658,
-        "date_posted": 1773297658,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Analytics-Engineering-Intern--Summer-2026_JR37461",
-        "locations": [
-            "LA",
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1776943643,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -282685,7 +282347,7 @@
         "company_name": "Wellington Management",
         "id": "ac7bfb32-7f0b-4685-a576-98f6e7acd1d9",
         "title": "Investment Strategy Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -318897,7 +318559,7 @@
         "company_name": "Intel",
         "id": "c29d0eb0-d886-48aa-910f-b36696f9f839",
         "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -339779,7 +339441,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d3a06147-0758-442a-a7b5-578fcc38219a",
         "title": "Strategic Insight and Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -383592,7 +383254,7 @@
         "company_name": "JM Family",
         "id": "a0ddb14f-98ec-41f1-bbab-d1f83200a5ba",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383616,7 +383278,7 @@
         "company_name": "JM Family",
         "id": "98921a30-96ec-4b77-b16f-55d21867f42f",
         "title": "Business Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383683,7 +383345,7 @@
         "company_name": "JM Family",
         "id": "c926a28e-f380-4dce-973c-a3e43c7af653",
         "title": "Power Platform & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407470,7 +407132,7 @@
         "company_name": "State Farm",
         "id": "b6c102ff-263e-4702-96a9-65f26a42bb79",
         "title": "Magnet Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
