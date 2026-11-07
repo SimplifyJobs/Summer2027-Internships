@@ -1,120 +1,5 @@
 [
     {
-        "date_updated": 1776943643,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.ensono.com/careers/it-infrastructure-cloud-operations-intern/",
-        "company_name": "Ensono",
-        "title": "IT Infrastructure & Cloud Operations Intern",
-        "locations": [
-            "Remote in US"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c04ca3a3-56ca-42fe-ac24-150894d41f45",
-        "date_posted": 1773321275,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775481655,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://osv-tifec.wd5.myworkdayjobs.com/en-US/fanthreesixty/job/FanThreeSixty-Leawood-KS-66211/Software-Engineer-Intern_REQ-5122",
-        "company_name": "FanThreeSixty",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Leawood, KS"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6cefd710-9316-4223-94e8-33b66448d9d4",
-        "date_posted": 1773321483,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1777633706,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://specialisterne.applytojob.com/apply/Vt3hev3H0E/Software-Engineer-Intern",
-        "company_name": "Specialisterne",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "d0e5da57-acbc-45f3-88dc-8091988bc9be",
-        "date_posted": 1773321710,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773746134,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2026-Software-Engineering---Agentic-AI---Test-Automation-Internship_REQ347437",
-        "company_name": "T-Mobile",
-        "title": "Software Engineering, Agentic AI & Test Automation Internship",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "ff7eddb9-7cbc-4754-b850-9929147bc8e6",
-        "date_posted": 1773321814,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776663682,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/transcarent/jobs/5822302004?gh_jid=5822302004",
-        "company_name": "Transcarent",
-        "title": "Software Engineering Intern - Virtual Primary Care",
-        "locations": [
-            "Seattle, W"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1906df22-1ef5-46c5-9ae4-568dab7df164",
-        "date_posted": 1773322021,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1776663682,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -387464,7 +387349,7 @@
         "company_name": "ASML",
         "id": "3338e211-5030-4319-9e46-aba103ce8cbd",
         "title": "Data Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389153,7 +389038,7 @@
         "company_name": "JM Family",
         "id": "f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
