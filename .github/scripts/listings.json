@@ -344008,7 +344008,7 @@
         "company_name": "Waymo",
         "id": "2c73ca1b-9721-4b27-8136-c1168f53106c",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362420,7 +362420,7 @@
         "company_name": "DriveWealth",
         "id": "7f0b6226-d723-4097-a060-879f717c121d",
         "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385643,7 +385643,7 @@
         "company_name": "Anthropic",
         "id": "3be251ea-103c-4882-b069-fe931002ff7f",
         "title": "Research Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
