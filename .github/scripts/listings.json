@@ -252109,7 +252109,7 @@
         "company_name": "Applied Materials",
         "id": "441d92c8-bb63-49f4-94cb-afcd777fa84a",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -342772,7 +342772,7 @@
         "company_name": "Pebl",
         "id": "2da5da2b-d4bb-411a-9edc-521c81a36a7a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
