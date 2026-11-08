@@ -308088,7 +308088,7 @@
         "company_name": "Iridium Communications",
         "id": "7e94c6d9-c88c-4d70-8bd0-51a2cc801485",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386434,7 +386434,7 @@
         "company_name": "Riverlane",
         "id": "62bb0c27-4f37-47a9-a985-66df1cc61d39",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386459,7 +386459,7 @@
         "company_name": "Riverlane",
         "id": "5878bf66-e4ea-4991-93a9-a7bf15303126",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
