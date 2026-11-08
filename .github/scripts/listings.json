@@ -1,148 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "27bd1a26-3534-4bb7-9ecb-f94466794101",
-        "title": "Test Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773443286,
-        "date_posted": 1773443286,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Test-Engineering-Intern---Summer-2026_R-10060439-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "14bf4e78-faf9-4dff-9ee6-61a7f59c77db",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773443033,
-        "date_posted": 1773443033,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer-Intern_R-00177800",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Premera Blue Cross",
-        "id": "f6b620ee-aa0e-4962-8dc3-66b1e97816a0",
-        "title": "Data Engineer \u2013 Process Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773443632,
-        "date_posted": 1773443632,
-        "url": "https://premera.wd5.myworkdayjobs.com/premera/job/Mountlake-Terrace-WA/Data-Engineer---Process-Automation-Intern_R28702",
-        "locations": [
-            "Lynnwood, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/9e9598e3-4c15-4b9b-a2d7-3fa40cd198bd",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Premera Blue Cross",
-        "id": "9cc576bd-bbe5-4751-836d-96a2333eacab",
-        "title": "Claims Information Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773443632,
-        "date_posted": 1773443632,
-        "url": "https://premera.wd5.myworkdayjobs.com/premera/job/Mountlake-Terrace-WA/Claims-Information-Analyst-Intern_R28700",
-        "locations": [
-            "Lynnwood, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/9e9598e3-4c15-4b9b-a2d7-3fa40cd198bd",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GoodRx",
-        "id": "abcdab14-a809-4438-9cfe-78ee52a04e5c",
-        "title": "Data Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773443660,
-        "date_posted": 1773443660,
-        "url": "https://goodrx.wd1.myworkdayjobs.com/Careers/job/SF-Office/Data-Engineer-Intern_JR100572",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/GoodRx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Valeo",
-        "id": "f9320506-58f1-42d8-8d2c-54fc574f191a",
-        "title": "Resident Lighting Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773443442,
-        "date_posted": 1773443442,
-        "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Resident-Lighting-Engineer-Intern--Summer-2026-_REQ2026069919",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Valeo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Axos Bank",
         "id": "db973373-1f37-4a28-a35f-0636e8d7e859",
@@ -222288,7 +222146,7 @@
         "company_name": "Stryten",
         "id": "054be3ce-3039-4545-b02e-d2f875075a76",
         "title": "Industrial or Mechanical Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -229183,7 +229041,7 @@
         "company_name": "Nationwide",
         "id": "02d9e13e-0a78-4ac3-ac88-bcc860a02ee5",
         "title": "State Product Analyst Intern - Personal Lines",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -409900,6 +409758,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "bead51fa-aa91-421e-9b22-bc3e451072b1",
+        "title": "Engineer 2 New Grad - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794179558,
+        "date_posted": 1794179354,
+        "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
