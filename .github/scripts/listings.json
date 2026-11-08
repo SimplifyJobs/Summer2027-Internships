@@ -1,97 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "University of Rochester",
-        "id": "b441f04a-1511-4f00-8da4-f24b26c17f05",
-        "title": "Co-op Research Student 1",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773412413,
-        "date_posted": 1773412413,
-        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-I_R263737",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "University of Rochester",
-        "id": "09f80cd9-e2b2-4793-afb5-58cf62b81293",
-        "title": "Project Assistant 1",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773412478,
-        "date_posted": 1773412478,
-        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Project-Assistant-I_R266117",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MultiCare Health System",
-        "id": "2a7c618f-f52a-4be7-9b1f-8bd1ad03211f",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773413966,
-        "date_posted": 1773413966,
-        "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Data-Analytics-Intern_JR71369",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/8cbd871d-4e1b-4472-a51d-63dde4a7094d",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Smith+Nephew",
-        "id": "4c7ebfb9-f755-40cc-a2c9-be8b33bd7cec",
-        "title": "Intern \u2013 AI for Global Clinical and Medical Affairs",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773412929,
-        "date_posted": 1773412929,
-        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern--AI-for-Global-Clinical-and-Medical-Affairs_R87647",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Smith-Nephew",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Repsol",
         "id": "6a114435-21e7-44f4-9c5e-4c8a6bf86d51",
@@ -411047,6 +410956,29 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "df86468a-0723-4315-bf56-0803134d3889",
+        "title": "Data Analyst Intern - FMCG",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792749364,
+        "date_posted": 1781503938,
+        "url": "https://lifeattiktok.com/search/7616659899507591477",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
