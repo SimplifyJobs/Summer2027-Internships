@@ -1,120 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Realty Income",
-        "id": "ef9bf69c-f804-4350-aba5-90ae25f51f92",
-        "title": "Operational Excellence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773411708,
-        "date_posted": 1773411708,
-        "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Operational-Excellence-Intern_R-100094",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Realty-Income",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Savannah River National Laboratory",
-        "id": "7d548449-dfa8-43e9-8ca9-92227ae947e1",
-        "title": "EM University Programs AI and Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773411417,
-        "date_posted": 1773411417,
-        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1998",
-        "locations": [
-            "North Augusta, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Roku",
-        "id": "a50d6643-55b3-4cd5-a8dc-1983b0fa73f8",
-        "title": "Software Engineer Intern - Streaming Media",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773411105,
-        "date_posted": 1773411105,
-        "url": "https://www.weareroku.com/jobs/7599381?gh_jid=7599381",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Repsol",
-        "id": "cde5b7b6-4350-462e-b1e7-b3390ccf6aa2",
-        "title": "Subsurface Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773411762,
-        "date_posted": 1773411762,
-        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Subsurface-Engineering-Intern_81483-2",
-        "locations": [
-            "Anchorage, AK"
-        ],
-        "company_url": "https://simplify.jobs/c/Repsol",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rite Hite",
-        "id": "8a10406d-dd75-42f2-91eb-e97a1bb46455",
-        "title": "Service Technician",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773411753,
-        "date_posted": 1773411753,
-        "url": "https://ritehite.wd12.myworkdayjobs.com/RHH/job/USA-WI-Madison/Apprentice-or-Service-Technician---West-of-Madison--WI_JR102024",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Rite-Hite",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "University of Rochester",
         "id": "b441f04a-1511-4f00-8da4-f24b26c17f05",
@@ -155,34 +41,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "df86468a-0723-4315-bf56-0803134d3889",
-        "title": "Data Analyst Project Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773411495,
-        "date_posted": 1773411495,
-        "url": "https://lifeattiktok.com/search/7616659899507591477",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
         ]
     },
     {
@@ -28159,28 +28017,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Red Bull Advanced Technologies",
-        "id": "43e6575b-da65-4836-a587-44e3b54bb26b",
-        "title": "Level 3 Metrology Apprentice",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1774844896,
-        "date_posted": 1773411733,
-        "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Quality-Engineering-Apprentice_R0007261-1",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull-Advanced-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
