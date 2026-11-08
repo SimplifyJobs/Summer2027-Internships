@@ -159409,7 +159409,7 @@
         "company_name": "AMD",
         "id": "4f672998-821f-4318-8e79-68a8b7d4734b",
         "title": "Analog/Mixed-Signal Serdes Design Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -223327,7 +223327,7 @@
         "company_name": "Stryten",
         "id": "054be3ce-3039-4545-b02e-d2f875075a76",
         "title": "Industrial or Mechanical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
