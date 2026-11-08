@@ -386339,7 +386339,7 @@
         "company_name": "Riverlane",
         "id": "faaf5b8b-6d65-440e-b445-14d9f0e1bd7c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
