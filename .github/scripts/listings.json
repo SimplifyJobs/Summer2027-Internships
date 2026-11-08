@@ -220619,7 +220619,7 @@
         "company_name": "Edison International",
         "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
