@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 3467 Inactive Internship Roles by Category
+### Browse 3470 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1212)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1213)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (233)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1212)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1213)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (280)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (530)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (531)
 
 ---
 
@@ -302,7 +302,7 @@
 <td>AI Enablement Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/AMD?utm_source=GHList&utm_medium=company">AMD</a></strong></td>
@@ -1715,6 +1715,13 @@
 <td><strong><a href="https://simplify.jobs/c/Westinghouse-Electric-Company?utm_source=GHList&utm_medium=company">Westinghouse Electric Company</a></strong></td>
 <td>Software Developer Intern - Tools & Apps</td>
 <td>Warrendale, PA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
+<td>Software Engineering Intern</td>
+<td>Tempe, AZ<br>McLean, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -8604,7 +8611,7 @@
 <td>Product Management Intern</td>
 <td>Spokane, WA</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company">Snowflake</a></strong></td>
@@ -9573,7 +9580,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Blackhawk-Network-Holdings?utm_source=GHList&utm_medium=company">Blackhawk Network Holdings</a></strong></td>
+<td>↳</td>
 <td>Product Management Intern</td>
 <td>Coppell, TX</td>
 <td>🔒</td>
@@ -10368,7 +10375,7 @@
 <td>Machine Learning & Robotics Intern</td>
 <td>Columbus, OH</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
@@ -11188,6 +11195,13 @@
 <td>Laurel, MD</td>
 <td>🔒</td>
 <td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Riverlane?utm_source=GHList&utm_medium=company">Riverlane</a></strong></td>
+<td>Research Intern</td>
+<td>Cambridge, UK</td>
+<td>🔒</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Workday?utm_source=GHList&utm_medium=company">Workday</a></strong></td>
@@ -21135,6 +21149,13 @@
 <td>Cedar Rapids, IA</td>
 <td>🔒</td>
 <td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Riverlane?utm_source=GHList&utm_medium=company">Riverlane</a></strong></td>
+<td>Hardware Engineer Intern</td>
+<td>Cambridge, UK</td>
+<td>🔒</td>
+<td>30d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/AMD?utm_source=GHList&utm_medium=company">AMD</a></strong></td>
