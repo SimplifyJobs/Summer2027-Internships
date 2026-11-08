@@ -386411,7 +386411,7 @@
         "company_name": "Riverlane",
         "id": "4b2be312-37f3-4192-9005-a5ed509457ef",
         "title": "PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
