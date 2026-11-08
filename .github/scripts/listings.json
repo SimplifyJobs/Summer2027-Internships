@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PHINIA",
-        "id": "60426796-68ea-4b49-a765-e784ba80965f",
-        "title": "Yini \u2013 Product Inspection Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773382939,
-        "date_posted": 1773382939,
-        "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Gillingham---United-Kingdom/YINI---Product-Inspection-Student-2026-27_R2026-0073-1",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PHINIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Canadian Tire",
-        "id": "8aee996d-4f6f-4b82-93ec-910cdf8dc463",
-        "title": "Data Engineering Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773382841,
-        "date_posted": 1773382841,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Engineering-Student--8-months----Summer-2026_JR157903-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "27054417-8dae-440a-bcf6-ffa6d833aff3",
@@ -348303,7 +348257,7 @@
         "company_name": "Meta",
         "id": "89ca1b73-4bb7-4170-8435-a36bee214e34",
         "title": "ASIC Engineer Intern - Design Verification - Silicon Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
