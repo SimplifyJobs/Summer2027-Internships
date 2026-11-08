@@ -283997,7 +283997,7 @@
         "company_name": "4AG Robotics",
         "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
         "title": "Robotics Software Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -389453,7 +389453,7 @@
         "company_name": "Overland AI",
         "id": "e6698a06-642e-483b-8dfb-1d1b5ec9299c",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
