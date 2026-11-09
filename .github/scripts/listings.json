@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Equifax",
-        "id": "0e064064-ce56-446f-a0a7-336caf7c904a",
-        "title": "Rotational Technology Associate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773498707,
-        "date_posted": 1773498707,
-        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170957",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centific",
         "id": "98f820c9-26b4-41a2-b8ac-0b5377f315dd",
@@ -317059,7 +317036,7 @@
         "company_name": "NBCUniversal",
         "id": "b004876a-4d61-4472-9e85-eabe66783f06",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376297,7 +376274,7 @@
         "company_name": "Renesas Electronics",
         "id": "e52af477-dea7-4cef-87e2-7b7803ecbb54",
         "title": "Analog Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396904,7 +396881,7 @@
         "company_name": "CareSource",
         "id": "85296cc2-e177-4e6b-a942-962f6643c9b5",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398516,7 +398493,7 @@
         "company_name": "Parsons",
         "id": "627ccd4d-bfee-4232-9b77-c75320e6631e",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401387,7 +401364,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "79652fc8-a893-4523-a5ee-774e276df266",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403590,7 +403567,7 @@
         "company_name": "Riverside Research",
         "id": "669faba3-4676-4476-a559-f0a0713b57e2",
         "title": "Software Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
