@@ -127630,7 +127630,7 @@
         "company_name": "BorgWarner",
         "id": "746e1c61-ef5b-46fd-8384-970dce81b9e3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -259731,7 +259731,7 @@
         "company_name": "Western Digital",
         "id": "ba1e01c3-eb23-48b7-8ffb-da6d4b94c1e5",
         "title": "Read/Write Channel Integration Engineer Co-op - Channel Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297049,7 +297049,7 @@
         "company_name": "Fortune Brands",
         "id": "95226b41-b82e-408a-b515-b4a25a2512c1",
         "title": "Product Manager Intern - Retail",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353446,7 +353446,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "7b0c7936-f5ca-4813-a556-483b1e6edbf0",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367681,7 +367681,7 @@
         "company_name": "GE Vernova",
         "id": "649da7dc-7cfd-4077-a34e-20558b15bdfc",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369754,7 +369754,7 @@
         "company_name": "Sun Life",
         "id": "5871b828-de03-40a2-ac52-83ee05ca8fcf",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384360,7 +384360,7 @@
         "company_name": "Sonos",
         "id": "54c83f6c-0c22-45e4-8f12-5db6bf3defd8",
         "title": "Software Engineer Intern - Partner Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395541,7 +395541,7 @@
         "company_name": "ICF International",
         "id": "59dcdcf5-e048-4e2b-99c1-024440a01f9a",
         "title": "Energy Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408456,7 +408456,7 @@
         "company_name": "Citco",
         "id": "5054e852-534c-4382-992e-66e4a6632ee3",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
