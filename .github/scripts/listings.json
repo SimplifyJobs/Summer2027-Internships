@@ -354207,7 +354207,7 @@
         "company_name": "CIBC",
         "id": "5f6c7bb2-3229-4aee-a868-d954c9175bae",
         "title": "Application Developer Co-op - Enterprise Technology & Business Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -360724,7 +360724,7 @@
         "company_name": "Colibri Group",
         "id": "e76fd68e-0dcf-4634-a0cb-8ecf5d2d5ec8",
         "title": "Product Builder Returnship Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395254,7 +395254,7 @@
         "company_name": "Shield AI",
         "id": "e3da5b7c-56c9-4040-b6c6-b563a93f1664",
         "title": "Embedded Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
