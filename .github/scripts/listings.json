@@ -227260,7 +227260,7 @@
         "company_name": "Brunswick",
         "id": "84f60c1d-5d94-4e3b-a460-466cccf1d021",
         "title": "Engineering Test Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275380,7 +275380,7 @@
         "company_name": "InterSystems",
         "id": "72d70be2-7543-43d5-a8cd-9b80189884ad",
         "title": "Angular/FHIR Development Micro-Intern - Iap",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -348000,7 +348000,7 @@
         "company_name": "J.M. Smucker",
         "id": "80ec84ab-f0da-4549-85fb-07466041ed4a",
         "title": "Finance Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -354207,7 +354207,7 @@
         "company_name": "CIBC",
         "id": "5f6c7bb2-3229-4aee-a868-d954c9175bae",
         "title": "Application Developer Co-op - Enterprise Technology & Business Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -364858,7 +364858,7 @@
         "company_name": "US Foods",
         "id": "df85616d-6f36-4712-95be-823935573c4e",
         "title": "Product Analyst Intern - Supply Chain Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367369,7 +367369,7 @@
         "company_name": "Walgreens",
         "id": "dafceed7-cef2-4577-9a27-bdccb6cd29a1",
         "title": "Mobile App Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -367934,7 +367934,7 @@
         "company_name": "RSM",
         "id": "ce95d36b-80ba-48cd-9ef5-f35fe743c006",
         "title": "Business Intelligence Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
