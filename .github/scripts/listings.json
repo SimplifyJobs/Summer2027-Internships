@@ -384504,7 +384504,7 @@
         "company_name": "CIBC",
         "id": "05d25f11-31aa-465e-b08d-99af042a026f",
         "title": "Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -390381,7 +390381,7 @@
         "company_name": "Molina Healthcare",
         "id": "18803ec8-f589-4545-bb91-2d5378346d55",
         "title": "Customer Experience & Analytics Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
