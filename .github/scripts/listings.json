@@ -259616,7 +259616,7 @@
         "company_name": "Fortune Brands",
         "id": "3a1ed440-7772-4d1f-9ba5-d5c44d3986b7",
         "title": "Product Management Intern - B2B Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -262322,7 +262322,7 @@
         "company_name": "Klaviyo",
         "id": "155087e9-02c4-4e9c-af43-3d7e5a3a6091",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -267091,7 +267091,7 @@
         "company_name": "Booz Allen",
         "id": "1af6a582-286e-4274-bf65-6fa11bdf398b",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -277181,7 +277181,7 @@
         "company_name": "InterSystems",
         "id": "0caf3dfe-2e90-4b65-8cdb-cb79345145bc",
         "title": "Web Development Micro-Intern - Iap",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -309248,7 +309248,7 @@
         "company_name": "Centerstone",
         "id": "049ae851-e54d-45cd-8180-1c82261e09cd",
         "title": "Bachelor Level Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -343036,7 +343036,7 @@
         "company_name": "Quantinuum",
         "id": "1613b4a1-a36a-469b-b6e2-5cb8786d46af",
         "title": "Optics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397514,7 +397514,7 @@
         "company_name": "Teledyne",
         "id": "07c0aaba-5e5e-4d4f-a281-4ab944ab655c",
         "title": "Thermal Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
