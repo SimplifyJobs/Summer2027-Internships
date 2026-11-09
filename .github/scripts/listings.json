@@ -49,51 +49,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "8f47f913-b0a5-44a3-b3f6-518091d53bd8",
-        "title": "Structural Technician",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773490329,
-        "date_posted": 1773490329,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Military-Fellowship-Program--Structural-Technician_R0028638",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BJ's Wholesale Club",
-        "id": "d8d3ea12-18c9-4f9e-8bdd-ed912dd34ac6",
-        "title": "Club Operations Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773491299,
-        "date_posted": 1773491299,
-        "url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Club-Operations-Analyst-Intern_R228295",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/BJs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Netflix",
         "id": "fc46917a-fedc-492c-ac7f-58cce1ccaa06",
@@ -156,29 +111,6 @@
             "Muskegon, MI"
         ],
         "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "627fe904-12d5-431f-b82e-2136dc879596",
-        "title": "Intern System Engineer-PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773489982,
-        "date_posted": 1773489982,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer-III----E3-_R2613075",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -274,123 +206,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "e5f988ae-85e8-4e65-aac6-726cba3ffceb",
-        "title": "Product Marketing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773491422,
-        "date_posted": 1773491422,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Marketing-Internship---Summer-2026_R260523",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "4a3fdf9b-d8cb-4c5a-9a47-60c3b9a7d8c4",
-        "title": "Intern Operations Program Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773490826,
-        "date_posted": 1773490826,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cadence Design Systems",
-        "id": "76d85995-f500-4b09-a089-aab6f3a87c21",
-        "title": "AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773491182,
-        "date_posted": 1773491182,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/AI-Intern--Summer-2026-_R52508-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genmab",
-        "id": "d2f16766-3ede-431a-af35-4ac713b498ac",
-        "title": "AI Lab Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773489843,
-        "date_posted": 1773489843,
-        "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/AI-Lab-Intern_R15851-1",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Genmab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": " CCC Intelligent Solutions",
-        "id": "44f0ca6f-767c-42bc-9203-fcde998d92b5",
-        "title": "Machine Learning Annotation and Gen AI Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773489826,
-        "date_posted": 1773489826,
-        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Machine-Learning---Annotation-and-Gen-AI-Analyst-Intern_0014537",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
