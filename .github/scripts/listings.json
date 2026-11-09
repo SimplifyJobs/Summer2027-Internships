@@ -377606,7 +377606,7 @@
         "company_name": "CACI",
         "id": "50c14a6a-77e0-4a0b-b4e2-55437b8bc32b",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386147,7 +386147,7 @@
         "company_name": "CareSource",
         "id": "4d168e58-9786-4bbf-93b9-85ed973a0ab6",
         "title": "Full Stack AI Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
