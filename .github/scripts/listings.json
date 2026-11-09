@@ -232477,7 +232477,7 @@
         "company_name": "Caterpillar",
         "id": "a62e77a9-988b-42c6-abf2-5885839a948c",
         "title": "Corporate Intern - Autonomy & Intelligent Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390092,7 +390092,7 @@
         "company_name": "NAV CANADA",
         "id": "ba489eda-1455-478f-a4f5-c3cfc0b0675e",
         "title": "Aviation Predictive Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394293,7 +394293,7 @@
         "company_name": "T-Mobile",
         "id": "9d1b1bbe-f17b-45fa-9f6e-c944caa8f7eb",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399967,7 +399967,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402036,7 +402036,7 @@
         "company_name": "Alaska Air Group",
         "id": "eb8a2e35-b9c4-4e33-89cf-b145e732f581",
         "title": "BI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409357,6 +409357,52 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "63b0cc3b-2e81-4428-ab00-769c4524fcb3",
+        "title": "ePro Business & Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794208951,
+        "date_posted": 1794096000,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "2cdfed62-a249-4fe7-b45f-406da7879351",
+        "title": "Electrical Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794207964,
+        "date_posted": 1794096000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-Intern_1214992",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
