@@ -213106,7 +213106,7 @@
         "company_name": "OnLogic",
         "id": "c1e6167a-30ef-491c-b132-0ca2202fdaaa",
         "title": "Firmware Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -342260,7 +342260,7 @@
         "company_name": "Parsons",
         "id": "b135be7e-bf73-4526-9c91-0158ffed7bce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366970,7 +366970,7 @@
         "company_name": "Centerstone",
         "id": "ba39ce1f-41dd-4175-9013-64a21824ce12",
         "title": "Associate Degree Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -395299,7 +395299,7 @@
         "company_name": "Sonos",
         "id": "a91fccc2-afa1-4fe2-b215-9f3d88d3f2a9",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
