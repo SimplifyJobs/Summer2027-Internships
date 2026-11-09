@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 3549 Inactive Internship Roles by Category
+### Browse 3550 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1239)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (243)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1245)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1246)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (281)
 
@@ -260,7 +260,7 @@
 <td>Software Engineer Intern</td>
 <td>Clearwater, FL</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Epic-Games?utm_source=GHList&utm_medium=company">Epic Games</a></strong></td>
@@ -8800,7 +8800,7 @@
 <td>Associate Product Manager Intern</td>
 <td>Clearwater, FL</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pyrotek?utm_source=GHList&utm_medium=company">Pyrotek</a></strong></td>
@@ -10906,6 +10906,13 @@
 <td><strong><a href="https://simplify.jobs/c/Sun-Life?utm_source=GHList&utm_medium=company">Sun Life</a></strong></td>
 <td>Data Science Intern</td>
 <td><details><summary><strong>5 locations</strong></summary>Milwaukee, WI<br>Kansas City, MO<br>Hartford, CT<br>Portland, ME<br>Wellesley, MA</details></td>
+<td>🔒</td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RSM?utm_source=GHList&utm_medium=company">RSM</a></strong></td>
+<td>Business Intelligence Consulting Intern</td>
+<td>Toronto, ON, Canada<br>Calgary, AB, Canada<br>Edmonton, AB, Canada</td>
 <td>🔒</td>
 <td>17d</td>
 </tr>
