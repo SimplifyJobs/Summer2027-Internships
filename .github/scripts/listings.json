@@ -384483,7 +384483,7 @@
         "company_name": "CIBC",
         "id": "2b2e5210-8084-4fd3-b375-bdd043c7b676",
         "title": "AI Developer Co-op - Bilingual",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394585,7 +394585,7 @@
         "company_name": "RTX",
         "id": "48ffbc2e-df41-400b-8812-1097f69556c6",
         "title": "Program Fleet Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402103,7 +402103,7 @@
         "company_name": "Alaska Air Group",
         "id": "2e1a5e1d-e688-49b9-9369-a2f5deb491a6",
         "title": "VR Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
