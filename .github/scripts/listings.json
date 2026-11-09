@@ -592,27 +592,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mercer University",
-        "id": "3e2b4643-2499-4dcf-9b55-63147971c70b",
-        "title": "Research Assistant",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773481942,
-        "date_posted": 1773481942,
-        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Research-Assistant_JR103257",
-        "locations": [
-            "Macon, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercer-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Healthcare",
         "id": "cf1fc960-5895-464c-b790-eb7a48bb2b70",
@@ -976,29 +955,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "ca17dddd-7ae5-4247-af34-2c3f6fb482a9",
-        "title": "Applied Sports Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1773481684,
-        "date_posted": 1773481684,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Intern--Applied-Sports-Science_R_00043373",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -394427,7 +394383,7 @@
         "company_name": "T-Mobile",
         "id": "16de67d3-8ae7-46cf-a448-30a53f7bf57d",
         "title": "Product Operations Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
