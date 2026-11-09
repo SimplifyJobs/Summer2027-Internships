@@ -24,51 +24,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "6a360988-7ce3-4eb1-8453-0b2f2a73acc3",
-        "title": "MRI Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773493393,
-        "date_posted": 1773493393,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/MRI-Systems-Engineering-Internship_R4035491-1",
-        "locations": [
-            "Waukesha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
-        "id": "dd9d5a44-e764-4be3-96b4-70cce622eb27",
-        "title": "Part-Time Laboratory Assistants - Department of Statistics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773494569,
-        "date_posted": 1773494569,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Laboratory-Assistants---Department-of-Statistics_REQ_0000067627-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centific",
         "id": "98f820c9-26b4-41a2-b8ac-0b5377f315dd",
@@ -249460,7 +249415,7 @@
         "company_name": "Covestro",
         "id": "229eef02-3f6a-438c-8418-e238047cac56",
         "title": "Digital R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379753,7 +379708,7 @@
         "company_name": "Legal & General",
         "id": "21a0ffa5-753d-41b4-a60a-3800c96792a0",
         "title": "Asset Management Data Apprenticeship - Asset Management Data Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
