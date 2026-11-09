@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 3551 Inactive Internship Roles by Category
+### Browse 3552 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1239)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1240)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (243)
 
@@ -351,7 +351,7 @@
 <td>AI Enablement Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/AMD?utm_source=GHList&utm_medium=company">AMD</a></strong></td>
@@ -420,6 +420,13 @@
 <td>↳</td>
 <td>Software Engineer Co-op</td>
 <td>Marlborough, MA<br>Tewksbury, MA</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Regeneron-Pharmaceuticals?utm_source=GHList&utm_medium=company">Regeneron Pharmaceuticals</a></strong></td>
+<td>IT and Systems Intern - Industrial Operations and Product Supply</td>
+<td>Rensselaer, NY</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
@@ -8807,7 +8814,7 @@
 <td>Product Management Intern</td>
 <td>Spokane, WA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company">Snowflake</a></strong></td>
@@ -9692,7 +9699,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/United-Airlines?utm_source=GHList&utm_medium=company">United Airlines</a></strong></td>
 <td>Sales Product Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -9832,7 +9839,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Blackhawk-Network-Holdings?utm_source=GHList&utm_medium=company">Blackhawk Network Holdings</a></strong></td>
+<td>↳</td>
 <td>Product Management Intern</td>
 <td>Coppell, TX</td>
 <td>🔒</td>
@@ -10669,7 +10676,7 @@
 <td>Machine Learning & Robotics Intern</td>
 <td>Columbus, OH</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Syngenta-Group?utm_source=GHList&utm_medium=company">Syngenta Group</a></strong></td>
@@ -21095,7 +21102,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BP?utm_source=GHList&utm_medium=company">BP</a></strong></td>
 <td>Finance & Risk Intern - Supply - Trading</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
