@@ -309,29 +309,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Solidigm",
-        "id": "f87753dc-bc75-4150-90fa-9364ecf8a0de",
-        "title": "Talent Acquisition Data Engineering & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773469470,
-        "date_posted": 1773469470,
-        "url": "https://jobs.smartrecruiters.com/Solidigm/744000114789900",
-        "locations": [
-            "Rancho Cordova, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solidigm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "BJ's Wholesale Club",
         "id": "d8d3ea12-18c9-4f9e-8bdd-ed912dd34ac6",
         "title": "Club Operations Analyst Intern",
@@ -399,27 +376,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "8c3f6098-52ec-4e97-8054-c775774638fe",
-        "title": "Intern \u2013 Economics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773468632,
-        "date_posted": 1773468632,
-        "url": "https://amazon.jobs/en/jobs/3204829/intern-economics-ww-returns-and-recommerce-economics-intelligence",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -269180,7 +269136,7 @@
         "company_name": "Xcel Energy",
         "id": "58e0a934-91a0-40c8-a6bd-305d44b9da55",
         "title": "Residential Energy Product Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269465,7 +269421,7 @@
         "company_name": "Sun Life",
         "id": "6d28d84c-4927-4e69-87da-3af84ca212c6",
         "title": "Medical Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332990,7 +332946,7 @@
         "company_name": "Manulife Financial",
         "id": "8ede2bfe-2073-4a15-844c-e906d6e05de6",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -369803,7 +369759,7 @@
         "company_name": "American Express",
         "id": "61fa0744-4831-4c97-9f73-b7fff685dfe2",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374385,7 +374341,7 @@
         "company_name": "Applied Materials",
         "id": "8e8f5c62-75b7-4d21-9a7b-a56d2f2513cf",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394381,7 +394337,7 @@
         "company_name": "T-Mobile",
         "id": "63d855e1-d1ea-462d-bcca-0d0d3bba5e1e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394538,7 +394494,7 @@
         "company_name": "T-Mobile",
         "id": "76a9adb2-de1f-4c13-8134-c6ae9614a37d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404737,7 +404693,7 @@
         "company_name": "State Farm",
         "id": "69c2da8d-f16e-4599-a3ab-37ca479de0e2",
         "title": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
