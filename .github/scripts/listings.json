@@ -176177,7 +176177,7 @@
         "company_name": "W.W. Grainger",
         "id": "bb0509d1-41ed-4c91-ba8b-14fa499ce25c",
         "title": "Business Intelligence 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310733,7 +310733,7 @@
         "company_name": "Stripe",
         "id": "c8b772fa-9433-4ff4-8516-2c6249a464dd",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -324328,7 +324328,7 @@
         "company_name": "AngloGold Ashanti",
         "id": "c5fba1e3-2ca9-4041-b3c1-c2f9f9e3ffa6",
         "title": "Diagnostic Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325267,7 +325267,7 @@
         "company_name": "Nokia",
         "id": "d0abf4dd-4e5e-46d9-8066-74d1f5d593ec",
         "title": "ASIC Physical Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -356794,7 +356794,7 @@
         "company_name": "Zebra Technologies",
         "id": "cde3a717-b612-4994-bbd5-0272b6a0df41",
         "title": "Supplies & Sensors Product Manager Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389069,7 +389069,7 @@
         "company_name": "Hyster-Yale Materials Handling",
         "id": "b93cb4ed-8590-40e5-8548-777059a7313b",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392638,7 +392638,7 @@
         "company_name": "Leidos",
         "id": "a242ca0c-6422-4dea-bea2-2aa135bf80cc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
