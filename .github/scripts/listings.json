@@ -173126,7 +173126,7 @@
         "company_name": "Crowe",
         "id": "8876789e-be2c-4a8f-9478-572e3f0085cb",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -209512,7 +209512,7 @@
         "company_name": "CACI",
         "id": "8cffee28-2230-47bb-8ff3-27613cb55779",
         "title": "Embedded Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -235340,7 +235340,7 @@
         "company_name": "Simon Property Group",
         "id": "b20f7f1d-5dc9-4764-b2d0-e4782096ccb3",
         "title": "Front End Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -274384,7 +274384,7 @@
         "company_name": "Illinois Tool Works",
         "id": "8fb80f34-572c-4d42-8a99-b0aa189dd044",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -306657,7 +306657,7 @@
         "company_name": "Booz Allen",
         "id": "8c3babb7-dcbc-4c5e-af7a-a879eae188ea",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -328513,7 +328513,7 @@
         "company_name": "Bose",
         "id": "8361ff2b-f33d-4bba-ba6a-756c0fda60f4",
         "title": "Audio Machine Learning Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -328586,7 +328586,7 @@
         "company_name": "Bose",
         "id": "855eab6a-3d70-435e-adbb-95789fabe3d2",
         "title": "Embedded Software Engineer Co-op - Audio Tech",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379090,7 +379090,7 @@
         "company_name": "AngloGold Ashanti",
         "id": "b1406c9e-19d9-4355-82b0-2b79c3d6e2db",
         "title": "Tailings Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381881,7 +381881,7 @@
         "company_name": "Coveo",
         "id": "ac1c9285-2dac-488f-a8ae-cf9663183a48",
         "title": "Corporate Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -383307,7 +383307,7 @@
         "company_name": "Syngenta Group",
         "id": "f0720d7f-0077-43cf-959f-4ac76d40e302",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390121,7 +390121,7 @@
         "company_name": "TPG",
         "id": "94ce00a6-1104-4883-b62a-4615691ce825",
         "title": "Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399316,7 +399316,7 @@
         "company_name": "Leidos",
         "id": "994390d2-e931-4203-9755-1169361ef34d",
         "title": "Software Engineering & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
