@@ -332,29 +332,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Savage X Fenty",
-        "id": "9f039d5d-8685-4fbf-8972-33d2f80806c2",
-        "title": "Technical Design Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773483891,
-        "date_posted": 1773483891,
-        "url": "https://justfab.wd1.myworkdayjobs.com/savagex/job/El-Segundo-CA/Technical-Design-Intern_R8091",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SavagexFenty",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "KLA",
         "id": "bff83edf-00d8-4123-b887-c1cc3f990c4d",
@@ -564,30 +541,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ABB",
-        "id": "d4c97bb6-bdb6-4409-bb00-d998c5e7df2e",
-        "title": "Product Development Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773482812,
-        "date_posted": 1773482812,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/Product-Development-Engineering-Intern---Summer-2026_JR00012836",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -160589,7 +160542,7 @@
         "company_name": "Microsoft",
         "id": "9fe00265-7716-44f9-bc43-1017aa863220",
         "title": "Software Engineer Intern - CoreAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388693,7 +388646,7 @@
         "company_name": "Newmont",
         "id": "b1af74c5-7bce-4b61-a57f-bdbb3cb3926e",
         "title": "Resource Modeling Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -409359,6 +409312,71 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "91b4d42f-de80-4207-9ec2-08866ad1f9be",
+        "title": "Shopper Insights Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794219697,
+        "date_posted": 1794218523,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000160572389",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "090e54ae-b97a-4d8b-b3ea-8bb2628fd182",
+        "title": "Category Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794219704,
+        "date_posted": 1794218491,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000160572014",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "037bf10a-d9b6-4735-a4b0-9100908f3657",
+        "title": "Research Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794219302,
+        "date_posted": 1794219187,
+        "url": "https://lifeattiktok.com/search/7704986879082907909",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
