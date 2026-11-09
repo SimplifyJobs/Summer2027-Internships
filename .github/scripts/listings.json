@@ -25,54 +25,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "a22f4411-8406-4456-b15f-8b67567cd5ad",
-        "title": "Intern \u2013 Equipment Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773492261,
-        "date_posted": 1773492261,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Equipment-Engineer-ID1_JR81907",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netflix",
-        "id": "fc46917a-fedc-492c-ac7f-58cce1ccaa06",
-        "title": "Internet Measurement Research Intern - Openconnect Distributed Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773492944,
-        "date_posted": 1773492944,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Internet-Measurement-Research-Intern---OpenConnect-Distributed-Systems--Summer-2026_JR37466",
-        "locations": [
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "GE Healthcare",
         "id": "6a360988-7ce3-4eb1-8453-0b2f2a73acc3",
         "title": "MRI Systems Engineering Intern",
@@ -96,98 +48,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Magna",
-        "id": "7bac57bb-c122-4094-9de3-8bc9984f259f",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773492443,
-        "date_posted": 1773492443,
-        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newaygo-Michigan-US/Engineering-Intern---Summer-2026_R00227892",
-        "locations": [
-            "Muskegon, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Samsung",
-        "id": "0fcab772-81ae-4d02-a8c7-0e5a73c282e2",
-        "title": "Product Marketing Intern - Home Entertainment - Gaming",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773493263,
-        "date_posted": 1773493263,
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/700-Sylvan-Ave-Englewood-Cliffs-NJ-USA/Product-Marketing-Internship--Home-Entertainment---Gaming-_R114415",
-        "locations": [
-            "Englewood, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "ddeb69f0-1e8c-47ab-b00d-eab358d080df",
-        "title": "Electronics Technician Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773491958,
-        "date_posted": 1773491958,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electronics-Technician---Intern_R0155929",
-        "locations": [
-            "Bedford, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fresenius Kabi",
-        "id": "ccf1135c-2bd9-4dd5-93f2-189ed060c515",
-        "title": "Intern Disposables Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773492109,
-        "date_posted": 1773492109,
-        "url": "https://freseniusglobal.wd3.myworkdayjobs.com/FK_Careers/job/Lake-Zurich-IL/Intern---Disposables-Engineering_R-10210178",
-        "locations": [
-            "Lake Zurich, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius-Kabi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Pennsylvania State University",
         "id": "dd9d5a44-e764-4be3-96b4-70cce622eb27",
@@ -206,55 +66,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DotDash Meredith",
-        "id": "3c86989c-765a-4a9a-8376-eb58809091a4",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773492864,
-        "date_posted": 1773492864,
-        "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Software-Engineering-Intern_JR15315-1",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DotDash-Meredith",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Marvell",
-        "id": "ca2b29d2-7ab7-4c38-9c8f-84fdf23bec74",
-        "title": "Product Marketing Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1773491568,
-        "date_posted": 1773491568,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Marketing-Intern---Bachelor-s-Degree_2502760-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
