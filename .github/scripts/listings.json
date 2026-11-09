@@ -228263,7 +228263,7 @@
         "company_name": "Arconic",
         "id": "4920ac37-e5f4-49cc-894d-2b302bf15619",
         "title": "ServiceNow Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -316579,7 +316579,7 @@
         "company_name": "TechInsights",
         "id": "388297a0-afa4-4597-89e7-a9526951264f",
         "title": "Circuit Analysis Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -359880,7 +359880,7 @@
         "company_name": "Athene",
         "id": "2b618d42-4ed5-4c28-afba-944f17ce61fd",
         "title": "Operations Reporting & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396948,7 +396948,7 @@
         "company_name": "Hearst",
         "id": "341f7fcc-9bce-4098-8f9b-c5911777a66e",
         "title": "Editorial AI Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
