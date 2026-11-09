@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 3537 Inactive Internship Roles by Category
+### Browse 3538 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1237)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1236)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (241)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (242)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1239)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1240)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (281)
 
@@ -1184,7 +1184,7 @@
 <td>Software Engineering Intern</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -1785,13 +1785,6 @@
 <td><strong><a href="https://simplify.jobs/c/Westinghouse-Electric-Company?utm_source=GHList&utm_medium=company">Westinghouse Electric Company</a></strong></td>
 <td>Software Developer Intern - Tools & Apps</td>
 <td>Warrendale, PA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
-<td>Software Engineering Intern</td>
-<td>Tempe, AZ<br>McLean, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -3669,7 +3662,7 @@
 <td>IT Intern</td>
 <td>Boyden, IA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Planview?utm_source=GHList&utm_medium=company">Planview</a></strong></td>
@@ -4351,7 +4344,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Blacksburg, VA<br>Herndon, VA</td>
 <td>🔒</td>
@@ -8845,6 +8838,13 @@
 <td>13d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Panasonic?utm_source=GHList&utm_medium=company">Panasonic Holdings</a></strong></td>
+<td>Product Management Intern</td>
+<td>Bridgeton, MO</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Philips?utm_source=GHList&utm_medium=company">Philips</a></strong></td>
 <td>Service Offer Design Intern</td>
 <td>Cambridge, MA</td>
@@ -9367,7 +9367,7 @@
 <td>Product Management Intern</td>
 <td>Lincoln, NE</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Charles-Schwab?utm_source=GHList&utm_medium=company">Charles Schwab</a></strong></td>
@@ -10998,7 +10998,7 @@
 <td>AI-Enabled Requirements Engineering Intern</td>
 <td>North Logan, UT</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
@@ -11495,7 +11495,7 @@
 <td>Research Intern</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Workday?utm_source=GHList&utm_medium=company">Workday</a></strong></td>
@@ -13090,6 +13090,13 @@
 <td><strong><a href="https://simplify.jobs/c/RelayPro?utm_source=GHList&utm_medium=company">Relay</a></strong></td>
 <td>Software Engineer Intern - AI/ML</td>
 <td>Raleigh, NC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/SoundExchange?utm_source=GHList&utm_medium=company">SoundExchange</a></strong></td>
+<td>Operations Intern - Royalty Processing & Business Intelligence</td>
+<td>Washington, DC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -20717,7 +20724,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company">Akuna Capital</a></strong></td>
 <td>Quantitative Development & Strategy Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -23889,6 +23896,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stryten?utm_source=GHList&utm_medium=company">Stryten</a></strong></td>
+<td>Industrial or Mechanical Engineering Intern</td>
+<td>Salina, KS</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>System Engineer Intern</td>
 <td>Alpharetta, GA</td>
 <td>🔒</td>
@@ -23898,13 +23912,6 @@
 <td>↳</td>
 <td>Electrical Engineer Intern</td>
 <td>Alpharetta, GA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Industrial or Mechanical Engineering Intern</td>
-<td>Salina, KS</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
