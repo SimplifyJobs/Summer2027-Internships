@@ -1,82 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson Controls",
-        "id": "6cd456c1-10f5-4fc6-a3ca-419fcd0261ed",
-        "title": "Controls Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773488250,
-        "date_posted": 1773488250,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Controls-Engineering-Intern_WD30261739",
-        "locations": [
-            "Roanoke, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Circle",
-        "id": "b6ae6597-8d6c-4510-834d-6968dd97ad75",
-        "title": "Intern \u2013 Application Security",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773488581,
-        "date_posted": 1773488581,
-        "url": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Intern--Application-Security_JR100899",
-        "locations": [
-            "Boston, MA",
-            "Washington, DC",
-            "SF",
-            "Austin, TX",
-            "LA",
-            "Miami, FL",
-            "Chicago, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Circle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "74b0fc23-86a8-4370-9262-ee7acb6a7a48",
-        "title": "Student Assistant - Energy Systems",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773489015,
-        "date_posted": 1773489015,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---Energy-Systems_JR102273",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Equifax",
         "id": "0e064064-ce56-446f-a0a7-336caf7c904a",
@@ -92,30 +16,6 @@
             "Alpharetta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Walt Disney Company",
-        "id": "61c8fe65-d07f-4eba-98f9-eeb766eb9451",
-        "title": "WDI Special Effects Designer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773488369,
-        "date_posted": 1773488369,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Summer-Fall-2026_10141299-2",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -194,105 +94,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson & Johnson",
-        "id": "a9ca20e0-4183-4519-bd96-fb7254f998b2",
-        "title": "J&J Surgery: Design & Development Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1773487937,
-        "date_posted": 1773487937,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Design---Development-Co-op--Fall-2026_R-039774",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Walt Disney Company",
-        "id": "fc5f5c6a-89ec-4574-9bb8-dc7ee213c644",
-        "title": "WDI Illusion Maker \u2013 Figure Finishing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773488364,
-        "date_posted": 1773488364,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Illusion-Maker---Figure-Finishing-Intern--Glendale--Summer-2026_10141429-1",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sun Life",
-        "id": "28ecc37c-e35b-41f1-bfb7-325cf340a2e6",
-        "title": "Reporting Analyst \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1773489654,
-        "date_posted": 1773489654,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Reporting-Analyst---Fall-2026-Co-op_JR00121048",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "8f4b2e92-92a5-47e8-ad7a-0460fef44e71",
-        "title": "Field Engineer Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773488308,
-        "date_posted": 1773488308,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northern-Indiana--South-Bend---Fort-Wayne-_R4036702-2",
-        "locations": [
-            "Fort Wayne, IN",
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Netflix",
         "id": "fc46917a-fedc-492c-ac7f-58cce1ccaa06",
@@ -312,32 +113,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "cf1fc960-5895-464c-b790-eb7a48bb2b70",
-        "title": "Field Engineer Apprentice - Field Engineer Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773488286,
-        "date_posted": 1773488286,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Western-PA-_R4036770-1",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
         ]
     },
     {
@@ -502,91 +277,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
-        "id": "a29766ff-554e-4aea-82d5-a2a52d9a3c9c",
-        "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773488039,
-        "date_posted": 1773488039,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Programmer---Yanxi-Liu_REQ_0000069003-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Pennsylvania State University",
-        "id": "649e8893-f56f-4e42-a7cd-0451fe6a62b5",
-        "title": "Research and Development Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773488184,
-        "date_posted": 1773488184,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000001465-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
-        "id": "3fd26c4a-edba-4a9c-bd38-a70b7316190c",
-        "title": "Part Time \u2013 Student - Science - Engineering and Technology Research Assistantship",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773488180,
-        "date_posted": 1773488180,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Harrisburg/Part-Time---Student---Science--Engineering-and-Technology-Research-Assistantship_REQ_0000054917-1",
-        "locations": [
-            "Hershey, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hitachi Energy",
-        "id": "2c9f7a19-8e25-4dfe-b43d-f747fa8721b0",
-        "title": "Operator \u2013 Trice - Des essais haute tension",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773489286,
-        "date_posted": 1773489286,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Varennes-Quebec-Canada/Oprateur-trice--des-essais-haute-tension_R0121888",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Uline",
         "id": "e5f988ae-85e8-4e65-aac6-726cba3ffceb",
@@ -613,30 +303,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Progyny",
-        "id": "5a80a999-df96-4512-ba05-39dc3cb230ba",
-        "title": "Compensation & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773489241,
-        "date_posted": 1773489241,
-        "url": "https://progyny.wd5.myworkdayjobs.com/en-US/progyny/job/New-York-New-York/Compensation---Analytics-Intern_JR101014",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Progyny",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "RTX",
         "id": "4a3fdf9b-d8cb-4c5a-9a47-60c3b9a7d8c4",
         "title": "Intern Operations Program Management",
@@ -654,56 +320,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "895184aa-5171-43c5-ac84-0ee5622a3645",
-        "title": "Surgery Field Engineer Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773488142,
-        "date_posted": 1773488142,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Surgery-Field-Engineer-Apprentice---Utah_R4035261-1",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cadence Design Systems",
-        "id": "8fda9712-2e31-4ac0-ae8e-d98a2e107f52",
-        "title": "AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773489623,
-        "date_posted": 1773489623,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/AI-Intern--Summer-2026-_R52508",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
