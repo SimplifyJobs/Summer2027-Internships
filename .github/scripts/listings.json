@@ -338185,7 +338185,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fdf4dfa7-1147-46dc-a5e5-0873db565d6f",
         "title": "IDAR Summer Intern - Ease",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384551,7 +384551,7 @@
         "company_name": "JM Family",
         "id": "ffc6266f-4786-4043-b824-c50c2f564d80",
         "title": "Customer Experience Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399967,7 +399967,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
