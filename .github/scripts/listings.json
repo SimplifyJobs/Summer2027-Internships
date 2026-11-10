@@ -331447,7 +331447,7 @@
         "company_name": "GuidePoint Security",
         "id": "9c708edf-68f9-43ac-a86d-b27868f9d200",
         "title": "AI & Data Science Intern - GPSU",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381262,7 +381262,7 @@
         "company_name": "Regeneron Pharmaceuticals",
         "id": "9b9fd13e-39d9-47b3-9e15-80ac82205d1b",
         "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
