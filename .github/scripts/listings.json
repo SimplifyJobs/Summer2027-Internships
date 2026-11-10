@@ -20401,29 +20401,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "9f1a0e02-10e4-4a30-9f05-38f36c832cff",
-        "title": "Intern Economist - Stores Economics and Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773537658,
-        "date_posted": 1773537658,
-        "url": "https://amazon.jobs/en/jobs/3204862/intern-economics-stores-economics-and-science",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Wabtec",
         "id": "72a2e330-7f0e-4f36-ac82-676cafd5b25e",
@@ -183918,7 +183895,7 @@
         "company_name": "Epic Games",
         "id": "199801ca-ff30-4280-8376-c89c13ddc645",
         "title": "Engine Programmer Intern - Unreal Engine",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -217311,7 +217288,7 @@
         "company_name": "Textron",
         "id": "21912ba2-1cd7-44e5-81c9-d562f8909909",
         "title": "Integration Test Engineer Intern - Marine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278447,7 +278424,7 @@
         "company_name": "Rothesay",
         "id": "02b6eecc-ac3c-44e4-9b02-71dde8078aa0",
         "title": "Quantitative Strategist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312941,7 +312918,7 @@
         "company_name": "Definity Financial",
         "id": "212771ed-92c6-48c7-b5d0-8fba7e55a26f",
         "title": "Operations Analyst Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -319942,7 +319919,7 @@
         "company_name": "Micron Technology",
         "id": "108398c2-db25-4f0a-89ab-ebcf383dc142",
         "title": "SSD Architecture Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320772,7 +320749,7 @@
         "company_name": "Astera Labs",
         "id": "216bad0e-4993-4e14-b447-3cf348ee5475",
         "title": "Packaging Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -353423,7 +353400,7 @@
         "company_name": "Microsoft",
         "id": "252654e5-a987-40e7-849a-d22f2a93a37f",
         "title": "Applied Science PhD Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -376461,7 +376438,7 @@
         "company_name": "Emerson Electric",
         "id": "1d0d2ba5-28dd-466a-82ce-0c5d756ab151",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383237,7 +383214,7 @@
         "company_name": "CACI",
         "id": "16383177-59a6-4e58-94ba-2fb28a3c779a",
         "title": "Software Engineering Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -399248,7 +399225,7 @@
         "company_name": "Chubb",
         "id": "213c4f73-ae7f-470e-a3d9-2ad8c9d9ca2d",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
