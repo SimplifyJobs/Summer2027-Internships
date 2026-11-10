@@ -345306,7 +345306,7 @@
         "company_name": "PA Consulting",
         "id": "a0a19e3f-13fd-418d-ac34-dabe9b73c200",
         "title": "Software and AI Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383331,7 +383331,7 @@
         "company_name": "Riverlane",
         "id": "5be918fc-af4e-4bf5-9db2-e4aa41c3982e",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403520,7 +403520,7 @@
         "company_name": "Riverside Research",
         "id": "669faba3-4676-4476-a559-f0a0713b57e2",
         "title": "Software Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
