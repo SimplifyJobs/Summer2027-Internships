@@ -237687,7 +237687,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265932,7 +265932,7 @@
         "company_name": "EquipmentShare",
         "id": "220c7f99-8555-4e94-9c2e-db2152ace8d4",
         "title": "Engineering Intern - Embedded",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -282306,7 +282306,7 @@
         "company_name": "Micron Technology",
         "id": "2e6978bb-ece5-4ba5-9ed6-b6b11bed2627",
         "title": "ASIC Digital Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -345353,7 +345353,7 @@
         "company_name": "PA Consulting",
         "id": "5f37b74e-06bb-431b-8260-1a7591e85f2c",
         "title": "Electronic Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374024,7 +374024,7 @@
         "company_name": "Generac",
         "id": "224fe741-c383-4815-9832-c2d6f6e1096f",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402786,7 +402786,7 @@
         "company_name": "NRDC",
         "id": "1e76d73e-91b3-4272-aef5-8001b690b62f",
         "title": "Donor Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411319,7 +411319,7 @@
         "company_name": "Klaviyo",
         "id": "30bcdd6c-3fac-42e1-a4ef-2da1711b4cae",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
