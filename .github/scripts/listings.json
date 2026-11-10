@@ -255439,7 +255439,7 @@
         "company_name": "Zoox",
         "id": "bbd050e5-7cc1-4a9e-8592-b7b17d47105b",
         "title": "Digital Engineer Student Worker",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -266259,7 +266259,7 @@
         "company_name": "Marvell",
         "id": "adb1e815-47fe-4268-911a-3c542a8a5b4e",
         "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -280411,7 +280411,7 @@
         "company_name": "OCC",
         "id": "9f746496-421c-4ac5-8ac4-b19297427cfc",
         "title": "Quantitative Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361521,7 +361521,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "adb9b1d3-a6e4-4743-8130-637863eba912",
         "title": "Financial Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381905,7 +381905,7 @@
         "company_name": "Coveo",
         "id": "9dbdffae-b7fb-4106-bbc8-743eb0125208",
         "title": "Corporate Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -392219,7 +392219,7 @@
         "company_name": "Semtech",
         "id": "b82461c9-bd4a-4d07-9c86-a428e3f4566a",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393330,7 +393330,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "b79b0ef1-8f41-453f-b0e0-032dc23fdcfe",
         "title": "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393402,7 +393402,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "ac5ec6b6-4cbd-4d69-9f79-3fcd2265015a",
         "title": "NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411035,6 +411035,99 @@
             "Livermore, CA"
         ],
         "company_url": "https://simplify.jobs/c/FormFactor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "REGENT",
+        "id": "55e6b934-6590-46a7-97c8-0304e24dd3bb",
+        "title": "Mission Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794278883,
+        "date_posted": 1794268800,
+        "url": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true",
+        "locations": [
+            "North Kingstown, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/REGENT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "onsemi",
+        "id": "f36a517a-9344-409d-a38c-a642ac6bb401",
+        "title": "AI & Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794278771,
+        "date_posted": 1794278660,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trimble",
+        "id": "7e711ce3-51ad-4c03-ba5e-9f27258b65df",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794278343,
+        "date_posted": 1794182400,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altera",
+        "id": "529ec434-7642-4f89-8dce-c32598ea5eef",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794278182,
+        "date_posted": 1794182400,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
