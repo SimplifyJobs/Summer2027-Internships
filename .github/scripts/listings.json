@@ -340538,7 +340538,7 @@
         "company_name": "Astera Labs",
         "id": "49e16889-4d16-4af1-8ac8-032fc64b4acc",
         "title": "Digital RTL Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411581,6 +411581,29 @@
             "Hopewell Township, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "2504b83a-b236-4dd0-a755-bd49281455a5",
+        "title": "Photonic Integrated Circuit Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794304312,
+        "date_posted": 1792972800,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Photonic-Integrated-Circuits-Engineer_R016928",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
