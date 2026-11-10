@@ -142146,7 +142146,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "c49d403e-9c01-4e02-bbf3-31cbc36e6522",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -210394,7 +210394,7 @@
         "company_name": "AMD",
         "id": "c00cea89-6203-42a3-af35-f98efd65e78a",
         "title": "Compiler Engineer Intern/Co-op - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -210472,7 +210472,7 @@
         "company_name": "AMD",
         "id": "b96c7c0a-e52d-479c-8c01-d4e54118328f",
         "title": "Compiler Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -220620,7 +220620,7 @@
         "company_name": "AMD",
         "id": "acb5e18d-829f-4144-8ea5-fca50848a80b",
         "title": "Silicon Design Engineer Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -264185,7 +264185,7 @@
         "company_name": "Enact Mortgage Insurance",
         "id": "c35fa7e0-84f9-47b5-b3b2-bcf8c4b35214",
         "title": "Process Improvement Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394877,7 +394877,7 @@
         "company_name": "Resideo",
         "id": "b95bae38-a6a8-415c-9506-13422799369b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
