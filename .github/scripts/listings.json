@@ -299038,7 +299038,7 @@
         "company_name": "Tesla",
         "id": "6cc1324d-857f-49fa-89d0-5499ccbfa78b",
         "title": "Optical Engineer Intern - Electronic Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -409506,7 +409506,7 @@
         "company_name": "Wex",
         "id": "129a8767-b9fb-44a9-9a22-6efeae78cf1f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
