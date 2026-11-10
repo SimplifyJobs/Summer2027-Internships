@@ -46369,30 +46369,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "00e70c4e-9171-45b8-a583-f063356c94e1",
-        "title": "Backend Software Engineer Intern - Foundation Platform",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773565826,
-        "date_posted": 1773565826,
-        "url": "https://lifeattiktok.com/search/7538307729329277202",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1776440234,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -338431,7 +338407,7 @@
         "company_name": "Realty Income",
         "id": "0ad43f00-594b-4b01-876b-4b6f89a23b2e",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -405312,7 +405288,7 @@
         "company_name": "Amazon",
         "id": "20102156-230a-4d18-a3eb-dcc6a46d3a14",
         "title": "Software Development Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -411585,6 +411561,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "0aa8fe34-4c71-413b-b204-37dd5226fd7d",
+        "title": "Postdoctoral Scientist \u2013 AI/ML and Optimization Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794302507,
+        "date_posted": 1793318400,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Post-Doc---AI-ML-and-Optimization_R-106767-2",
+        "locations": [
+            "Cambridge, MA",
+            "Hopewell Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
