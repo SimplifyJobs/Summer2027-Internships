@@ -185002,7 +185002,7 @@
         "company_name": "AMD",
         "id": "a5a8ff7e-b250-4699-8d5f-b15adf724936",
         "title": "Firmware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -185410,7 +185410,7 @@
         "company_name": "AMD",
         "id": "646c1eeb-a6b8-40f6-95c7-581780504d2e",
         "title": "Machine Learning Intern/Co-op - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -223786,7 +223786,7 @@
         "company_name": "AMD",
         "id": "8239ef8b-e07a-4715-bc6d-2036aad271eb",
         "title": "Product Development Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -259944,7 +259944,7 @@
         "company_name": "Veeam Software",
         "id": "a551edfe-1860-47a5-84ba-2aa807b90cd1",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -264420,7 +264420,7 @@
         "company_name": "Genworth Financial",
         "id": "a6d458af-c99e-4109-a0f2-8231e3b60c9d",
         "title": "Process Improvement Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -283323,7 +283323,7 @@
         "company_name": "Gordon Food Service",
         "id": "721628f6-7dc9-47f6-8d08-1283695301ad",
         "title": "Category Insights Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290103,7 +290103,7 @@
         "company_name": "AMD",
         "id": "63c49c26-a318-41ac-a40f-775acc74c21c",
         "title": "Generative AI and Reinforcement Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393824,7 +393824,7 @@
         "company_name": "Applied Materials",
         "id": "5825f548-b298-42bd-b304-9e9b1834382f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
