@@ -299524,7 +299524,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "0cd0d31f-f4ae-4e6c-aa40-826253f51cf4",
         "title": "Space Exploration Software Engineer Intern - Embedded Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302338,7 +302338,7 @@
         "company_name": "GITAI",
         "id": "04f47176-b9d7-4738-a924-cce1e8696df9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
