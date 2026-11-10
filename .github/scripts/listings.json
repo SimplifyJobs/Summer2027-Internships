@@ -147136,7 +147136,7 @@
         "company_name": "Virtu Financial",
         "id": "ce1d842e-89a6-4905-a608-3eca02ddd233",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -232843,7 +232843,7 @@
         "company_name": "DriveTime",
         "id": "b7c2c963-6116-45d7-aa64-15930ea624ae",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -245419,7 +245419,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "e808ba48-68a5-402a-b394-ca05a260cfe8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -250632,7 +250632,7 @@
         "company_name": "Immuta",
         "id": "e324dbfe-55ba-4099-a9f0-2268a787100e",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -256762,7 +256762,7 @@
         "company_name": "Procter & Gamble",
         "id": "e556f0eb-1ee9-4cd0-b6f2-502f5ba3d435",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -271254,7 +271254,7 @@
         "company_name": "Zions Bank",
         "id": "e04fda0f-12a2-4117-aaa1-dc27e62a8cd0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271943,7 +271943,7 @@
         "company_name": "Micron Technology",
         "id": "e83d5205-2c76-4f34-adbc-45a543b7b26b",
         "title": "Data Center SSD Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -292210,7 +292210,7 @@
         "company_name": "Nokia",
         "id": "d925ed37-e2f2-4278-bf34-2d4b8825a49c",
         "title": "Photonic Integrated Circuits Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -370512,7 +370512,7 @@
         "company_name": "Cadence Design Systems",
         "id": "d3e624fc-5c9c-4aad-b38f-f684adab013b",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
