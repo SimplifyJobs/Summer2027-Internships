@@ -141289,7 +141289,7 @@
         "company_name": "DRW",
         "id": "ec5ff4c9-5e03-4eb3-854e-5f9967c79b46",
         "title": "FPGA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -156376,7 +156376,7 @@
         "company_name": "AMD",
         "id": "4f672998-821f-4318-8e79-68a8b7d4734b",
         "title": "Analog/Mixed-Signal Serdes Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -157860,7 +157860,7 @@
         "company_name": "TikTok",
         "id": "db960900-01f6-4f01-9c82-84153cdf5547",
         "title": "Backend Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -158027,7 +158027,7 @@
         "company_name": "TikTok",
         "id": "8db73e59-868b-443c-ae94-c136c0561141",
         "title": "Artificial Intelligence Engineer Intern - Client Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -158147,7 +158147,7 @@
         "company_name": "TikTok",
         "id": "a369c444-d6b3-4421-8a25-859336530e56",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -267020,7 +267020,7 @@
         "company_name": "Tesla",
         "id": "2316ee23-75b8-4147-a14b-ad5d1ec67ede",
         "title": "Product Engineer Intern - Applications Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -279896,7 +279896,7 @@
         "company_name": "EquipmentShare",
         "id": "bbf36693-f0af-484d-997a-b34d5337bf70",
         "title": "Uptime Management Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324745,7 +324745,7 @@
         "company_name": "Arcfield",
         "id": "c3e62dce-3096-481b-97f4-55b95eb49b14",
         "title": "Software Engineer-On Call Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354694,7 +354694,7 @@
         "company_name": "RTX",
         "id": "d6b959d0-3774-41d6-bc89-d62b84ca38bf",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381361,7 +381361,7 @@
         "company_name": "Regeneron Pharmaceuticals",
         "id": "0798f561-9eaf-425b-aaf1-80d2da8691a2",
         "title": "IT and Systems Intern - Industrial Operations and Product Supply",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -398541,7 +398541,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404222,7 +404222,7 @@
         "company_name": "Lumbermen's",
         "id": "328d4568-bcae-457f-96e8-ea5e59164c08",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412012,6 +412012,233 @@
             "Missouri"
         ],
         "company_url": "https://simplify.jobs/c/Veterans-United",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Group",
+        "id": "da79a98f-4b0b-4c9d-b32d-5a8de230fbec",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794324453,
+        "date_posted": 1794268800,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Washington-District-of-Columbia-United-States-of-America/Intern--Analytics_R16262",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PA Consulting",
+        "id": "980d7e7b-8859-47be-849c-43dfc72cd2cc",
+        "title": "Electronic Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794324285,
+        "date_posted": 1794318033,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000160879439",
+        "locations": [
+            "Melbourn, Royston, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veolia",
+        "id": "9c3d434b-a6d9-43ad-a828-71d1d4170e6e",
+        "title": "Manufacturing Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794324062,
+        "date_posted": 1794322464,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "16de1161-64a8-451a-95e2-0dffe1134a4d",
+        "title": "Build Team Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794323881,
+        "date_posted": 1790043217,
+        "url": "https://careers.formlabs.com/job/8212703/apply/?gh_jid=8212703",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Moderna",
+        "id": "5ee601fa-dabe-4eb8-ba08-3425be03a8e7",
+        "title": "mRNA Design Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1794323930,
+        "date_posted": 1794268800,
+        "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moderna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "42f52351-602a-458f-98a8-5259b10419d1",
+        "title": "Applications Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794323588,
+        "date_posted": 1794320815,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000160890129",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Matillion",
+        "id": "ae7750b1-899e-4303-94dc-793bbd2be58d",
+        "title": "Computer Science Intern - Software Engineering with AI",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794323554,
+        "date_posted": 1794323429,
+        "url": "https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Matillion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Legrand",
+        "id": "ad7a72cf-ccd7-4926-a711-e4ff9a6f8520",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794323341,
+        "date_posted": 1794323315,
+        "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Legrand",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GSA Capital",
+        "id": "a0512115-877f-4d69-8afa-beff709bf82d",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794323073,
+        "date_posted": 1780071133,
+        "url": "https://job-boards.greenhouse.io/gsacapital/jobs/8570668002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GSA-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GSA Capital",
+        "id": "9fe60218-41c6-4f42-8862-0fe555eacd22",
+        "title": "Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794323075,
+        "date_posted": 1780071088,
+        "url": "https://job-boards.greenhouse.io/gsacapital/jobs/8570661002",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GSA-Capital",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
