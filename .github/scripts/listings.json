@@ -221793,7 +221793,7 @@
         "company_name": "Tesla",
         "id": "de8cb307-6829-4afa-8e31-0fefe60818e7",
         "title": "Software Engineer Intern - Finance Programs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -276653,7 +276653,7 @@
         "company_name": "Intel",
         "id": "02e5128c-f9d6-4224-9ba7-5ab3d06f1352",
         "title": "Operations Research Engineering Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -303944,7 +303944,7 @@
         "company_name": "Marvell",
         "id": "05682b26-d33e-4a92-91e9-6790192bf697",
         "title": "AMS Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370441,7 +370441,7 @@
         "company_name": "Cadence Design Systems",
         "id": "223463e8-92c2-40ee-861a-ab027ca852c1",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383647,7 +383647,7 @@
         "company_name": "Astronics",
         "id": "1411f04b-0318-4e7d-9f6a-3d8abbd29414",
         "title": "Electrical Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385057,7 +385057,7 @@
         "company_name": "Western Magnetics",
         "id": "0afedb15-13bb-4e63-b756-ae5112a89823",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -400587,7 +400587,7 @@
         "company_name": "ViaSat",
         "id": "0d220c65-d483-4ced-b1bf-02c913e9a686",
         "title": "Pointing and Tracking Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
