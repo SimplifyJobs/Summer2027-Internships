@@ -193125,7 +193125,7 @@
         "company_name": "Empirical Foods",
         "id": "f8139c71-b2b0-4405-8d3c-7468022996e2",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307591,7 +307591,7 @@
         "company_name": "KLA",
         "id": "8bf131d5-7af2-4a4d-bd28-31d23bdc31c7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366880,7 +366880,7 @@
         "company_name": "Micron Technology",
         "id": "eb1d268e-bebe-4462-ac68-46c1b3d2f985",
         "title": "Dram Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
