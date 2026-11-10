@@ -404152,7 +404152,7 @@
         "company_name": "V2X",
         "id": "9b6715cc-7d85-49b5-8e81-d4623e296d95",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409931,7 +409931,7 @@
         "company_name": "RTX",
         "id": "d12a5cb3-2d90-4c91-adf5-38c0474d3860",
         "title": "Digital Hardware Design Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -409956,7 +409956,7 @@
         "company_name": "RTX",
         "id": "b7a648bf-2b91-48ce-ac39-fd8599bdb220",
         "title": "Digital Hardware Design Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
