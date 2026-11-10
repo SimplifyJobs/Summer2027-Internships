@@ -286850,7 +286850,7 @@
         "company_name": "Viking Global",
         "id": "77ad91df-64e7-4538-98d7-6c44639adb63",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394266,7 +394266,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "5d700994-d5ab-41f3-9bb8-8b08d9f547fa",
         "title": "Software Engineer Intern - Software Process and Architecture Department - Information Systems and Cyber Division",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406274,7 +406274,7 @@
         "company_name": "Hootsuite",
         "id": "78a45f13-38fa-4431-81c9-b4d182f1a027",
         "title": "Software Developer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
