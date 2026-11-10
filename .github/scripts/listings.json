@@ -250740,7 +250740,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "3f2d6d93-2749-4b8c-a30f-84a3b6db63be",
         "title": "Electrical and Computer Engineer Intern - Miniature Device Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308387,7 +308387,7 @@
         "company_name": "RTX",
         "id": "3d1157f3-209d-4852-9aa5-8ef5c4ab8ab5",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337766,7 +337766,7 @@
         "company_name": "Manulife Financial",
         "id": "544ce77e-7c9e-4a5b-906c-328f44f3e43c",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -337888,7 +337888,7 @@
         "company_name": "Manulife Financial",
         "id": "39dba016-ac2a-4b66-bdf1-5b7797e3756c",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -337911,7 +337911,7 @@
         "company_name": "Manulife Financial",
         "id": "31ef2155-e6cd-42ed-808b-eabb768f73de",
         "title": "AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -343385,7 +343385,7 @@
         "company_name": "Humana",
         "id": "31b313c6-e71a-4292-ae79-85f153472323",
         "title": "Technology Intern - Society of Women Engineers Conference",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397512,7 +397512,7 @@
         "company_name": "T-Mobile",
         "id": "3c1feb51-a55f-4a71-bbde-0564560f67e4",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
