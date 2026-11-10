@@ -230955,7 +230955,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -262252,7 +262252,7 @@
         "company_name": "Klaviyo",
         "id": "90073809-4e42-4a91-9c65-c5750c320aba",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -266047,7 +266047,7 @@
         "company_name": "EquipmentShare",
         "id": "78dea16e-7995-4a4e-89c9-002d993054b1",
         "title": "Electrical Engineering Intern - Embedded",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -271775,7 +271775,7 @@
         "company_name": "Micron Technology",
         "id": "9158832e-544f-42af-af55-12573eabe341",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -307407,7 +307407,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315897,7 +315897,7 @@
         "company_name": "Nebius",
         "id": "b380c306-bed2-4e4a-8c77-71a792a86621",
         "title": "ML Solution Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358883,7 +358883,7 @@
         "company_name": "Meta",
         "id": "b97c016f-9c98-43d8-b626-302f1ee28c77",
         "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361476,7 +361476,7 @@
         "company_name": "BC Pensions",
         "id": "89ac0455-6002-4b33-8ebb-bdf6ef930199",
         "title": "Junior Information Management Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -411295,7 +411295,7 @@
         "company_name": "Klaviyo",
         "id": "7a0fcd2a-9cdd-4832-95ba-6a0989ecb3a3",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
