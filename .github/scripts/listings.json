@@ -241293,7 +241293,7 @@
         "company_name": "Loblaw Companies",
         "id": "50d1f877-b643-482b-b35b-dc03572708d0",
         "title": "Technology Transformation Co-op - Technology Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -253826,7 +253826,7 @@
         "company_name": "L3Harris Technologies",
         "id": "2e345dec-ccc4-4e83-8cbc-336b8290b987",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395564,7 +395564,7 @@
         "company_name": "American Express",
         "id": "2898b74c-bc91-4f06-b910-1d62bdba0c18",
         "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395966,7 +395966,7 @@
         "company_name": "American Express",
         "id": "305f85d5-4a7e-488b-849e-5804911af318",
         "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413190,7 +413190,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "47cdb3e9-c70d-4703-8fc3-385bc01fe015",
         "title": "Global Investment Banking Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
