@@ -216334,7 +216334,7 @@
         "company_name": "Shure",
         "id": "eb02dd97-b6c6-4dbc-94d3-d7db278bf381",
         "title": "Artificial Intelligence Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -232037,7 +232037,7 @@
         "company_name": "Textron",
         "id": "c39efb21-4101-4d94-85ce-fa5a6d78cf0e",
         "title": "Stage automne 2026 \u2013 Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -236857,7 +236857,7 @@
         "company_name": "Marvell",
         "id": "8dd02cc4-88fb-4046-8f93-5fdfada18ccb",
         "title": "Physical Design Engineer Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236938,7 +236938,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -249412,7 +249412,7 @@
         "company_name": "Varian",
         "id": "c40d83aa-df42-49a5-9a8a-96021088f325",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -281425,7 +281425,7 @@
         "company_name": "Nokia",
         "id": "a45f4959-3300-4f05-9ba4-7d53d79277c9",
         "title": "Software Development Co-op - AI Assisted",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -286677,7 +286677,7 @@
         "company_name": "Marvell",
         "id": "8d331a2d-b001-4caa-8b4b-d156010085c0",
         "title": "Digital IC Design Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304268,7 +304268,7 @@
         "company_name": "RTX",
         "id": "8da55ce4-fa14-4294-b424-140c8d3755bc",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -399276,7 +399276,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "b5870ec6-9637-4d19-953b-1a0b79dcf750",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406111,7 +406111,7 @@
         "company_name": "West Monroe",
         "id": "82d52f8a-60a6-470b-abc6-feb1c6b7df89",
         "title": "Software Engineering Consultant Intern - AI Concentration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407303,7 +407303,7 @@
         "company_name": "Amazon",
         "id": "aeab764d-5a2a-4abf-8dc2-c9aef5a4ec51",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Winter 2027",
@@ -411077,7 +411077,7 @@
         "company_name": "Jabil",
         "id": "8d781ddc-c921-4453-97e0-fa7e1cacf002",
         "title": "AI Agent Developer Intern - Supply Chain IT - AI & Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411354,7 +411354,7 @@
         "company_name": "McDonald's",
         "id": "a34749cb-1425-494f-8acb-09f66135961e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
