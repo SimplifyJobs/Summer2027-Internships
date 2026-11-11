@@ -1,374 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "b41faabe-195e-4bbc-b66b-4731be577a2f",
-        "title": "Controls Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671055,
-        "date_posted": 1773671055,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Controls-Application-Engineering-Intern_R5035275-3",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "First Quality",
-        "id": "6ea6b16e-6f67-4bef-aabc-b643e671b0cf",
-        "title": "Manufacturing Systems & Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671054,
-        "date_posted": 1773671054,
-        "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/Salt-Lake-City-UT/Manufacturing-Systems---Data-Analytics-Intern_R10915",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CAE",
-        "id": "36d57d9c-6b6a-4bc4-bc6b-3856eb1552a5",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671036,
-        "date_posted": 1773671036,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Software-Engineering-Intern_118247-1",
-        "locations": [
-            "Arlington, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CAE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accuray",
-        "id": "0e0e7dc8-1be0-4385-a420-8e3f9da3029e",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670165,
-        "date_posted": 1773670165,
-        "url": "https://accuray.wd5.myworkdayjobs.com/external/job/Madison-WI/Data-Science-Intern_3081",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Accuray",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Gamechanger",
-        "id": "f9b9ab74-3f67-4b80-ac64-ad3babd5a72b",
-        "title": "Product Manager Intern - Stats & Insights",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670736,
-        "date_posted": 1773670736,
-        "url": "https://jobs.ashbyhq.com/gamechanger/81fbfa6d-1423-4e0f-90fc-0b6e398b5be9/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gamechanger",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Gamechanger",
-        "id": "d80a81ec-c516-45e6-8461-53b393dbcc6d",
-        "title": "Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670740,
-        "date_posted": 1773670740,
-        "url": "https://jobs.ashbyhq.com/gamechanger/d81cdb3a-8505-42fd-9f25-431d5c548b83/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gamechanger",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Gamechanger",
-        "id": "a4c4e4fb-6888-43ad-bc1a-a77edb81cb95",
-        "title": "Android Software Engineer Intern - Stats and Insights",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670737,
-        "date_posted": 1773670737,
-        "url": "https://jobs.ashbyhq.com/gamechanger/63196fe3-e59b-4f98-842f-d92b3eabc9e5/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gamechanger",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ABC Fitness",
-        "id": "944c43da-5a20-4d93-b7b9-05d826e4de4b",
-        "title": "Oracle SQL Programming Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670781,
-        "date_posted": 1773670781,
-        "url": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Remote-United-States/Oracle-SQL-Programming-Intern_REQ-1194",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ABC-Fitness",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cambridge Mobile Telematics",
-        "id": "46bc7451-9c27-4556-acc2-3a8b15c03343",
-        "title": "Software Engineer Intern - Backend",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670802,
-        "date_posted": 1773670802,
-        "url": "https://job-boards.greenhouse.io/cmt/jobs/7699299",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/CMTelematics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Gamechanger",
-        "id": "07aefafb-6aac-4983-b446-75e445aee1b7",
-        "title": "Software Engineer Intern - Core Services",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670738,
-        "date_posted": 1773670738,
-        "url": "https://jobs.ashbyhq.com/gamechanger/c13c7bc6-8f36-470c-b7de-787919a0c6f8/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gamechanger",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Bootcamp"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "iPipeline",
-        "id": "fa3174c7-e7c5-43bd-82c1-45bb3e3badaf",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670078,
-        "date_posted": 1773670078,
-        "url": "https://careers-ipipeline.icims.com/jobs/1596/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Exton, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/IPipeline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Riverside Research",
-        "id": "c6849a04-bc6e-4ba2-866b-c0ce4af5f33f",
-        "title": "Padawan Systems Security Researcher",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773670114,
-        "date_posted": 1773670114,
-        "url": "https://careers-riversideresearch.icims.com/jobs/4111/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lexington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Riverside-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accuray",
-        "id": "88932839-773b-4af6-9168-4da65a387022",
-        "title": "Business Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670171,
-        "date_posted": 1773670171,
-        "url": "https://accuray.wd5.myworkdayjobs.com/external/job/Madison-WI/Business-Intelligence-Intern_3087",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Accuray",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "S&T Bank",
-        "id": "7c538f2f-5112-4359-a804-b6739653a42c",
-        "title": "Intern-Data",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773670522,
-        "date_posted": 1773670522,
-        "url": "https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Intern-Data_R-1164",
-        "locations": [
-            "Greensburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/ST-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "STCU",
-        "id": "c7a5c5e3-7350-4571-98af-b293f8fcae83",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773669894,
-        "date_posted": 1773669894,
-        "url": "https://jobs.smartrecruiters.com/STCU1/744000114977297",
-        "locations": [
-            "Liberty Lake, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/STCU",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "iPipeline",
-        "id": "921236d9-2321-43c5-b503-c8525e972116",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773669986,
-        "date_posted": 1773669986,
-        "url": "https://careers-ipipeline.icims.com/jobs/1591/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/IPipeline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hewlett Packard (HP)",
         "id": "fb2f2efb-9947-4817-9c95-55b9f9a7a0a0",
@@ -738,29 +370,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DotDash Meredith",
-        "id": "798a6831-5906-4b64-8f77-3537d3a50e34",
-        "title": "Software Engineering Intern - Consumer AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671474,
-        "date_posted": 1773671474,
-        "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Canada---Alberta/Software-Engineering-Intern--Consumer-AI_JR15312",
-        "locations": [
-            "Alberta, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DotDash-Meredith",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -17101,75 +16710,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "330a334d-2594-45eb-a9ef-67b1b06f63b0",
-        "title": "Software / Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773996036,
-        "date_posted": 1773671068,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Software---Systems-Engineering-Intern-2_R5035166-1",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "7439f59d-7849-4135-905d-ac5f88ad7b9b",
-        "title": "Controls Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671049,
-        "date_posted": 1773671049,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Controls-Application-Engineering-Intern_R5035278-3",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "5d81b36e-782f-45df-a048-ba3d5bc7a21c",
-        "title": "Controls Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671055,
-        "date_posted": 1773671055,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Controls-Application-Engineering-Intern_R5035275-2",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -207893,7 +207433,7 @@
         "company_name": "AMD",
         "id": "63f022cb-b4f4-4fd9-869e-9bdd55d6fabe",
         "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -207918,7 +207458,7 @@
         "company_name": "AMD",
         "id": "59aad3fe-5cae-48ca-9e34-608c664e0090",
         "title": "Graphics Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -208432,7 +207972,7 @@
         "company_name": "AMD",
         "id": "640797fc-5abf-4222-9bdb-16b62d09607e",
         "title": "Graphics Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -208457,7 +207997,7 @@
         "company_name": "AMD",
         "id": "874ab97b-4128-4172-bb03-7699b5dbb328",
         "title": "Firmware Engineer Intern/Co-op - Long Term",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -209356,7 +208896,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "7ae242cc-a181-401d-a99a-f3c05c8d9f5b",
         "title": "Artificial Intelligence Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -226903,7 +226443,7 @@
         "company_name": "AMD",
         "id": "68c629c0-ad5e-461a-a2fb-fecaf1808854",
         "title": "AGS Libraries Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334879,7 +334419,7 @@
         "company_name": "AMD",
         "id": "5ce335d6-a3e4-4dff-b52f-116bfd910e8f",
         "title": "Technical Marketing Performance Analysis Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -342719,7 +342259,7 @@
         "company_name": "Covestro",
         "id": "741a3736-0994-46fa-a2e1-80cd78dc6722",
         "title": "Supply Chain Application Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
