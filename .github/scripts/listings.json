@@ -342579,7 +342579,7 @@
         "company_name": "Philips",
         "id": "cd4adf61-4026-464d-8208-c2d4c6258943",
         "title": "Insights and Analytics Intern - Health Systems Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397497,7 +397497,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "b82ef27e-9f0e-4f70-a352-4c20f5888772",
         "title": "Undergraduate Tech Intern - Electrical Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
