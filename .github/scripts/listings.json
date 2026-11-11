@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Julius Baer",
-        "id": "a3d6d7a9-b497-40a9-935f-0e86f4949ce5",
-        "title": "Intern - Data Analytics and Business Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773625245,
-        "date_posted": 1773625245,
-        "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/London/Summer-Internship-2026---Data-Analytics-and-Business-Management-100---f-m-d-_r-18014-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Julius-Baer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Red Bull",
         "id": "5d743a44-1e0a-402b-95e3-8a3ab6fcec8c",
         "title": "Intern Program - Data Science",
@@ -138321,7 +138297,7 @@
         "company_name": "DRW",
         "id": "3054c494-0389-49b7-bf3a-0da5d0c8dca1",
         "title": "AI/ML Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -185014,7 +184990,7 @@
         "company_name": "AMD",
         "id": "3a7a0552-99e6-49df-a934-5f5f8e97109b",
         "title": "Firmware Engineering Intern Co-op - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -185070,7 +185046,7 @@
         "company_name": "AMD",
         "id": "3142b23d-4dfa-443e-82dd-703b3711394b",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -185422,7 +185398,7 @@
         "company_name": "AMD",
         "id": "2b9774d4-2b94-4dc3-9aca-7b5dc857eaa2",
         "title": "Firmware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -249255,7 +249231,7 @@
         "company_name": "Hexagon AB",
         "id": "42986ac3-5294-4881-b427-474d53f9bf74",
         "title": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -296066,7 +296042,7 @@
         "company_name": "Astranis",
         "id": "32ef9b27-5ddd-427b-b7f0-f88b24b7488e",
         "title": "Software Defined Radio Hardware Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304003,7 +303979,7 @@
         "company_name": "Marvell",
         "id": "5320306e-8189-42da-8f41-5a76a8501c36",
         "title": "AMS Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359654,7 +359630,7 @@
         "company_name": "Walrus",
         "id": "502a4d0f-2bc5-4383-a7fe-13ed93bfdcd1",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
