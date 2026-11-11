@@ -1,379 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "fb2f2efb-9947-4817-9c95-55b9f9a7a0a0",
-        "title": "Software Engineer Intern - Cloud Services - HP IQ",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773672338,
-        "date_posted": 1773672338,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineer-Intern--Cloud-Services---HP-IQ_3160773-1",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aptiv",
-        "id": "829b1fe9-6c1f-4405-a168-797d06f34399",
-        "title": "Working Student Vehicle Operator & Data Analytics - Autonomous Driving - f/m/d",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773672693,
-        "date_posted": 1773672693,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Wuppertal-Germany/Working-Student--Vehicle-Operator---Data-Analytics---Autonomous-Driving--f-m-d-_J000694443",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "74eae9bb-805c-44b1-8c3b-8942e154d6ab",
-        "title": "Discrete Graphics Board Design Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773672873,
-        "date_posted": 1773672873,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Discrete-Graphics-Board-Design-Intern_JR0281306",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rochester Regional Health",
-        "id": "77d22529-9b67-4088-8b35-4fd46712f19e",
-        "title": "RIT Intern/Co-op: Web Applications",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773672495,
-        "date_posted": 1773672495,
-        "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Web-Applications_REQ_230269",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Rochester-Regional-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "64c8d9dc-bc95-428c-ba90-182adf5dbae4",
-        "title": "NPI Process and Tooling Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773672380,
-        "date_posted": 1773672380,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Corvallis-Oregon-United-States-of-America/NPI-Process-and-Tooling-Engineer_3158575-1",
-        "locations": [
-            "Corvallis, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "1358d9a6-4b44-4df3-8cd5-c72ed79fac56",
-        "title": "College Intern - AI Business Applications Support",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773672376,
-        "date_posted": 1773672376,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/College-Intern---AI-Business-Applications-Support_UNI2539-1",
-        "locations": [
-            "Spring, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "0168a670-5ea8-4bee-869b-1e7cef9a3644",
-        "title": "Workforce Services and Solutions Technical Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1773672382,
-        "date_posted": 1773672382,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Workforce-Services-and-Solutions-Technical-Internship_3156854-1",
-        "locations": [
-            "Spring, TX",
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "f2003bcd-3a85-486f-ab57-496ec1a066b8",
-        "title": "Graduate Web Developer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773672352,
-        "date_posted": 1773672352,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Web-Developer--1-year-Placement_3159344-1",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "bec5b67e-72e7-4d19-996b-860ea1746778",
-        "title": "Cryptography Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773672360,
-        "date_posted": 1773672360,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Bristol-Bristol-City-of-United-Kingdom/Cryptography-Intern_UNI3783-1",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "75573ad8-3596-44a9-b8b0-4cb038c496e5",
-        "title": "Software Engineering Intern - HP IQ",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773672357,
-        "date_posted": 1773672357,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences---HP-IQ_3160497-1",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "68e0f4f7-a759-4ad0-b621-9e31a714f39f",
-        "title": "Browser Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773672342,
-        "date_posted": 1773672342,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Starz",
-        "id": "f67b677f-7145-4c44-a198-40105d0b81e4",
-        "title": "Starz Intern - Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671874,
-        "date_posted": 1773671874,
-        "url": "https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Software-Development_JR100319",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Starz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Starz",
-        "id": "f2559d55-5ec3-417b-a6b5-eb63cab66a7b",
-        "title": "Starz Intern - Software Development-Streaming Video",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671873,
-        "date_posted": 1773671873,
-        "url": "https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Software-Development-Streaming-Video_JR100333",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Starz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Starz",
-        "id": "f1f4963b-bdbe-4d7d-8189-3ea0014cd978",
-        "title": "Starz Intern - Content Insights",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671870,
-        "date_posted": 1773671870,
-        "url": "https://starz.wd5.myworkdayjobs.com/Starz/job/New-York-NY/STARZ-Intern--Content-Insights_JR100336",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Starz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Starz",
-        "id": "c92e5011-0bea-4189-96e4-498f5bb18211",
-        "title": "Starz Intern - Data Products & Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773671866,
-        "date_posted": 1773671866,
-        "url": "https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Data-Products---Engineering_JR100318",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Starz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jackson",
-        "id": "b2b4ebdd-5f3d-4b94-87e7-cb1cdf8bba2f",
-        "title": "Strategic Support Associate - Data and Artificial Intelligence",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773671707,
-        "date_posted": 1773671707,
-        "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Strategic-Support-Associate--Data-and-Artificial-Intelligence_REQ-03681-2",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Jackson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Vernova",
         "id": "e8745c15-b66a-4f8b-bb8d-03336f196acd",
@@ -599,75 +226,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/ABC-Fitness",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accuray",
-        "id": "b78af2bb-f010-4a36-99cc-2e8451422b34",
-        "title": "Business Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773673101,
-        "date_posted": 1773673101,
-        "url": "https://accuray.wd5.myworkdayjobs.com/external/job/Madison-WI/Business-Intelligence-Intern_3082",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Accuray",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amentum",
-        "id": "a5240604-dec9-4801-9d59-f0cc0cededf4",
-        "title": "Engineering Data Tools Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773673002,
-        "date_posted": 1773673002,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Cocoa-Beach/Engineering-Data-Tools-Developer-Intern_R0156300",
-        "locations": [
-            "Merritt Island, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "fee39cac-9618-4bee-8ac5-0353cd9987f6",
-        "title": "Hardware Engineering \u2013 Radio Frequency Intern - HP IQ",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773672337,
-        "date_posted": 1773672337,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Hardware-Engineering--Radio-Frequency-Intern---HP-IQ_3160779-2",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -20926,32 +20484,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "1b55e4c6-d1d8-4f1d-afbc-52357b131ae9",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773672349,
-        "date_posted": 1773672349,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1",
-        "locations": [
-            "Spring, TX",
-            "Corvallis, OR",
-            "Vancouver, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -54824,30 +54356,6 @@
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/HyannisPortResearch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Apptronik",
-        "id": "c2c6b014-11ef-40ee-9f38-a1e05b196b1d",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1776464281,
-        "date_posted": 1773671733,
-        "url": "https://boards.greenhouse.io/apptronik/jobs/5828414004",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apptronik",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -207314,7 +206822,7 @@
         "company_name": "AMD",
         "id": "b6cba04b-4f5c-4090-9c6a-a30355318e86",
         "title": "Hardware Design Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -207362,7 +206870,7 @@
         "company_name": "AMD",
         "id": "a6f23904-d00a-4120-80ac-c94cce07abcb",
         "title": "Firmware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -208020,7 +207528,7 @@
         "company_name": "AMD",
         "id": "93957738-d6d4-434f-bafe-6286a5b454d8",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -312119,7 +311627,7 @@
         "company_name": "Regeneron Pharmaceuticals",
         "id": "9bb48f7f-80ad-4eca-8055-cc250ab3295f",
         "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -408331,7 +407839,7 @@
         "company_name": "7-Eleven",
         "id": "c7ab76aa-55a7-4283-bba4-e4f368c17bd5",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
