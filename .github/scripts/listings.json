@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sprinklr",
-        "id": "8af1b618-93c9-4f63-a1ae-56bf8efbc475",
-        "title": "Product Operations Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773656246,
-        "date_posted": 1773656246,
-        "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Remote/Product-Operations-Summer_112787-JOB-1",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/Sprinklr",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Vernova",
         "id": "b41faabe-195e-4bbc-b66b-4731be577a2f",
@@ -217238,7 +217215,7 @@
         "company_name": "Eaton",
         "id": "bb18db16-00f5-47bf-bcc1-72fa233f144d",
         "title": "Engineering Technology Intern - Embedded Systems - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -253342,7 +253319,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8b0a740d-2bc2-458a-94e9-f75262d21d36",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -268274,7 +268251,7 @@
         "company_name": "Tesla",
         "id": "8d49edaf-5e5e-49b5-8b0e-1c75d2c04f76",
         "title": "Computer Vision Engineer Intern - Cell Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -271086,7 +271063,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -349261,7 +349238,7 @@
         "company_name": "Electronic Arts",
         "id": "ccb6fb57-95e6-45f3-b6e4-93a10bae4773",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359847,7 +359824,7 @@
         "company_name": "Astera Labs",
         "id": "93293229-4e3a-48c9-8204-6108c3325ea7",
         "title": "Data Analyst New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388344,7 +388321,7 @@
         "company_name": "Molina Healthcare",
         "id": "c379f2bc-bd24-4ec2-80f8-add6ca4684bb",
         "title": "Quality Improvement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -414417,6 +414394,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anduril",
+        "id": "bad6f9e8-fe91-4660-93ea-5cd96b5e822d",
+        "title": "Finance Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794392498,
+        "date_posted": 1792534691,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
