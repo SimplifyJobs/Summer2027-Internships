@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 3713 Inactive Internship Roles by Category
+### Browse 3715 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1288)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (245)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1304)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1305)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (289)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (587)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (588)
 
 ---
 
@@ -316,7 +316,7 @@
 <td>Software Engineer Intern</td>
 <td>Clearwater, FL</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Epic-Games?utm_source=GHList&utm_medium=company">Epic Games</a></strong></td>
@@ -9143,7 +9143,7 @@
 <td>Associate Product Manager Intern</td>
 <td>Clearwater, FL</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pyrotek?utm_source=GHList&utm_medium=company">Pyrotek</a></strong></td>
@@ -11179,6 +11179,13 @@
 <td>↳</td>
 <td>Data Science & Digital Innovation Intern - Industrial Operations and Product Supply</td>
 <td>Rensselaer, NY</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Data Analytics Intern - Dashboards & Business Process Automation</td>
+<td>Armonk, NY<br>Warren, NJ<br>Tarrytown, NY</td>
 <td>🔒</td>
 <td>14d</td>
 </tr>
@@ -23399,6 +23406,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Digital IC Design Intern - BS</td>
+<td><details><summary><strong>5 locations</strong></summary>Hudson Valley, NY<br>Austin, TX<br>Irvine, CA<br>Santa Clara, CA<br>Boise, ID</details></td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Digital IC Design Intern - MS - Multiple Teams 🎓</td>
 <td><details><summary><strong>5 locations</strong></summary>Hudson Valley, NY<br>Austin, TX<br>Irvine, CA<br>Santa Clara, CA<br>Boise, ID</details></td>
 <td>🔒</td>
@@ -24449,13 +24463,6 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Physical Design Engineer Intern - MS - Multiple Teams 🎓</td>
-<td><details><summary><strong>7 locations</strong></summary>Morrisville, NC<br>Austin, TX<br>Rochester, MN<br>Santa Clara, CA<br>Boise, ID<br>Burlington, VT<br>Westborough, MA</details></td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Firmware Engineer Intern 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
@@ -24549,6 +24556,13 @@
 <td>↳</td>
 <td>Design Verification Intern - MS 🎓</td>
 <td><details><summary><strong>5 locations</strong></summary>Morrisville, NC<br>Austin, TX<br>Santa Clara, CA<br>Boise, ID<br>Westborough, MA</details></td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Physical Design Engineer Intern - MS - Multiple Teams 🎓</td>
+<td><details><summary><strong>7 locations</strong></summary>Morrisville, NC<br>Austin, TX<br>Rochester, MN<br>Santa Clara, CA<br>Boise, ID<br>Burlington, VT<br>Westborough, MA</details></td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>

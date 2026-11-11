@@ -7,17 +7,17 @@
 
 ---
 
-### Browse 1563 Internship Roles by Category
+### Browse 1561 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (512)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (104)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (622)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (621)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (61)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (264)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (263)
 
 ---
 
@@ -266,7 +266,7 @@
 <td>Software Engineer Intern</td>
 <td>San Diego, CA</td>
 <td><div align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ee2563b2-9b6b-44b2-9c70-3a8e4b9284da?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Biodesix?utm_source=GHList&utm_medium=company">Biodesix</a></strong></td>
@@ -721,7 +721,7 @@
 <td>Renewable Energy Intern</td>
 <td>Houston, TX</td>
 <td><div align="center"><a href="https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b1426836-12a4-4ad5-8a7f-bea74b0446eb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Figma?utm_source=GHList&utm_medium=company">Figma</a></strong></td>
@@ -5372,7 +5372,7 @@
 <td>Data Science and Innovation Intern</td>
 <td>Springfield, VA<br>Reston, VA</td>
 <td><div align="center"><a href="https://careers.noblis.org/jobs/28097?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7274511d-039e-4c72-8752-a5ed8b0d3a57?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company">Intuitive Surgical</a></strong></td>
@@ -5816,13 +5816,6 @@
 <td>14d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Regeneron-Pharmaceuticals?utm_source=GHList&utm_medium=company">Regeneron Pharmaceuticals</a></strong></td>
-<td>Data Analytics Intern - Dashboards & Business Process Automation</td>
-<td>Armonk, NY<br>Warren, NJ<br>Tarrytown, NY</td>
-<td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c6e23a15-483d-4f98-9251-ded86e7eac63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Indianapolis?utm_source=GHList&utm_medium=company">Federal Home Loan Bank of Indianapolis</a></strong></td>
 <td>MPP Data Analytics Intern</td>
 <td>Indianapolis, IN</td>
@@ -5913,6 +5906,13 @@
 <td><div align="center"><a href="https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bebe39ec-51e4-49ac-8140-30e86577ef9c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>15d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/The-Federal-Reserve-System?utm_source=GHList&utm_medium=company">The Federal Reserve System</a></strong></td>
+<td>REIN Data Intern</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f0aa1ea-dfb4-4cfb-8224-5f3d9fd07cf0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>15d</td>
+</tr>
 
 </tbody>
 </table>
@@ -5939,13 +5939,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/The-Federal-Reserve-System?utm_source=GHList&utm_medium=company">The Federal Reserve System</a></strong></td>
-<td>REIN Data Intern</td>
-<td>Atlanta, GA</td>
-<td><div align="center"><a href="https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f0aa1ea-dfb4-4cfb-8224-5f3d9fd07cf0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nissan-Global?utm_source=GHList&utm_medium=company">Nissan Global</a></strong></td>
 <td>Research Application Intern 🎓</td>
@@ -8855,7 +8848,7 @@
 </table>
 
 
-🔒 **[See 1304 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 1305 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -10949,13 +10942,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Digital IC Design Intern - BS</td>
-<td><details><summary><strong>5 locations</strong></summary>Hudson Valley, NY<br>Austin, TX<br>Irvine, CA<br>Santa Clara, CA<br>Boise, ID</details></td>
-<td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d72a211e-044f-49a3-86c1-7b6b5c9fa66e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Embedded and Systems Engineering Intern - Digital Product</td>
 <td><details><summary><strong>4 locations</strong></summary>Austin, TX<br>Milford, MI<br>Mountain View, CA<br>Warren, MI</details></td>
@@ -11176,7 +11162,7 @@
 </table>
 
 
-🔒 **[See 587 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 588 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

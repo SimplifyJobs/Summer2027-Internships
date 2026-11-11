@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 647 Internship Roles by Category
+### Browse 645 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (208)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (207)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (44)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (212)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (211)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (11)
 
@@ -169,7 +169,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Remote in Canada</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8360001?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/faad46fb-4a38-4d46-bb1e-b33eec2a1bfa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
@@ -177,7 +177,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Santa Rosa, CA<br>Calabasas, CA</td>
 <td>Fall 2027</td>
 <td><div align="center"><a href="https://jobs.keysight.com/jobs/54739?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4b21b691-3465-4007-add7-aeb6cdb3ba00?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
@@ -929,14 +929,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://kinaxis.jibeapply.com/jobs/35372?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/51b69e29-80a2-4a17-87c3-a36e80ef1b10?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Solink?utm_source=GHList&utm_medium=company">Solink</a></strong></td>
-<td>Software Engineer Co-op - Agents</td>
-<td>Ottawa, ON, Canada<br>Remote in Canada</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/eea4ff21-9352-4ee4-a01b-10830a6c73cd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -1744,7 +1736,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1393)</summary>
+<summary>🗃️ Inactive roles (1394)</summary>
 
 <table>
 <thead>
@@ -2299,6 +2291,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Software Engineer Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2027</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Solink?utm_source=GHList&utm_medium=company">Solink</a></strong></td>
+<td>Software Engineer Co-op - Agents</td>
+<td>Ottawa, ON, Canada<br>Remote in Canada</td>
+<td>Winter 2026</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -14011,6 +14011,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
+<td>Product Management Intern - Global Asset Management</td>
+<td>Toronto, ON, Canada</td>
+<td>Winter 2027, Spring 2027</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 
 </tbody>
 </table>
@@ -14037,14 +14045,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
-<td>Product Management Intern - Global Asset Management</td>
-<td>Toronto, ON, Canada</td>
-<td>Winter 2027, Spring 2027</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eudia?utm_source=GHList&utm_medium=company">Eudia</a></strong></td>
 <td>Product Intern</td>
@@ -15271,14 +15271,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Needham, MA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Data-Engineering-Co-op--Needham--MA---January-May-2027_R000109902?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/47c3c751-3105-4a4f-b082-e478747a865c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/BlackBerry?utm_source=GHList&utm_medium=company">Blackberry</a></strong></td>
-<td>Marketing Data & AI Analyst Intern</td>
-<td>Waterloo, ON, Canada</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e2e8b457-9143-4eb9-84fb-e69c9e851644?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -16902,7 +16894,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1799)</summary>
+<summary>🗃️ Inactive roles (1800)</summary>
 
 <table>
 <thead>
@@ -16916,6 +16908,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/BlackBerry?utm_source=GHList&utm_medium=company">Blackberry</a></strong></td>
+<td>Marketing Data & AI Analyst Intern</td>
+<td>Waterloo, ON, Canada</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Data Analyst Intern</td>
@@ -32469,7 +32469,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Calabasas, CA</td>
 <td>Fall 2027</td>
 <td><div align="center"><a href="https://jobs.keysight.com/jobs/55276?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/93c70e55-fdf9-4720-a4f7-a7e8958e0a75?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LunarEnergy?utm_source=GHList&utm_medium=company">Lunar Energy</a></strong></td>
