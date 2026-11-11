@@ -1,51 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sprinklr",
-        "id": "f115de81-5d6d-4c17-a247-433963cb5381",
-        "title": "AI & Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773654596,
-        "date_posted": 1773654596,
-        "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Austin/AI---Automation-Intern_112798-JOB-1",
-        "locations": [
-            "Austin, TX",
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/Sprinklr",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SOTI",
-        "id": "fba6db2c-f7c1-4422-98ec-b2d6c526dbb4",
-        "title": "Associate Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773654096,
-        "date_posted": 1773654096,
-        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern---SOTI-XSight--May-2026---12-months-_R09454",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/SOTI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Sprinklr",
         "id": "8af1b618-93c9-4f63-a1ae-56bf8efbc475",
@@ -271131,7 +271086,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393148,7 +393103,7 @@
         "company_name": "Paccar",
         "id": "3a491712-efae-41c7-9cf5-9e0c3367e9e1",
         "title": "AI-Driven Vehicle Definition Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393692,7 +393647,7 @@
         "company_name": "Samsung",
         "id": "37fdec6d-3460-4884-9a67-c3563730d3cf",
         "title": "AI Application Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -414435,6 +414390,29 @@
             "Manassas, VA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trilogy Health Services",
+        "id": "76a595e0-ce67-4310-b97a-58c8e96f4b04",
+        "title": "Value Based Care Finance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794390892,
+        "date_posted": 1793629200,
+        "url": "https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Trilogy-Health-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
