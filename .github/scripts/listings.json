@@ -1,334 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kyndryl",
-        "id": "203101fa-f76d-4388-9d3f-77004de39c42",
-        "title": "CIO Data & AI Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701796,
-        "date_posted": 1773701796,
-        "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Rye-Brook-NY-USA/CIO-Data---AI-Analyst-Intern_R-58884",
-        "locations": [
-            "Greenwich, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Kyndryl",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vertex Pharmaceuticals",
-        "id": "dd0dcae5-8655-4c37-bb3a-246416461db7",
-        "title": "Vertex Co-op - G&A Treasury Applications",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701419,
-        "date_posted": 1773701419,
-        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--G-A-Treasury-Applications_REQ-28422-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NVIDIA",
-        "id": "ce266449-f174-4e95-9f51-75c143d76a53",
-        "title": "Product Management Intern - Highway Driving and Active Safety",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701382,
-        "date_posted": 1773701382,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Intern--Highway-Driving-and-Active-Safety---Summer-2026_JR2011983",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "EverCommerce",
-        "id": "ab82a933-e2de-4b32-9741-3d623948b5ae",
-        "title": "Everpro \u2013 AI Platform Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701509,
-        "date_posted": 1773701509,
-        "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---AI-Platform-Internship--Remote--US-_R-105906",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EverCommerce",
-        "id": "54162b39-6aee-41c4-9c52-e0a376f24789",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701506,
-        "date_posted": 1773701506,
-        "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverHealth---Data-Analyst-Internship--Remote--US-_R-105918",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sun Life",
-        "id": "28ed6ebe-eb8c-400b-af6a-76c61c45dbc1",
-        "title": "Student Campaign Data Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701446,
-        "date_posted": 1773701446,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Campaign-Data-Analyst--Summer-2026-_JR00121377",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Gen",
-        "id": "ce3dcfbd-86bd-46b5-a6fc-639f4341929d",
-        "title": "Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701306,
-        "date_posted": 1773701306,
-        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Intern--Software-Engineering---Summer-Internship_55246",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Fiserv",
-        "id": "c3e44fb6-2b93-4492-a048-4f8b856493e0",
-        "title": "MBA Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701273,
-        "date_posted": 1773701273,
-        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/New-York-New-York/MBA-Intern_R-10385840",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Fiserv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "BP",
-        "id": "ca618cfe-c559-4859-925e-38acbf2c57fc",
-        "title": "Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701093,
-        "date_posted": 1773701093,
-        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Analytics---Houston--TX_RQ099131-2",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/BP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "State Street",
-        "id": "b6cd5bdd-172e-4abc-be0c-306e588dcc8a",
-        "title": "Alpha Inkind Product Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1773701092,
-        "date_posted": 1773701092,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alpha-Inkind-Product-6-Months-Full-time-Internship--Jul--Dec-2026-_R-786054",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Franklin Templeton",
-        "id": "a11c7740-f6fd-4b38-b0a6-aa03acd286db",
-        "title": "Fiduciary Trust AI - Data and Process Optimization",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773700794,
-        "date_posted": 1773700794,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/New-York-City-New-York-United-States-of-America/Fiduciary-Trust-AI--Data--and-Process-Optimization_867094",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Environmental Defense Fund",
-        "id": "8033cb77-8e47-44c9-b515-1f4c48e08e4e",
-        "title": "Blue Carbon GIS Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773700604,
-        "date_posted": 1773700604,
-        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Washington-DC/Blue-Carbon-GIS-intern_REQ-002336",
-        "locations": [
-            "Boston, MA",
-            "Washington, DC",
-            "SF",
-            "Austin, TX",
-            "Raleigh, NC",
-            "NYC",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Federal Reserve System",
-        "id": "0c86cfb3-6d20-4de6-a83a-ca0b297c4b54",
-        "title": "Supervision \u2013 And Statistics Intern - Credit Risk",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773700691,
-        "date_posted": 1773700691,
-        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Supervision--Credit-Risk--and-Statistics-Intern-2026_R-0000031725",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sony Pictures Entertainment",
-        "id": "59be43de-64ae-4f35-8690-037aa45f7373",
-        "title": "Intern AI Enablement",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773700458,
-        "date_posted": 1773700458,
-        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--AI-Enablement---Summer-2026_JR111804",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Pictures-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Motors",
         "id": "c94527a7-ada9-4119-a183-b8743a1c591d",
@@ -350,95 +22,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ingram Micro",
-        "id": "bc3b513e-53ec-42a8-8cde-f4b6ccdbf8f3",
-        "title": "Intern - Data Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773702044,
-        "date_posted": 1773702044,
-        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Williamsville-NY-United-States-of-America/Summer-Intern---Data-Analyst_R-114117",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Exact Sciences",
-        "id": "810b9db7-82c1-429c-910f-a49ccd2deb8f",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701862,
-        "date_posted": 1773701862,
-        "url": "https://exactsciences.wd1.myworkdayjobs.com/en-CA/Exact_Sciences/job/US---CA---San-Diego/Software-Engineer-Intern---Summer-2026_R26-12810",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Menasha Corporation",
-        "id": "289a1270-1f21-4687-889b-0ec50d8fb292",
-        "title": "Structural Design Intern - Month Contract",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773701999,
-        "date_posted": 1773701999,
-        "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Brampton-Ontario/Structural-Design-Intern_R13188",
-        "locations": [
-            "Brampton, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Menasha-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ingram Micro",
-        "id": "124294e5-65b8-45e2-8452-7d8c1427c6a8",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773702048,
-        "date_posted": 1773702048,
-        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Irvine-CA-United-States-of-America/Summer-Intern---Systems-Analyst_R-114121",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -15453,52 +15036,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DotDash Meredith",
-        "id": "990b1f6e-49ed-4eb6-9175-1e02a3311a18",
-        "title": "Enterprise Solutions Apprentice",
-        "active": false,
-        "terms": [
-            "Fall 2026",
-            "Spring 2027"
-        ],
-        "date_updated": 1773700340,
-        "date_posted": 1773700340,
-        "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Des-Moines-IA---1716-Locust-Street/Enterprise-Solutions-Apprentice_JR15309",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/DotDash-Meredith",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Generac",
-        "id": "608da533-acf4-482b-837e-a5701efb1426",
-        "title": "Intern IT \u2013 Application Development - Data Integration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773700334,
-        "date_posted": 1773700334,
-        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-IT---Application-Development--Data-Integration_JR12491",
-        "locations": [
-            "Waukesha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Generac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -167117,7 +166654,7 @@
         "company_name": "Quantbot Technologies",
         "id": "c0bc8e2c-204a-461b-bd1b-7d720fbcbd77",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356604,7 +356141,7 @@
         "company_name": "Hitachi",
         "id": "94057ce1-d225-4aad-9dbd-a1095973d2aa",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398951,7 +398488,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "a4233b72-1227-4406-b3ca-1f72439998a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411083,7 +410620,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "8fc5dfae-9745-459b-8c40-2c93d630e074",
         "title": "ASIC/FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
