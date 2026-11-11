@@ -718,6 +718,13 @@
 <td>20d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Aurora, CO</td>
+<td>🔒</td>
+<td>20d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Cyber Software Engineer Intern</td>
 <td>San Antonio, TX</td>
@@ -2282,13 +2289,6 @@
 <td><strong><a href="https://simplify.jobs/c/Grow-Therapy?utm_source=GHList&utm_medium=company">Grow Therapy</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Rippling?utm_source=GHList&utm_medium=company">Rippling</a></strong></td>
-<td>Software Engineer Intern - Backend Focused</td>
-<td>Seattle, WA<br>SF<br>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
