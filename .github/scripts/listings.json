@@ -253401,7 +253401,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f4d6d386-99a1-4498-b1c0-beb1c2d1019d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -301662,7 +301662,7 @@
         "company_name": "Astranis",
         "id": "8eeb372b-13d5-497c-8d3f-c96c730285c9",
         "title": "RF Validation Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -305817,7 +305817,7 @@
         "company_name": "Qualcomm",
         "id": "f478095f-4d9f-407a-8d22-d320f0186e98",
         "title": "Soft IP ASIC Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
