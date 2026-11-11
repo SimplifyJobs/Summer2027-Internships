@@ -216334,7 +216334,7 @@
         "company_name": "Shure",
         "id": "eb02dd97-b6c6-4dbc-94d3-d7db278bf381",
         "title": "Artificial Intelligence Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236967,7 +236967,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -277556,7 +277556,7 @@
         "company_name": "Garmin",
         "id": "51cf3d3e-0806-455c-933f-ca151601a136",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -286530,7 +286530,7 @@
         "company_name": "Marvell",
         "id": "7cc624ba-7ee7-48f0-bddc-e6d5e064f6f9",
         "title": "Digital IC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286704,7 +286704,7 @@
         "company_name": "Marvell",
         "id": "5cea235d-5221-4084-b43e-f96fc1894a55",
         "title": "Digital IC Design Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -328933,7 +328933,7 @@
         "company_name": "MSA Safety",
         "id": "7e68ac6d-e42d-4ba4-9cdf-eb5b44a8c6e4",
         "title": "Electrical Engineering Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -358012,7 +358012,7 @@
         "company_name": "Walrus",
         "id": "502a4d0f-2bc5-4383-a7fe-13ed93bfdcd1",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380985,7 +380985,7 @@
         "company_name": "West Monroe",
         "id": "67af29a3-58ac-47dc-9fc4-c94be1828e2f",
         "title": "Software Engineering Consultant Intern - AI Concentration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383577,7 +383577,7 @@
         "company_name": "AECOM",
         "id": "885be8ec-ef4d-460f-bb51-b7108e24caa9",
         "title": "Digital Engineering Intern - BIM",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386915,7 +386915,7 @@
         "company_name": "Revvity",
         "id": "517d70ad-eccf-44be-962c-c6a788b7586f",
         "title": "Full-stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386959,7 +386959,7 @@
         "company_name": "Revvity",
         "id": "5ba7abe9-2d79-4545-bf19-86a8922263a2",
         "title": "Full-stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387024,7 +387024,7 @@
         "company_name": "Revvity",
         "id": "6d51e305-a7d0-429d-874d-0a40bf6ae0ac",
         "title": "Full-stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387045,7 +387045,7 @@
         "company_name": "Revvity",
         "id": "5e31e55c-12d3-40f3-9f04-cc3c3d9b5139",
         "title": "Full-stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411146,7 +411146,7 @@
         "company_name": "McDonald's",
         "id": "80c6e6ac-d2b1-4b56-a312-b3ba9150ec5e",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
