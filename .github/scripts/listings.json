@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Centific",
-        "id": "98f820c9-26b4-41a2-b8ac-0b5377f315dd",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773624160,
-        "date_posted": 1773624160,
-        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/New-York-City-New-York/Data-Science-Intern_JR106677-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Centific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Julius Baer",
         "id": "a3d6d7a9-b497-40a9-935f-0e86f4949ce5",
         "title": "Intern - Data Analytics and Business Management",
@@ -42,29 +21,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "GoFundMe",
-        "id": "d4300aa9-d8f7-4a3b-aa96-90782a3e8213",
-        "title": "Product Management Intern - Undergraduate",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773624563,
-        "date_posted": 1773624563,
-        "url": "https://job-boards.greenhouse.io/gofundme/jobs/7712317",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/GoFundMe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -185309,7 +185265,7 @@
         "company_name": "AMD",
         "id": "077623be-fd6b-4225-a9ec-9d56b4c17a64",
         "title": "Product Development Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -185335,7 +185291,7 @@
         "company_name": "AMD",
         "id": "0446e9d0-fc91-4c78-970a-fe7b5809cd30",
         "title": "Firmware Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -185361,7 +185317,7 @@
         "company_name": "AMD",
         "id": "212a153a-1fd0-4d17-a022-c1db71569fd9",
         "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -288839,7 +288795,7 @@
         "company_name": "AMD",
         "id": "0d31c6d5-14e5-44e6-8018-c466302d681e",
         "title": "AI Research Infrastructure \u2013 Reinforcement Learning Post-Training Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403293,7 +403249,7 @@
         "company_name": "CareSource",
         "id": "14b94b0f-6bb3-4494-8ba0-ac642f092799",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
