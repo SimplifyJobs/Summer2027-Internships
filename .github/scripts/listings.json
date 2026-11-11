@@ -206826,7 +206826,7 @@
         "company_name": "AMD",
         "id": "1ba21039-d057-4cd1-9345-07562dad6ad0",
         "title": "Firmware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -206851,7 +206851,7 @@
         "company_name": "AMD",
         "id": "0494b1ec-0437-4a60-92c9-cd379693aae3",
         "title": "Diagnostics Design Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -215555,7 +215555,7 @@
         "company_name": "AMD",
         "id": "01929cf0-26d4-4cd4-a5da-3d08a8e72180",
         "title": "Analog and Mixed Signal Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236777,7 +236777,7 @@
         "company_name": "Marvell",
         "id": "09fd06f3-ffee-4273-adf4-17b10e35aa2f",
         "title": "Design Verification Intern - BS - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -248105,7 +248105,7 @@
         "company_name": "Pilot Company",
         "id": "21e88e05-60ca-43a9-a5d8-cb87a20fd268",
         "title": "Revenue Growth Management Intern - Revenue Growth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -252423,7 +252423,7 @@
         "company_name": "The MJ Companies",
         "id": "1307add2-6463-4f8d-ba8b-6c10196c7d64",
         "title": "Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311001,7 +311001,7 @@
         "company_name": "Quantinuum",
         "id": "044397ca-d972-4c9b-820f-fefcdd59289e",
         "title": "R&D PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -351461,7 +351461,7 @@
         "company_name": "Nuovo Photography",
         "id": "0a7f7f6a-3e82-4b4f-aa8e-eade2c83a8b6",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -401349,7 +401349,7 @@
         "company_name": "Baringa",
         "id": "15807230-9168-4124-a941-9155bd08a632",
         "title": "Solutions AI Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
