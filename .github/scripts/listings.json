@@ -301685,7 +301685,7 @@
         "company_name": "Astranis",
         "id": "618eaea1-781c-48c1-ad89-21e42cd12dfc",
         "title": "RF Validation Associate - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319446,7 +319446,7 @@
         "company_name": "Insulet",
         "id": "877a9341-f1cf-4811-b50f-994e93d1791e",
         "title": "R&D Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -365053,7 +365053,7 @@
         "company_name": "OATEY",
         "id": "6eb16fc5-50ab-4251-b615-bdd684a38012",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378791,7 +378791,7 @@
         "company_name": "Quadric",
         "id": "769f3e01-48d4-4918-acae-525b67212820",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386864,7 +386864,7 @@
         "company_name": "DRW",
         "id": "682fb06a-92cd-49dc-9d4b-15680c9f6d36",
         "title": "AI/ML Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394737,7 +394737,7 @@
         "company_name": "Resideo",
         "id": "7358be13-bdfe-4e65-a931-2e842c76a8c3",
         "title": "Mobile Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394785,7 +394785,7 @@
         "company_name": "Resideo",
         "id": "711d6384-7fdd-499a-b385-531aa8968393",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394833,7 +394833,7 @@
         "company_name": "Resideo",
         "id": "79843752-f9b8-4cb9-8ddd-379c0fa9fc96",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403566,7 +403566,7 @@
         "company_name": "AMD",
         "id": "72900951-a76b-448d-8278-9de0b2f06e1f",
         "title": "Masters High-Speed SerDes and Optical Interconnect Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414277,6 +414277,232 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "69fc016e-5ad7-44cf-b4a2-2659826b2808",
+        "title": "Software Developer Intern - IT Apps",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794364049,
+        "date_posted": 1794363974,
+        "url": "https://www.tesla.com/careers/search/job/289683",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "ffd39d30-42ea-42da-af1b-347fc146a71a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794362953,
+        "date_posted": 1794268800,
+        "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bask Health",
+        "id": "9d5b1383-ff73-4c8f-b6f4-0197c46a6c9f",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794362942,
+        "date_posted": 1794362779,
+        "url": "https://apply.workable.com/bask-health-1/j/AAE5145A49/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bask Health",
+        "id": "40151081-f06e-4823-8d53-15be2481f657",
+        "title": "Patient Experience Product Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794362942,
+        "date_posted": 1794362779,
+        "url": "https://apply.workable.com/bask-health-1/j/90535FE8AA/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bask Health",
+        "id": "21435415-ed4c-40c2-9b2f-16516ed2a96b",
+        "title": "Product Operations Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794362942,
+        "date_posted": 1794362779,
+        "url": "https://apply.workable.com/bask-health-1/j/69C7B282BF/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bask Health",
+        "id": "f3a25bd1-c74d-4b78-9c39-1b62e82ce6d1",
+        "title": "Merchant Experience Product Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794362942,
+        "date_posted": 1794362780,
+        "url": "https://apply.workable.com/bask-health-1/j/62A0C615A5/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bask Health",
+        "id": "c1b5b8bc-5c6a-4f51-b2ed-4274bda5ec69",
+        "title": "AI Product Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794362942,
+        "date_posted": 1794362779,
+        "url": "https://apply.workable.com/bask-health-1/j/9D7E69054E/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "f6f476c2-5053-433d-91b6-ffe423294891",
+        "title": "Electrical Engineer Intern - Hardware Test",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794362894,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/shield/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "6f56f938-52a1-426d-a979-45b4ab73ed2c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794362764,
+        "date_posted": 1790121600,
+        "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "10be2e60-c579-4804-8665-b9ea32e009ab",
+        "title": "Software Engineer Intern Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794362907,
+        "date_posted": 1793836800,
+        "url": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
