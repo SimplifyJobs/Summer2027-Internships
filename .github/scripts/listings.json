@@ -225279,7 +225279,7 @@
         "company_name": "Tesla",
         "id": "12247a72-6063-4576-b5d2-843c6d5139c0",
         "title": "Electrical Design Engineer Intern - Vehicle Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -347667,7 +347667,7 @@
         "company_name": "Electronic Arts",
         "id": "3040c492-d83d-4c3a-ba12-bfc0edc75a1f",
         "title": "UI Scripter Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393692,7 +393692,7 @@
         "company_name": "Samsung",
         "id": "37fdec6d-3460-4884-9a67-c3563730d3cf",
         "title": "AI Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397267,7 +397267,7 @@
         "company_name": "Electronic Arts",
         "id": "1bc20c6e-0eb9-4303-9f38-13bb3df03fa8",
         "title": "Anticheat Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407595,7 +407595,7 @@
         "company_name": "TikTok",
         "id": "037bf10a-d9b6-4735-a4b0-9100908f3657",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414373,5 +414373,72 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Envoy Air",
+        "id": "301f36f8-8f14-400b-8036-158cca0b8ed8",
+        "title": "Airport Operations Administrative Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794389098,
+        "date_posted": 1793577600,
+        "url": "https://us-envoyair.icims.com/jobs/13100/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Envoy-Air",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "REGENT",
+        "id": "020a4d56-142f-44b5-856a-c70cccb884e7",
+        "title": "Energy Storage System Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794388115,
+        "date_posted": 1793923200,
+        "url": "https://jobs.ashbyhq.com/regent/ddde6e0f-38ba-4e95-abff-eceb8a79a4d3/application?embed=true",
+        "locations": [
+            "North Kingstown, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/REGENT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "00953f3c-6f6f-4019-b9c6-068ae4854c7e",
+        "title": "Systems Engineering Intern - Sonar",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794387963,
+        "date_posted": 1792972800,
+        "url": "https://careers-gdms.icims.com/jobs/75796/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
