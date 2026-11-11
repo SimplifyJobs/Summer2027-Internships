@@ -243590,7 +243590,7 @@
         "company_name": "Allegion",
         "id": "540be744-5142-43c3-a54c-2bc3785a0d2c",
         "title": "Firmware Engineer Intern - Advanced Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251257,7 +251257,7 @@
         "company_name": "RTX",
         "id": "3dcaee02-3f62-48f4-a9a3-20eb7b2a97bb",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409051,7 +409051,7 @@
         "company_name": "Fortrea",
         "id": "de7fe0e3-6022-4f95-a291-1b8cc48f3f10",
         "title": "AIML Rapid Development Studio Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -413290,7 +413290,7 @@
         "company_name": "Echo Global Logistics",
         "id": "35f37b8f-3b5b-4241-9fde-20c63c78d431",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
