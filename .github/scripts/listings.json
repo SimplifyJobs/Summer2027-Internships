@@ -167845,7 +167845,7 @@
         "company_name": "Quantbot Technologies",
         "id": "20ba2faa-8c06-4328-b38a-a1ff32e5b009",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -259023,7 +259023,7 @@
         "company_name": "Texas Instruments",
         "id": "35ac9d4b-4222-4d9a-82df-3d81ec3a998c",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380962,7 +380962,7 @@
         "company_name": "Qualcomm",
         "id": "4e5a549d-7b37-4edc-b990-e4f3ec584002",
         "title": "Design Automation & Quality Assurance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387003,7 +387003,7 @@
         "company_name": "Revvity",
         "id": "3f492c48-ad4f-4147-bd6e-f02593b03993",
         "title": "Full-stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394533,7 +394533,7 @@
         "company_name": "First Citizens BancShares",
         "id": "3686f5c7-2317-4936-bc43-f0fa9697c64d",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397088,7 +397088,7 @@
         "company_name": "Wolters Kluwer",
         "id": "4e77da7c-953f-4446-a007-2fa875302ecc",
         "title": "Front-End Developer Intern - Se",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -402164,7 +402164,7 @@
         "company_name": "J.M. Smucker",
         "id": "387ea422-5e64-458e-b052-8dee5cbf777e",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409314,7 +409314,7 @@
         "company_name": "FormFactor",
         "id": "445db909-6382-4c10-911d-fd089f146f4a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -410289,7 +410289,7 @@
         "company_name": "GlobalFoundries",
         "id": "4830340f-9f00-458b-9776-c26da6a672d2",
         "title": "CPU IP Design & Verification Intern - RISC-V Processor Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
