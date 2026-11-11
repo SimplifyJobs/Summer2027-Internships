@@ -291159,7 +291159,7 @@
         "company_name": "Rippling",
         "id": "fff73d24-2557-417b-a791-58567415f245",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299890,7 +299890,7 @@
         "company_name": "Western National Insurance",
         "id": "e461075c-d030-4455-8fe8-9a52fa5c0551",
         "title": "Data Engineering Intern - Data & Integrations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358630,7 +358630,7 @@
         "company_name": "CIBC",
         "id": "9a814dc7-1833-44af-ae3a-6d0f38b2ebc5",
         "title": "Product Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -407527,7 +407527,7 @@
         "company_name": "TikTok",
         "id": "037bf10a-d9b6-4735-a4b0-9100908f3657",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -411137,7 +411137,7 @@
         "company_name": "Envoy Air",
         "id": "ee64da31-a4c7-4792-80ed-5c8f258d6504",
         "title": "Operational Performance Analyst Intern - System Operations Control - SOC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
