@@ -1,162 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Red Bull",
-        "id": "5d743a44-1e0a-402b-95e3-8a3ab6fcec8c",
-        "title": "Intern Program - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773642291,
-        "date_posted": 1773642291,
-        "url": "https://jobs.smartrecruiters.com/RedBull/744000114876862",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Red Bull",
-        "id": "706b14ca-1e67-4efd-a806-87358f46c6ac",
-        "title": "Intern - Business Intelligence",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773641677,
-        "date_posted": 1773641677,
-        "url": "https://jobs.smartrecruiters.com/RedBull/744000114880788",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Red Bull",
-        "id": "0401f2b6-4b0e-4cde-baa2-fe1a1393e498",
-        "title": "Intern Program - Digital Products",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773641678,
-        "date_posted": 1773641678,
-        "url": "https://jobs.smartrecruiters.com/RedBull/744000114877957",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State of Nebraska",
-        "id": "da52b9de-814a-4425-9e9a-41a811ca550c",
-        "title": "Data Analytics / Data Visualization Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773642414,
-        "date_posted": 1773642414,
-        "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Data-Analytics---Data-Visualization-Internship--Summer-2026-_JR2026-00024070",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Of-Nebraska",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "State of Nebraska",
-        "id": "7e091b3f-f29d-42ee-8660-5c8cc6227d69",
-        "title": "Student Intern - IT Construction Systems",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1773642451,
-        "date_posted": 1773642451,
-        "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---IT-Construction-Systems_JR2026-00023390",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Of-Nebraska",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Signet Jewelers",
-        "id": "7b4a838b-ea3e-478a-8ba1-f4220c741cfa",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773642330,
-        "date_posted": 1773642330,
-        "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern--Hybrid-_REQ_78486",
-        "locations": [
-            "Akron, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Signet-Jewelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State of Nebraska",
-        "id": "4724e282-5bdd-447a-a246-803ee6029077",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773642412,
-        "date_posted": 1773642412,
-        "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Data-Engineering-Internship--Summer-2026-_JR2026-00024071",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Of-Nebraska",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1777968910,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -286758,7 +286601,7 @@
         "company_name": "Viking Global",
         "id": "77ad91df-64e7-4538-98d7-6c44639adb63",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412204,7 +412047,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "573339f4-8d92-4c50-bc57-d6cdcb870da1",
         "title": "Capital Markets Quant Summer Associate Intern - Quantitative Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
