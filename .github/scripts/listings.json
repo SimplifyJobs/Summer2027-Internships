@@ -159706,7 +159706,7 @@
         "company_name": "The Boeing Company",
         "id": "3c052483-a306-453e-a3dc-ccfe99cf5624",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281382,7 +281382,7 @@
         "company_name": "Tesla",
         "id": "5eeb71a2-4362-490d-91b2-80bec3bb466d",
         "title": "Internship - Software Engineering - People Products - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409051,7 +409051,7 @@
         "company_name": "Fortrea",
         "id": "de7fe0e3-6022-4f95-a291-1b8cc48f3f10",
         "title": "AIML Rapid Development Studio Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
