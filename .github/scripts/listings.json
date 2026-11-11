@@ -294447,7 +294447,7 @@
         "company_name": "Teledyne",
         "id": "1bb710dd-c7a9-429a-9bc8-9438e72bf14d",
         "title": "Industrialization and Statistical Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304576,7 +304576,7 @@
         "company_name": "Wellmark",
         "id": "069dfa9c-8d02-4151-9206-14b22adce975",
         "title": "Software Engineer Intern - Metadata Enablement Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377791,7 +377791,7 @@
         "company_name": "RTX",
         "id": "14c2c82f-b0c3-4560-b9aa-f0b3f1161bab",
         "title": "Hardware Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
