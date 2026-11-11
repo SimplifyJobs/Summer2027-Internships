@@ -132495,7 +132495,7 @@
         "company_name": "Medpace",
         "id": "38a95da6-cf61-402d-b348-03983059e836",
         "title": "Clinical Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -206780,7 +206780,7 @@
         "company_name": "AMD",
         "id": "367535fd-b662-48d9-93cf-3caa7e5fb23b",
         "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -206803,7 +206803,7 @@
         "company_name": "AMD",
         "id": "3419991d-5fc5-4324-be22-3741aa48785f",
         "title": "Hardware Design Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -232294,7 +232294,7 @@
         "company_name": "Textron",
         "id": "38dd79e9-6abd-459e-9571-75919ddffdf7",
         "title": "Information Systems Quality Intern - Quality Systems Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236750,7 +236750,7 @@
         "company_name": "Marvell",
         "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -237018,7 +237018,7 @@
         "company_name": "Marvell",
         "id": "42f8685d-3645-46c3-a294-714913841320",
         "title": "Design Verification Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241977,7 +241977,7 @@
         "company_name": "Dimensional Fund Advisors",
         "id": "2339b28c-2c1e-486e-a448-13adc31b9ad2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -250817,7 +250817,7 @@
         "company_name": "Dell Technologies",
         "id": "30f6fed1-ce14-40e5-a0b6-c22c7ded3c7d",
         "title": "Hardware Engineering Intern - Client Solutions Group Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302498,7 +302498,7 @@
         "company_name": "Enova",
         "id": "282a057f-48f4-4133-a52c-2261299e04a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333049,7 +333049,7 @@
         "company_name": "GlobalFoundries",
         "id": "2be561b9-160a-48ef-bd5b-6428e001f402",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366817,7 +366817,7 @@
         "company_name": "GlobalFoundries",
         "id": "1f158a64-f3b7-4b53-8de5-0e2d18f78aa6",
         "title": "CPU IP Design & Verification Intern - RISC-V Processor Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367762,7 +367762,7 @@
         "company_name": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
         "id": "381d1d39-e348-4387-9dde-59f2669afabb",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379647,7 +379647,7 @@
         "company_name": "Regeneron Pharmaceuticals",
         "id": "3a53411a-544e-46b8-bdcb-b481c9421c49",
         "title": "AI/ML & Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411123,7 +411123,7 @@
         "company_name": "McDonald's",
         "id": "3dd2c951-2883-4af9-bb11-1099a176d735",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
