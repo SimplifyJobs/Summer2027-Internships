@@ -243509,7 +243509,7 @@
         "company_name": "K2 Space",
         "id": "20b0f4b1-dafa-4b0c-bebe-41e1e3676175",
         "title": "Simulation Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -261119,7 +261119,7 @@
         "company_name": "Equitable Bank",
         "id": "167090cb-a6cc-4740-9731-6e37db8ce44d",
         "title": "Commercial Lending AI Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
