@@ -134567,7 +134567,7 @@
         "company_name": "Hudson River Trading",
         "id": "e37131d1-d111-4bf1-8493-2e54ad4ced68",
         "title": "Algorithm Development Intern - Quant Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -277161,7 +277161,7 @@
         "company_name": "4AG Robotics",
         "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
         "title": "Robotics Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -304625,7 +304625,7 @@
         "company_name": "Rivian",
         "id": "aee0379e-2573-4cfb-b9b3-e212ca032e4a",
         "title": "Software Engineer Intern Co-op - Applied AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -367957,7 +367957,7 @@
         "company_name": "RTX",
         "id": "7798bf2e-3ece-4347-8e89-2b3368142206",
         "title": "Systems Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382617,7 +382617,7 @@
         "company_name": "Overland AI",
         "id": "e6698a06-642e-483b-8dfb-1d1b5ec9299c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398218,7 +398218,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "ae0632e6-2003-4b35-bb2f-b2a244e39835",
         "title": "Software Engineer Intern - Java",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -414244,6 +414244,51 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "d50c38a9-8cf4-4df0-a9d8-088884b64700",
+        "title": "Research Scientist Intern - Audio",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794479615,
+        "date_posted": 1794479462,
+        "url": "https://www.metacareers.com/jobs/1382697917119311",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "712b2630-73fb-450b-a8c8-955e1d5180dd",
+        "title": "Enterprise Performance Modeling and Simulation Graduate Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794479427,
+        "date_posted": 1792454400,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2027-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R016942",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
