@@ -40730,7 +40730,7 @@
         "company_name": "Anthropic",
         "id": "0d633297-0371-40a5-bcfe-d66992c2ba79",
         "title": "Anthropic Fellows Program - ML Systems & Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -277584,7 +277584,7 @@
         "company_name": "GM financial",
         "id": "16a226b6-b8ad-430a-8246-a9ae743ea5b9",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353620,7 +353620,7 @@
         "company_name": "ClickHouse",
         "id": "1396b282-ae49-4b5f-a315-27c109ef26fd",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369505,7 +369505,7 @@
         "company_name": "Paccar",
         "id": "133d545a-51bd-4c95-a80d-8f09d0bd21ba",
         "title": "Product Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
