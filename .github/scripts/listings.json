@@ -1,80 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "4c5ade3f-d411-46a9-9fba-a2a506052d46",
-        "title": "UTG Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773710646,
-        "date_posted": 1773710646,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-SUPPLY-CHAIN-SOLUTIONS-GAAPR/XMLNAME-2026-UTG-Co-Op_R26006947",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Coherent ",
-        "id": "b65f6740-6286-469a-a2c5-9104e032a5d8",
-        "title": "Intern Machine Learning - Semiconductor Laser Manufacturing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773709710,
-        "date_posted": 1773709710,
-        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011194",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coherent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Coherent ",
-        "id": "1dadce1a-a543-47ec-87e0-f871a7f79051",
-        "title": "Intern Laser Application Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773709704,
-        "date_posted": 1773709704,
-        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011354",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coherent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Interdigital",
         "id": "cbc31025-3673-4727-8342-fb4b88b2550b",
@@ -96,29 +22,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Solidigm",
-        "id": "afef3506-ad91-464c-a16e-ecdaad773232",
-        "title": "Talent Acquisition Data Engineering & Analytics Graduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773710235,
-        "date_posted": 1773710235,
-        "url": "https://jobs.smartrecruiters.com/Solidigm/744000115004195",
-        "locations": [
-            "Rancho Cordova, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solidigm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -246636,7 +246539,7 @@
         "company_name": "Pilot Company",
         "id": "3ac201b9-c986-40a8-ad3b-b9749cea91c8",
         "title": "Data Governance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -254507,7 +254410,7 @@
         "company_name": "Wellmark",
         "id": "127d20c7-244f-4630-9b44-e23957ff0d16",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394707,7 +394610,7 @@
         "company_name": "Nokia",
         "id": "163611c1-06aa-4494-b20a-d25e0104dd70",
         "title": "Optoelectronics Test Mech Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407727,7 +407630,7 @@
         "company_name": "DreamWorks Animation",
         "id": "382aeede-aba8-4dd4-b153-9a6c48e1f4d6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
