@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Interdigital",
-        "id": "cbc31025-3673-4727-8342-fb4b88b2550b",
-        "title": "Intern \u2013 Screen Content tools for Video Compression/Coding",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773712267,
-        "date_posted": 1773712267,
-        "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Montreal-CAD/Intern--Transform-Optimization-for-Next-Generation-Video-Coding_REQ25-1047",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interdigital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Meta",
         "id": "1b596508-0878-4f7a-9236-2d1b758b96a8",
         "title": "Research Scientist Intern",
@@ -209621,7 +209597,7 @@
         "company_name": "HP IQ",
         "id": "3553803a-56d9-4ad7-8751-531339bd2644",
         "title": "Software Engineer Intern - Connectivity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280492,7 +280468,7 @@
         "company_name": "Rundoo",
         "id": "21ae5c99-91ac-4040-8486-fdad81449835",
         "title": "Marketing Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
