@@ -278842,7 +278842,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "34f4261c-0f6d-4a84-b0e0-28b9f1aa0cc4",
         "title": "Engineering Intern - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367679,7 +367679,7 @@
         "company_name": "Highmark Health",
         "id": "2daece64-1f02-4b15-8dd6-e4c4e1ce0b89",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382781,7 +382781,7 @@
         "company_name": "New York ISO",
         "id": "461ac8b2-4b9a-4a97-825c-f6dfc0624d58",
         "title": "Information Technology Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405571,7 +405571,7 @@
         "company_name": "Radiance Technologies",
         "id": "81bb64c3-b219-41c9-8a9d-5d61feb95dbc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -409529,7 +409529,7 @@
         "company_name": "Ciena",
         "id": "3dec21d5-e66a-4474-9b49-286f57e7b1f4",
         "title": "Mixed Signal Designer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
