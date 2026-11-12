@@ -27,31 +27,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Synchrony Financial",
-        "id": "6fe079a4-9c10-46f5-a526-6567ac50ca5f",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773730924,
-        "date_posted": 1773730924,
-        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Remote-OH/Software-Engineer-Intern---Summer-2026_2503435-2",
-        "locations": [
-            "Canton, OH",
-            "Ohio",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Metropolitan Transportation Authority",
         "id": "dedc6f20-394f-488a-9dfa-e783c1a7b292",
         "title": "Computer Specialist",
@@ -72,28 +47,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Synchrony Financial",
-        "id": "c117df2d-7240-4ae6-823b-2d8a7537bde6",
-        "title": "Technology Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1773730918,
-        "date_posted": 1773730918,
-        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Other-Remote-NY/Technology-Intern_2404484-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "date_updated": 1776943643,
@@ -12648,29 +12601,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leonardo",
-        "id": "04fa82d4-148d-4bc8-951f-7e6cbe681468",
-        "title": "Placement Test Systems Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773729400,
-        "date_posted": 1773729400,
-        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Test-Systems-Engineer_R0022106-1",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Leonardo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -388508,7 +388438,7 @@
         "company_name": "JM Family",
         "id": "d94706b4-e0c8-45c2-8504-eb350c6ac473",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
