@@ -162363,7 +162363,7 @@
         "company_name": "The Nuclear Company",
         "id": "50faea58-028e-467f-b373-f0c40e657222",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -213237,7 +213237,7 @@
         "company_name": "K2 Space",
         "id": "6fe74a2d-23cb-4b80-977c-92f082c5fed2",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346287,7 +346287,7 @@
         "company_name": "Northrop Grumman",
         "id": "6c5f2df0-d0bf-482f-a24b-4fde60f7cc92",
         "title": "Engineering Technician Intern - Electrical Ground Support Equipment",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347666,7 +347666,7 @@
         "company_name": "Bracebridge Capital",
         "id": "5360208a-9885-42bb-a092-21121b730e84",
         "title": "Software Engineer Co-op - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374373,7 +374373,7 @@
         "company_name": "Shield AI",
         "id": "6510633a-12fb-403f-b2e5-b91ca20197b7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404837,7 +404837,7 @@
         "company_name": "Zoetis Services",
         "id": "75f506b1-06c7-425f-a564-75fc65127a83",
         "title": "Data and Analytics Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408361,7 +408361,7 @@
         "company_name": "EquipmentShare",
         "id": "64e920f9-c6b0-4b3e-a080-c6b09813effc",
         "title": "Engineering Intern - Embedded",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410457,7 +410457,7 @@
         "company_name": "Shield AI",
         "id": "6f56f938-52a1-426d-a979-45b4ab73ed2c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411426,7 +411426,7 @@
         "company_name": "Brex",
         "id": "7c3a4e38-9f60-4930-b927-0bca4f0e442f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
