@@ -365746,7 +365746,7 @@
         "company_name": "Keysight Technologies",
         "id": "ab021d50-65d1-4111-9f0c-fcf7641972ea",
         "title": "FPGA Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398889,7 +398889,7 @@
         "company_name": "S&P Global",
         "id": "a65bf6c0-bbcb-43b9-9473-31db7f392231",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404814,7 +404814,7 @@
         "company_name": "Zoetis Services",
         "id": "8d56b883-ad20-4375-bb8e-bc6f1460e609",
         "title": "AI Assistant Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411495,7 +411495,7 @@
         "company_name": "Parabola",
         "id": "9912194a-3526-43dc-9964-d2906b6b3a07",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
