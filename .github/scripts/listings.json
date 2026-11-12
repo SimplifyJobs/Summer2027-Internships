@@ -403576,7 +403576,7 @@
         "company_name": "T-Mobile",
         "id": "54c5dcb8-10a5-4d05-9a07-2e45ee6b0a1c",
         "title": "Software Engineer HR Data Products Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403600,7 +403600,7 @@
         "company_name": "T-Mobile",
         "id": "744eff9c-451a-4759-909e-8d912f801286",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
