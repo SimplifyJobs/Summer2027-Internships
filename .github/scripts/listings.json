@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1773747174,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://k1im.applytojob.com/apply/ISSTIdON0L/AI-Automation-Intern",
-        "company_name": "K1",
-        "title": "AI Automation Intern",
-        "locations": [
-            "Manhattan Beach, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "bead841e-a62e-4398-b92e-600ec3c544c4",
-        "date_posted": 1773747174,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775481655,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-biorad.icims.com/jobs/38263/data-scientist-intern/job",
-        "company_name": "Bio-Rad Laboratories",
-        "title": "Data Scientist Intern",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "cb32d7cc-73a8-4a56-9693-c95123c26497",
-        "date_posted": 1773747260,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Snyk",
@@ -403528,7 +403482,7 @@
         "company_name": "T-Mobile",
         "id": "9143ae88-6ad5-4f65-9361-f85e91e18ece",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414242,6 +414196,29 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roche",
+        "id": "ea12beda-d207-46ec-aec9-ec828c03b0d3",
+        "title": "AI & Digitalisation Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794484305,
+        "date_posted": 1794441600,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162",
+        "locations": [
+            "Welwyn, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
