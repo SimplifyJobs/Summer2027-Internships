@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Duke Energy",
-        "id": "068fd898-ad71-4f60-8ea6-239a8e3d012f",
-        "title": "Energy Efficiency Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773758324,
-        "date_posted": 1773758324,
-        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Ocala-FL/Energy-Efficiency-Data-Analyst-Intern---Summer-2026_R38873",
-        "locations": [
-            "New Port Richey, FL",
-            "Ocala, FL",
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Duke-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EverCommerce",
-        "id": "9622d654-b6c2-447c-bbca-fa6dd92f3727",
-        "title": "Evercommerce \u2013 Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773758356,
-        "date_posted": 1773758356,
-        "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverCommerce---Data-Engineering-Internship--Remote--US-_R-105916",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chanel",
-        "id": "c8068680-03b4-4e72-9028-413fcd7ea793",
-        "title": "ESG Solutions & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773758496,
-        "date_posted": 1773758496,
-        "url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/ESG-Solutions---Analytics-Intern_JOBREQ00110970",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Chanel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "0512cd1a-2692-459d-983d-4fa7b065b172",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1773758531,
-        "date_posted": 1773758531,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Software-Engineer-Intern---Spring-2026_323363",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Meta",
         "id": "f8d37956-48c3-49bf-bc07-ece917d6ae7c",
@@ -171119,7 +171023,7 @@
         "company_name": "ONEOK",
         "id": "7edf2e03-9ee7-49d1-bdc5-60205dea4ec7",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350733,7 +350637,7 @@
         "company_name": "RTX",
         "id": "a5702f5f-906d-4b1f-8b18-e4034368a2cb",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379010,7 +378914,7 @@
         "company_name": "Microsoft",
         "id": "9e19ac06-ed59-4535-aae4-93a0f5ca7293",
         "title": "Research Intern - Machine Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400729,7 +400633,7 @@
         "company_name": "Molina Healthcare",
         "id": "b0d0060c-2d0c-4a83-874e-ea2eb2436956",
         "title": "Electronic Data Interchange Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404540,7 +404444,7 @@
         "company_name": "Mettler Toledo",
         "id": "a04d84ff-7cf7-4c80-9370-668532aa6017",
         "title": "Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
