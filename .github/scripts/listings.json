@@ -105176,7 +105176,7 @@
         "company_name": "ByteDance",
         "id": "17c17e13-cd4c-441d-8d4c-0da4520b0c37",
         "title": "Research Scientist Intern - Applied Machine Learning-Enterprise",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348768,7 +348768,7 @@
         "company_name": "Manulife Financial",
         "id": "05d7b800-db86-469c-8a88-a83e497ba035",
         "title": "AI Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
