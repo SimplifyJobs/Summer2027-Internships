@@ -404860,7 +404860,7 @@
         "company_name": "Zoetis Services",
         "id": "0eace308-9ccb-4920-a1f1-ac2de6804966",
         "title": "AI Capabilities Intern - AI Architecture, Enablement & Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411285,7 +411285,7 @@
         "company_name": "McDonald's",
         "id": "1982a165-a74a-476f-8ebb-5136a38d056d",
         "title": "Global Tech Infrastructure & Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414189,7 +414189,7 @@
         "company_name": "Altera",
         "id": "02f58c59-6654-4d9c-b296-9084013f8c2a",
         "title": "FPGA IP Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
