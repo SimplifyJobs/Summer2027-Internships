@@ -413940,5 +413940,286 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "7be3b067-334e-4e71-9af4-fa7933195bdb",
+        "title": "Software Engineer Intern - TikTok Search",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794470239,
+        "date_posted": 1794470231,
+        "url": "https://lifeattiktok.com/search/7704696088079010053",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nintendo",
+        "id": "97debd91-4d82-4379-9fee-dbaa7c8a5518",
+        "title": "Software Engineer Intern - Platform Security",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794468848,
+        "date_posted": 1793227382,
+        "url": "https://careers.nintendo.com/?gh_jid=4469778009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nintendo",
+        "id": "e4f1039d-3d07-49fc-b6d7-d5140173ca23",
+        "title": "Software Engineer Intern - CPU Profiler",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794468834,
+        "date_posted": 1793226561,
+        "url": "https://careers.nintendo.com/?gh_jid=4469762009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nintendo",
+        "id": "75014cf1-4d7c-4284-8672-b23816cee666",
+        "title": "IT Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794468836,
+        "date_posted": 1792437128,
+        "url": "https://careers.nintendo.com/?gh_jid=4421632009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nintendo",
+        "id": "bc1f458c-6db2-45dd-a119-b249ad9fb181",
+        "title": "Software Engineer Intern - Performance Tools",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794468830,
+        "date_posted": 1793389453,
+        "url": "https://careers.nintendo.com/?gh_jid=4473568009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nintendo",
+        "id": "67dcd601-0896-4297-950a-3ec8b5d57109",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794468840,
+        "date_posted": 1792437079,
+        "url": "https://careers.nintendo.com/?gh_jid=4421623009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nintendo",
+        "id": "4d0ce369-45ff-46bb-96d8-544aba88d73a",
+        "title": "Software Engineer Intern - Connectivity",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794468832,
+        "date_posted": 1793298004,
+        "url": "https://careers.nintendo.com/?gh_jid=4472147009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nintendo",
+        "id": "0901e982-38db-4dc3-b6ad-ce0fc2debca2",
+        "title": "Software Engineer Intern - Audio",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794468831,
+        "date_posted": 1793227060,
+        "url": "https://careers.nintendo.com/?gh_jid=4470048009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nintendo",
+        "id": "5c7ed4c4-55c6-460d-bf59-c0861c2ae55a",
+        "title": "Software Engineer Intern - Graphics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794468830,
+        "date_posted": 1793387529,
+        "url": "https://careers.nintendo.com/?gh_jid=4473550009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nintendo",
+        "id": "1c6d1a76-8aaa-45c0-aed9-3c1dee238b16",
+        "title": "Software Engineer Intern - CPU Debugger - NTD",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794468834,
+        "date_posted": 1793226293,
+        "url": "https://careers.nintendo.com/?gh_jid=4471972009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nintendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "f8b06033-a0d7-44b2-a883-7e962adb56c7",
+        "title": "Camera Software Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794468630,
+        "date_posted": 1794468504,
+        "url": "https://jobs.apple.com/en-us/details/200694477",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "5df8b602-5c14-442c-b85d-86534f2f9605",
+        "title": "Framebuffer Driver Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794468636,
+        "date_posted": 1794468505,
+        "url": "https://jobs.apple.com/en-us/details/200694489",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
