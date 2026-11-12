@@ -7,11 +7,11 @@
 
 ---
 
-### Browse 1575 Internship Roles by Category
+### Browse 1574 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (523)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (105)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (104)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (623)
 
@@ -168,7 +168,7 @@
 <td>Technical Game Design Intern - League of Legends and Teamfight Tactics</td>
 <td>LA</td>
 <td><div align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5ba9451c-c34f-47bc-9930-d18b4a4494c0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Formlabs?utm_source=GHList&utm_medium=company">Formlabs</a></strong></td>
@@ -1365,7 +1365,7 @@
 <td>Software Engineer Intern</td>
 <td>Pittsburgh, PA</td>
 <td><div align="center"><a href="https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a56c3be4-35d8-45ca-a8f7-c98206f9e105?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hive-Financial-Systems?utm_source=GHList&utm_medium=company">Hive Financial Systems</a></strong></td>
@@ -3847,7 +3847,7 @@
 <td>Product Management Intern 🎓</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b677082-2af5-4469-8ca6-bf5f8a107b6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Legrand?utm_source=GHList&utm_medium=company">Legrand</a></strong></td>
@@ -4340,7 +4340,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/C3ai?utm_source=GHList&utm_medium=company">C3.ai</a></strong></td>
 <td>AI Product Manager Intern</td>
 <td>Redwood City, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/c3ascend/jobs/8860562002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ee9ccca0-8bd3-4e29-a009-8eb52e728539?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -4379,13 +4379,6 @@
 <td>Product Growth Intern - MBA 🎓</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1b6f6beb-1306-4f97-9f9c-00aec3c4fb68?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
-<td>MBA Product Intern 🎓</td>
-<td><details><summary><strong>4 locations</strong></summary>McLean, VA<br>Richmond, VA<br>Chicago, IL<br>NYC</details></td>
-<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c560783a-f942-4881-a14d-0c3cae59d101?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -4532,7 +4525,7 @@
 </table>
 
 
-🔒 **[See 247 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 248 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -4602,10 +4595,10 @@
 <td>Insights Analyst Intern - League of Legends 🎓</td>
 <td>LA</td>
 <td><div align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356372?gh_jid=8356372&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/106335e4-8b55-4297-a586-7b5a6c2cde1c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Riot-Games?utm_source=GHList&utm_medium=company">Riot Games</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer Intern 🎓</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7e6b380e-ef69-43cd-a4de-89c7773ae701?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -5913,6 +5906,13 @@
 <td><div align="center"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7f656994-e4f3-4bff-a6cf-de5cf50cf204?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>15d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Revantage-Corporate-Services?utm_source=GHList&utm_medium=company">Revantage Corporate Services</a></strong></td>
+<td>Insurance Technology & AI Analytics Intern</td>
+<td>Dallas, TX<br>Chicago, IL</td>
+<td><div align="center"><a href="https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/af9cd863-b956-4618-a0ec-e4d7d7f8056a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>15d</td>
+</tr>
 
 </tbody>
 </table>
@@ -5939,13 +5939,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Revantage-Corporate-Services?utm_source=GHList&utm_medium=company">Revantage Corporate Services</a></strong></td>
-<td>Insurance Technology & AI Analytics Intern</td>
-<td>Dallas, TX<br>Chicago, IL</td>
-<td><div align="center"><a href="https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/af9cd863-b956-4618-a0ec-e4d7d7f8056a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Indianapolis?utm_source=GHList&utm_medium=company">Federal Home Loan Bank of Indianapolis</a></strong></td>
 <td>MPP Data Analytics Intern</td>
@@ -8970,7 +8963,7 @@
 <td>AI Quant Summer Analyst Intern</td>
 <td>La Jolla, San Diego, CA</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=8368989&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c579fad0-b08a-4e65-a2cf-77f72aa87439?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
@@ -8984,7 +8977,7 @@
 <td>Research Analyst Intern</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4823946101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3bb4fff0-d717-4d88-8569-a649bc5534b3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Deutsche-Bank?utm_source=GHList&utm_medium=company">Deutsche Bank</a></strong></td>
