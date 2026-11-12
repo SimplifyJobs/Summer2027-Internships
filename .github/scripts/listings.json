@@ -134687,7 +134687,7 @@
         "company_name": "Hudson River Trading",
         "id": "87235779-9531-4bf2-b265-6cc448aa0f35",
         "title": "Software Engineer Intern - C++ or Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -279206,7 +279206,7 @@
         "company_name": "Rivian",
         "id": "76662f8c-6f4c-47a6-ac45-6a867a9c86be",
         "title": "Supply Chain Data, AI and Business Intelligence Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -280562,7 +280562,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "73aba348-3766-42da-95f5-af2bf255384f",
         "title": "Data and AI Engineering Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -288302,7 +288302,7 @@
         "company_name": "Mytra",
         "id": "7168238e-e901-4705-8d75-b33b99d49fa4",
         "title": "Robotics Intern - Winter 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -304625,7 +304625,7 @@
         "company_name": "Rivian",
         "id": "aee0379e-2573-4cfb-b9b3-e212ca032e4a",
         "title": "Software Engineer Intern Co-op - Applied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -395341,7 +395341,7 @@
         "company_name": "DwyerOmega",
         "id": "7c30ac3f-eb3a-4c49-9c54-db6d1ecfe33d",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398218,7 +398218,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "ae0632e6-2003-4b35-bb2f-b2a244e39835",
         "title": "Software Engineer Intern - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403714,7 +403714,7 @@
         "company_name": "T-Mobile",
         "id": "590dc2fa-43f6-41c2-96fc-c01b91e85aac",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410370,7 +410370,7 @@
         "company_name": "Allen Lund Company",
         "id": "a072ab70-f702-4cf1-addf-6a9bc09aa7bc",
         "title": "Customer Service Systems and Process Audit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -414220,6 +414220,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
+        "title": "Data Scientist Intern - CoreAI",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794478901,
+        "date_posted": 1794478846,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
