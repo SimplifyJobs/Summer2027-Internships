@@ -1,183 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Snyk",
-        "id": "48bd382d-02e7-4d8d-954f-13ab808c398a",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773757270,
-        "date_posted": 1773757270,
-        "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Software-Engineer-Intern_JR100489",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Snyk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tencent",
-        "id": "34eada48-2449-4f04-bcd4-86cbde2fe352",
-        "title": "Engine Developer Intern - Gaming",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773757584,
-        "date_posted": 1773757584,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Engine-Developer-Intern--Gaming_R107109-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mentis AI",
-        "id": "fac200a9-6a19-49d8-8ac0-55d38fef53bf",
-        "title": "Private Equity and Growth Equity AI Residency - Frontier AI Research",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1773757156,
-        "date_posted": 1773757156,
-        "url": "https://jobs.ashbyhq.com/mentis/4f1bb234-f382-48d7-8b00-0fcc03c2436f/application",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mentis-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mentis AI",
-        "id": "226378aa-b4b0-407a-942c-0ebdb3e9fcf5",
-        "title": "Asset Management Professionals \u2013 AI Residency - Frontier AI Research",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1773757153,
-        "date_posted": 1773757153,
-        "url": "https://jobs.ashbyhq.com/mentis/03bddc1b-7287-4baa-b6c8-4f90ce7b0026/application",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mentis-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EXL",
-        "id": "81f73f85-e98c-413a-9374-434ea6c96b10",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773756529,
-        "date_posted": 1773756529,
-        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/11506",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/EXL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "W.R. Berkley",
-        "id": "40ecd198-7084-4f60-952d-bf10fe6a9a8d",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773756669,
-        "date_posted": 1773756669,
-        "url": "https://careers-berkley.icims.com/jobs/13671/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/WR-Berkley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Waters Corporation",
-        "id": "1b51b17f-c352-46f3-a0a3-43fa74806371",
-        "title": "AI Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773756602,
-        "date_posted": 1773756602,
-        "url": "https://uscareers-waters.icims.com/jobs/25802/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Franklin, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waters-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "059d4161-68c9-4a55-a7e6-aa46eab2df8e",
-        "title": "Intern Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773756465,
-        "date_posted": 1773756465,
-        "url": "https://careers-gdms.icims.com/jobs/71415/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Duke Energy",
         "id": "068fd898-ad71-4f60-8ea6-239a8e3d012f",
@@ -204,147 +27,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "accde960-0360-4714-ab9f-71be85dc9a27",
-        "title": "Intern - System Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773757785,
-        "date_posted": 1773757785,
-        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Jose-California-United-States/Internship---System-Engineer_R1307356",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cockroach Labs",
-        "id": "59d64bb2-56df-4381-8bbf-5cd71e5fff7e",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1773757759,
-        "date_posted": 1773757759,
-        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=6291435",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Bandwidth",
-        "id": "10db22bd-1c08-48d0-a568-3488ea0aac03",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773757265,
-        "date_posted": 1773757265,
-        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7723925",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bandwidth",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Federal Reserve System",
-        "id": "8a24e794-67c1-4356-be83-ef7cbfbecd13",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773757604,
-        "date_posted": 1773757604,
-        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Summer-2026-Intern--Software-Engineering_R-0000031107-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tencent",
-        "id": "63ad1626-19be-4952-a7a8-933fde061a19",
-        "title": "Engine Developer Intern - Gaming",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773757565,
-        "date_posted": 1773757565,
-        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Engine-Developer-Intern--Gaming_R107109",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Curtiss-Wright Corporation",
-        "id": "260e5443-75bb-49ee-9e21-9b742d5aa3d5",
-        "title": "Engineering Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773757750,
-        "date_posted": 1773757750,
-        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OH-Cincinnati-Nuclear/Engineering-Co-Op-Intern_JR11440",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "EverCommerce",
         "id": "9622d654-b6c2-447c-bbca-fa6dd92f3727",
@@ -360,50 +42,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mentis AI",
-        "id": "161d015d-7f7f-4b19-a326-d56a807b7a60",
-        "title": "Private Equity and Growth Equity AI Residency - Frontier AI Research",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1773757155,
-        "date_posted": 1773757155,
-        "url": "https://jobs.ashbyhq.com/mentis/b80285c1-a45e-4b03-ac52-d7804ee2c0d4/application",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mentis-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Safran",
-        "id": "78e5d8d3-fe08-41f5-af19-07eb75c84d5c",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773757064,
-        "date_posted": 1773757064,
-        "url": "https://safransed.bamboohr.com/careers/1058/",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Safran",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -2662,29 +2300,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Centrica",
-        "id": "1815ec3f-37b8-4e78-a16c-824e9570d442",
-        "title": "Commodity Trading Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773823747,
-        "date_posted": 1773757259,
-        "url": "https://centrica.wd3.myworkdayjobs.com/Centrica/job/New-York/Commodity-Trading-Summer-Analyst_R0083120",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Centrica",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -342199,7 +341814,7 @@
         "company_name": "NVIDIA",
         "id": "686d8e2a-ab20-418c-8b0b-3d83af16897c",
         "title": "Developer Technology Engineer Intern - Compute Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358177,7 +357792,7 @@
         "company_name": "Formlabs",
         "id": "6c1c7495-d515-4497-94fe-ac9ecca9421d",
         "title": "Manufacturing Test Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Winter 2026"
@@ -389038,7 +388653,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "fc3fa536-4c6e-430d-ae11-d6231289e10a",
         "title": "Software Engineering Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390736,7 +390351,7 @@
         "company_name": "JM Family",
         "id": "73205f44-451a-4bd5-add5-2cba415a4dbf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
