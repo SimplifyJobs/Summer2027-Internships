@@ -216351,7 +216351,7 @@
         "company_name": "Geotab",
         "id": "26b72751-3337-4610-8455-0f92877b6a03",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -249961,7 +249961,7 @@
         "company_name": "L3Harris Technologies",
         "id": "352fa54f-2951-4516-9bad-74ec4d58df98",
         "title": "Integration/Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -312317,7 +312317,7 @@
         "company_name": "Astranis",
         "id": "27d0baa6-863d-4688-b843-3636e6e61a13",
         "title": "Electrical Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -398476,7 +398476,7 @@
         "company_name": "Rambus",
         "id": "446f95d6-24aa-4e79-aeda-4daa77550a0f",
         "title": "RTL Digital Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
