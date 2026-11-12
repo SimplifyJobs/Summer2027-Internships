@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Synchrony Financial",
-        "id": "544a3e80-5bad-4e1d-957b-0235f0ff23a7",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773730927,
-        "date_posted": 1773730927,
-        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Remote-OH/Software-Engineer-Intern_2401218",
-        "locations": [
-            "Canton, OH",
-            "Ohio",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Metropolitan Transportation Authority",
         "id": "dedc6f20-394f-488a-9dfa-e783c1a7b292",
         "title": "Computer Specialist",
@@ -377556,7 +377531,7 @@
         "company_name": "Cenovus Energy",
         "id": "c86d623d-5a05-44f1-9e1c-370aa97e1c28",
         "title": "Student Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403526,7 +403501,7 @@
         "company_name": "T-Mobile",
         "id": "e7ce5c86-d8b9-4777-9fa8-da999bbec4d1",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403574,7 +403549,7 @@
         "company_name": "T-Mobile",
         "id": "c4ebb5a6-905a-424b-ab32-d44fda5d3be0",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413803,6 +413778,167 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nasdaq",
+        "id": "16cc4f32-9167-49ad-8133-830054443080",
+        "title": "Back End Software Developer Co-op Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794467896,
+        "date_posted": 1793124223,
+        "url": "https://job-boards.greenhouse.io/nasdaq/jobs/4453620009",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasdaq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "c3014c87-ec26-4022-be89-770beb5f1b96",
+        "title": "Systems Architecture Research Associate Intern - Systems Architecture Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794467731,
+        "date_posted": 1794355200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bask Health",
+        "id": "ef469032-ac28-42a0-b8a3-09bac01d9a2b",
+        "title": "Creative Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794467529,
+        "date_posted": 1794467524,
+        "url": "https://apply.workable.com/bask-health-1/j/24DD93E3BA/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bask Health",
+        "id": "6b8e3394-dd09-4734-be54-025c5d544c77",
+        "title": "Frontend Engineer Intern - Frontend Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794467570,
+        "date_posted": 1794467524,
+        "url": "https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "13406577-a352-4c40-b0c7-740db3cec68c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794467295,
+        "date_posted": 1794355200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CARIAD",
+        "id": "8839dc6e-9ef8-427b-84fc-c141bc4ecf56",
+        "title": "Engineer 1 Intern - VLA Planning and Control Deployment",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794467036,
+        "date_posted": 1792792214,
+        "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462886008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CARIAD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CARIAD",
+        "id": "627576f6-b0fe-4582-a365-d7ea08a67a41",
+        "title": "Engineer 1 Intern - VLA Model Development",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794467034,
+        "date_posted": 1792789518,
+        "url": "https://job-boards.greenhouse.io/cariadinc/jobs/5462798008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CARIAD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
