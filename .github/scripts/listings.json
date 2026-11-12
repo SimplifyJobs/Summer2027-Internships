@@ -258036,7 +258036,7 @@
         "company_name": "Axon",
         "id": "f968b448-0edf-43ed-9f4c-8954bef0183b",
         "title": "Software Engineer Intern - R&D Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -305174,7 +305174,7 @@
         "company_name": "Capital One",
         "id": "c560783a-f942-4881-a14d-0c3cae59d101",
         "title": "MBA Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409390,7 +409390,7 @@
         "company_name": "Salesforce",
         "id": "d27935e2-b777-47ac-9429-642f80bc24e4",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
