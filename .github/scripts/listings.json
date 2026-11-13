@@ -1,224 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Givelify",
-        "id": "7ca6c0f8-d421-4803-8bec-08c2fded7a25",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773843486,
-        "date_posted": 1773843486,
-        "url": "https://www.givelify.com/about-us/careers/job-openings/?gh_jid=8466071002",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Givelify",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Judi Health",
-        "id": "15087d68-5415-4035-b03e-989d7e721f1c",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773843609,
-        "date_posted": 1773843609,
-        "url": "https://job-boards.greenhouse.io/capitalrx/jobs/5156440008",
-        "locations": [
-            "NYC",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Judi-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "865da141-9803-4f64-9f59-4237e4dcc024",
-        "title": "AI Agentic AI GenAI Intern - Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773843166,
-        "date_posted": 1773843166,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/AI---Agentic-AI---GenAI-Intern---IT--Summer--Fall-2026-in-San-Jose-_R53712-2",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "46f8e4e5-5fbf-48a9-b752-c1c88a91f605",
-        "title": "AI / Agentic AI / GenAI Intern - IT",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773843164,
-        "date_posted": 1773843164,
-        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/AI---Agentic-AI---GenAI-Intern---IT--Summer--Fall-2026-in-San-Jose-_R53712",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "28392d5a-3ddc-45e4-8067-15b70ad9ef30",
-        "title": "AI / Agentic AI / GenAI Intern - IT",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773843230,
-        "date_posted": 1773843230,
-        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/AI---Agentic-AI---GenAI-Intern---IT--Summer--Fall-2026-in-San-Jose-_R53712-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "1263a317-ad74-4418-9eb8-628c47f4533c",
-        "title": "LTI Intern - School of Computer Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773843219,
-        "date_posted": 1773843219,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/LTI-Summer-Intern---School-of-Computer-Science_2024295",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rivian",
-        "id": "f3ecf9ac-dce4-4a7c-abbb-a44371a0566c",
-        "title": "Intern - ADAS HW Systems Validation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773842992,
-        "date_posted": 1773842992,
-        "url": "https://careers.rivian.com/jobs/29842?lang=en-us&icims=1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rivian",
-        "id": "91927374-ff59-45a8-84ce-ce0f750bdea9",
-        "title": "UIUC Research Park Intern - Machine Learning Hardware",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773842971,
-        "date_posted": 1773842971,
-        "url": "https://careers.rivian.com/jobs/29848?lang=en-us&icims=1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dordt University",
-        "id": "4ee17792-9e79-45b5-9220-262361268933",
-        "title": "Returning Intern - Hardware Development",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1773842677,
-        "date_posted": 1773842677,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86345",
-        "locations": [
-            "Poughkeepsie, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Dordt-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1776943643,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -560,27 +341,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/American-Red-Cross",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Commonwealth of Massachusetts",
-        "id": "32afce58-b16f-46a5-b9a7-ada052037faf",
-        "title": "Intern - Quality Assurance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773843568,
-        "date_posted": 1773843568,
-        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600023O",
-        "locations": [
-            "Massachusetts"
-        ],
-        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -216445,7 +216205,7 @@
         "company_name": "Ruekert & Mielke",
         "id": "79b33019-6e5d-4257-b727-82b8bae260f0",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399315,7 +399075,7 @@
         "company_name": "Bank of Montreal",
         "id": "80addd25-9936-4802-89cf-18401bc2e77f",
         "title": "Technology Research Associate Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
