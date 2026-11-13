@@ -242108,7 +242108,7 @@
         "company_name": "GreatAmerica Financial Services",
         "id": "f21946f6-4b27-42c8-b5d8-a43b623fb8c6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -292909,7 +292909,7 @@
         "company_name": "Kinaxis",
         "id": "d3e5ba1e-a291-46e1-a4b3-7da47159deb3",
         "title": "Developer Intern - Back End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -299704,7 +299704,7 @@
         "company_name": "Rockwell Automation",
         "id": "e3adedfc-e63e-4c53-b3bd-ad74a0c04018",
         "title": "Product Management Intern - Digital Client",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -332674,7 +332674,7 @@
         "company_name": "Ann & Robert H. Lurie Children\u2019s Hospital of Chicago",
         "id": "eee2cda6-34bf-4430-85cc-b95a21954618",
         "title": "Research Student Assistant-Behavioral Health Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
