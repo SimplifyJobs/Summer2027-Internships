@@ -239747,7 +239747,7 @@
         "company_name": "Red Hat",
         "id": "24815578-f6f1-4a50-85b5-fc4d793c9966",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353063,7 +353063,7 @@
         "company_name": "ABB",
         "id": "38820a89-81bd-460a-9b63-b3f7eea30e73",
         "title": "Power BI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381587,7 +381587,7 @@
         "company_name": "CIBC",
         "id": "22025afc-69c8-4dde-a41e-7278af3ae802",
         "title": "Project Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -407027,7 +407027,7 @@
         "company_name": "RTX",
         "id": "3978f6f3-57fe-4e9f-808a-e68e8daa32ca",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
