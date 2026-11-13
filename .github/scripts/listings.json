@@ -2,119 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Creatify Lab ",
-        "id": "ab5fa332-ca73-429e-83d4-712536d312df",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773824945,
-        "date_posted": 1773824945,
-        "url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Creatify-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TRUMPF",
-        "id": "fcfd9340-e05a-454f-a661-5647895890ea",
-        "title": "Marketing Application Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773824600,
-        "date_posted": 1773824600,
-        "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Marketing-Application-Engineering-Intern_R00037481",
-        "locations": [
-            "Plymouth, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/TRUMPF",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TRUMPF",
-        "id": "c207a2e3-eb8e-4262-9607-765f5fb739ce",
-        "title": "R&D Production Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1773824614,
-        "date_posted": 1773824614,
-        "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Cranbury-NJ/R-D-Production-Development-Intern_R00038278",
-        "locations": [
-            "Cranbury, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/TRUMPF",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TRUMPF",
-        "id": "33c57d97-7b23-4df3-a882-48a38095f7dd",
-        "title": "Technical Sales & Consulting",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773824599,
-        "date_posted": 1773824599,
-        "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Chicago-IL/Technical-Sales---Consulting-Intern_R00037575",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/TRUMPF",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TRUMPF",
-        "id": "1fa695f9-b1e7-41de-8ce1-0e645544f84d",
-        "title": "R&D Test Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773824600,
-        "date_posted": 1773824600,
-        "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Cranbury-NJ/R-D-Test-Intern_R00038524",
-        "locations": [
-            "Cranbury, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/TRUMPF",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Hiscox",
         "id": "c1f73b40-ec45-477e-a0bc-7bea36c346b2",
         "title": "Technology Intern",
@@ -261012,7 +260899,7 @@
         "company_name": "North Atlantic Industries",
         "id": "0c894f36-0b46-44e0-a2f3-ffe86146935f",
         "title": "Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285527,7 +285414,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328483,7 +328370,7 @@
         "company_name": "Panasonic Holdings",
         "id": "0ce82a9a-8c9e-4bf3-899e-c70c905f1707",
         "title": "Panasonic Transformation Group Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341893,7 +341780,7 @@
         "company_name": "Electronic Arts",
         "id": "2171d14a-e271-49bf-95cf-d6a749318018",
         "title": "Client AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349166,7 +349053,7 @@
         "company_name": "Zillow",
         "id": "00e04eac-1e56-4e4d-ad08-1472c68a0683",
         "title": "Applied Scientist Intern - Economics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369676,7 +369563,7 @@
         "company_name": "Northrop Grumman",
         "id": "11bca8ee-75aa-40f1-b539-6f28ff39106d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388300,7 +388187,7 @@
         "company_name": "Costco",
         "id": "0a1e3285-1442-4dec-a54b-8f1506490d30",
         "title": "CDS Intern - Software Engineer - IT Retail Media",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400499,7 +400386,7 @@
         "company_name": "Moog",
         "id": "141dbf1a-3431-4425-9d88-1a10fb649f64",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404580,7 +404467,7 @@
         "company_name": "Paccar",
         "id": "0db6461d-a93a-445c-a639-7522e06981f8",
         "title": "Greenhouse Gas Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405387,7 +405274,7 @@
         "company_name": "Envoy Air",
         "id": "2e2e68c0-6a5c-4917-ba15-5c1200450b37",
         "title": "College Intern - Maintenance Programs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411125,7 +411012,7 @@
         "company_name": "RTX",
         "id": "13406577-a352-4c40-b0c7-740db3cec68c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414947,5 +414834,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Maxinsights",
+        "id": "23f85879-e285-4e75-bd3a-3c82bd6304e5",
+        "title": "Data Operations Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794561842,
+        "date_posted": 1793836800,
+        "url": "https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Maxinsights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
