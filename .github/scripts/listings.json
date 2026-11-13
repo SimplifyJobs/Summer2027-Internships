@@ -160791,7 +160791,7 @@
         "company_name": "Hiebing",
         "id": "38ef5409-b962-46f0-a83e-73363efb0f04",
         "title": "AI Agent Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273758,7 +273758,7 @@
         "company_name": "Republic Airways",
         "id": "46afb6b3-6be4-457a-ab81-e5a109555aff",
         "title": "Strategic Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
