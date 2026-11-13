@@ -2,78 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Hiscox",
-        "id": "c1f73b40-ec45-477e-a0bc-7bea36c346b2",
-        "title": "Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773826680,
-        "date_posted": 1773826680,
-        "url": "https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/London/Technology-Intern_R0018822",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hiscox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hiscox",
-        "id": "468883f5-df5d-4980-a75c-34ed37851088",
-        "title": "Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773826671,
-        "date_posted": 1773826671,
-        "url": "https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/London/Data-Intern_R0018814-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hiscox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hiscox",
-        "id": "03947d37-8047-4f14-b9f3-3209fb562c99",
-        "title": "Technology Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773826680,
-        "date_posted": 1773826680,
-        "url": "https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/London/Technology-Engineering-Intern_R0018823",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hiscox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Givelify",
         "id": "7ca6c0f8-d421-4803-8bec-08c2fded7a25",
         "title": "Software Engineering Intern",
@@ -277724,7 +277652,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "73aba348-3766-42da-95f5-af2bf255384f",
         "title": "Data and AI Engineering Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -285414,7 +285342,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285464,7 +285392,7 @@
         "company_name": "Mytra",
         "id": "7168238e-e901-4705-8d75-b33b99d49fa4",
         "title": "Robotics Intern - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -309982,7 +309910,7 @@
         "company_name": "TikTok",
         "id": "36ca9c42-5715-4e50-acfe-f95b266ced75",
         "title": "Client Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335136,7 +335064,7 @@
         "company_name": "Nokia",
         "id": "427831e3-f368-412c-a525-9a643011fd59",
         "title": "Photonic Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -343216,7 +343144,7 @@
         "company_name": "Northrop Grumman",
         "id": "1461f1f6-683f-4743-a11d-5779aebc0f59",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359236,7 +359164,7 @@
         "company_name": "TikTok",
         "id": "57be7ebf-f14e-424a-81ff-8a9b7d08c97e",
         "title": "Client Solutions Intern - Global Business Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388145,7 +388073,7 @@
         "company_name": "Costco",
         "id": "501df30d-2f76-4464-a3ec-500e952ced2d",
         "title": "Costco Data Systems Intern - IT Product Owner",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405274,7 +405202,7 @@
         "company_name": "Envoy Air",
         "id": "2e2e68c0-6a5c-4917-ba15-5c1200450b37",
         "title": "College Intern - Maintenance Programs",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414852,6 +414780,27 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Maxinsights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Molina Healthcare",
+        "id": "67e45c9b-a2e8-472f-b2a3-a786a98bf446",
+        "title": "Healthcare Quality Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794563853,
+        "date_posted": 1793400654,
+        "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139",
+        "locations": [
+            "Kentucky"
+        ],
+        "company_url": "https://simplify.jobs/c/Molina-Healthcare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
