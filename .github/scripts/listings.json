@@ -180437,7 +180437,7 @@
         "company_name": "Ecolab",
         "id": "a9777bd4-5efc-4a60-a627-f2e6cfabbfcf",
         "title": "Digital & AI Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -197460,7 +197460,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "d8558fc9-9efb-4c17-b70f-26aafda3b66a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -245340,7 +245340,7 @@
         "company_name": "Shield AI",
         "id": "b7311fa1-4180-4d5a-8ce3-29a7c2703ea1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299587,7 +299587,7 @@
         "company_name": "Rockwell Automation",
         "id": "b584b221-8984-4b73-aa94-433363f4e9ee",
         "title": "Product Management Intern - Digital Client",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -305435,7 +305435,7 @@
         "company_name": "Keysight Technologies",
         "id": "a3467596-1476-4677-a459-8383949106b7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -356135,7 +356135,7 @@
         "company_name": "Assurant",
         "id": "c7623bf9-5cd1-42b5-b3be-be695977f629",
         "title": "Manufactured Housing Product Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397688,7 +397688,7 @@
         "company_name": "SRI International",
         "id": "a69832b9-ffaa-4a6e-a8b9-df96590d67ab",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -397873,7 +397873,7 @@
         "company_name": "Roche",
         "id": "b5719b13-e976-4a46-a904-a27b96888b47",
         "title": "Data Expert Intern - Compliance by Design - Data Capability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400914,7 +400914,7 @@
         "company_name": "Shield AI",
         "id": "bead51fa-aa91-421e-9b22-bc3e451072b1",
         "title": "Engineer 2 New Grad - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411962,7 +411962,7 @@
         "company_name": "KLA Corporation",
         "id": "c8b02f7b-4d23-4813-a169-4d1e876422c5",
         "title": "Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412171,7 +412171,7 @@
         "company_name": "KION Group",
         "id": "a6d9248f-0695-47c4-bb1e-9dec40e5dddc",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
