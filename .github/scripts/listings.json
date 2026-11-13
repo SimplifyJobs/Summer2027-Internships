@@ -367837,7 +367837,7 @@
         "company_name": "Zillow",
         "id": "f51fcb61-d19e-4ed3-81ec-258f5931b9db",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400689,7 +400689,7 @@
         "company_name": "T-Mobile",
         "id": "3bc108c2-89c8-4ffa-b7e5-7f1482d1fd91",
         "title": "AI Strategist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412198,7 +412198,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "f79149fd-0f69-4f4e-81be-3acf35d2aab8",
         "title": "Agentic AI Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
