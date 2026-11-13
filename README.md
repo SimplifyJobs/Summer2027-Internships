@@ -5603,7 +5603,7 @@
 <td>IT Information Management Intern</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://jobs.selective.com/jobs/5689?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e607654c-f29c-4661-80c6-08643000d167?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Signet-Jewelers?utm_source=GHList&utm_medium=company">Signet Jewelers</a></strong></td>
@@ -5729,7 +5729,7 @@
 <td>Manufacturing Systems & Data Intern - Systems</td>
 <td>Mojave, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ac27249b-0f36-44ff-a07c-513168c4e98b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
@@ -9518,7 +9518,7 @@
 <td>Embedded Software Developer – Network/Payload Intern</td>
 <td>SF</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/astranis/jobs/4704569006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/46b48762-e76f-4598-8440-e22bebf7a645?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -10071,14 +10071,14 @@
 <td>Electrical Engineer Intern - Hardware</td>
 <td>SF</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6116396004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/45b56cbb-a489-4ae6-a25a-52e4a70820f9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Product Design Engineering Intern</td>
 <td>SF</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6141235004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/88e69973-8eee-44d0-91fe-a0c3dce55ece?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Parallel-Systems?utm_source=GHList&utm_medium=company">Parallel Systems</a></strong></td>

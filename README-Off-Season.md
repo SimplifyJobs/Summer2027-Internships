@@ -505,7 +505,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Schenectady, NY</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452226?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/be409c15-d7f8-4de9-a9eb-56f6fd1af705?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ACLU-Kentucky?utm_source=GHList&utm_medium=company">ACLU Kentucky</a></strong></td>
@@ -6956,7 +6956,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>SF<br>NYC</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/295ce439-0ee2-4097-9da1-3a5cbab21c26?utm_source=GHList&utm_medium=company">Hypercubic</a></strong></td>
@@ -6964,7 +6964,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>SF</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company">Notion</a></strong></td>

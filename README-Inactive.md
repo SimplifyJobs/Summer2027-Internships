@@ -7932,49 +7932,49 @@
 <td>Summer Analyst Intern - Engineering</td>
 <td>Dallas, TX</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - Americas - Engineering</td>
 <td>Salt Lake City, UT</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - Americas - Engineering</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - Americas - Engineering</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - Engineering</td>
 <td>Birmingham, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - Engineering</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - Engineering</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company">Notion</a></strong></td>
@@ -10774,7 +10774,7 @@
 <td>Summer Analyst Intern - Wealth Management - Product Management and Design</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hershey?utm_source=GHList&utm_medium=company">Hershey</a></strong></td>
@@ -16573,7 +16573,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
 <td>Research Data Science Intern - Active Implantable Systems 🎓</td>
 <td>Arden Hills, MN</td>
 <td>🔒</td>
@@ -19195,7 +19195,7 @@
 <td>Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/The-Nuclear-Company?utm_source=GHList&utm_medium=company">The Nuclear Company</a></strong></td>
@@ -21435,147 +21435,147 @@
 <td>Quantitative Strategist Intern - Investment Banking</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Intern - Multiple Teams</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Associate Intern - Asset and Wealth Management 🎓</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strats Analyst Intern - Americas - Investment Banking</td>
 <td>Dallas, TX</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Associate Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Associate Intern - Multiple Teams 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - Americas - Investment Banking Quantitative Strats</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Intern - Americas - The Core Quantitative Strats</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Intern - Americas</td>
 <td>Dallas, TX</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Intern - Americas - The Core Quantitative Strats</td>
 <td>Dallas, TX</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Intern - Americas - The Core Quantitative Strats</td>
 <td>Salt Lake City, UT</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - FICC & Equities - Sales & Trading</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Intern - Multiple Teams</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats</td>
 <td>Salt Lake City, UT</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Associate Intern - The Core Quantitative Strats 🎓</td>
 <td>Dallas, TX</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - Wealth Management - Quantitative Finance</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - The Core Quantitative Strats</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - FICC and Equities - Sales and Trading</td>
 <td>West Palm Beach, FL</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Prudential-Financial?utm_source=GHList&utm_medium=company">Prudential Financial</a></strong></td>
@@ -22779,7 +22779,7 @@
 <td>Wireless Automation and Test Engineer Intern - Wireless Automation and Test</td>
 <td>SF</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sonos?utm_source=GHList&utm_medium=company">Sonos</a></strong></td>
