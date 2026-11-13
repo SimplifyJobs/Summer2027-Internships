@@ -212650,7 +212650,7 @@
         "company_name": "Shure",
         "id": "27e893cb-896a-4fd1-805b-a43fbb5f89f9",
         "title": "Electrical Engineer Intern - Pro Audio Circuitry",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -315686,7 +315686,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "21efbf02-6578-4c87-87f9-18d3e7020e57",
         "title": "ASIC Firmware and Diagnostic Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -356437,7 +356437,7 @@
         "company_name": "Rockwell Automation",
         "id": "2b6122fb-77de-497a-bba7-432617dc755b",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381234,7 +381234,7 @@
         "company_name": "Dow Jones",
         "id": "24bd2612-4e33-4647-8d05-b0bb1f788c86",
         "title": "Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384642,7 +384642,7 @@
         "company_name": "Dow Jones",
         "id": "34df1999-e2c7-47d7-9f70-25ad8625af57",
         "title": "Subscription Experimentation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405136,7 +405136,7 @@
         "company_name": "Renesas Electronics",
         "id": "42f52351-602a-458f-98a8-5259b10419d1",
         "title": "Applications Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408925,7 +408925,7 @@
         "company_name": "WEP Clinical",
         "id": "31b855b9-fc5f-4c69-835a-595236b88bd3",
         "title": "IT Intern - AI & Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
