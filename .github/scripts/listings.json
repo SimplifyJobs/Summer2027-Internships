@@ -11712,30 +11712,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "35e75bcb-b881-40ed-8ab0-915e8611c4c0",
-        "title": "Intern - Failure Analysis Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773813833,
-        "date_posted": 1773813833,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115355677",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Live Nation Entertainment",
         "id": "60efa159-bb0b-4729-8c28-8e647c75ec28",
@@ -11971,29 +11947,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Arkansas",
-        "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
-        "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773813929,
-        "date_posted": 1773813929,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -305496,7 +305449,7 @@
         "company_name": "Nokia",
         "id": "8b385727-658a-459e-8709-2c4192ab4c20",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -350872,7 +350825,7 @@
         "company_name": "American Electric Power",
         "id": "5598e445-4a5d-4330-9b66-07544b0d3b7a",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391074,7 +391027,7 @@
         "company_name": "JM Family",
         "id": "62fcafce-1c3e-423e-b12d-6f064a41a6a3",
         "title": "AI Center of Excellence Delivery Team Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409112,7 +409065,7 @@
         "company_name": "Unisys",
         "id": "5c47d2c6-87fd-41d7-ad7b-88e3b69a6a63",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
