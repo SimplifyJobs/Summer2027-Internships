@@ -240144,7 +240144,7 @@
         "company_name": "Red Hat",
         "id": "dc64c0e1-cb38-41de-a3e3-804c8de373b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -262776,7 +262776,7 @@
         "company_name": "BlackRock",
         "id": "e7067c38-ffd5-4e91-b625-6732557cb064",
         "title": "Quantitative Master\u2019s Intern - Investments - Quantitative Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324828,7 +324828,7 @@
         "company_name": "Merck",
         "id": "d7f43d08-985d-44a8-a3d4-4fd4ee837899",
         "title": "International Pricing Analytics Intern - International Pricing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339027,7 +339027,7 @@
         "company_name": "Johnson & Johnson",
         "id": "eed65ade-e9b6-4281-bfea-94e030327a6d",
         "title": "External Manufacturing Center of Excellence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375156,7 +375156,7 @@
         "company_name": "Sherwin-Williams",
         "id": "e96c73df-1dd2-4b9f-9018-b6e5c937fe68",
         "title": "R&D Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383619,7 +383619,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "fc31f420-a553-440f-b4e2-14bf2e7fdf26",
         "title": "Quality Control Strategy and Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -390084,7 +390084,7 @@
         "company_name": "RGA Reinsurance Company",
         "id": "e76577d0-95e5-4dca-baf2-86a80fd28131",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399313,7 +399313,7 @@
         "company_name": "T-Mobile",
         "id": "e069ea1c-b571-46be-95e2-d1071dbcb2dd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407004,7 +407004,7 @@
         "company_name": "RTX",
         "id": "f0ed27e9-ca10-424f-8305-319c157dc9db",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408469,7 +408469,7 @@
         "company_name": "RTX",
         "id": "cbf0ae78-7117-4952-b05e-ab26f07e9803",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414686,6 +414686,146 @@
             "Little Rock, AR"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Arkansas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Federal Home Loan Bank of Dallas",
+        "id": "92e97129-5157-407c-a20a-583d03213c24",
+        "title": "Digital Transformation Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1794554900,
+        "date_posted": 1793232000,
+        "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Spring-Digital-Transformation-Intern_REQ-456",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Dallas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Federal Home Loan Bank of Dallas",
+        "id": "82e09811-c21f-4f33-87de-90a940f52865",
+        "title": "Accounting Tech Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794554901,
+        "date_posted": 1792972800,
+        "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Dallas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "f6983ddf-02f7-4973-ba32-f5ca9ec6ba43",
+        "title": "Software Engineer Intern - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1794554293,
+        "date_posted": 1794554109,
+        "url": "https://www.tesla.com/careers/search/job/289796",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Envita Solutions",
+        "id": "b38678ed-cd5b-41bc-9453-c63367824c7b",
+        "title": "Data Scientist Intern - Applied AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794554103,
+        "date_posted": 1789084800,
+        "url": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Envita-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Envita Solutions",
+        "id": "84683a1c-87f6-45c9-a94e-879f4dd879e8",
+        "title": "Software Engineer Intern - Applied AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794554117,
+        "date_posted": 1789084800,
+        "url": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Envita-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JSX",
+        "id": "3776b303-0849-4822-8f8b-efd9d1b813dc",
+        "title": "Commercial Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794553928,
+        "date_posted": 1793577600,
+        "url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/JSX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
