@@ -381534,7 +381534,7 @@
         "company_name": "CIBC",
         "id": "aaab9a51-411c-46e2-a266-f442dc96950a",
         "title": "Project Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
