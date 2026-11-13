@@ -373721,7 +373721,7 @@
         "company_name": "Amazon",
         "id": "08f5ae2c-794c-4da3-94f0-d72a0a5e2b56",
         "title": "Robotics Applied Scientist 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -379649,7 +379649,7 @@
         "company_name": "Dee Zee",
         "id": "0c2e08ec-3a20-496f-8117-21a7031cbe20",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381278,7 +381278,7 @@
         "company_name": "Dow Jones",
         "id": "01d416dc-844e-4698-a114-49f2d585c63a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393939,7 +393939,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0ff66bea-367c-4fcd-932b-11b2ae359105",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407358,7 +407358,7 @@
         "company_name": "Tesla",
         "id": "69fc016e-5ad7-44cf-b4a2-2659826b2808",
         "title": "Software Developer Intern - IT Apps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
