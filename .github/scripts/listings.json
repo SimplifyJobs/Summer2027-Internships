@@ -283288,7 +283288,7 @@
         "company_name": "Symbotic",
         "id": "e614b55c-223c-440a-b20b-681a639c6008",
         "title": "Applied Scientist - Routing",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -347588,7 +347588,7 @@
         "company_name": "Carrier Global",
         "id": "9f100b0b-5ea2-4aea-b312-c15d32e8e8c8",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
