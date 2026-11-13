@@ -307317,7 +307317,7 @@
         "company_name": "Affirm",
         "id": "b7368293-9c8c-4b02-8787-dddbcf2af626",
         "title": "Software Engineer Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307974,7 +307974,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374301,7 +374301,7 @@
         "company_name": "Micron Technology",
         "id": "919323ab-0bec-4059-9bad-aa2b7fad6c40",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404170,7 +404170,7 @@
         "company_name": "UiPath",
         "id": "9cd6fe4b-5705-4c78-bd3f-42710712db27",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408031,7 +408031,7 @@
         "company_name": "Art of Problem Solving",
         "id": "99f21d5c-7198-4ea0-af0f-623286ed3a1f",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413947,6 +413947,773 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "ff35d928-bda9-4876-80f6-102b8df3d1e4",
+        "title": "Engineer Co-op - Compiler",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538295,
+        "date_posted": 1781539148,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "f285604b-c7e7-4333-9901-870a103aaca1",
+        "title": "Engineer Co-op - Intelligent Real-Time Operating System",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538295,
+        "date_posted": 1785854802,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "e9dce874-b516-4714-aa32-2c74b599fc5d",
+        "title": "Researcher Intern - AI/ML Technology Insight and Planning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538279,
+        "date_posted": 1781547243,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "e04fc4ce-39fe-4ca9-98b7-f8d9f899924c",
+        "title": "Researcher Co-op - Machine Learning - Speech & Audio AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1787332102,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-machine-learning-speech-audio-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "b5e0adf9-5977-4432-ae4d-aa1803b66414",
+        "title": "Engineer Co-op - Openjiuwen AI Agent Platform",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538279,
+        "date_posted": 1785932833,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "a73caa08-a120-4dbc-9b79-976602108991",
+        "title": "Researcher Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1791995347,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-5",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "9980bf28-c8da-43cc-990a-cf5e2fb55015",
+        "title": "Audio Researcher Intern - Speech & Acoustic AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1791900970,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-audio-speech-acoustic-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "8713ed6c-50c6-470d-a81a-2e35ebc67528",
+        "title": "Researcher Computer Vision Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538281,
+        "date_posted": 1793724069,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "f7c06d5d-b0fb-479e-875c-f9eab2439b43",
+        "title": "LLM Researcher Intern - Agentic AI - RL",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538297,
+        "date_posted": 1778267665,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-llms-agentic-ai-and-rl",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "f686a734-346e-428f-8765-b0f4f114ff0c",
+        "title": "Intern Researcher - AI Foundation Model Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538263,
+        "date_posted": 1777386310,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-foundation-model-training",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "75ad31e5-8869-42ee-b746-6f59add9f04b",
+        "title": "Researcher Intern - Agentic AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538282,
+        "date_posted": 1783435671,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "751cb9fa-f552-4980-b185-35dd46e6f18e",
+        "title": "Intern Researcher - AI Agents",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538280,
+        "date_posted": 1793279889,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "690be9b5-93e1-4b65-95be-44f1ca50492d",
+        "title": "Researcher Co-op - AI Computing System",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538281,
+        "date_posted": 1775083935,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "625c7e2c-e13b-460f-9730-12a155fa8639",
+        "title": "Researcher Applied 3D AIGC Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538276,
+        "date_posted": 1791900984,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-applied-3d-aigc",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "5c6c5599-9754-435d-a9eb-8b5203dee989",
+        "title": "Researcher Intern - Multimodal Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538289,
+        "date_posted": 1780498828,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-learning",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "52bbf56a-d355-47d0-9bab-5bd8ee11476f",
+        "title": "Physical AI Researcher Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538295,
+        "date_posted": 1778267679,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-physical-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "471baf47-a970-4f86-9b64-150b4c12e205",
+        "title": "Engineer Intern - RL Post-Training for LLMs",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538295,
+        "date_posted": 1780954168,
+        "url": "https://huaweicanada.recruitee.com/o/intern-engineer-rl-post-training-for-llms",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "326351dd-6d13-457e-90d4-f2bda553dbde",
+        "title": "Engineer-Mobile AI Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538281,
+        "date_posted": 1778270810,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-mobile-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "ec617af8-e6b5-4f09-97c4-5fe0308f7811",
+        "title": "Researcher Co-op - LLM Post-Training & Agentic Coding",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538296,
+        "date_posted": 1787331645,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-llm-post-training-agentic-coding",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "e3bcb790-c388-46ce-8b5c-8c536b958af8",
+        "title": "Engineer Intern - AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538278,
+        "date_posted": 1782153992,
+        "url": "https://huaweicanada.recruitee.com/o/intern-engineer-ai",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "af6d58e7-f6ef-4a94-9d9d-80f9fdb8352f",
+        "title": "Researcher Co-op - Video Generation & 3D Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538297,
+        "date_posted": 1787331955,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-video-generation-3d-computer-vision",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "98b99dd7-cba9-4350-be70-6983b108701f",
+        "title": "Engineer Distributed Agent System Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538280,
+        "date_posted": 1783953981,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "775dd1f4-1211-4500-9c9e-8e8a47553158",
+        "title": "Intern Engineer - Game Engine System",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538263,
+        "date_posted": 1780504219,
+        "url": "https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "71b697b9-33da-44f6-b74c-1a18fd876b98",
+        "title": "Embodied AI Researcher Intern - Embodied AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538284,
+        "date_posted": 1782234610,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "5e9eca7f-524c-44e5-85c0-cb5bbe2163f3",
+        "title": "Software Engineer Co-op - AI Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538298,
+        "date_posted": 1781728922,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huawei",
+        "id": "58ca9177-7b2c-4472-8fe2-05c124cca7dd",
+        "title": "Researcher Intern - Multimodal AI & Interaction",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538285,
+        "date_posted": 1788550327,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "4e1cfabf-de23-45ca-b706-8e2f202b62e8",
+        "title": "Researcher Intern - Embodied AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1794510270,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "30b61d83-12c1-4029-a529-980253b6f7e1",
+        "title": "Researcher Co-op - Physical AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538275,
+        "date_posted": 1787331527,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-physical-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "24a69d69-e63c-49fc-a986-1bf03a1c9a84",
+        "title": "Researcher Co-op - Large Language Models - Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1787331557,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision-1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "0def37d6-27d0-4efb-ae81-34835557d23e",
+        "title": "Researcher Co-op - Agentic AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538277,
+        "date_posted": 1787836425,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-agentic-ai",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "03941a8f-ba62-4a38-b795-23b63cb0869a",
+        "title": "Researcher Co-op - LLM - Computer Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794538281,
+        "date_posted": 1787331781,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AB InBev",
+        "id": "0be20f8c-3098-44d2-88ab-cbc0d29cdb13",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794537920,
+        "date_posted": 1787875200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AB-InBev",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "8f47d73c-faa0-4332-89e2-eebc74191786",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794537364,
+        "date_posted": 1794537318,
+        "url": "https://lifeattiktok.com/search/7698822572474583301",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "98dc807a-1c66-4aa7-be8a-e92415806904",
+        "title": "Research Scientist Intern - Content Ecology - Local Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794537364,
+        "date_posted": 1794537318,
+        "url": "https://lifeattiktok.com/search/7707222170826623285",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "54dd4a2d-1c29-46fc-abe9-339b86237bc5",
+        "title": "Hardware Test Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794537218,
+        "date_posted": 1794441600,
+        "url": "https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "ddf05d15-149a-411e-8f61-81a01fceaaf2",
+        "title": "Quality & Reliability Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794537227,
+        "date_posted": 1794531669,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5474812008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
