@@ -283288,7 +283288,7 @@
         "company_name": "Symbotic",
         "id": "e614b55c-223c-440a-b20b-681a639c6008",
         "title": "Applied Scientist - Routing",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399060,7 +399060,7 @@
         "company_name": "T-Mobile",
         "id": "8a924ee7-0fe1-4b54-b6ad-a4130a1cf787",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
