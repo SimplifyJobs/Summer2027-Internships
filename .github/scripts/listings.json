@@ -243516,7 +243516,7 @@
         "company_name": "Pilot Company",
         "id": "8af537c8-1c4a-4baf-a924-99bf28fc30a0",
         "title": "Process Automation Intern - Process Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262286,7 +262286,7 @@
         "company_name": "BlackRock",
         "id": "25a6eaee-a2fc-4abd-871b-c4b5e46eb0b3",
         "title": "Quantitative Master's Intern - Investments - Quantitative Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270447,7 +270447,7 @@
         "company_name": "Emerson Electric",
         "id": "24774d9b-0c8e-4321-bcc0-934b0dc99931",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -365303,7 +365303,7 @@
         "company_name": "HCSC",
         "id": "359fb94c-188d-4ed5-966d-09be72212149",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412663,7 +412663,7 @@
         "company_name": "Lightmatter",
         "id": "3ccd0b28-1c06-43f2-be85-1902e772f95b",
         "title": "Data & AI Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
