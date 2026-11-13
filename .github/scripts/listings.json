@@ -262820,7 +262820,7 @@
         "company_name": "BlackRock",
         "id": "9f717eea-aa90-43b0-b625-5d82064e049e",
         "title": "Quantitative Master\u2019s Intern - Investments - Quantitative Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262935,7 +262935,7 @@
         "company_name": "BlackRock",
         "id": "b4c7e3c7-8f68-4c61-80da-98ab3347b7b6",
         "title": "Quantitative Master\u2019s Internship - Technology - Analytics & Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323180,7 +323180,7 @@
         "company_name": "GE Vernova",
         "id": "b10edb5a-e520-4da4-988d-a8a730bef747",
         "title": "SCS Commercial Strategy & Growth Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323226,7 +323226,7 @@
         "company_name": "GE Vernova",
         "id": "ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97",
         "title": "SCS Commercial Strategy & Growth Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352697,7 +352697,7 @@
         "company_name": "KeyBank",
         "id": "a1713031-4b7f-4d1b-969c-fbfcee4f1a57",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358794,7 +358794,7 @@
         "company_name": "TD Bank",
         "id": "b9b52922-5041-4125-b7c7-84b0dd7df700",
         "title": "Graduate Leadership Program Commercial Banking Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361982,7 +361982,7 @@
         "company_name": "Navy Federal",
         "id": "c5d18f1d-65ab-49c8-86ae-b293e6a1c377",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391050,7 +391050,7 @@
         "company_name": "JM Family",
         "id": "a4762cb5-97a1-457e-a071-427b1e9dd672",
         "title": "AI & Decision Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402135,7 +402135,7 @@
         "company_name": "RTX",
         "id": "c8c804f9-c25c-4c84-92f3-f6d5d3544b52",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406906,7 +406906,7 @@
         "company_name": "Renesas Electronics",
         "id": "f44d9e10-bd09-4c58-9683-71c26a6fc716",
         "title": "Applications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414663,6 +414663,29 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
+        "title": "Graduate Research Assistant Intern - ML/AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792833308,
+        "date_posted": 1778940427,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Arkansas",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
