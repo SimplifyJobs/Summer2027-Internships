@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zscaler",
-        "id": "5ecfc8fd-1a27-4a25-a19b-e41143f1c3fe",
-        "title": "AI/ML Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773796815,
-        "date_posted": 1773796815,
-        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5022413007",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zscaler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "28910fa5-719d-45a0-9802-f5f97c8a65f1",
-        "title": "Economist Intern - FBA Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773796373,
-        "date_posted": 1773796373,
-        "url": "https://amazon.jobs/en/jobs/3207332/economist-intern-fba-science-fba-science",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Public Service Enterprise Group",
-        "id": "0bf428ae-cfce-4133-b8cd-91fd4d39a862",
-        "title": "Technical Intern - Nuclear Innovation Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773796068,
-        "date_posted": 1773796068,
-        "url": "https://jobs.pseg.com/job/Hancocks-Bridge-Summer-2026-Technical-Intern-Nuclear-Innovation-Team-NJ-08038/1374123200/?ats=successfactors",
-        "locations": [
-            "New Castle, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "c76731fb-7fe6-4695-af55-0427643c0aa1",
-        "title": "Intern Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773796121,
-        "date_posted": 1773796121,
-        "url": "https://careers-gdms.icims.com/jobs/71195/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Creatify Lab ",
         "id": "ab5fa332-ca73-429e-83d4-712536d312df",
@@ -243680,7 +243586,7 @@
         "company_name": "Pilot Company",
         "id": "33258c1b-8a35-41f6-a22e-7156b64f6144",
         "title": "GIS Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381813,7 +381719,7 @@
         "company_name": "Nokia",
         "id": "17481db4-7b68-4ead-b8cc-e7f82118697d",
         "title": "Silicon Photonics Packaging Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
