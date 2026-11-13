@@ -223878,7 +223878,7 @@
         "company_name": "Corteva",
         "id": "04fa737d-39fc-4d4c-a941-98752f72b8ec",
         "title": "Research and Development Intern - Computer and Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -263526,7 +263526,7 @@
         "company_name": "Altera",
         "id": "e76d4605-d469-425d-a79a-1fa00dca13b2",
         "title": "Quartus Compiler Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -283030,7 +283030,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304913,7 +304913,7 @@
         "company_name": "American Family Insurance Group",
         "id": "9c89c357-41a2-4137-9eda-fc3aa4a2448e",
         "title": "GenAI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380878,7 +380878,7 @@
         "company_name": "Snowflake",
         "id": "def9df22-e128-4dda-9596-1d0de6902d93",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389243,7 +389243,7 @@
         "company_name": "Arch Capital Group",
         "id": "f5113035-5f0f-4f0c-970b-772d643acbf6",
         "title": "Originations Portal IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397802,7 +397802,7 @@
         "company_name": "Molina Healthcare",
         "id": "df5eafa1-788e-43eb-a0cd-755cec712155",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -414426,6 +414426,140 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cantor-Fitzgerald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Merrick",
+        "id": "45d13310-8ccb-4932-af40-0c16e8220885",
+        "title": "GIS Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794585062,
+        "date_posted": 1794584100,
+        "url": "https://careers.merrick.com/jobs/8476?icims=1&lang=en-us",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Merrick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fonds de solidarit\u00e9 FTQ",
+        "id": "4ce259f3-c824-4b19-af9c-6d94c9730dcd",
+        "title": "Business Intelligence and M365 Solutions Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794585103,
+        "date_posted": 1794528000,
+        "url": "https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Fonds-De-Solidarite-FTQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Entegris",
+        "id": "470b39db-6434-4cac-81d5-bfa9c179796e",
+        "title": "Associate Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794584883,
+        "date_posted": 1794528000,
+        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844",
+        "locations": [
+            "Chaska, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Entegris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rocket Mortgage",
+        "id": "4e1d3eca-60ed-4189-856e-6f7c6a717741",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794584527,
+        "date_posted": 1794528000,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Mortgage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rocket Mortgage",
+        "id": "2b041c35-8b41-4e11-ab87-232b37636213",
+        "title": "Customer Correspondence Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794584546,
+        "date_posted": 1794528000,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Mortgage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WTW",
+        "id": "ad14b025-74ef-4ada-8315-206a35b4bc1c",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794584197,
+        "date_posted": 1794584039,
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WTW",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
