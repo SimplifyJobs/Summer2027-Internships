@@ -262727,7 +262727,7 @@
         "company_name": "BlackRock",
         "id": "87b11fea-2c1b-4427-b741-a7acd9fd822b",
         "title": "Quantitative Masters Intern - Technology - Analytics & Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -274251,7 +274251,7 @@
         "company_name": "4AG Robotics",
         "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
         "title": "Robotics Software Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -348602,7 +348602,7 @@
         "company_name": "Cigna Group",
         "id": "aaac9d8b-db6b-4050-ad94-8cb5584c0bbd",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379707,7 +379707,7 @@
         "company_name": "Overland AI",
         "id": "e6698a06-642e-483b-8dfb-1d1b5ec9299c",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387943,7 +387943,7 @@
         "company_name": "Costco",
         "id": "f1c48f63-d8ea-4e90-8539-67591d5ad08f",
         "title": "CDS Intern - Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414827,6 +414827,56 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "e97730e6-349e-4100-bc8c-7818046c2740",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1794568346,
+        "date_posted": 1794528000,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Reasonable AI",
+        "id": "f5a065b7-d9d0-4883-bfa5-ef1dbbae531e",
+        "title": "Student Researcher Program Intern - Formal Reasoning - LLM Post-Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794567983,
+        "date_posted": 1794221863,
+        "url": "https://apply.workable.com/reasonable/j/383AD7E2BA/apply",
+        "locations": [
+            "London, UK",
+            "Budapest, Hungary"
+        ],
+        "company_url": "https://simplify.jobs/c/Reasonable-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
