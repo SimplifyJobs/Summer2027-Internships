@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 3798 Inactive Internship Roles by Category
+### Browse 3799 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1322)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1323)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (248)
 
@@ -329,6 +329,13 @@
 <td>↳</td>
 <td>Ground Software Engineer Intern</td>
 <td>Redondo Beach, CA</td>
+<td>🔒</td>
+<td>10d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/JM-Family-Enterprises?utm_source=GHList&utm_medium=company">JM Family</a></strong></td>
+<td>AI Center of Excellence Delivery Team Intern</td>
+<td>Deerfield Beach, FL</td>
 <td>🔒</td>
 <td>10d</td>
 </tr>
