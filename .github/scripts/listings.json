@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1774019475,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-riversideresearch.icims.com/jobs/4155/ai-ml-intern/job",
-        "company_name": "Riverside Research",
-        "title": "AI/ML Intern",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "cf62f9cf-9c37-4d0b-b805-32323058b40f",
-        "date_posted": 1773909191,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775834862,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://uscareers-waters.icims.com/jobs/25802/2026-25802/job",
-        "company_name": "Waters",
-        "title": "AI Engineer Intern",
-        "locations": [
-            "Milford, MA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "abcfd4e8-52ab-44f8-80d0-77ea6c6f1a1b",
-        "date_posted": 1773909378,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Vernova",
