@@ -3,52 +3,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Vernova",
-        "id": "c567dc0a-4c8b-4aa0-8308-9dca7f6c5f6d",
-        "title": "Embedded Systems / Firmware Engineering Intern-1",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773913124,
-        "date_posted": 1773913124,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-1_R5035165-1",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "6328f229-b8d7-4fb8-80e8-d2bab2297996",
-        "title": "Embedded Systems / Firmware Engineering Intern-2",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773913129,
-        "date_posted": 1773913129,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-2_R5035163-3",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
         "id": "eb5feb45-3f26-42f0-a23e-dce9385e7b2a",
         "title": "Embedded Systems / Firmware Engineering Intern-1",
         "active": false,
@@ -292526,7 +292480,7 @@
         "company_name": "Garmin",
         "id": "3e52a1c6-440c-46b1-8118-2b43ad11f3cc",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -407115,7 +407069,7 @@
         "company_name": "Arcesium",
         "id": "3a9cc68f-b19b-4099-b4c5-a5cb94c647d8",
         "title": "Technology Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -407502,7 +407456,7 @@
         "company_name": "Riot Games",
         "id": "5ba9451c-c34f-47bc-9930-d18b4a4494c0",
         "title": "Technical Game Design Intern - League of Legends and Teamfight Tactics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412030,7 +411984,7 @@
         "company_name": "Merrick",
         "id": "45d13310-8ccb-4932-af40-0c16e8220885",
         "title": "GIS Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
