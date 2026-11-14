@@ -252873,7 +252873,7 @@
         "company_name": "Guardian Life",
         "id": "2e731a5d-c18c-446b-ab15-23f671730a6e",
         "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319047,7 +319047,7 @@
         "company_name": "ICF International",
         "id": "3d769859-1b78-490a-81be-a7cf9bc054bf",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
