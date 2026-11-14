@@ -228305,7 +228305,7 @@
         "company_name": "CNA Insurance",
         "id": "1d575d00-562b-41dd-959e-769e6343f0ac",
         "title": "Technology Intern - Agile Product Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317361,7 +317361,7 @@
         "company_name": "NewYork-Presbyterian",
         "id": "157c3d24-c5e0-4535-9ed2-0627c925c4cc",
         "title": "Finance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333678,7 +333678,7 @@
         "company_name": "American University",
         "id": "13ff295c-110d-486d-bf6d-fa7c198f5956",
         "title": "Data Quality Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340408,7 +340408,7 @@
         "company_name": "Ryan",
         "id": "18cf7b99-7951-4d0b-aa42-6f2427d59c44",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366873,7 +366873,7 @@
         "company_name": "Micron Technology",
         "id": "0237db49-2c6e-4821-9ef5-4c8214f38c17",
         "title": "HBM Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382396,7 +382396,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1ef0bff3-253a-4f49-b688-0c8e9108fb0c",
         "title": "Supervision & Regulation Intern - Business Relationship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405360,7 +405360,7 @@
         "company_name": "RTX",
         "id": "0653c5fb-9673-4a73-9ace-50cb9ccf3243",
         "title": "Electrical Components Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
