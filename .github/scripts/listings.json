@@ -2,118 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Ingram Micro",
-        "id": "819e4114-3b55-42de-8ab9-f218be70fca5",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773884441,
-        "date_posted": 1773884441,
-        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Irvine-CA-United-States-of-America/Summer-Intern---AI-COE_R-114227",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edwards Lifesciences",
-        "id": "ea3e8ba9-cc17-4f4f-a6d1-03cbcc20f964",
-        "title": "Enterprise Data & AI Integration Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773884245,
-        "date_posted": 1773884245,
-        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Enterprise-Data---AI-Integration-Co-Op--Summer-2026_Req-46656",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Ingram Micro",
-        "id": "89d73812-93a1-49dd-a246-a4f7783dbd6a",
-        "title": "Intern - Product Management - AI Chatbot & Self-Service",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773884448,
-        "date_posted": 1773884448,
-        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Irvine-CA-United-States-of-America/Summer-Intern---Product-Management--AI-Chatbot---Self-Service-_R-114221",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Ingram Micro",
-        "id": "07b21d58-0a95-4711-92f7-cf433603d604",
-        "title": "Intern - Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773884440,
-        "date_posted": 1773884440,
-        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Irvine-CA-United-States-of-America/Summer-Intern---Product-Management_R-114222",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ingram Micro",
-        "id": "73676fe7-f8b3-4d89-b745-f845aa88e8a0",
-        "title": "Intern - Advanced Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773884446,
-        "date_posted": 1773884446,
-        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Irvine-CA-United-States-of-America/Summer-Intern---Advanced-Analytics_R-114228",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Calix",
         "id": "5479ff45-3b7c-4e09-af1a-7b9fb75e1c1e",
         "title": "Software Engineering Intern - Cloud Architecture",
@@ -384815,7 +384703,7 @@
         "company_name": "Paccar",
         "id": "3a491712-efae-41c7-9cf5-9e0c3367e9e1",
         "title": "AI-Driven Vehicle Definition Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386890,7 +386778,7 @@
         "company_name": "Paccar",
         "id": "413fa3ea-a5c0-4c3d-b1db-e01f70015c85",
         "title": "Product Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411134,7 +411022,7 @@
         "company_name": "ServiceNow",
         "id": "6c1db6a9-db3d-4a8f-8f50-a15d2d049104",
         "title": "Senior Outbound Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
