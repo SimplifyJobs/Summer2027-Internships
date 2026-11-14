@@ -35357,7 +35357,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
-<td>Salt Lake City, UT</td>
+<td>Carlsbad, CA</td>
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -35365,7 +35365,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
-<td>Carlsbad, CA</td>
+<td>Salt Lake City, UT</td>
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -35404,14 +35404,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>Software Engineer Intern</td>
-<td>Salt Lake City, UT</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Integration/Test Engineer Intern</td>
 <td>Melbourne, FL</td>
 <td>Winter 2026</td>
@@ -35422,6 +35414,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>↳</td>
 <td>Electrical Engineer Co-op</td>
 <td>Waterdown, Hamilton, ON, Canada</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td>Salt Lake City, UT</td>
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -36796,16 +36796,16 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>SOI Design Engineer Intern 🎓</td>
-<td>Greensboro, NC</td>
+<td>Device Engineering Intern</td>
+<td>Richardson, TX</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Device Engineering Intern</td>
-<td>Richardson, TX</td>
+<td>SOI Design Engineer Intern 🎓</td>
+<td>Greensboro, NC</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -36852,16 +36852,16 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>Product Engineering Intern</td>
-<td>Hillsboro, OR</td>
+<td>Design Engineer Intern 🎓</td>
+<td>Greensboro, NC</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Design Engineer Intern 🎓</td>
-<td>Greensboro, NC</td>
+<td>Product Engineering Intern</td>
+<td>Hillsboro, OR</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>2mo</td>
