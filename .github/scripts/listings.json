@@ -2,55 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "8a407090-101b-47b2-9d4c-cd73f47d592c",
-        "title": "Intern Automotive Product Global Quality",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773876808,
-        "date_posted": 1773876808,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Automotive-Product-Global-Quality_JR93481",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edwards Lifesciences",
-        "id": "ac77e281-eead-4aad-acfc-13116131b285",
-        "title": "Artificial Intelligence Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773876718,
-        "date_posted": 1773876718,
-        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Artificial-Intelligence-Machine-Learning-Co-Op--Summer-Winter-2026_Req-46655",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "First American",
         "id": "97c1949a-2bd7-41ea-a668-b2c9cfc574da",
         "title": "People Analytics Intern",
@@ -162,27 +113,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CIBC",
-        "id": "19843a16-6d86-4f6a-9d2c-56b82d01b62b",
-        "title": "Software Engineer Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773876734,
-        "date_posted": 1773876734,
-        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer-Apprentice_2606137",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -314,29 +244,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "T-Mobile",
-        "id": "0c772a67-c1e3-4c4c-baff-c7896dbe51f0",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773876713,
-        "date_posted": 1773876713,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Data-Analyst-Internship_REQ348541",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -148485,7 +148392,7 @@
         "company_name": "Two Sigma",
         "id": "d7896522-5218-4362-8092-60cacc29a642",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -148510,7 +148417,7 @@
         "company_name": "Two Sigma",
         "id": "6bb2553b-f9bc-4c0b-ae90-ae4d6dabeeee",
         "title": "AI Research Scientist Intern - 2027 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -174789,7 +174696,7 @@
         "company_name": "Sysco",
         "id": "1c385c6d-d388-465d-9ccb-4051032c9a09",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -198451,7 +198358,7 @@
         "company_name": "JP Morgan Chase",
         "id": "7e598d20-5aab-49e6-8847-8d17c9948e41",
         "title": "Quantitative Research Markets Associate Intern - Quantitative Trading & Research Markets",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -199273,7 +199180,7 @@
         "company_name": "BlueCross BlueShield of Nebraska",
         "id": "67c1b95e-7d8e-429c-8252-51543316efbd",
         "title": "Data Intern - Data Science - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -238307,7 +238214,7 @@
         "company_name": "Coinbase",
         "id": "93048763-5a4d-430c-bb12-ed0ad0d9cfa7",
         "title": "Data Science Intern - Strategy, Execution, & Analytics - Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -255465,7 +255372,7 @@
         "company_name": "FNBO",
         "id": "ef6779b9-6706-4217-8b3a-09ef98f4faf4",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290264,7 +290171,7 @@
         "company_name": "Marvell",
         "id": "6f7bf192-fce8-4fd8-b5b2-80bea38e4c1e",
         "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -320616,7 +320523,7 @@
         "company_name": "Dow Jones",
         "id": "64fff9f9-a727-4e4a-8276-7c86d2eff96d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348089,7 +347996,7 @@
         "company_name": "Paccar",
         "id": "a75a8632-28d8-4ce0-827f-c75ecb99f4c9",
         "title": "Engineering Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349666,7 +349573,7 @@
         "company_name": "Massachusetts School Building Authority",
         "id": "f724ecc9-e5c4-47e4-9e6d-3584b691bd12",
         "title": "Capital Planning Data Assistant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -350123,7 +350030,7 @@
         "company_name": "Paccar",
         "id": "a72f908f-55c1-401b-81f9-3c73db8f10b6",
         "title": "Fleet Pricing Intern - Fleet Pricing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371721,7 +371628,7 @@
         "company_name": "Applied Materials",
         "id": "f4dc97f0-baca-420e-a5eb-96d5e9625bf3",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379837,7 +379744,7 @@
         "company_name": "Dow Jones",
         "id": "dbeafa51-a003-4564-a8fc-6820ab41231b",
         "title": "Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385026,7 +384933,7 @@
         "company_name": "Paccar",
         "id": "d973936c-50d5-41f6-acc8-e1dbd6c84acd",
         "title": "Materials Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386203,7 +386110,7 @@
         "company_name": "Tria Federal",
         "id": "4374aa77-1cb7-43ac-b98c-61c5c9bc7f02",
         "title": "Growth Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -406574,7 +406481,7 @@
         "company_name": "Piedmont Airlines",
         "id": "e7eb4939-757c-4048-9541-a82f2b2ba9d5",
         "title": "Safety Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413884,6 +413791,471 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vertex Pharmaceuticals",
+        "id": "ecba7dcd-8896-44c3-bb7f-3f2b3b3fb4d6",
+        "title": "Data Analytics Intern - OSD Process Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794614073,
+        "date_posted": 1794528000,
+        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312-2",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Horizon3.ai",
+        "id": "720070f8-5056-4d8c-91ef-204cccb506d9",
+        "title": "Research Intern - Adversarial Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794614043,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true",
+        "locations": [
+            "Chicago, IL",
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon3ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "d064d6a0-7525-406b-8cfc-490eca3f6d09",
+        "title": "Research Scientist Intern - Materials Architecture & Device Integration",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794613942,
+        "date_posted": 1794613756,
+        "url": "https://www.metacareers.com/jobs/1674297360998408",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "47e607e8-bfa3-490f-9847-4eec64d1daf3",
+        "title": "Robotics Applied Scientist 2 Intern - Robotics",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1794613981,
+        "date_posted": 1794613859,
+        "url": "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
+        "locations": [
+            "Seattle, WA",
+            "North Reading, MA",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA",
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "1c21b84c-49d3-4c76-93cb-4433ffa3743c",
+        "title": "Research Scientist Intern - Diffractive Optics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794613861,
+        "date_posted": 1794613756,
+        "url": "https://www.metacareers.com/jobs/1158829233342350",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ServiceNow",
+        "id": "eb2140d4-c14b-41d4-b79a-7ead14815c8f",
+        "title": "Senior Outbound Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794613720,
+        "date_posted": 1794611355,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161590090",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ServiceNow",
+        "id": "576b979b-5662-44cb-a8ba-a25adc3fbdf1",
+        "title": "Senior Inbound Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794613715,
+        "date_posted": 1794607254,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161584449",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NextEra Energy",
+        "id": "d02a74dd-8183-4a37-8203-b66654240269",
+        "title": "Software Engineering Intern - Technical",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794613721,
+        "date_posted": 1794613564,
+        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/NextEra-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "6b73a3bf-eeb9-4318-84af-2f7f53519b89",
+        "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794613726,
+        "date_posted": 1794613657,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "c68b88e0-4d45-43f7-b99f-cf02ddad18c3",
+        "title": "Research Intern - AI Coding Agents",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794613724,
+        "date_posted": 1794613657,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.W. Grainger",
+        "id": "af3d7ee6-3deb-4173-9e23-70882a93179a",
+        "title": "Field Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1794613560,
+        "date_posted": 1794613457,
+        "url": "https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors",
+        "locations": [
+            "Thornhill, Vaughan, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.W. Grainger",
+        "id": "dade4a7e-b733-4ae0-9e37-2961ee5ae57e",
+        "title": "Customer Experience Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794613556,
+        "date_posted": 1794613457,
+        "url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors",
+        "locations": [
+            "Thornhill, Vaughan, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.W. Grainger",
+        "id": "231c6e93-0b32-4f1d-b390-ca34f194e881",
+        "title": "GCAN Field Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794613508,
+        "date_posted": 1794613458,
+        "url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors",
+        "locations": [
+            "Thornhill, Vaughan, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Helcim",
+        "id": "2624e6fd-5ca0-43ca-a14f-8d3c0063fd03",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794613551,
+        "date_posted": 1794603401,
+        "url": "https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Helcim",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TC Energy",
+        "id": "49430b88-122f-4342-8266-38570cdaf59c",
+        "title": "Intelligent Operations Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794613346,
+        "date_posted": 1794528000,
+        "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919",
+        "locations": [
+            "Spokane, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TC-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nexus Cognitive Technologies",
+        "id": "ea81eda9-f69e-45d8-a77f-1ba463459e40",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794613069,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexus-Cognitive-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "468b4f83-907e-47cb-af11-614819954651",
+        "title": "Analog Layout Engineer Intern Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794613050,
+        "date_posted": 1794528000,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "244ece75-c37a-420d-9923-f0415e7ba302",
+        "title": "Hardware Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794612814,
+        "date_posted": 1794605375,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital Group",
+        "id": "2090dcc2-c489-4ec4-bd16-8b1af5aa79f2",
+        "title": "Global Technology Summer Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794612840,
+        "date_posted": 1794528000,
+        "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "15c84bfe-faea-47f2-bc38-09560d4c5547",
+        "title": "Physical Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794612814,
+        "date_posted": 1794590286,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5481668008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
