@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "First American",
-        "id": "97c1949a-2bd7-41ea-a668-b2c9cfc574da",
-        "title": "People Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773882964,
-        "date_posted": 1773882964,
-        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/People-Analytics-Intern_R055260",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/First-American",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ingram Micro",
         "id": "819e4114-3b55-42de-8ab9-f218be70fca5",
@@ -69,30 +46,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Guidewire",
-        "id": "6ee0b481-9281-47e1-9ec2-2dadb891f2d6",
-        "title": "Data Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773883205,
-        "date_posted": 1773883205,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/Data-Developer-Intern_JR_14561",
-        "locations": [
-            "Philadelphia, PA",
-            "Exton, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Ingram Micro",
         "id": "89d73812-93a1-49dd-a246-a4f7783dbd6a",
@@ -112,54 +65,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Metropolitan Transportation Authority",
-        "id": "3014ff72-0b2b-4229-a246-c65538a51149",
-        "title": "Data Science \u2013 Emerging Talent Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773882707,
-        "date_posted": 1773882707,
-        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oZuPzfwB?nl=1&nl=1&fr=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "8e32a1d0-8c95-48fe-9d4d-07ed11ff873a",
-        "title": "Intern \u2013 Product Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773882503,
-        "date_posted": 1773882503,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13921",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -200,50 +105,6 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Spot & Tango",
-        "id": "11566f6d-b2bd-4ff2-a16c-a79ddb0652fd",
-        "title": "Product Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773883763,
-        "date_posted": 1773883763,
-        "url": "http://www.spotandtango.com/careers?gh_jid=4674928005",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Spot-And-Tango",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "53e84df2-3ea4-4ccc-a530-6ddaa2b86225",
-        "title": "Legal and Regulatory Compliance Data Science Intern \u2013 Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773882561,
-        "date_posted": 1773882561,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Legal-and-Regulatory-Compliance-Data-Science-Intern--Co-op-Internship---Summer-2026---4-months_R260005362",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -850,27 +711,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fortinet",
-        "id": "b875b713-f8fe-4100-b1c9-4534e4a4cd55",
-        "title": "Applied AI Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773882655,
-        "date_posted": 1773882655,
-        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22412",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortinet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -18385,30 +18225,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intuitive Surgical",
-        "id": "300b6224-0725-45ae-8185-62a8eb9616c3",
-        "title": "FPGA Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774939141,
-        "date_posted": 1773882324,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000115534863",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -317717,7 +317533,7 @@
         "company_name": "Paccar",
         "id": "181ea72a-d756-49f3-86a6-3bd4b8657651",
         "title": "Summer Intern - Customer Experience Analytics - Vehicle Support Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382546,7 +382362,7 @@
         "company_name": "Systems Planning and Analysis",
         "id": "1000756a-02f1-412a-94b0-5ebdad09465d",
         "title": "Data Engineering & Analytics Tools Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411364,7 +411180,7 @@
         "company_name": "ServiceNow",
         "id": "0426a336-7f89-4536-b830-d0fc489947e7",
         "title": "Senior Inbound Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
