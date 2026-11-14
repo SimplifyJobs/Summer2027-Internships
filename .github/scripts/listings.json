@@ -181314,7 +181314,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9",
         "title": "Computer Engineering / Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -192706,7 +192706,7 @@
         "company_name": "Qorvo",
         "id": "04450ddc-258f-4a5d-acc4-b9b06f3f6835",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -244268,7 +244268,7 @@
         "company_name": "L3Harris Technologies",
         "id": "06c9ad53-9e28-46ea-90ca-82def4f764c1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -244717,7 +244717,7 @@
         "company_name": "L3Harris Technologies",
         "id": "17987e80-d467-41cd-bc02-48021abeb72c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -244742,7 +244742,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0e6851ea-44ed-46f7-9288-7c9acafc2d66",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -294993,7 +294993,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1dfcedff-9fc8-40a7-a283-4c45b427dfb6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -307186,7 +307186,7 @@
         "company_name": "L3Harris Technologies",
         "id": "16a885a6-ea5c-44dc-9604-b7f421749616",
         "title": "Integration/Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349437,7 +349437,7 @@
         "company_name": "Safran",
         "id": "0313d012-4781-4a03-8d3c-6c2e029e9dc1",
         "title": "Optical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -355883,7 +355883,7 @@
         "company_name": "TD Bank",
         "id": "18f8a216-9ece-48d2-b065-b46b65c4a5de",
         "title": "Graduate Leadership Program Consumer Deposit and Payment Products Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389500,7 +389500,7 @@
         "company_name": "L3Harris Technologies",
         "id": "04e80c03-2cb1-479e-9bf5-067d57f8bfd3",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403797,7 +403797,7 @@
         "company_name": "Altice USA",
         "id": "0338a9bc-5e9c-4423-87ba-fb84b2aa0013",
         "title": "Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -403865,7 +403865,7 @@
         "company_name": "Altice USA",
         "id": "01e2563c-d8db-4d50-9707-f7422e617529",
         "title": "Business Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
