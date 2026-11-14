@@ -191194,7 +191194,7 @@
         "company_name": "Qorvo",
         "id": "e4a48ee1-c26a-49b7-8516-d9baa1b2cced",
         "title": "Sales Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191483,7 +191483,7 @@
         "company_name": "Qorvo",
         "id": "8decbc9f-51db-465d-82d6-b6dfca4baf0f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -191772,7 +191772,7 @@
         "company_name": "Qorvo",
         "id": "2665d58b-d018-4094-b774-310fc2d992e6",
         "title": "Product Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -192082,7 +192082,7 @@
         "company_name": "Qorvo",
         "id": "04450ddc-258f-4a5d-acc4-b9b06f3f6835",
         "title": "Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -210581,7 +210581,7 @@
         "company_name": "Qorvo",
         "id": "447cf616-7efd-41ce-8811-b2378e0bdc1f",
         "title": "SOI Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -260496,7 +260496,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "a8c12424-098d-4d97-9658-8820b0fdac3e",
         "title": "Computer Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328931,7 +328931,7 @@
         "company_name": "ExxonMobil",
         "id": "a4ae447e-82f6-4766-8124-560bad4f5c26",
         "title": "Global Trading Intern - Quantitative Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -337509,7 +337509,7 @@
         "company_name": "Royal Caribbean Group",
         "id": "ddca61ef-e1db-4670-a09d-a0d95c626118",
         "title": "Guest Travel Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339279,7 +339279,7 @@
         "company_name": "CenturyLink",
         "id": "f51bdd40-5f4d-429e-a22b-1e826726e2ad",
         "title": "Data Internship - Analytics & Decision Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348789,7 +348789,7 @@
         "company_name": "Safran",
         "id": "4ce71aa4-5e3f-49cc-a75d-febb20ca81ba",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -348813,7 +348813,7 @@
         "company_name": "Safran",
         "id": "0313d012-4781-4a03-8d3c-6c2e029e9dc1",
         "title": "Optical Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -404394,7 +404394,7 @@
         "company_name": "CenturyLink",
         "id": "95fb9f92-a2f7-41a5-b347-ae9291d375fc",
         "title": "AI Product & Business Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -404415,7 +404415,7 @@
         "company_name": "CenturyLink",
         "id": "2e87beaa-56db-45b5-b8c7-ff1ad1780322",
         "title": "AI & Automation Builders Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
