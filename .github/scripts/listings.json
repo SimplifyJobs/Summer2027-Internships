@@ -2,52 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Leidos",
-        "id": "d80902bc-b546-4fa0-9273-482c80f84401",
-        "title": "Agentic AI Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773931942,
-        "date_posted": 1773931942,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Agentic-AI-Engineering-Intern_R-00178430",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Geotab",
-        "id": "93b9e696-bf84-478d-aaf6-b63704f87417",
-        "title": "Vehicle Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1773930882,
-        "date_posted": 1773930882,
-        "url": "https://job-boards.greenhouse.io/geotab/jobs/5140749008",
-        "locations": [
-            "High Wycombe, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "KLA",
         "id": "d14c095c-8f17-4821-ac7d-c7c2c40390f8",
         "title": "Software Intern - Data & Automation",
