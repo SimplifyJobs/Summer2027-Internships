@@ -191920,7 +191920,7 @@
         "company_name": "Qorvo",
         "id": "8decbc9f-51db-465d-82d6-b6dfca4baf0f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -196496,7 +196496,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "f7f7fa98-cacf-4225-9118-d40ad3288633",
         "title": "Computer Engineering / Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -199009,7 +199009,7 @@
         "company_name": "Edison International",
         "id": "7a58365b-0d72-4b0c-8094-fa29ec18b560",
         "title": "Data Analytics Intern - Data Science - Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244655,7 +244655,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fdc102c3-219c-4a57-afab-3b157f3eb7ed",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -261767,7 +261767,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fd2cf4cf-23e1-4ac9-b1af-3a9a99e4ff1f",
         "title": "FPGA Designer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261883,7 +261883,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fb26bbca-ac3f-49e6-9afe-4e1360c4f952",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -317213,7 +317213,7 @@
         "company_name": "Paccar",
         "id": "bb0f6ffe-d6dd-4765-88f5-116b16c81e58",
         "title": "Customer Experience Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317234,7 +317234,7 @@
         "company_name": "Paccar",
         "id": "181ea72a-d756-49f3-86a6-3bd4b8657651",
         "title": "Summer Intern - Customer Experience Analytics - Vehicle Support Center",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336969,7 +336969,7 @@
         "company_name": "Paccar",
         "id": "656d6b64-799c-410f-896c-1f08a6c5d7ad",
         "title": "Summer Intern - Product Definition Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339716,7 +339716,7 @@
         "company_name": "CenturyLink",
         "id": "f51bdd40-5f4d-429e-a22b-1e826726e2ad",
         "title": "Data Internship - Analytics & Decision Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345262,7 +345262,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7b0b49ae-7a2d-4ad2-9957-e53861b27064",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347513,7 +347513,7 @@
         "company_name": "Paccar",
         "id": "a75a8632-28d8-4ce0-827f-c75ecb99f4c9",
         "title": "Engineering Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348155,7 +348155,7 @@
         "company_name": "Paccar",
         "id": "54dbab29-b27b-45d6-9211-b2a1dddbff2b",
         "title": "Technical Content Author Intern - Technical Content Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349547,7 +349547,7 @@
         "company_name": "Paccar",
         "id": "a72f908f-55c1-401b-81f9-3c73db8f10b6",
         "title": "Fleet Pricing Intern - Fleet Pricing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -350229,7 +350229,7 @@
         "company_name": "Newell Brands",
         "id": "ad922fdd-2a0e-4ef9-94d9-5e1c54969683",
         "title": "Sales AI & Analytics Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380028,7 +380028,7 @@
         "company_name": "MANN+HUMMEL",
         "id": "ccd783d4-b8da-44c9-93bd-529368e9b01c",
         "title": "Product Management & Market Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -384358,7 +384358,7 @@
         "company_name": "Paccar",
         "id": "be25948f-3dbe-43b8-8b4b-424a01d9b356",
         "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384450,7 +384450,7 @@
         "company_name": "Paccar",
         "id": "d973936c-50d5-41f6-acc8-e1dbd6c84acd",
         "title": "Materials Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384471,7 +384471,7 @@
         "company_name": "Paccar",
         "id": "d489989d-98b0-4876-852a-50e2caecd69b",
         "title": "Warranty Business Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384516,7 +384516,7 @@
         "company_name": "Paccar",
         "id": "3a491712-efae-41c7-9cf5-9e0c3367e9e1",
         "title": "AI-Driven Vehicle Definition Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386322,7 +386322,7 @@
         "company_name": "Paccar",
         "id": "ef31b232-5a78-40fe-9d4a-b2cca861468f",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386591,7 +386591,7 @@
         "company_name": "Paccar",
         "id": "413fa3ea-a5c0-4c3d-b1db-e01f70015c85",
         "title": "Product Planning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389240,7 +389240,7 @@
         "company_name": "Paccar",
         "id": "2f96e3d6-e7b7-4c8f-ac5d-832fdca16735",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397067,7 +397067,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a16f6364-c8ef-464c-b114-5bac258930e4",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398986,7 +398986,7 @@
         "company_name": "Paccar",
         "id": "b3743545-dd2c-4025-bfe8-5157423b6f88",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -404961,7 +404961,7 @@
         "company_name": "Paccar",
         "id": "b59253fc-75f7-4661-9443-56c6ecfc928c",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -413774,5 +413774,199 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Carnegie Mellon University",
+        "id": "fc2e7640-69f3-45a5-b316-7bba0ec8b549",
+        "title": "Advanced Computing Lab Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794642841,
+        "date_posted": 1794182400,
+        "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carnegie Mellon University",
+        "id": "73f23e50-323e-4928-be97-5fe422321b9a",
+        "title": "Full-Stack Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1794642841,
+        "date_posted": 1793318400,
+        "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "331732d6-2320-4e49-9426-29401912aba0",
+        "title": "Cyber AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1794642850,
+        "date_posted": 1794528000,
+        "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carnegie Mellon University",
+        "id": "05ac7813-4580-43e3-8ff6-8dcc716b7bc7",
+        "title": "Agentic Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1794642841,
+        "date_posted": 1793318400,
+        "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carnegie Mellon University",
+        "id": "02e22e65-de2c-4f9c-961a-087373b3ff41",
+        "title": "Enabling Mission Capability at Scale Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794642841,
+        "date_posted": 1793318400,
+        "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "7ed33e96-4645-4b9d-8798-e6d7a35228a3",
+        "title": "Digital and Technology Solutions Degree Apprentice - Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1794642199,
+        "date_posted": 1792056418,
+        "url": "https://careers.capgemini.com/job/Telford-Engineering-Digital-and-Technology-Solutions-Degree-Apprenticeship-2027/1447967833/?ats=successfactors",
+        "locations": [
+            "Telford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "df277f28-ed91-4120-be99-f111f0f9f162",
+        "title": "Technology Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1794641813,
+        "date_posted": 1792511047,
+        "url": "https://accenture.pinpointhq.com/en/postings/0f0d4251-2c54-4614-8be7-f0042813b9d3?ats=pinpointhq",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "a876872e-f37a-4ea0-89a2-4186656af26f",
+        "title": "Technology Software Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027",
+            "Spring 2028"
+        ],
+        "date_updated": 1794641811,
+        "date_posted": 1792754026,
+        "url": "https://accenture.pinpointhq.com/en/postings/97c7121d-21cf-4cfc-aed2-5f4b54e81368?ats=pinpointhq",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "268c0f47-1419-4ab7-9842-72c0ba322fa9",
+        "title": "Technology Degree Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1794641813,
+        "date_posted": 1792764171,
+        "url": "https://accenture.pinpointhq.com/en/postings/fc130ed0-852f-4efa-afc5-780a10e88fb1?ats=pinpointhq",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
