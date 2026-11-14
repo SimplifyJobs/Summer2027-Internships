@@ -292526,7 +292526,7 @@
         "company_name": "Garmin",
         "id": "3e52a1c6-440c-46b1-8118-2b43ad11f3cc",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369133,7 +369133,7 @@
         "company_name": "Shield AI",
         "id": "0de47efa-a533-4274-81c4-2a570d4489ce",
         "title": "Electrical Engineer Intern - Hardware Test",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407115,7 +407115,7 @@
         "company_name": "Arcesium",
         "id": "3a9cc68f-b19b-4099-b4c5-a5cb94c647d8",
         "title": "Technology Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
