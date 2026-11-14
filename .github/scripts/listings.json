@@ -219112,7 +219112,7 @@
         "company_name": "TikTok",
         "id": "e005d131-f00a-4669-a7e7-1c5f705a7a91",
         "title": "Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -261315,7 +261315,7 @@
         "company_name": "Oshkosh",
         "id": "1077b180-26c4-40a3-b846-540361c38b08",
         "title": "Autonomy Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -294886,7 +294886,7 @@
         "company_name": "Ciena",
         "id": "43a087b0-8161-42b8-85f6-745398fec20d",
         "title": "Hardware Design and Verification Intern - PCBA",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -413354,6 +413354,30 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "0e303eb4-b2a7-4b14-93a4-89b286202f08",
+        "title": "Technical Solution Engineer Intern - SE&I",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1794669675,
+        "date_posted": 1794528000,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
