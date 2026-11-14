@@ -1,99 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Calix",
-        "id": "5479ff45-3b7c-4e09-af1a-7b9fb75e1c1e",
-        "title": "Software Engineering Intern - Cloud Architecture",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773900721,
-        "date_posted": 1773900721,
-        "url": "https://calix.wd1.myworkdayjobs.com/External/job/Remote---North-America/Software-Engineering-Intern--Cloud-Architecture_R-11509",
-        "locations": [
-            "La Ronge, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Calix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "53dd6042-6721-4983-a8a6-38cb339f4828",
-        "title": "HWIL & Real Time Simulation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773900748,
-        "date_posted": 1773900748,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern_JR002327",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "1c46b945-3a24-4c37-b029-66008dc23b63",
-        "title": "Software Engineer Intern - Security-Data - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773900941,
-        "date_posted": 1773900941,
-        "url": "https://jobs.bytedance.com/en/position/7616874229010647349/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Assent",
-        "id": "9875af04-6db2-435e-b420-9ca4d4690f43",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773900642,
-        "date_posted": 1773900642,
-        "url": "https://jobs.smartrecruiters.com/Assent/744000109933874",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Assent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Draper",
         "id": "ec2908e7-83e2-42c8-adf1-79ee7d89736a",
@@ -137,30 +44,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "1d1aaa5f-b30b-4532-a9ae-e76b54b9fead",
-        "title": "Security Software Engineer Project Intern - Network Security - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773901662,
-        "date_posted": 1773901662,
-        "url": "https://jobs.bytedance.com/en/position/7618396290598045957/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -7368,29 +7251,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hendrick Motorsports",
-        "id": "0355dda4-6cea-440a-8ea4-d5d3cb43bfca",
-        "title": "Project and Race Support Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773901725,
-        "date_posted": 1773901725,
-        "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Intern_R-77456",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hendrick-Motorsports",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -199326,7 +199186,7 @@
         "company_name": "Edison International",
         "id": "7db598e3-bc08-420a-a69f-e39447549d49",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244667,7 +244527,7 @@
         "company_name": "L3Harris Technologies",
         "id": "607013f4-3235-4510-ab8d-d3638fc67e53",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -244967,7 +244827,7 @@
         "company_name": "L3Harris Technologies",
         "id": "56f4272c-eb9c-4641-ae79-27f09b8c78a4",
         "title": "Software Engineer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -260677,7 +260537,7 @@
         "company_name": "HF Sinclair",
         "id": "5f69747c-4942-44d9-ba42-62bf5a9891e5",
         "title": "Engineering Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -262000,7 +261860,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5338d8f6-b966-464c-936b-fb9fbf1c8f9e",
         "title": "FPGA Software Tool Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262023,7 +261883,7 @@
         "company_name": "L3Harris Technologies",
         "id": "52fc1b33-8804-46c4-866a-ae0a49c0a920",
         "title": "Full Stack Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279734,7 +279594,7 @@
         "company_name": "Erie Insurance Group",
         "id": "673a3035-f4bb-47d2-912f-bee053a64f17",
         "title": "Data Intern 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281535,7 +281395,7 @@
         "company_name": "L3Harris Technologies",
         "id": "92981dfe-a4e6-41b8-add4-c935b4b7e72a",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -285444,7 +285304,7 @@
         "company_name": "Advanced Energy",
         "id": "720a793e-c47a-4855-ba94-f7a3b6ca695f",
         "title": "Firmware Engineer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -294256,7 +294116,7 @@
         "company_name": "Altice USA",
         "id": "5a537b13-411e-49f8-a1f4-631a90f3d9d6",
         "title": "Mobile Device Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -296321,7 +296181,7 @@
         "company_name": "Acuity",
         "id": "9386fd1a-cd74-4620-9127-70779bd5eee3",
         "title": "Finance AI Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297290,7 +297150,7 @@
         "company_name": "L3Harris Technologies",
         "id": "9072bb82-c619-4c08-bbce-0bd8e0b92cd4",
         "title": "Manufacturing Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -342123,7 +341983,7 @@
         "company_name": "CMS Energy",
         "id": "94463071-5983-4d77-8689-21e055e74c20",
         "title": "Learning & Development Intern/Co-op - Data Visualization",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -351423,7 +351283,7 @@
         "company_name": "Advanced Energy",
         "id": "5ad6a259-a2ca-4fcf-8e09-64f9e9311e90",
         "title": "Service Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357980,7 +357840,7 @@
         "company_name": "Corning",
         "id": "7ccdf532-010a-40bd-a291-fdd07bf71240",
         "title": "Optical Metrology Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366616,7 +366476,7 @@
         "company_name": "Dominion Energy",
         "id": "78b657c3-9149-493f-b46d-abe43d480e0a",
         "title": "Power Systems Time-Series Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372065,7 +371925,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6ccef8c3-cb1e-470b-949e-e5725c7894a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383803,7 +383663,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "52db75c2-6c8b-48e4-96f9-924db21741b2",
         "title": "Product Manager Intern - Government",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383898,7 +383758,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "5e330896-c4d5-49b9-815e-79ff21bc19c7",
         "title": "Product Management Intern - Insurance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389219,7 +389079,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "6e77db86-68fd-4230-b94e-ef69b5581fa6",
         "title": "System Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394342,7 +394202,7 @@
         "company_name": "Cintas",
         "id": "93fee1f3-52c2-4e39-b47d-88c9185693aa",
         "title": "IT Intern \u2013 Engineer - Customer Channels",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395599,7 +395459,7 @@
         "company_name": "Rhoda AI",
         "id": "f3e15602-3c1f-4278-b98d-3516f883676e",
         "title": "Optical Sensing Intern - Robot Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397206,7 +397066,7 @@
         "company_name": "L3Harris Technologies",
         "id": "53b6fbdd-d9b3-4517-bc3c-b29a78168ebf",
         "title": "Data Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403770,7 +403630,7 @@
         "company_name": "Altice USA",
         "id": "5a41cc41-928a-4159-8876-72eabec8b8d9",
         "title": "Product Management B2B Broadband Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -409083,7 +408943,7 @@
         "company_name": "Ontario Securities Commission",
         "id": "6e734d96-f4f4-4fb2-8d97-2d0bb9404e5b",
         "title": "Economic Co-op - Market & Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
