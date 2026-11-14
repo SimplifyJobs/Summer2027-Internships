@@ -252780,7 +252780,7 @@
         "company_name": "Guardian Life",
         "id": "fcc0a6c7-e090-4804-8107-677c58b416a9",
         "title": "Data Engineering Intern - Digital & Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339487,7 +339487,7 @@
         "company_name": "Ryan",
         "id": "c7c5c8d2-37c7-4b14-89b5-e0318a1fad90",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
