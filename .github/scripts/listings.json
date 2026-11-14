@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "eb5feb45-3f26-42f0-a23e-dce9385e7b2a",
-        "title": "Embedded Systems / Firmware Engineering Intern-1",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773915154,
-        "date_posted": 1773915154,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-1_R5035165-2",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "136d869b-8dc8-4e38-b522-305c8541fdc1",
-        "title": "Embedded Systems / Firmware Engineering Intern-2",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773914973,
-        "date_posted": 1773914973,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-2_R5035163-2",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Delinea",
         "id": "fa5fd2e9-390d-45b8-b747-666c47d23e86",
@@ -160860,7 +160814,7 @@
         "company_name": "Advanced Energy",
         "id": "34a18efe-cd13-4293-a683-2e44304e1154",
         "title": "Firmware Engineer Intern - Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166187,7 +166141,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -166229,7 +166183,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -166370,7 +166324,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -166396,7 +166350,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -166422,7 +166376,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -166468,7 +166422,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -180559,7 +180513,7 @@
         "company_name": "Sage",
         "id": "bc4407ea-452d-4ef5-b173-3260a4f7db7b",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -187336,7 +187290,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -198618,7 +198572,7 @@
         "company_name": "Edison International",
         "id": "7a58365b-0d72-4b0c-8094-fa29ec18b560",
         "title": "Data Analytics Intern - Data Science - Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -198671,7 +198625,7 @@
         "company_name": "Edison International",
         "id": "23a5a6a6-47fc-41cf-8936-946b702be2cd",
         "title": "Software/Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -198720,7 +198674,7 @@
         "company_name": "Edison International",
         "id": "cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
         "title": "Data Analytics Intern - Data Science/Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -222022,7 +221976,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222045,7 +221999,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222091,7 +222045,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222133,7 +222087,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222175,7 +222129,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222245,7 +222199,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222268,7 +222222,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222291,7 +222245,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222314,7 +222268,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222338,7 +222292,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222362,7 +222316,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222432,7 +222386,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -243616,7 +243570,7 @@
         "company_name": "L3Harris Technologies",
         "id": "bd0197ea-ca8d-4e77-beba-34e6e94538f1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -243690,7 +243644,7 @@
         "company_name": "L3Harris Technologies",
         "id": "06c9ad53-9e28-46ea-90ca-82def4f764c1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -243715,7 +243669,7 @@
         "company_name": "L3Harris Technologies",
         "id": "4cd76500-7d63-48dc-9ff5-b91776a3390f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -243740,7 +243694,7 @@
         "company_name": "L3Harris Technologies",
         "id": "42797efd-8f96-4166-b8a7-519b651db994",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -243965,7 +243919,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d87810fe-423a-4c90-94aa-56b6f291d9ea",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244089,7 +244043,7 @@
         "company_name": "L3Harris Technologies",
         "id": "607013f4-3235-4510-ab8d-d3638fc67e53",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244139,7 +244093,7 @@
         "company_name": "L3Harris Technologies",
         "id": "17987e80-d467-41cd-bc02-48021abeb72c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244164,7 +244118,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0e6851ea-44ed-46f7-9288-7c9acafc2d66",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244189,7 +244143,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c583a77f-e73f-4162-ad2e-b69ae993b0e9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244214,7 +244168,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ac04848e-a38c-4f0f-afe4-c755230a04df",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244264,7 +244218,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fdc102c3-219c-4a57-afab-3b157f3eb7ed",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244314,7 +244268,7 @@
         "company_name": "L3Harris Technologies",
         "id": "afb3e427-b699-426c-8f7e-dcad458a9c1b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244389,7 +244343,7 @@
         "company_name": "L3Harris Technologies",
         "id": "56f4272c-eb9c-4641-ae79-27f09b8c78a4",
         "title": "Software Engineer Intern - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -244489,7 +244443,7 @@
         "company_name": "L3Harris Technologies",
         "id": "753a1642-50ef-4ddd-b3bd-e4f195ed2138",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -260447,7 +260401,7 @@
         "company_name": "L3Harris Technologies",
         "id": "da2b9416-07ca-4ab3-8feb-562096123698",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -261376,7 +261330,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fd2cf4cf-23e1-4ac9-b1af-3a9a99e4ff1f",
         "title": "FPGA Designer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -261422,7 +261376,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5338d8f6-b966-464c-936b-fb9fbf1c8f9e",
         "title": "FPGA Software Tool Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -261445,7 +261399,7 @@
         "company_name": "L3Harris Technologies",
         "id": "52fc1b33-8804-46c4-866a-ae0a49c0a920",
         "title": "Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -261492,7 +261446,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fb26bbca-ac3f-49e6-9afe-4e1360c4f952",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -261515,7 +261469,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a80dc6ea-2958-4237-b12b-8d8b6836940d",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -280957,7 +280911,7 @@
         "company_name": "L3Harris Technologies",
         "id": "92981dfe-a4e6-41b8-add4-c935b4b7e72a",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -284866,7 +284820,7 @@
         "company_name": "Advanced Energy",
         "id": "720a793e-c47a-4855-ba94-f7a3b6ca695f",
         "title": "Firmware Engineer Intern - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -293678,7 +293632,7 @@
         "company_name": "Altice USA",
         "id": "5a537b13-411e-49f8-a1f4-631a90f3d9d6",
         "title": "Mobile Device Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -294415,7 +294369,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1dfcedff-9fc8-40a7-a283-4c45b427dfb6",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296568,7 +296522,7 @@
         "company_name": "L3Harris Technologies",
         "id": "92276a33-ba44-438f-8661-3acd05164584",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296662,7 +296616,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ee30da52-e2dc-4cdc-b029-dec875a9b34e",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296712,7 +296666,7 @@
         "company_name": "L3Harris Technologies",
         "id": "9072bb82-c619-4c08-bbce-0bd8e0b92cd4",
         "title": "Manufacturing Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296735,7 +296689,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d2d4f9ef-8b53-408c-8e8e-942a50e91809",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296760,7 +296714,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ba21bc92-2d44-433d-a0dc-0d5c254061c5",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296784,7 +296738,7 @@
         "company_name": "L3Harris Technologies",
         "id": "af6b09bd-b87e-4688-97de-c0efa27df196",
         "title": "Manufacturing Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -300433,7 +300387,7 @@
         "company_name": "L3Harris Technologies",
         "id": "bf8be986-22cc-4025-8ba2-b65dce7f97c3",
         "title": "Image Processing Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -306608,7 +306562,7 @@
         "company_name": "L3Harris Technologies",
         "id": "16a885a6-ea5c-44dc-9604-b7f421749616",
         "title": "Integration/Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -313979,7 +313933,7 @@
         "company_name": "IDEMIA",
         "id": "ca81a621-2f36-49ca-a53c-8b2ade452ded",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339205,7 +339159,7 @@
         "company_name": "AGCO",
         "id": "c890b3c3-40a5-4b61-a4f8-1c635d53c234",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341545,7 +341499,7 @@
         "company_name": "CMS Energy",
         "id": "94463071-5983-4d77-8689-21e055e74c20",
         "title": "Learning & Development Intern/Co-op - Data Visualization",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -344871,7 +344825,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7b0b49ae-7a2d-4ad2-9957-e53861b27064",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -348812,7 +348766,7 @@
         "company_name": "L3Harris Technologies",
         "id": "24f45ded-bd89-4b9b-98cf-b15de7bddf97",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -349838,7 +349792,7 @@
         "company_name": "Newell Brands",
         "id": "ad922fdd-2a0e-4ef9-94d9-5e1c54969683",
         "title": "Sales AI & Analytics Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -350845,7 +350799,7 @@
         "company_name": "Advanced Energy",
         "id": "5ad6a259-a2ca-4fcf-8e09-64f9e9311e90",
         "title": "Service Product Marketing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -351174,7 +351128,7 @@
         "company_name": "L3Harris Technologies",
         "id": "95d0fbdb-14f6-4eaf-a46b-3f06591a562b",
         "title": "Image Processing Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -355873,7 +355827,7 @@
         "company_name": "L3Harris Technologies",
         "id": "85de01d1-53a0-4d8a-99a3-5e527b111a9d",
         "title": "Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -355896,7 +355850,7 @@
         "company_name": "L3Harris Technologies",
         "id": "313a1ce8-c18f-4096-993d-36595a61b196",
         "title": "Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -364375,7 +364329,7 @@
         "company_name": "Aflac",
         "id": "2c511c79-d71d-40de-a0c0-b9288abb49f9",
         "title": "Global Investments Legal Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -366038,7 +365992,7 @@
         "company_name": "Dominion Energy",
         "id": "78b657c3-9149-493f-b46d-abe43d480e0a",
         "title": "Power Systems Time-Series Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -371487,7 +371441,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6ccef8c3-cb1e-470b-949e-e5725c7894a8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -388897,7 +388851,7 @@
         "company_name": "L3Harris Technologies",
         "id": "38d28f6f-b801-4582-8bc9-01ae596d13aa",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -388922,7 +388876,7 @@
         "company_name": "L3Harris Technologies",
         "id": "04e80c03-2cb1-479e-9bf5-067d57f8bfd3",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -396628,7 +396582,7 @@
         "company_name": "L3Harris Technologies",
         "id": "53b6fbdd-d9b3-4517-bc3c-b29a78168ebf",
         "title": "Data Architect Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -396676,7 +396630,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a16f6364-c8ef-464c-b114-5bac258930e4",
         "title": "Electrical Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -403052,7 +403006,7 @@
         "company_name": "Altice USA",
         "id": "93f840b3-e735-4ee5-8cbb-e007eafb977f",
         "title": "Developer Intern - Financial & People Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -403119,7 +403073,7 @@
         "company_name": "Altice USA",
         "id": "2ebd3798-d01b-4942-8ef2-ac23a6ae5f6f",
         "title": "Product Management Customer Management App Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -403167,7 +403121,7 @@
         "company_name": "Altice USA",
         "id": "74b0f9c6-dbb2-4f07-9509-ca5e705fcde3",
         "title": "Product Management Intern - Video CPE",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -403192,7 +403146,7 @@
         "company_name": "Altice USA",
         "id": "5a41cc41-928a-4159-8876-72eabec8b8d9",
         "title": "Product Management B2B Broadband Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -403219,7 +403173,7 @@
         "company_name": "Altice USA",
         "id": "0338a9bc-5e9c-4423-87ba-fb84b2aa0013",
         "title": "Operations Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -403287,7 +403241,7 @@
         "company_name": "Altice USA",
         "id": "01e2563c-d8db-4d50-9707-f7422e617529",
         "title": "Business Enablement Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -413160,7 +413114,7 @@
         "company_name": "W.W. Grainger",
         "id": "af3d7ee6-3deb-4173-9e23-70882a93179a",
         "title": "Field Operations Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -413183,7 +413137,7 @@
         "company_name": "W.W. Grainger",
         "id": "dade4a7e-b733-4ae0-9e37-2961ee5ae57e",
         "title": "Customer Experience Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -413206,7 +413160,7 @@
         "company_name": "W.W. Grainger",
         "id": "231c6e93-0b32-4f1d-b390-ca34f194e881",
         "title": "GCAN Field Operations Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -413577,5 +413531,53 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "c1425ae2-392c-49bf-85ed-ed6b1a855c66",
+        "title": "Electrical Engineer Intern - High Speed Hardware Design",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1794651543,
+        "date_posted": 1794651306,
+        "url": "https://www.tesla.com/careers/search/job/289951",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "8b086459-985c-4225-b509-facb2dce5e94",
+        "title": "Engineer 1 New Grad - Software",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794650819,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
