@@ -148392,7 +148392,7 @@
         "company_name": "Two Sigma",
         "id": "d7896522-5218-4362-8092-60cacc29a642",
         "title": "Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -148417,7 +148417,7 @@
         "company_name": "Two Sigma",
         "id": "6bb2553b-f9bc-4c0b-ae90-ae4d6dabeeee",
         "title": "AI Research Scientist Intern - 2027 Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -210773,7 +210773,7 @@
         "company_name": "Intel",
         "id": "fbbaa89d-fca9-49aa-9d4a-14d71883ea4a",
         "title": "Silicon Hardware Engineering Intern - Graduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -274577,7 +274577,7 @@
         "company_name": "Keysight Technologies",
         "id": "ff92bb19-8b5b-4eaf-8e39-166979cd49fb",
         "title": "Embedded Software Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358883,7 +358883,7 @@
         "company_name": "1Password",
         "id": "fc8cae17-5e4e-43fc-802d-41864d7e3c10",
         "title": "Product Management Intern - End User Experience",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
