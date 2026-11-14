@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 599 Internship Roles by Category
+### Browse 602 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (194)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (41)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (198)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (201)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (10)
 
@@ -16290,6 +16290,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Acuity?utm_source=GHList&utm_medium=company">Acuity</a></strong></td>
+<td>Data and AI Intern</td>
+<td>Atlanta, GA</td>
+<td>Winter 2026</td>
+<td><div align="center"><a href="https://careers.acuityinc.com/job/Atlanta-Data-and-AI-Intern-Flexible-GA-30309/1434321900/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c2e16231-2c63-42c4-b413-ef806c3b6211?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company">Hewlett Packard</a></strong></td>
 <td>Electrical/Hardware Engineering Intern 🎓</td>
 <td>Corvallis, OR</td>
@@ -16722,6 +16730,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/HF-Sinclair?utm_source=GHList&utm_medium=company">HF Sinclair</a></strong></td>
+<td>Monitoring and Optimization Engineer Intern</td>
+<td>Dallas, TX</td>
+<td>Winter 2026</td>
+<td><div align="center"><a href="https://careers.hfsinclair.com/job/Dallas-Monitoring-and-Optimization-Engineer-Intern-TX-75219/1430069700/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/daf167f2-aa4c-47af-8b2c-dc084aef4354?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Engineering Analytics Intern</td>
+<td>Dallas, TX</td>
+<td>Winter 2026</td>
+<td><div align="center"><a href="https://careers.hfsinclair.com/job/Dallas-Engineering-Analytics-Intern-TX-75219/1430068300/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f69747c-4942-44d9-ba42-62bf5a9891e5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Ekimetrics?utm_source=GHList&utm_medium=company">Ekimetrics</a></strong></td>
 <td>Data Science & Marketing Effectiveness Intern</td>
 <td>London, UK</td>
@@ -16750,7 +16774,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1810)</summary>
+<summary>🗃️ Inactive roles (1807)</summary>
 
 <table>
 <thead>
@@ -16914,7 +16938,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>London, UK<br>Sheffield, UK</td>
 <td>Winter 2026</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MLSE?utm_source=GHList&utm_medium=company">Maple Leaf Sports & Entertainment Partnership (MLSE)</a></strong></td>
@@ -17949,14 +17973,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Acuity?utm_source=GHList&utm_medium=company">Acuity</a></strong></td>
-<td>Data and AI Intern</td>
-<td>Atlanta, GA</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing</td>
 <td>Longueuil, QC, Canada</td>
@@ -18976,22 +18992,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Cotiviti?utm_source=GHList&utm_medium=company">Cotiviti</a></strong></td>
 <td>Technology Solutions Analyst Intern</td>
 <td>South Jordan, UT<br>Remote in USA</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/HF-Sinclair?utm_source=GHList&utm_medium=company">HF Sinclair</a></strong></td>
-<td>Monitoring and Optimization Engineer Intern</td>
-<td>Dallas, TX</td>
-<td>Winter 2026</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Engineering Analytics Intern</td>
-<td>Dallas, TX</td>
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -32549,7 +32549,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Austin, TX</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://www.tesla.com/careers/search/job/287024?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2d44df47-4fb1-4120-a4ac-7fbcc5f6c103?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SiTime?utm_source=GHList&utm_medium=company">SiTime</a></strong></td>
@@ -39048,7 +39048,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Hook, UK</td>
 <td>Summer 2026, Fall 2026</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
