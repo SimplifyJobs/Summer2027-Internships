@@ -149795,7 +149795,7 @@
         "company_name": "Pentair",
         "id": "9fede417-0d28-4566-ac69-820d4c8e5f90",
         "title": "Product Management Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323631,7 +323631,7 @@
         "company_name": "Johnson Controls",
         "id": "8fc02634-7bf1-4c6c-9d32-78f048f7e7e6",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338933,7 +338933,7 @@
         "company_name": "Zoetis Services",
         "id": "cf36f292-d7bf-4d5d-b0c1-deab62925fef",
         "title": "Chemistry Data Science Intern - Digital CMC Workflows",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339463,7 +339463,7 @@
         "company_name": "Ryan",
         "id": "a34ec36a-bccc-4e43-93a8-36560196de44",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345433,7 +345433,7 @@
         "company_name": "Ryan",
         "id": "a83008e3-bd87-4c41-92f2-3a50d3b0bcfc",
         "title": "Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374054,7 +374054,7 @@
         "company_name": "Qube Research & Technologies",
         "id": "956d7e6e-0435-403d-877c-4026d34ea7cc",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405705,7 +405705,7 @@
         "company_name": "RTX",
         "id": "8f78f43d-e745-4a7b-aca5-fe0f018b98aa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
