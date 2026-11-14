@@ -1,52 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Draper",
-        "id": "ec2908e7-83e2-42c8-adf1-79ee7d89736a",
-        "title": "Space & Strategic Navigation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773903210,
-        "date_posted": 1773903210,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Space---Strategic-Navigation-Intern_JR002310",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MillerKnoll",
-        "id": "72adadb7-0c85-4517-8147-53461b2ad8c7",
-        "title": "Product Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1773902225,
-        "date_posted": 1773902225,
-        "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Holland-Design-Yard/Product-Engineer---Rotational-Program_JR108526",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/MillerKnoll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1778157806,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -199158,7 +199111,7 @@
         "company_name": "Edison International",
         "id": "cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
         "title": "Data Analytics Intern - Data Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244054,7 +244007,7 @@
         "company_name": "L3Harris Technologies",
         "id": "bd0197ea-ca8d-4e77-beba-34e6e94538f1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -244652,7 +244605,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ac04848e-a38c-4f0f-afe4-c755230a04df",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -244927,7 +244880,7 @@
         "company_name": "L3Harris Technologies",
         "id": "753a1642-50ef-4ddd-b3bd-e4f195ed2138",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -260980,7 +260933,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "a8c12424-098d-4d97-9658-8820b0fdac3e",
         "title": "Computer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -289526,7 +289479,7 @@
         "company_name": "Acuity",
         "id": "9861557d-858b-485b-a94e-ae1705e8c149",
         "title": "Hardware Development Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -294781,7 +294734,7 @@
         "company_name": "Acuity",
         "id": "c2e16231-2c63-42c4-b413-ef806c3b6211",
         "title": "Data and AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -297173,7 +297126,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d2d4f9ef-8b53-408c-8e8e-942a50e91809",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -300871,7 +300824,7 @@
         "company_name": "L3Harris Technologies",
         "id": "bf8be986-22cc-4025-8ba2-b65dce7f97c3",
         "title": "Image Processing Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -308659,7 +308612,7 @@
         "company_name": "Mohawk",
         "id": "95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339643,7 +339596,7 @@
         "company_name": "AGCO",
         "id": "c890b3c3-40a5-4b61-a4f8-1c635d53c234",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351612,7 +351565,7 @@
         "company_name": "L3Harris Technologies",
         "id": "95d0fbdb-14f6-4eaf-a46b-3f06591a562b",
         "title": "Image Processing Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383802,7 +383755,7 @@
         "company_name": "Corning",
         "id": "b2d11e7f-5df2-478b-bced-42cf9f6b3b8f",
         "title": "Haptic Metrology & Stylus Tablet Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391455,7 +391408,7 @@
         "company_name": "Wolf & Company",
         "id": "9c51dc6c-562b-465a-86eb-936000535f57",
         "title": "AI & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395459,7 +395412,7 @@
         "company_name": "Rhoda AI",
         "id": "f3e15602-3c1f-4278-b98d-3516f883676e",
         "title": "Optical Sensing Intern - Robot Perception",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -403490,7 +403443,7 @@
         "company_name": "Altice USA",
         "id": "93f840b3-e735-4ee5-8cbb-e007eafb977f",
         "title": "Developer Intern - Financial & People Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -410473,7 +410426,7 @@
         "company_name": "Cintas",
         "id": "c75045c9-5445-4e97-b041-41bab0c8bb71",
         "title": "IT OT Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413529,7 +413482,7 @@
         "company_name": "NextEra Energy",
         "id": "d02a74dd-8183-4a37-8203-b66654240269",
         "title": "Software Engineering Intern - Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413598,7 +413551,7 @@
         "company_name": "W.W. Grainger",
         "id": "af3d7ee6-3deb-4173-9e23-70882a93179a",
         "title": "Field Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
