@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nasuni",
-        "id": "10ebccb4-749a-419d-a92c-50ffcd6547a2",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773988084,
-        "date_posted": 1773988084,
-        "url": "https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5142981008",
-        "locations": [
-            "Boston, MA",
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nasuni",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Spellman High Voltage Electronics",
         "id": "833f47fd-859d-4721-ab45-e77291f2ec14",
@@ -226082,7 +226058,7 @@
         "company_name": "Kodiak Robotics",
         "id": "7c45d4ef-21c8-4acd-b82a-f56987b07548",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -319578,7 +319554,7 @@
         "company_name": "Sensata",
         "id": "5abedb52-732f-4c88-8e97-b4e013473a3f",
         "title": "Placement Student Intern - Aftermarket",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
