@@ -319484,7 +319484,7 @@
         "company_name": "Sensata",
         "id": "d9a3f92c-e25d-49d0-9782-5d9f9a8b9e8d",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382078,7 +382078,7 @@
         "company_name": "Bank of Montreal",
         "id": "c20bef46-45b5-497e-883d-4745f23e27b0",
         "title": "UX/UI Designer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391598,7 +391598,7 @@
         "company_name": "JM Family",
         "id": "d51fae92-efd8-41b6-b50e-1552f35e9dfc",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391667,7 +391667,7 @@
         "company_name": "JM Family",
         "id": "972e59fe-5d7f-418d-8180-1595a1b7c989",
         "title": "Software Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
