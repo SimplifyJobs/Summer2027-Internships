@@ -16630,7 +16630,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1820)</summary>
+<summary>🗃️ Inactive roles (1819)</summary>
 
 <table>
 <thead>
@@ -31193,14 +31193,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Apprenticeship - Data Analyst</td>
 <td>London, UK</td>
 <td>Fall 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
-<td>Intern Computer Engineer - AI/ML/LLM</td>
-<td>Boise, ID</td>
-<td>Fall 2026, Winter 2026, Spring 2027, Summer 2027, Fall 2027</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
