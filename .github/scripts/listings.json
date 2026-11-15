@@ -4736,29 +4736,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Insulet Corporation",
-        "id": "f2c6da02-1f31-4807-9860-ee830d24bd03",
-        "title": "Life Cycle Engineering - Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773988547,
-        "date_posted": 1773988547,
-        "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Life-Cycle-Engineering---Systems--July---December-2026--Hybrid-_REQ-2026-14941",
-        "locations": [
-            "Acton, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Insulet-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KBR",
         "id": "694e0422-fbc0-4017-869d-16a41c1bcfd4",
@@ -171173,7 +171150,7 @@
         "company_name": "Bank of Montreal",
         "id": "82823c58-ec25-462f-a885-fbf297c25a22",
         "title": "Workforce Analyst Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -241699,7 +241676,7 @@
         "company_name": "Blue Origin",
         "id": "7fedfbc6-98b6-4de0-b225-0a62b5515501",
         "title": "Electrical Systems Engineer Co-op - Fixed Term",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -319530,7 +319507,7 @@
         "company_name": "Sensata",
         "id": "a5a7c6ed-12ef-47c1-bf9d-a14037da20b1",
         "title": "Electronics/Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381217,7 +381194,7 @@
         "company_name": "Bank of Montreal",
         "id": "969fad49-3d84-4fbc-9700-8d9045078201",
         "title": "UX/UI Designer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391597,7 +391574,7 @@
         "company_name": "JM Family",
         "id": "b9ce969b-feac-4712-867d-4dc584234d94",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
