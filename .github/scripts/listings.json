@@ -1,55 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nasuni",
-        "id": "1e7ab354-93de-4230-be2a-09b7d9db3f9c",
-        "title": "Software Engineering Intern in Test",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773969656,
-        "date_posted": 1773969656,
-        "url": "https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5158479008",
-        "locations": [
-            "Boston, MA",
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nasuni",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Howden",
-        "id": "4f6ac5a5-5338-438a-b021-01d34f2ddfb8",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773969422,
-        "date_posted": 1773969422,
-        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/DUAL---Dallas-Office/Data-Analyst-Intern_R0016629",
-        "locations": [
-            "Dallas, TX",
-            "Chicago, IL",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Howden",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Northrop Grumman",
         "id": "814779b8-23af-45d5-bf28-9d3d1dd8fbd9",
@@ -93,29 +44,6 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bloomberg Philanthropies",
-        "id": "8c8d1041-a773-4a28-90c1-c3f9b41d238e",
-        "title": "AI Agent Development & Data Collection Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773970197,
-        "date_posted": 1773970197,
-        "url": "https://job-boards.greenhouse.io/bloombergdotorg/jobs/7672843003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bloomberg-Philanthropies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
