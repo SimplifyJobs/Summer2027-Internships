@@ -260244,7 +260244,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355538,7 +355538,7 @@
         "company_name": "Corning",
         "id": "7ccdf532-010a-40bd-a291-fdd07bf71240",
         "title": "Optical Metrology Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367178,7 +367178,7 @@
         "company_name": "Ixian Robotics",
         "id": "c8065191-fc0d-4846-9c05-5736286153db",
         "title": "Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405661,7 +405661,7 @@
         "company_name": "Shield AI",
         "id": "b1fe1b9f-f127-4ef0-89e0-dd7c9086acaf",
         "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
