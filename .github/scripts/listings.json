@@ -1,63 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cohesity",
-        "id": "e462c5b0-71cd-42f2-bf46-4ab3094297b8",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774018053,
-        "date_posted": 1774018053,
-        "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2026_R01589-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cohesity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "33ff25a9-0363-4486-acfd-48422c94be84",
-        "title": "ERP Intern: Rising Senior Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774018227,
-        "date_posted": 1774018227,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/ERP-Internship--Rising-Senior-Technology_R415530",
-        "locations": [
-            "West Chester, PA",
-            "Orlando, FL",
-            "Englewood, NJ",
-            "LA",
-            "Stamford, CT",
-            "Philadelphia, PA",
-            "Berwyn, PA",
-            "Mt Laurel Township, NJ",
-            "Trevose, Feasterville-Trevose, PA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Banco Bilbao Vizcaya Argentaria",
         "id": "284a41a4-c716-49df-b35e-3fdb0cfaccaf",
@@ -78,29 +21,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TNS",
-        "id": "22a6d438-2fb5-453f-b803-6dd81b1e8803",
-        "title": "Web Applications Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774017526,
-        "date_posted": 1774017526,
-        "url": "https://tnsi.wd1.myworkdayjobs.com/Search/job/USA---Reston/Web-Applications-Intern_R2880",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/TNS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
