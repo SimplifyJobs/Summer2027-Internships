@@ -359682,7 +359682,7 @@
         "company_name": "PTC",
         "id": "8005e595-614b-4b9a-9c29-cb113c52566a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412269,6 +412269,27 @@
         "date_updated": 1794740788,
         "date_posted": 1791417600,
         "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Atleos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NCR Atleos",
+        "id": "07be1235-79b7-4049-9c79-2e17928f19b4",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794747077,
+        "date_posted": 1794355200,
+        "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/AI-Engineering-Internship_R1155212-2",
         "locations": [
             "Dundee, UK"
         ],
