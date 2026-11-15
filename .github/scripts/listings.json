@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Spellman High Voltage Electronics",
-        "id": "833f47fd-859d-4721-ab45-e77291f2ec14",
-        "title": "Apprentice Development Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773999594,
-        "date_posted": 1773999594,
-        "url": "https://spellmanhv.wd1.myworkdayjobs.com/SpellmanHVCareers/job/UK---West-Sussex---Pulborough/Apprentice-Development-Engineer_JR2796",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Spellman-High-Voltage-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Tencent",
         "id": "ac626a38-e2fb-4c21-b1f5-2b8acd944bbe",
@@ -412121,7 +412100,7 @@
         "company_name": "Eight Sleep",
         "id": "44a81cc5-de8a-4ff8-83e7-fa7552050e4c",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
