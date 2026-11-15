@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 3981 Inactive Internship Roles by Category
+### Browse 3982 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1387)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1388)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (261)
 
@@ -946,7 +946,7 @@
 <td>Technology Intern</td>
 <td>Chicago, IL<br>NYC</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -959,6 +959,13 @@
 <td>↳</td>
 <td>Developer Intern</td>
 <td>Halifax Regional Municipality, NS, Canada</td>
+<td>🔒</td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Boston, MA</td>
 <td>🔒</td>
 <td>20d</td>
 </tr>
@@ -12076,7 +12083,7 @@
 <td>Data Scientist Intern 🎓</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
