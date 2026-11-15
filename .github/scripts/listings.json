@@ -285746,7 +285746,7 @@
         "company_name": "Samsara",
         "id": "ec8d9fc9-a1ee-438a-af35-562b2bd2dd11",
         "title": "Firmware Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -408438,7 +408438,7 @@
         "company_name": "E2 Consulting Engineers",
         "id": "8f0be6fa-e4b9-467b-bcd6-654bb5eb2f65",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
