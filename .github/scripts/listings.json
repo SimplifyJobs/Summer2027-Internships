@@ -223687,7 +223687,7 @@
         "company_name": "Bree",
         "id": "eecd8520-d475-474c-93f0-0c07d6a7fbc3",
         "title": "Software Engineer Co-op - Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -274984,7 +274984,7 @@
         "company_name": "Symbotic",
         "id": "6a8df327-be36-4d08-802c-d5a2793c0b67",
         "title": "Robot Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -355145,7 +355145,7 @@
         "company_name": "KLA Corporation",
         "id": "7f00e922-21dd-49f4-9250-786d6343af77",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374140,7 +374140,7 @@
         "company_name": "The New York Times",
         "id": "5c521dde-6882-44c5-89a3-a3da7f852020",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
