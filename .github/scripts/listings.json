@@ -309784,7 +309784,7 @@
         "company_name": "IDEMIA",
         "id": "ca81a621-2f36-49ca-a53c-8b2ade452ded",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383318,7 +383318,7 @@
         "company_name": "The New York Times",
         "id": "dcfba2c3-b23c-4366-87fb-2ebe7cc01be3",
         "title": "Advertising Business Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392742,7 +392742,7 @@
         "company_name": "The New York Times",
         "id": "db6f3fe2-dcd1-4426-8502-58670887b096",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398880,7 +398880,7 @@
         "company_name": "Altice USA",
         "id": "f60a9ca0-d42f-48f5-9643-b10749754e9e",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -398901,7 +398901,7 @@
         "company_name": "Altice USA",
         "id": "c21653b5-2191-4e66-bb66-536b6e452425",
         "title": "Product Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -400329,7 +400329,7 @@
         "company_name": "JMP Statistical Discovery",
         "id": "dcbb1c0f-1df1-42a7-ba0e-89b77ba03af9",
         "title": "C++ Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401389,7 +401389,7 @@
         "company_name": "exacare ai",
         "id": "cbb8fff5-3af6-42f9-811f-8fe3676649f6",
         "title": "Data and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401899,7 +401899,7 @@
         "company_name": "RTX",
         "id": "d337ad61-4c1c-4053-bb47-f4ad059d81c8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409325,7 +409325,7 @@
         "company_name": "Accenture",
         "id": "df277f28-ed91-4120-be99-f111f0f9f162",
         "title": "Technology Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -410414,6 +410414,381 @@
             "Brussels, Belgium"
         ],
         "company_url": "https://simplify.jobs/c/Keyrock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "d48bdf87-b0ff-4edc-a9a5-5f5ecca2154c",
+        "title": "AI Acceleration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794844441,
+        "date_posted": 1794844280,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "ba118afe-7991-4a5a-87c7-f68325d9f99d",
+        "title": "AI Engineer Intern - Generative & Agentic AI",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794844460,
+        "date_posted": 1794844278,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+        "locations": [
+            "Marlborough, MA",
+            "Maple Grove, MN",
+            "Arden Hills, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Scientific",
+        "id": "9505b5cc-26f0-4893-93fe-d10cabec7014",
+        "title": "Product Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794844441,
+        "date_posted": 1794844279,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813864319",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "198dcbe5-882a-40bd-9dc2-ea376522a837",
+        "title": "Consumer & Community Banking Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794844472,
+        "date_posted": 1794844377,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923",
+        "locations": [
+            "Palo Alto, CA",
+            "Columbus, OH",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "7773a702-7d45-44c7-b86b-0b8ad53a257b",
+        "title": "Research Intern - Spatial Intelligence for Robotics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794844261,
+        "date_posted": 1794844197,
+        "url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "427bec11-8943-4ada-a572-dc6406bec262",
+        "title": "Data Analyst & Marketing/Sales Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794844134,
+        "date_posted": 1794831502,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161793229",
+        "locations": [
+            "Denham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "76493083-8144-4671-8730-436be1cbd186",
+        "title": "Research Intern: Multimodal Sensor Foundation Models",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794844081,
+        "date_posted": 1794842933,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161841434",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "5d8b5a71-c3cc-4f5f-b6ca-c6784175532c",
+        "title": "Research Intern: Multimodal Foundation Models for Healthcare",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794844081,
+        "date_posted": 1794842949,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161844052",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Addepar",
+        "id": "531a491d-17f0-414b-bc44-c2fa4f3f8f09",
+        "title": "Technical Product Management Intern - ADX",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794843721,
+        "date_posted": 1794839735,
+        "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SharkNinja",
+        "id": "cb73caee-cfcf-48a6-a1a2-363dbcaf57d5",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794843597,
+        "date_posted": 1794827381,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualcomm",
+        "id": "9f33eb65-3c19-47fa-b0ca-d0101c113023",
+        "title": "GPU Compiler Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794843396,
+        "date_posted": 1794843361,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "93a09d2c-4c6c-48b4-b6d9-ab0a27a3951d",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1794843392,
+        "date_posted": 1794843283,
+        "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Altice USA",
+        "id": "3bf15637-dfa2-4883-80f9-32381f68a8d4",
+        "title": "Data Analyst Intern - Modernization Program BSS/OSS Migration",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1794843396,
+        "date_posted": 1794843285,
+        "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shopify",
+        "id": "2308660d-6e87-4b5c-9008-376f4a467804",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794843215,
+        "date_posted": 1794843089,
+        "url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Shopify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shopify",
+        "id": "c8718487-1c23-48cb-9c04-3d4d44bc977b",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794843218,
+        "date_posted": 1794843089,
+        "url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "NYC",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Shopify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shopify",
+        "id": "755894c6-bbb7-4372-812b-80685f05ca63",
+        "title": "Applied Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794843205,
+        "date_posted": 1794843089,
+        "url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Shopify",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
