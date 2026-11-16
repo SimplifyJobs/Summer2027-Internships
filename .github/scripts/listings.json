@@ -369279,7 +369279,7 @@
         "company_name": "Sparx Learning",
         "id": "d3ee2c71-fce3-4b9b-99e3-4da0740fe8af",
         "title": "Product Leadership Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -392974,7 +392974,7 @@
         "company_name": "PETRONAS Canada",
         "id": "e1f08b4c-5be7-4489-832a-bde5bf7a89af",
         "title": "Student Intern - Technical Assurance and Pipeline Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
