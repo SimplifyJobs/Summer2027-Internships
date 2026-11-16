@@ -258707,7 +258707,7 @@
         "company_name": "Dairyland Power Cooperative",
         "id": "7f0fe234-4a59-4980-bc64-704e42662ba4",
         "title": "Business Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -260640,7 +260640,7 @@
         "company_name": "Lightmatter",
         "id": "92e0027e-a9c8-4956-82d7-791d98c9d21b",
         "title": "Silicon Intern - Hardware & Photonics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -325735,7 +325735,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "ad4f396b-0091-4bba-a477-5eeef65c1b39",
         "title": "Watershed & Land Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -351233,7 +351233,7 @@
         "company_name": "Emerson Electric",
         "id": "7116b94b-3bf7-4204-8fa4-4b53fc4a2bf3",
         "title": "Test Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -357668,7 +357668,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "757400d1-938a-4bd7-8d44-4f263aa02609",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368160,7 +368160,7 @@
         "company_name": "Coveo",
         "id": "8c9b0c86-472b-4fc9-a011-8e8167d34398",
         "title": "Frontend Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -373401,7 +373401,7 @@
         "company_name": "BitGo",
         "id": "84065c1e-ebdb-4e61-a553-324a104b2127",
         "title": "Software Engineer Intern - Settlement Systems/Go Network",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -373447,7 +373447,7 @@
         "company_name": "BitGo",
         "id": "763fea1a-83aa-47f2-bf18-be039beae90b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381274,7 +381274,7 @@
         "company_name": "Qualcomm",
         "id": "72e029a1-e47a-477e-a7d0-cb53cdd3468c",
         "title": "Digital Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406698,7 +406698,7 @@
         "company_name": "Huawei",
         "id": "75ad31e5-8869-42ee-b746-6f59add9f04b",
         "title": "Researcher Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -410687,7 +410687,7 @@
         "company_name": "Altice USA",
         "id": "93a09d2c-4c6c-48b4-b6d9-ab0a27a3951d",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
