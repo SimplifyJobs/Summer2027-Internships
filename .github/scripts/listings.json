@@ -347074,7 +347074,7 @@
         "company_name": "CIBC",
         "id": "e69dceb5-6c8d-4ad8-8e89-fdcdde38b605",
         "title": "Machine Learning Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
