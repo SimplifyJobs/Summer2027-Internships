@@ -314493,7 +314493,7 @@
         "company_name": "Garmin",
         "id": "2d6ce459-6d6f-46b1-a335-210684f38086",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339293,7 +339293,7 @@
         "company_name": "CIBC",
         "id": "f50e23e9-04ff-4bc6-a337-9a618d204dbe",
         "title": "Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394896,7 +394896,7 @@
         "company_name": "Renesas Electronics",
         "id": "676daba9-0448-44be-8939-c5c4f84e9bc4",
         "title": "Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
