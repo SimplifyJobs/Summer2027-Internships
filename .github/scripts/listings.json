@@ -264000,7 +264000,7 @@
         "company_name": "Smith+Nephew",
         "id": "e89448c1-21ee-450a-85e8-84ad429d6f3e",
         "title": "Robotics Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357485,7 +357485,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "6836e7fe-76f9-498a-b178-4bf481fd5b3e",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357924,7 +357924,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "b3ebed87-0e45-49d3-b790-ba44271e93c5",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392918,7 +392918,7 @@
         "company_name": "PETRONAS Canada",
         "id": "475cf53f-d514-46b8-af05-8cced2ee2caf",
         "title": "Student Intern - Operation Advancement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
