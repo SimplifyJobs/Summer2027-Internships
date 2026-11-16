@@ -357307,7 +357307,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "b8178344-d11e-4dee-a05e-320016075d4b",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358689,7 +358689,7 @@
         "company_name": "CIBC",
         "id": "a07fa1be-c821-4b5c-a91e-d1e14b83a970",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
