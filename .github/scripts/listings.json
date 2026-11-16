@@ -299173,7 +299173,7 @@
         "company_name": "Google",
         "id": "75c9bd55-d962-405d-8b35-8302935fa982",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361533,7 +361533,7 @@
         "company_name": "CIBC",
         "id": "e069b3ec-da07-4fca-9b7f-8c5ebda67df8",
         "title": "Junior Insights & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404499,7 +404499,7 @@
         "company_name": "Visa",
         "id": "92a76b0d-306a-41d5-8f29-62685b342a55",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
