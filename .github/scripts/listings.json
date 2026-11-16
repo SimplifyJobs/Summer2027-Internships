@@ -357551,7 +357551,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "883dffb0-d441-4366-84c2-251689ff5b5a",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410417,5 +410417,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Octaura",
+        "id": "3ea65aaa-0297-4b8f-9378-51e35478fb95",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794825371,
+        "date_posted": 1794825228,
+        "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Octaura",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
