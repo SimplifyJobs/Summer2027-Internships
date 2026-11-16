@@ -1,95 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Coherent ",
-        "id": "5f8fd091-e12f-4f56-b633-baa2a678e1af",
-        "title": "Intern Software Developer - Document Control - Global Quality",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774073343,
-        "date_posted": 1774073343,
-        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011079",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coherent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Guild Education",
-        "id": "ac400ed4-854f-4f21-adf8-1a8c05dc6f7f",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774073758,
-        "date_posted": 1774073758,
-        "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7732992",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Guild-Education",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "9b8e4726-77af-4fd7-9e6f-9986925021ff",
-        "title": "Software Engineer Project Intern - Network Security",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774073406,
-        "date_posted": 1774073406,
-        "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Guild Education",
-        "id": "bc833443-aaf7-4458-8dc4-ccaba2eb7390",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774074495,
-        "date_posted": 1774074495,
-        "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7740252",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Guild-Education",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "631fc4e0-c07b-42f9-855c-656e2563cd0e",
@@ -31331,32 +31242,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "6c8ee6ed-a86a-41d4-9681-3e49eb43810b",
-        "title": "Current PhD \u2013 Applied Research Intern Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774073464,
-        "date_posted": 1774073464,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1",
-        "locations": [
-            "Cambridge, MA",
-            "San Jose, CA",
-            "McLean, VA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -340791,7 +340676,7 @@
         "company_name": "CIBC",
         "id": "5f6c7bb2-3229-4aee-a868-d954c9175bae",
         "title": "Application Developer Co-op - Enterprise Technology & Business Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -346443,7 +346328,7 @@
         "company_name": "CIBC",
         "id": "50e9d77b-b4a8-40a5-86ec-a7248da89bc7",
         "title": "AI and Quantum Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358270,7 +358155,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "77f5b473-6971-4b74-a041-cbcc533d9a33",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358655,7 +358540,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "53d75cca-2ede-41a8-9506-e49bcbac16e9",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359755,7 +359640,7 @@
         "company_name": "CIBC",
         "id": "88d5d5f9-4c38-4b3c-afcc-422d8256ae59",
         "title": "AI Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362124,7 +362009,7 @@
         "company_name": "Dominion Energy",
         "id": "78b657c3-9149-493f-b46d-abe43d480e0a",
         "title": "Power Systems Time-Series Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384493,7 +384378,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "82c1d524-c386-4b7e-bf66-9b62fa2fcc50",
         "title": "AI Engineer Co-op - Global Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386557,7 +386442,7 @@
         "company_name": "Boston Scientific",
         "id": "59604790-9f6c-43b4-b02a-c8c8e3d6e9e8",
         "title": "R&D Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -401742,7 +401627,7 @@
         "company_name": "RTX",
         "id": "5b6d335d-e746-4e29-8a76-e0984ff0aaaf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
