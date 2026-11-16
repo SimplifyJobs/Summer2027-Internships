@@ -357240,7 +357240,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c09d9dac-bcf2-4ef4-a5a3-6349a5905e91",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
