@@ -357881,7 +357881,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "16833d45-b73c-4f39-93f5-4d7b3cd1dc83",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358486,7 +358486,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "108ede75-4ab5-4e06-b717-3143164c782c",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359847,7 +359847,7 @@
         "company_name": "CIBC",
         "id": "1b7c7b2b-a974-4f9a-b99a-fc20c33836a6",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -363024,7 +363024,7 @@
         "company_name": "CIBC",
         "id": "0b94ac66-506f-40a4-bd23-2e0e27c73acd",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392974,7 +392974,7 @@
         "company_name": "OLG",
         "id": "1d0aac8e-a302-4553-958c-4f2eb9d6ddcd",
         "title": "Analytics Engineering & Measurement Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -405499,7 +405499,7 @@
         "company_name": "Bank of Montreal",
         "id": "1a8a2082-f784-4219-9e82-2a23882ac9b7",
         "title": "AI Developer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -408779,7 +408779,7 @@
         "company_name": "Manulife Financial",
         "id": "1210667d-a04b-4e6f-94c9-652d67be9369",
         "title": "Software Engineering Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
