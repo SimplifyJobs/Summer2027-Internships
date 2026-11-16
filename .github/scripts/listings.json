@@ -2861,30 +2861,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ABB",
-        "id": "50366288-ea65-4d02-a3a1-baa7b4291ed0",
-        "title": "R&D Lab Material Analyst Intern-Contractor",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774089102,
-        "date_posted": 1774089102,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/R-D-Lab-Material-Analyst-Intern--Summer-2026_JR00017040-1",
-        "locations": [
-            "Memphis, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Doximity",
         "id": "f18f4905-5cbe-443d-a2c9-4aa9b255b73e",
@@ -8500,30 +8476,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nio",
-        "id": "0d4503e1-90d1-4c0f-bd67-bb854a37ac01",
-        "title": "LLM Algorithmic Optimization Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774089092,
-        "date_posted": 1774089092,
-        "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -410418,6 +410370,50 @@
             "Oakville, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/IPEX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Instil Software Ltd",
+        "id": "30bd4dfd-b823-4a01-841f-76c3c17f0de1",
+        "title": "Software Engineer Placement Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794824672,
+        "date_posted": 1794787200,
+        "url": "https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Instil-Software-Ltd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "77b9974d-4ec7-4763-b2ab-25c2a7abe312",
+        "title": "Quantitative Trading & Research Fellow",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1794823962,
+        "date_posted": 1794823887,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807232",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
