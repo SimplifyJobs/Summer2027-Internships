@@ -335296,7 +335296,7 @@
         "company_name": "CenturyLink",
         "id": "f51bdd40-5f4d-429e-a22b-1e826726e2ad",
         "title": "Data Internship - Analytics & Decision Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338399,7 +338399,7 @@
         "company_name": "CIBC",
         "id": "9c162190-e01a-454b-a16b-3a19fdc3c05f",
         "title": "Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -340655,7 +340655,7 @@
         "company_name": "CIBC",
         "id": "b56b756b-8aec-481e-9e64-15ba330c87d1",
         "title": "Application/Software Developer Co-op - Capital Markets Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357698,7 +357698,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c6e6dba4-9db9-41aa-9f66-54d1405af20c",
         "title": "Developer Intern - RBC Amplify",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
