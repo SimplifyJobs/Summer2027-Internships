@@ -5345,52 +5345,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "08243b88-ca42-4255-a67c-94f14428d46d",
-        "title": "Electronics and Embedded Systems Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774084939,
-        "date_posted": 1774084939,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Summer-Intern_JR002054",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hitachi",
-        "id": "de70e436-4eec-4f37-a74e-708f0c959d2a",
-        "title": "Site Deployment Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1774085049,
-        "date_posted": 1774085049,
-        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Ottawa/Site-Deployment--Intern--Fall-2026--12months-_R1011993",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Al Warren Oil Company",
         "id": "c7f2e562-9c39-4b5a-9d95-89b86d3e4a4b",
@@ -7057,33 +7011,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hitachi",
-        "id": "70be837e-b0ee-4fbf-9648-fd8ccff54247",
-        "title": "Site Deployment Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026",
-            "Winter 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1774085040,
-        "date_posted": 1774085040,
-        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Burnaby/Site-Deployment-Intern-Fall-2026--12months-_R1011983",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -248907,7 +248834,7 @@
         "company_name": "NVIDIA",
         "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278272,7 +278199,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357808,7 +357735,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "0fc49c44-851b-47a8-b7cb-547458b4ec29",
         "title": "Data Engineer Intern - Amplify 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361112,7 +361039,7 @@
         "company_name": "Sherwin-Williams",
         "id": "1def6b3e-6143-4509-9f6c-ca677a3669ec",
         "title": "R&D Product Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
