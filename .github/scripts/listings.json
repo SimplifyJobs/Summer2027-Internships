@@ -169627,7 +169627,7 @@
         "company_name": "Sysco",
         "id": "1c385c6d-d388-465d-9ccb-4051032c9a09",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231723,7 +231723,7 @@
         "company_name": "Protective Life",
         "id": "23dd65c5-13d1-4c38-bf1f-afc1366796ee",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -238949,7 +238949,7 @@
         "company_name": "TikTok",
         "id": "2b1390d0-d203-4b2d-9c05-b5aef5bae31f",
         "title": "Product Manager Project Intern - Business Integrity - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333750,7 +333750,7 @@
         "company_name": "Bree",
         "id": "219daf1b-8dbb-4edb-ac96-3946967faf83",
         "title": "Machine Learning Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -353484,7 +353484,7 @@
         "company_name": "West Monroe",
         "id": "227eaf66-d175-4549-a0d2-b5ca1db29a3a",
         "title": "Market Research Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383496,7 +383496,7 @@
         "company_name": "Marvell",
         "id": "62010bd5-cbb0-48cf-b5f1-9c19e45d69f5",
         "title": "Hardware Signal Integrity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392855,7 +392855,7 @@
         "company_name": "The New York Times",
         "id": "0e942b8e-2ea9-4241-99a8-96482e3de3ee",
         "title": "Full-Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394782,7 +394782,7 @@
         "company_name": "Pyrotek",
         "id": "536e2f43-f2f0-47fd-aa1e-41a34bff5823",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400658,7 +400658,7 @@
         "company_name": "Booz Allen",
         "id": "181b3902-c0ab-469a-a0ab-8bd09146efa7",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -401552,7 +401552,7 @@
         "company_name": "Ribbon",
         "id": "1d01d27b-150d-4d65-b8f7-8790841f3d77",
         "title": "AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -405773,7 +405773,7 @@
         "company_name": "Atalanta",
         "id": "1f3952cc-171c-4509-9532-4e1449ff14f2",
         "title": "Forward Deployed Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
