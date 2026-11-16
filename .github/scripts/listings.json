@@ -237654,7 +237654,7 @@
         "company_name": "Pacific Fusion",
         "id": "21bac346-8a08-470a-8e10-bec8ed7eeaab",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262010,7 +262010,7 @@
         "company_name": "Charter Manufacturing",
         "id": "1f084ca4-0b4b-41c7-a004-ffa649ae554a",
         "title": "Automation & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -270806,7 +270806,7 @@
         "company_name": "Waymo",
         "id": "19c7b543-2d89-4211-ad23-5362ec281971",
         "title": "Software Engineer Intern - MS/PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326185,7 +326185,7 @@
         "company_name": "DataRobot",
         "id": "348b5edc-892b-42e5-8da3-5eaf1dc12c7a",
         "title": "Deep Learning Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378222,7 +378222,7 @@
         "company_name": "NOV",
         "id": "1a0796bb-e137-4e30-9fac-961ff7c26f42",
         "title": "Marketing and Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
