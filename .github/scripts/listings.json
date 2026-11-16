@@ -223735,7 +223735,7 @@
         "company_name": "Bree",
         "id": "0808a8e7-18e7-48d5-ad82-fdc4baaf595c",
         "title": "Software Engineer Co-op - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -251661,7 +251661,7 @@
         "company_name": "Flagship Pioneering",
         "id": "0ccb65ab-e586-4d78-b496-ec4b86e44977",
         "title": "AI Automation Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -267412,7 +267412,7 @@
         "company_name": "GM financial",
         "id": "0ce857da-f2c3-408f-9dff-60465fa37f40",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347416,7 +347416,7 @@
         "company_name": "Schonfeld",
         "id": "f3f5e4e6-bc90-4596-b158-f753d89cc802",
         "title": "PhD Centralized Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396023,7 +396023,7 @@
         "company_name": "The New York Times",
         "id": "05db53e8-06ac-4c35-9f36-918e9d7ee3c2",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407139,7 +407139,7 @@
         "company_name": "AB InBev",
         "id": "0be20f8c-3098-44d2-88ab-cbc0d29cdb13",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
