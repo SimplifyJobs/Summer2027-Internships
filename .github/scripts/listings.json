@@ -248834,7 +248834,7 @@
         "company_name": "NVIDIA",
         "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -278199,7 +278199,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -298831,7 +298831,7 @@
         "company_name": "Google",
         "id": "49dad85f-a6af-4fb4-b6e9-20402bab7e9d",
         "title": "Forward Deployed Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331772,7 +331772,7 @@
         "company_name": "Microsoft",
         "id": "2f809092-b7fc-460f-a4e3-0bb90bdac60b",
         "title": "Researcher Intern - Coreai",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
