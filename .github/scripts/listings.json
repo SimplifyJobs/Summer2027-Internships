@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "631fc4e0-c07b-42f9-855c-656e2563cd0e",
-        "title": "Materials Simulation Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774091676,
-        "date_posted": 1774091676,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Materials-Simulation-Engineering-Intern--AZPI5-_R2612469",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Treefera",
         "id": "fc2f87c9-f97c-48c8-8d6a-bd1af3a4d31a",
@@ -4835,30 +4814,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blue Cross Blue Shield",
-        "id": "522f756b-16f6-497a-bbef-d97da64a5347",
-        "title": "Associate Intern-a.1",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774091854,
-        "date_posted": 1774091854,
-        "url": "https://bcbsa.wd1.myworkdayjobs.com/careers/job/US-IL-Chicago-E-Randolph/Summer-Associate-Intern-AI_JR5804",
-        "locations": [
-            "Washington, DC",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -408355,7 +408310,7 @@
         "company_name": "BMLL Technologies",
         "id": "db176e40-82c8-4ffe-9d7a-f681f709ddda",
         "title": "Junior Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
