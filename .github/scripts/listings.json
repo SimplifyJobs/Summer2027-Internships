@@ -308746,7 +308746,7 @@
         "company_name": "Cadence Solutions",
         "id": "3e820b10-ba47-4208-bb88-525a7dc5290a",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383496,7 +383496,7 @@
         "company_name": "Marvell",
         "id": "62010bd5-cbb0-48cf-b5f1-9c19e45d69f5",
         "title": "Hardware Signal Integrity Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401806,7 +401806,7 @@
         "company_name": "RTX",
         "id": "30730f1c-6d40-450b-a9f3-2e2447dd6e71",
         "title": "Electrical Engineer Intern - FCS Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407878,7 +407878,7 @@
         "company_name": "Rocket Mortgage",
         "id": "2b041c35-8b41-4e11-ab87-232b37636213",
         "title": "Customer Correspondence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410708,7 +410708,7 @@
         "company_name": "Altice USA",
         "id": "3bf15637-dfa2-4883-80f9-32381f68a8d4",
         "title": "Data Analyst Intern - Modernization Program BSS/OSS Migration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
