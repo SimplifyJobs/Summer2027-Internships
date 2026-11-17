@@ -81929,7 +81929,7 @@
         "company_name": "Oracle",
         "id": "95ecb2a1-6a8f-4c29-b971-2b3713f37046",
         "title": "Software Engineer Intern - Ovip",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183612,7 +183612,7 @@
         "company_name": "Booz Allen",
         "id": "84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
         "title": "Software Developer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -276380,7 +276380,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278758,7 +278758,7 @@
         "company_name": "Gorbel",
         "id": "de94d407-d9e8-4cae-a214-452707cb46ed",
         "title": "Data BI Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -296923,7 +296923,7 @@
         "company_name": "Nordson",
         "id": "bbaa19f4-71a8-4f61-a652-4fe6c534ef4b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -342253,7 +342253,7 @@
         "company_name": "Cummins",
         "id": "8805f9d8-30eb-4f3e-baf8-a87bc0f4850b",
         "title": "Engineering School-to-Work Intern - Electronics Systems Validation Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373640,7 +373640,7 @@
         "company_name": "Vestmark",
         "id": "740d2bae-04db-4eaa-9605-57aa4f111a6f",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -412789,6 +412789,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "cfef62f9-0ea8-4070-b549-5bba93413913",
+        "title": "ADAS HW Systems Validation Intern - ADAS HW Systems Validation",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1794930870,
+        "date_posted": 1794928620,
+        "url": "https://careers.rivian.com/jobs/36514?icims=1&lang=en-us",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "3d381561-5185-4f99-9edc-b39a9744f1aa",
+        "title": "ASIC Design Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794930171,
+        "date_posted": 1794930038,
+        "url": "https://amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Soros Fund Management",
+        "id": "751bdabd-e853-41ef-9842-6f7d92883fd9",
+        "title": "Quantitative Strategist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794929581,
+        "date_posted": 1794925226,
+        "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Soros-Fund-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
