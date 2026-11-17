@@ -169321,7 +169321,7 @@
         "company_name": "General Matter",
         "id": "52758ea7-052d-4c85-9fbe-2558a05538f1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -258196,7 +258196,7 @@
         "company_name": "Elire",
         "id": "575cff72-551d-4520-b574-ee32f9252195",
         "title": "AI Software Developer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331184,7 +331184,7 @@
         "company_name": "Nordson",
         "id": "463d369a-081e-447b-9b9b-02cc6a0c5f79",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -363384,7 +363384,7 @@
         "company_name": "Amazon",
         "id": "59c8e11d-c4c9-4e51-895d-4e7e5e98c975",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368255,7 +368255,7 @@
         "company_name": "Coveo",
         "id": "56ec84f6-5260-4f75-a7ea-a98c17287bf9",
         "title": "Software Developer Intern - Solutions Engineering Core Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -379240,7 +379240,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "4a439ec1-a49b-456f-b535-4f38a2356cf0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380174,7 +380174,7 @@
         "company_name": "Applied Materials",
         "id": "5825f548-b298-42bd-b304-9e9b1834382f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390663,7 +390663,7 @@
         "company_name": "CrowdStrike",
         "id": "41415b92-15bf-4391-90e1-04a32e549fed",
         "title": "Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
