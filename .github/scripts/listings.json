@@ -270368,7 +270368,7 @@
         "company_name": "Together AI",
         "id": "c44d5bae-3113-405a-844d-b54205f48458",
         "title": "Research Intern - Frontier Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352893,7 +352893,7 @@
         "company_name": "GlobalFoundries",
         "id": "eb37331a-1033-4766-8467-155ffde46382",
         "title": "Reliability Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368447,7 +368447,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
