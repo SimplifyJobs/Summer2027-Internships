@@ -310489,7 +310489,7 @@
         "company_name": "Waymo",
         "id": "f5387b71-b243-4149-b269-544b787a751e",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324563,7 +324563,7 @@
         "company_name": "Azul Systems",
         "id": "fa83958a-99f4-4d30-87ef-ddc825b7e1ae",
         "title": "IT Intern \u2013 AI and Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343784,7 +343784,7 @@
         "company_name": "Micron Technology",
         "id": "fe2202cb-de4d-41d9-a08c-ef2fd1dfe049",
         "title": "Design Engineer Intern - Pathfinding",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406487,7 +406487,7 @@
         "company_name": "Huawei",
         "id": "ff35d928-bda9-4876-80f6-102b8df3d1e4",
         "title": "Engineer Co-op - Compiler",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409195,7 +409195,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "fc2e7640-69f3-45a5-b316-7bba0ec8b549",
         "title": "Advanced Computing Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
