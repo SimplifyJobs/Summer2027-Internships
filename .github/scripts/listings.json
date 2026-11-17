@@ -38146,7 +38146,7 @@
         "company_name": "Zoox",
         "id": "948a7229-20bf-4220-9876-ec5879966d9c",
         "title": "Student Worker Intern - Firmware Engineer - Firmware Thermal/Body",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -276380,7 +276380,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308722,7 +308722,7 @@
         "company_name": "Cadence Solutions",
         "id": "9c73b8be-e8be-4a91-9db0-df9eb032917a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347619,7 +347619,7 @@
         "company_name": "Stand Together",
         "id": "9277db51-30f2-43e3-a91c-10253780f501",
         "title": "Data Analyst Intern - Open the Books",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -373424,7 +373424,7 @@
         "company_name": "BitGo",
         "id": "9b812413-6cc7-43e6-9c5e-1879a00f8abb",
         "title": "Software Engineer Intern - Custody",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380427,7 +380427,7 @@
         "company_name": "Toshiba Global Commerce Solutions",
         "id": "84e1f7e3-978b-4ff1-a360-302ecd1faf1e",
         "title": "AI Automation & Revenue Ops Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -384891,7 +384891,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385171,7 +385171,7 @@
         "company_name": "Corewell Health",
         "id": "a83cc1fe-f8e0-4c28-94d2-ebe39b817f3e",
         "title": "Consumer Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394738,7 +394738,7 @@
         "company_name": "Atrium Hospitality",
         "id": "8aa97705-1af2-4ebd-9924-de9169d345ee",
         "title": "AI & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404174,7 +404174,7 @@
         "company_name": "Plusgrade",
         "id": "93ce2dda-afdd-4466-9205-7baacd0142a1",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411838,5 +411838,94 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Soros Fund Management",
+        "id": "218fd898-7718-46b4-bc2b-65b9ee205d5c",
+        "title": "Trading Intern - Middle and Back Office Dev",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794883722,
+        "date_posted": 1794581212,
+        "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Soros-Fund-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Research Innovations",
+        "id": "e36780ca-625f-4558-8501-fa2649791b6c",
+        "title": "Department of War SkillBridge Operations SME Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794883549,
+        "date_posted": 1794883411,
+        "url": "https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Research-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Punchcut",
+        "id": "909a8be2-be56-4b49-afc5-12397e8e0576",
+        "title": "Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794883164,
+        "date_posted": 1794883050,
+        "url": "https://punchcut.bamboohr.com/careers/65/",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Punchcut",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "29e95151-04f0-4334-beca-c4476d2d7b5f",
+        "title": "Optical Packaging Integration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794882626,
+        "date_posted": 1794871272,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5478834008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
