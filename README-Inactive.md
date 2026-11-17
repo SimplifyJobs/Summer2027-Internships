@@ -6,11 +6,11 @@
 
 ---
 
-### Browse 4116 Inactive Internship Roles by Category
+### Browse 4115 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1433)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (272)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (271)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1454)
 
@@ -92,7 +92,7 @@
 <td>Human Machine Teaming Intern</td>
 <td>Washington, DC</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Camping-World?utm_source=GHList&utm_medium=company">Camping World</a></strong></td>
@@ -152,13 +152,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Shield-AI?utm_source=GHList&utm_medium=company">Shield AI</a></strong></td>
-<td>Engineer 2 New Grad - Software - Autonomy Capabilities</td>
-<td>United States</td>
-<td>🔒</td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Engineer 2 New Grad - Software - Autonomy Capabilities</td>
 <td>United States</td>
 <td>🔒</td>
@@ -715,7 +708,7 @@
 <td>Software Engineer Intern</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
@@ -1820,6 +1813,13 @@
 <td>↳</td>
 <td>Software Engineering Intern</td>
 <td>Madison, WI<br>Boston, MA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Vancouver, BC, Canada</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -5387,13 +5387,6 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TruStage?utm_source=GHList&utm_medium=company">TruStage</a></strong></td>
-<td>Information Technology Development and Infrastructure Intern</td>
-<td>Madison, WI</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Quantum Computing Research Intern</td>
 <td>Washington, DC</td>
@@ -5446,6 +5439,13 @@
 <td><strong><a href="https://simplify.jobs/c/USAA?utm_source=GHList&utm_medium=company">USAA</a></strong></td>
 <td>Technology Intern</td>
 <td>Plano, TX<br>San Antonio, TX<br>Phoenix, AZ</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/TruStage?utm_source=GHList&utm_medium=company">TruStage</a></strong></td>
+<td>Information Technology Development and Infrastructure Intern</td>
+<td>Madison, WI</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -10392,13 +10392,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
-<td>Product Management Intern</td>
-<td>Austin, TX</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/First-Citizens-BancShares?utm_source=GHList&utm_medium=company">First Citizens BancShares</a></strong></td>
 <td>Summer Intern - Card Product Management - Business to Business Payments</td>
 <td>NYC</td>
@@ -12923,7 +12916,7 @@
 <td>Industrial Placement Intern - Digital - Digital & Data</td>
 <td>Bristol, UK</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
