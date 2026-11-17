@@ -337399,7 +337399,7 @@
         "company_name": "HeyGen",
         "id": "2f956c52-edf6-4b68-99c9-7db4d96de3c0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338491,7 +338491,7 @@
         "company_name": "Highmark Health",
         "id": "29dccfec-8c43-420d-b9be-cb77d19d5499",
         "title": "Reimbursement Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384702,7 +384702,7 @@
         "company_name": "L3Harris Technologies",
         "id": "38d28f6f-b801-4582-8bc9-01ae596d13aa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407533,7 +407533,7 @@
         "company_name": "Maxinsights",
         "id": "23f85879-e285-4e75-bd3a-3c82bd6304e5",
         "title": "Data Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411845,7 +411845,7 @@
         "company_name": "Soros Fund Management",
         "id": "218fd898-7718-46b4-bc2b-65b9ee205d5c",
         "title": "Trading Intern - Middle and Back Office Dev",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
