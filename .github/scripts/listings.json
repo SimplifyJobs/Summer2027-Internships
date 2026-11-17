@@ -328025,7 +328025,7 @@
         "company_name": "KLA",
         "id": "78691202-f306-42da-9b0e-d9c0e191b452",
         "title": "Computer Vision/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409104,7 +409104,7 @@
         "company_name": "Marvell",
         "id": "468b4f83-907e-47cb-af11-614819954651",
         "title": "Analog Layout Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
