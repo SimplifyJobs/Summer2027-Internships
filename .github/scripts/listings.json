@@ -215030,7 +215030,7 @@
         "company_name": "Motorola",
         "id": "e1457499-6257-4e3b-9b1d-2a8dfac950fe",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -395901,7 +395901,7 @@
         "company_name": "Fortrea",
         "id": "de7fe0e3-6022-4f95-a291-1b8cc48f3f10",
         "title": "AIML Rapid Development Studio Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
