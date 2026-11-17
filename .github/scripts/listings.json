@@ -129356,7 +129356,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -193505,7 +193505,7 @@
         "company_name": "Emerson Electric",
         "id": "190b0feb-7aaf-4ddc-96db-7a8483dee439",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -196298,7 +196298,7 @@
         "company_name": "Booz Allen",
         "id": "097e5358-9e45-41e0-86bc-5289976e1828",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -256830,7 +256830,7 @@
         "company_name": "The Toro Company",
         "id": "133df2d5-e05c-44e5-acf9-2fde2084787e",
         "title": "ISC Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317313,7 +317313,7 @@
         "company_name": "Tesla",
         "id": "61d630c7-bc66-4344-a5c4-772ddef31c4e",
         "title": "Software Integration Engineer Intern - Service Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -368208,7 +368208,7 @@
         "company_name": "Coveo",
         "id": "10b9c8a3-412f-4c38-8957-b21fac811721",
         "title": "Frontend Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
