@@ -278156,7 +278156,7 @@
         "company_name": "Mytra",
         "id": "7168238e-e901-4705-8d75-b33b99d49fa4",
         "title": "Robotics Intern - Winter 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -336181,7 +336181,7 @@
         "company_name": "Electronic Arts",
         "id": "91d247d9-54be-41c4-bd29-790886bb6888",
         "title": "AI/ML Software Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342927,7 +342927,7 @@
         "company_name": "Paccar",
         "id": "a75a8632-28d8-4ce0-827f-c75ecb99f4c9",
         "title": "Engineering Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347960,7 +347960,7 @@
         "company_name": "Waymo",
         "id": "f20248ee-cb81-4a5b-8c0c-1af93286831e",
         "title": "2027 Summer Intern - AI Foundations - Recipes",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412420,6 +412420,121 @@
             "Berkeley, CA"
         ],
         "company_url": "https://simplify.jobs/c/Terranova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SurePoint Ag Systems",
+        "id": "1c9dc088-116a-43ff-a6ae-6ab513f43e5e",
+        "title": "Drone Imaging Agronomy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794910356,
+        "date_posted": 1794910179,
+        "url": "https://surepoint.bamboohr.com/careers/109/",
+        "locations": [
+            "Manhattan, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/SurePoint-Ag-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sedaro",
+        "id": "e832e189-e1cc-4b4f-ba16-3f62ddbf3bb7",
+        "title": "Compiler Intern - Simulator",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794910156,
+        "date_posted": 1794910061,
+        "url": "https://sedarotech.bamboohr.com/careers/95/",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sedaro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Road Commission for Oakland County",
+        "id": "793a9ac6-92f9-400d-b060-1bb9144677cd",
+        "title": "Geographic Information Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794910199,
+        "date_posted": 1794910065,
+        "url": "https://rcoc.bamboohr.com/careers/314/",
+        "locations": [
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Road-Commission-For-Oakland-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sedaro",
+        "id": "73c60737-21d3-447f-89c4-cacd4904932a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794910156,
+        "date_posted": 1794910061,
+        "url": "https://sedarotech.bamboohr.com/careers/97/",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sedaro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "93d22972-eeaf-42f9-a5b5-5c07e813b18b",
+        "title": "Zip Motion Planning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794910685,
+        "date_posted": 1790807851,
+        "url": "https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
