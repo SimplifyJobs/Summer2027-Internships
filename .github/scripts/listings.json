@@ -208882,7 +208882,7 @@
         "company_name": "General Matter",
         "id": "0f3c4057-6580-4955-8436-b08bb3fa2e4e",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290510,7 +290510,7 @@
         "company_name": "Tesla",
         "id": "5866904c-1ee5-4973-8ca1-2c57ecb0569f",
         "title": "Software Engineer Intern - Data Transformations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -337278,7 +337278,7 @@
         "company_name": "Tesla",
         "id": "931408fb-5cb7-4179-8c33-35a242bbc266",
         "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -377248,7 +377248,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "16eb930e-0ac5-48f4-b2e1-0092e4756c31",
         "title": "Agentic AI Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
