@@ -305553,7 +305553,7 @@
         "company_name": "Solink",
         "id": "60cceb67-73c6-4b3b-9464-f6f276a9ad2c",
         "title": "Software Engineer Co-op - Apps",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -404687,7 +404687,7 @@
         "company_name": "Trinity Life Sciences",
         "id": "457f471d-0890-4c19-b624-05089c7e682e",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
