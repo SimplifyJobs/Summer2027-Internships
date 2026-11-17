@@ -223216,7 +223216,7 @@
         "company_name": "Garner Health",
         "id": "31c5ffff-7ad5-4068-a1cb-42ff7c4b6ca3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384425,7 +384425,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "1f9e540a-3a0e-499f-b89a-4d9b45b9f7f8",
         "title": "Data Science Student Assistant 3 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
