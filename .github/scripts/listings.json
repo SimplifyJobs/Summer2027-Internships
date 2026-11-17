@@ -270688,7 +270688,7 @@
         "company_name": "Together AI",
         "id": "0e0fdf41-a922-4b76-8eaf-6445d1277b48",
         "title": "Research Intern - Inference",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -288334,7 +288334,7 @@
         "company_name": "Marvell",
         "id": "045d26e5-429e-4701-9b98-6353918f48fe",
         "title": "Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358891,7 +358891,7 @@
         "company_name": "AltaLink",
         "id": "0b0c13c2-e74d-4f16-9375-b9de4df4c3c6",
         "title": "Summer Student Intern - CRU Project Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367900,7 +367900,7 @@
         "company_name": "New York ISO",
         "id": "0a2d8d42-726b-49fe-9136-60580662f2da",
         "title": "Software Engineering Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
