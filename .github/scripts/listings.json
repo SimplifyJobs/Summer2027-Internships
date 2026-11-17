@@ -260948,7 +260948,7 @@
         "company_name": "V2X",
         "id": "25e34297-e8b4-4e9c-8141-ab4dfc4fac2c",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342834,7 +342834,7 @@
         "company_name": "Humble Robotics",
         "id": "21f33b87-6b19-48ce-8820-5dfeb12ae12f",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394312,7 +394312,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "2cdfed62-a249-4fe7-b45f-406da7879351",
         "title": "Electrical Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
