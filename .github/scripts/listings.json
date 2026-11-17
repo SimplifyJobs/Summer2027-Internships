@@ -126895,7 +126895,7 @@
         "company_name": "Jane Street",
         "id": "043d70c3-4576-4f40-bc1f-08885ba8ebc8",
         "title": "Linux Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -250723,7 +250723,7 @@
         "company_name": "Micron Technology",
         "id": "0f1a5eef-d0e4-4005-9f93-f6e95245eb6f",
         "title": "IT Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -278106,7 +278106,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368929,7 +368929,7 @@
         "company_name": "Philips",
         "id": "0ad97afd-e0ba-4720-ae97-7e1ad0f20d62",
         "title": "AI & Analytics Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398765,7 +398765,7 @@
         "company_name": "T-Mobile",
         "id": "079bf3d3-847a-4fc1-988a-ae3cdbafd70e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412290,6 +412290,96 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skydio",
+        "id": "025c8fcb-d728-4999-b384-666f9e4eaf4f",
+        "title": "Systems Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794906363,
+        "date_posted": 1794182400,
+        "url": "https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a/application?embed=true",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Remanence",
+        "id": "27235b0a-71ed-45ee-bd2f-60d00c388044",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794907655,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/remanence/07fc4962-bf28-4255-a7d4-3f5d52a4c525/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Paris, France"
+        ],
+        "company_url": "https://simplify.jobs/c/Remanence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Remanence",
+        "id": "10d579de-9843-4828-bfd9-451b554264c1",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794906946,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/remanence/97c87e6c-66d7-4d84-a873-30d286c26ea4/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Paris, France"
+        ],
+        "company_url": "https://simplify.jobs/c/Remanence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garner Health",
+        "id": "238b4335-e95e-471b-ad55-a3d3da60a5f6",
+        "title": "Associate Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1794907474,
+        "date_posted": 1788559488,
+        "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
