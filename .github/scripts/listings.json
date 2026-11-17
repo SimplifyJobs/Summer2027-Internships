@@ -186343,7 +186343,7 @@
         "company_name": "Northwood Space",
         "id": "f6b7f447-ad5a-434e-bf7f-b120f36843eb",
         "title": "Supply Chain Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384891,7 +384891,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389685,7 +389685,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c7027be1-999e-4aed-be4a-f4d9fa07f5a4",
         "title": "Quantitative Technology Services Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -402686,7 +402686,7 @@
         "company_name": "Shield AI",
         "id": "f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
         "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
