@@ -278106,7 +278106,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278156,7 +278156,7 @@
         "company_name": "Mytra",
         "id": "7168238e-e901-4705-8d75-b33b99d49fa4",
         "title": "Robotics Intern - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -347960,7 +347960,7 @@
         "company_name": "Waymo",
         "id": "f20248ee-cb81-4a5b-8c0c-1af93286831e",
         "title": "2027 Summer Intern - AI Foundations - Recipes",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379397,7 +379397,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "1fe84d82-9e4e-4ab2-a67d-5886a1a51abb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393476,7 +393476,7 @@
         "company_name": "Corning",
         "id": "42c83536-2c93-4f65-bad9-24c556e1049d",
         "title": "Image Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404195,7 +404195,7 @@
         "company_name": "Plusgrade",
         "id": "25e8649f-61f6-49a9-a172-868e4116b894",
         "title": "Applied AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412381,5 +412381,47 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Syntax",
+        "id": "50119efd-3a89-4665-8364-8b7776f19351",
+        "title": "Index Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794908724,
+        "date_posted": 1794653971,
+        "url": "https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SyntaxData",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Terranova",
+        "id": "41612ff8-92f1-4246-90fb-49193cf5ca38",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794908379,
+        "date_posted": 1793664000,
+        "url": "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Terranova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
