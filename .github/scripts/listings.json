@@ -120670,7 +120670,7 @@
         "company_name": "Marshall Wace",
         "id": "ae7fd66d-2ccb-4c86-894b-f1f097cff21c",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -147345,7 +147345,7 @@
         "company_name": "Microsoft",
         "id": "b412b084-36e9-45e2-b3a0-561c4336e62e",
         "title": "Software Engineer Security & Identity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311431,7 +311431,7 @@
         "company_name": "Electronic Arts",
         "id": "e0b3cbee-7fd0-464e-a195-d3e925f3e990",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -320690,7 +320690,7 @@
         "company_name": "Electronic Arts",
         "id": "bf0ea2ee-b924-45bc-bbd7-c84d4eba7fd4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344065,7 +344065,7 @@
         "company_name": "TruStage",
         "id": "8b26c26a-93b7-4702-b463-83420efc11af",
         "title": "Information Technology Development and Infrastructure Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403330,7 +403330,7 @@
         "company_name": "Shield AI",
         "id": "b1fe1b9f-f127-4ef0-89e0-dd7c9086acaf",
         "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412538,5 +412538,96 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "6692aa48-6232-4d3f-ad18-2ac58fac07c0",
+        "title": "Payments Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1794912699,
+        "date_posted": 1794912595,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808799",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canyon AeroConnect",
+        "id": "4c31bb53-e611-4a3c-96fb-c9d7be9acf24",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794912515,
+        "date_posted": 1794912345,
+        "url": "https://canyonaeroconnect.bamboohr.com/careers/165/",
+        "locations": [
+            "Prescott, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Canyon-AeroConnect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canyon AeroConnect",
+        "id": "85ef2153-9e8f-421b-8371-86e442ac09c7",
+        "title": "Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794912515,
+        "date_posted": 1794912344,
+        "url": "https://canyonaeroconnect.bamboohr.com/careers/166/",
+        "locations": [
+            "Prescott, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Canyon-AeroConnect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FSP",
+        "id": "b344f0b9-d226-4e26-b217-c3c275f9cfce",
+        "title": "Placement Software Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794912350,
+        "date_posted": 1794912191,
+        "url": "https://fsp.bamboohr.com/careers/323/",
+        "locations": [
+            "Glasgow, UK",
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
