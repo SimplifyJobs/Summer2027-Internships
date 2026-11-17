@@ -410130,7 +410130,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "35416ed2-2faf-40be-9ca1-397122e83cce",
         "title": "Advanced Computing Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412629,5 +412629,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Havas",
+        "id": "d41e138a-8737-4f04-8bfc-1cf248d694a2",
+        "title": "Data & Analytics Platformer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794917211,
+        "date_posted": 1794873600,
+        "url": "https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Data---Analytics-Platformer_JR0101641",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Havas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
