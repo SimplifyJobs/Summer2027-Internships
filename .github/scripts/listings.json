@@ -384891,7 +384891,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411926,6 +411926,278 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Angel Host",
+        "id": "77f0d4c4-57a5-49b8-81ed-085e150c6551",
+        "title": "AI Product Engineer Intern Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1794900447,
+        "date_posted": 1794900400,
+        "url": "https://angelhost.bamboohr.com/careers/123/",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Angel-Host",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IQT",
+        "id": "2e2c2c90-9468-4d9b-9ef0-1f63fc6e8032",
+        "title": "Engineering Intern - Rapid Prototyping Group",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1794900246,
+        "date_posted": 1789948800,
+        "url": "https://careers-iqt.icims.com/jobs/1457/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/IQT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ECM Tek",
+        "id": "23e36426-bb74-4b8d-9baa-51a102571c69",
+        "title": "Developer Intern - Python Development",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794900088,
+        "date_posted": 1794899954,
+        "url": "https://ecmtek.bamboohr.com/careers/51/",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/ECM-Tek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Birdseye Security Solutions",
+        "id": "72649a86-d70f-46de-8b0f-8ce6aaea71b7",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794899751,
+        "date_posted": 1794899635,
+        "url": "https://birdseyeaccount.bamboohr.com/careers/286/",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Birdseye-Security-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Birdseye Security Solutions",
+        "id": "3c078c0f-8a73-45a7-8180-3cf64a2b15a7",
+        "title": "AI Systems Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794899743,
+        "date_posted": 1794899634,
+        "url": "https://birdseyeaccount.bamboohr.com/careers/287/",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Birdseye-Security-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Birdseye Security Solutions",
+        "id": "05799004-d77a-4b48-b797-2b29a38c7087",
+        "title": "AI Systems Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794899744,
+        "date_posted": 1794899634,
+        "url": "https://birdseyeaccount.bamboohr.com/careers/288/",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Birdseye-Security-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IPConfigure",
+        "id": "c445b1f7-56ed-41b7-adcf-488ff0ec20e5",
+        "title": "Software Development for Video Surveillance Software Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794899743,
+        "date_posted": 1794899601,
+        "url": "https://ipconfigure.bamboohr.com/careers/71/",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/IPConfigure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Birdseye Security Solutions",
+        "id": "a73d65d0-ef99-4368-9bb7-6e1a8095fa49",
+        "title": "Computer Vision Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794899749,
+        "date_posted": 1794899634,
+        "url": "https://birdseyeaccount.bamboohr.com/careers/290/",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Birdseye-Security-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Birdseye Security Solutions",
+        "id": "8033eb14-80e3-49b3-a757-51beec518191",
+        "title": "Computer Vision Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794899749,
+        "date_posted": 1794899634,
+        "url": "https://birdseyeaccount.bamboohr.com/careers/289/",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Birdseye-Security-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Xradar",
+        "id": "861f6527-4fbe-4536-a2b9-0ec1d95328fc",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1794899346,
+        "date_posted": 1794899291,
+        "url": "https://xradar.bamboohr.com/careers/203/",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Xradar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "All Options",
+        "id": "c4c07e6a-44f8-4847-ba4c-378473c3515f",
+        "title": "Graduate Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1794899229,
+        "date_posted": 1794899057,
+        "url": "https://alloptions.bamboohr.com/careers/85/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/All-Options",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SecurityMetrics",
+        "id": "c5774094-54c2-4d78-bb91-86ec4d8cb4a7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794899193,
+        "date_posted": 1794899043,
+        "url": "https://securitymetrics.bamboohr.com/careers/215/",
+        "locations": [
+            "Orem, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/SecurityMetrics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
