@@ -196275,7 +196275,7 @@
         "company_name": "Booz Allen",
         "id": "53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -203954,7 +203954,7 @@
         "company_name": "Emerson Electric",
         "id": "3f46a41f-3885-41a6-8f69-bbcc0fa3006a",
         "title": "Chemical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -328971,7 +328971,7 @@
         "company_name": "Later",
         "id": "4470aa0d-794e-495c-9e98-63ab96a2efbb",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -373471,7 +373471,7 @@
         "company_name": "BitGo",
         "id": "420f0029-3727-4af7-b7d6-abd18e9b2b24",
         "title": "Software Engineer Intern - Prime Trade",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -405171,7 +405171,7 @@
         "company_name": "Motorola Solutions",
         "id": "40f272f0-0fd5-47cf-9442-284ef60ed9c8",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411793,5 +411793,50 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HexArmor",
+        "id": "ba23165e-e66d-4e52-90f4-9e640cdb5325",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794882107,
+        "date_posted": 1794875463,
+        "url": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/HexArmor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Opus Group",
+        "id": "d174fe5d-9211-4aa0-9ec6-572bc4d1baa5",
+        "title": "Interactive Resident",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1794881372,
+        "date_posted": 1794881324,
+        "url": "https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Opus-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
