@@ -270550,7 +270550,7 @@
         "company_name": "Together AI",
         "id": "464ccc3f-81f5-4e38-b8ac-aeac069c2533",
         "title": "Research Intern - Model Shaping",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352655,7 +352655,7 @@
         "company_name": "GlobalFoundries",
         "id": "37d0ad5e-0c6f-4e98-bc4f-aad3ad9c18b7",
         "title": "Circuit Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412726,7 +412726,7 @@
         "company_name": "Prometheus Group",
         "id": "8f5d75e1-148b-4d22-93db-1e9061aec1b2",
         "title": "Web Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412846,7 +412846,7 @@
         "company_name": "Soros Fund Management",
         "id": "751bdabd-e853-41ef-9842-6f7d92883fd9",
         "title": "Quantitative Strategist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
