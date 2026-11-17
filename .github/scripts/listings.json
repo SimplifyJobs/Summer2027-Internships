@@ -279063,7 +279063,7 @@
         "company_name": "Gordon Food Service",
         "id": "43abf6b4-05c4-4720-bda6-aaf7db1a6c71",
         "title": "Category Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314660,7 +314660,7 @@
         "company_name": "Varian",
         "id": "daa90d5b-5345-4efa-a41c-9939aa72f4da",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315944,7 +315944,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "fc1da624-e620-4f0f-89d1-f78464457a9d",
         "title": "Radiation Effects Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -359904,7 +359904,7 @@
         "company_name": "Hiya",
         "id": "495230b7-4be6-447a-9ce2-76170fb240a8",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379609,7 +379609,7 @@
         "company_name": "Ciena",
         "id": "4cef3318-d05a-4bf7-852e-a4e0bc3d3945",
         "title": "Optical New Product Engineering Intern - New Product Introduction \u2013 Photonic Test Engineer (Co-op)",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387243,7 +387243,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "59e8bcfa-d272-4908-b44c-ffb7fa90719a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400611,7 +400611,7 @@
         "company_name": "Trimble",
         "id": "50f373f0-86f6-4b75-bfae-95734aaa3f6e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409723,7 +409723,7 @@
         "company_name": "Cigna Group",
         "id": "514661c9-97e4-4ade-a0ac-785974e42bee",
         "title": "Healthcare Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
