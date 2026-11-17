@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 4146 Inactive Internship Roles by Category
+### Browse 4148 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1443)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (272)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (273)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1467)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1468)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (306)
 
@@ -120,7 +120,7 @@
 <td>Software Engineering Intern</td>
 <td>Emeryville, CA</td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">Visa</a></strong></td>
@@ -10364,6 +10364,13 @@
 <td>25d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
+<td>Product Management Intern</td>
+<td>Atlanta, GA</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>Product Management Intern</td>
 <td>Markham, ON, Canada</td>
@@ -10669,7 +10676,7 @@
 <td>Product Manager Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
@@ -12482,14 +12489,14 @@
 <td>NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference 🎓</td>
 <td>Seattle, WA<br>Richland, WA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference 🎓</td>
 <td>Seattle, WA<br>Richland, WA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/First-Citizens-BancShares?utm_source=GHList&utm_medium=company">First Citizens BancShares</a></strong></td>
@@ -13019,6 +13026,13 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
 <td>Agentic AI Data Science Intern</td>
+<td>Jacksonville, FL</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Data Analyst Intern</td>
 <td>Jacksonville, FL</td>
 <td>🔒</td>
 <td>25d</td>
@@ -22450,7 +22464,7 @@
 <td>Quantitative Modeling Intern 🎓</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cenovus-Energy?utm_source=GHList&utm_medium=company">Cenovus Energy</a></strong></td>
