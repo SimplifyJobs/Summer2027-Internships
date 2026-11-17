@@ -215513,7 +215513,7 @@
         "company_name": "Oracle",
         "id": "a0eb551c-9048-4dde-ac40-f2bd01e4d05f",
         "title": "Project Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -259666,7 +259666,7 @@
         "company_name": "Elire",
         "id": "cb134c63-620d-4f0e-966c-ae3c7a03d34b",
         "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372292,7 +372292,7 @@
         "company_name": "Axiom Space",
         "id": "8eb06226-0a94-47f2-a0bb-60bcb7df92c4",
         "title": "Enterprise Data Analyst Intern - Power BI & Data Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389870,7 +389870,7 @@
         "company_name": "Riverside Research",
         "id": "669faba3-4676-4476-a559-f0a0713b57e2",
         "title": "Software Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
