@@ -276380,7 +276380,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -398694,7 +398694,7 @@
         "company_name": "T-Mobile",
         "id": "6f89592c-cad0-4384-8d65-14460588b283",
         "title": "Software Engineer Intern - T-Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412198,6 +412198,98 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FPWA",
+        "id": "daab2dc3-35f3-4f40-9c50-fa0865d78d39",
+        "title": "Data & Fiscal Policy Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794902231,
+        "date_posted": 1794902174,
+        "url": "https://fpwa.bamboohr.com/careers/61/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FPWA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Critical Environment Technologies",
+        "id": "22ffdc54-a0ba-4f2a-990a-f4fde578fb3f",
+        "title": "Computer Science Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794901715,
+        "date_posted": 1794901595,
+        "url": "https://cetci.bamboohr.com/careers/92/",
+        "locations": [
+            "Delta, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Critical-Environment-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NorthStar Earth & Space",
+        "id": "fb8c19af-6f4e-4bce-8ee3-4b265a51000f",
+        "title": "Research Intern - AI for Earth Observation",
+        "active": true,
+        "terms": [
+            "Winter 2028"
+        ],
+        "date_updated": 1794900649,
+        "date_posted": 1794900558,
+        "url": "https://northstarearthandspace.bamboohr.com/careers/117/",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NorthStar-Earth-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e9dbab50-28ba-4352-8794-b48f5a64b318",
+        "title": "Research Scientist Intern - Privacy Innovation Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794900602,
+        "date_posted": 1794900567,
+        "url": "https://lifeattiktok.com/search/7703923326767483141",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
