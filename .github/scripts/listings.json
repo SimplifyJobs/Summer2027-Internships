@@ -262058,7 +262058,7 @@
         "company_name": "Ensign-Bickford Industries",
         "id": "b202c8f2-5559-40d4-8a8b-2326270d7097",
         "title": "Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292727,7 +292727,7 @@
         "company_name": "KLA",
         "id": "a7373af1-154a-4460-accf-0f684091471b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -301637,7 +301637,7 @@
         "company_name": "blp",
         "id": "bf7072d3-5d46-48e6-951a-18e940c68ebc",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -346818,7 +346818,7 @@
         "company_name": "Kensington",
         "id": "b1802748-3330-41f2-9db7-2066b2335db2",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384891,7 +384891,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387427,7 +387427,7 @@
         "company_name": "Peraton",
         "id": "c83bdc1d-5eb0-41f6-a236-0a2822d82b7b",
         "title": "Cyber Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -405312,7 +405312,7 @@
         "company_name": "KLA Corporation",
         "id": "c8b02f7b-4d23-4813-a169-4d1e876422c5",
         "title": "Electrical Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412650,5 +412650,145 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "bd1010aa-68a9-41eb-a219-6ae285501a4e",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794928882,
+        "date_posted": 1794873600,
+        "url": "https://careers-gdms.icims.com/jobs/80617/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "852ba030-95f1-4c5a-afa9-3dfe3eef2762",
+        "title": "Firmware Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794928861,
+        "date_posted": 1794787200,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "3879e353-7152-40e5-add1-befdb4387acf",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794928726,
+        "date_posted": 1794928616,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prometheus Group",
+        "id": "8f5d75e1-148b-4d22-93db-1e9061aec1b2",
+        "title": "Web Development Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794928501,
+        "date_posted": 1794928349,
+        "url": "https://prometheusgroup.bamboohr.com/careers/97/",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Prometheus-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "bee8e5de-03d0-4cf7-9457-e9ec51642c89",
+        "title": "AI Application Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1794928321,
+        "date_posted": 1794922500,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAS",
+        "id": "4525469a-3426-4f73-b478-c3a841f40428",
+        "title": "Econometrics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794928124,
+        "date_posted": 1794873600,
+        "url": "https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SAS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
