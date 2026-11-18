@@ -340460,7 +340460,7 @@
         "company_name": "Semtech",
         "id": "06d085a2-9e1f-4eed-806f-fecc1c17fce5",
         "title": "PCB Layout Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395397,7 +395397,7 @@
         "company_name": "Cirrus Logic",
         "id": "14dd2b03-6438-4e36-bae0-d3232c7923da",
         "title": "Applied AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401510,7 +401510,7 @@
         "company_name": "Gordon Food Service",
         "id": "00e0e5f9-6a6f-45a0-a18f-ac107845d71d",
         "title": "Software Engineer Intern - Low Code",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
