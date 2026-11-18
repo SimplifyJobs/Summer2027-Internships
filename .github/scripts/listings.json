@@ -259945,7 +259945,7 @@
         "company_name": "Antares Nuclear",
         "id": "9d3deed3-7476-4d1b-ac11-2072ffe638ff",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284220,7 +284220,7 @@
         "company_name": "Radiance Technologies",
         "id": "a85254d2-8066-44f1-94d3-904c02e8c5f3",
         "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -334705,7 +334705,7 @@
         "company_name": "Invesco",
         "id": "46811bb8-111e-47e3-b675-aca761f58e59",
         "title": "Quantitative Intern - Portfolio Engineering and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394673,7 +394673,7 @@
         "company_name": "Warner Bros.",
         "id": "99f97a9b-d612-47ee-aed7-7b2e1f5083af",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
