@@ -1,31 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fresenius Medical Care",
-        "id": "de2841a3-61ba-4e45-a2c7-6b6e107d47a8",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1774306707,
-        "date_posted": 1774306707,
-        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Engineering-Co-op_R0240653-1",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Auto Club Group ",
         "id": "9058bd48-ead5-4099-9e33-8fe166581c87",
@@ -116,112 +91,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Slate Auto",
-        "id": "6ccc8117-c144-490e-aa03-162d21d2d88b",
-        "title": "Body Systems Intern - Exteriors",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027",
-            "Winter 2028",
-            "Spring 2028",
-            "Summer 2028",
-            "Fall 2028",
-            "Winter 2029",
-            "Spring 2029"
-        ],
-        "date_updated": 1774305495,
-        "date_posted": 1774305495,
-        "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Body-Systems-Intern---Exteriors_JR100336",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Slate-Auto",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nissan",
-        "id": "51db6cca-69a9-492b-aee2-37ec3295c9fe",
-        "title": "Battery Experimental Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774306096,
-        "date_posted": 1774306096,
-        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Battery-Experimental-Intern---Silicon--Valley--CA---Summer-2026_R00202266",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nissan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "4f505a04-59a0-465c-8523-37e0e512530c",
-        "title": "Chassis Controls Software Developer \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774305700,
-        "date_posted": 1774305700,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Chassis-Controls-Software-Developer--Co-op-_JR-202606122",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Blue Cross Blue Shield",
-        "id": "33585886-83e5-4152-ad37-aabc470f0421",
-        "title": "Associate Intern - Marketing Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774305982,
-        "date_posted": 1774305982,
-        "url": "https://bcbsa.wd1.myworkdayjobs.com/careers/job/US-IL-Chicago-E-Randolph/Summer-Associate-Intern--Marketing-Data-Analytics-_JR5797",
-        "locations": [
-            "Washington, DC",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Shake Shack",
         "id": "2e27e17c-6816-481b-86d0-6a70c67df36a",
@@ -288,29 +157,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "36ed65f8-43ba-4fe3-8a7e-978f65d9ad83",
-        "title": "Enterprise AI Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1774305765,
-        "date_posted": 1774305765,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Enterprise-AI-Software-Engineering-Intern_R-00178855",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Shake Shack",
         "id": "0508ebe3-766f-4e7f-8866-3ad8a7b98c14",
@@ -329,75 +175,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Warner Bros.",
-        "id": "44519f1c-20ca-41a5-86d4-4d82a2182323",
-        "title": "Advertising Platform Analyst Adtech Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774306611,
-        "date_posted": 1774306611,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Advertising-Platform-Analyst-AdTech-Intern--ATL---Summer-2026_R000103914",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "5118959e-05ac-49c3-83b3-95c83e0fa264",
-        "title": "Data Analyst",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774306750,
-        "date_posted": 1774306750,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/Data-Analyst_R0235629",
-        "locations": [
-            "Lexington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Proofpoint",
-        "id": "5ef50a91-16cf-48e5-9c12-f0e73efd7f87",
-        "title": "Agentic AI Workflows Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774305240,
-        "date_posted": 1774305240,
-        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Agentic-AI-Workflows-Intern_R13934",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Proofpoint",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -427,30 +204,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sony Pictures Entertainment",
-        "id": "5ea9ddcc-eb01-4baa-98cb-76bca0f3f8ba",
-        "title": "Intern \u2013 Insights - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774305229,
-        "date_posted": 1774305229,
-        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Summer-2026_JR112008",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Pictures-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Thermo Fisher Scientific",
         "id": "537f466b-5235-411b-a499-e2f6ecf13c58",
@@ -466,53 +219,6 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varda Space",
-        "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
-        "title": "Automation & Test Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1774305129,
-        "date_posted": 1774305129,
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Varda-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kyndryl",
-        "id": "8086015e-d4d4-4af3-a7bd-a77038a6d7e5",
-        "title": "CIO Data & AI Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774305860,
-        "date_posted": 1774305860,
-        "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Rye-Brook-NY-USA/CIO-Data---AI-Analyst-Intern_R-58884-2",
-        "locations": [
-            "Greenwich, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Kyndryl",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -540,30 +246,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "8f6432fb-5778-4247-a6be-0b1a18529765",
-        "title": "Process Mining Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1774305763,
-        "date_posted": 1774305763,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Process-Mining-Intern_R-00178853",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -954,29 +636,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "694e0422-fbc0-4017-869d-16a41c1bcfd4",
-        "title": "National Security Solutions Cyber Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774306173,
-        "date_posted": 1774306173,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Cyber-Engineer-Intern_R2116574",
-        "locations": [
-            "Beavercreek, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -218377,7 +218036,7 @@
         "company_name": "AQR Capital Management",
         "id": "7b12d8f8-2ad7-4945-a1e6-7e63d7a113c1",
         "title": "Research Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -246930,7 +246589,7 @@
         "company_name": "Klaviyo",
         "id": "90073809-4e42-4a91-9c65-c5750c320aba",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -281276,7 +280935,7 @@
         "company_name": "Semtech",
         "id": "a430a157-3d7f-4982-bb7b-bda19012c3a7",
         "title": "Applications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -325076,7 +324735,7 @@
         "company_name": "American Century Investments",
         "id": "a09251e8-6de5-41cd-9e32-868a15bc1c1a",
         "title": "Systematic Credit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325699,7 +325358,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "7804474e-b183-49d7-a358-ac0f785a930a",
         "title": "Data Analyst Intern - Power Control Center",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -353984,7 +353643,7 @@
         "company_name": "Citi",
         "id": "8668b886-e169-4a45-ae60-da68a6f0eabd",
         "title": "Technology Analyst Intern - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367117,7 +366776,7 @@
         "company_name": "USAFacts",
         "id": "502cc8d5-9ab0-45f7-8d62-eb6c9c030d91",
         "title": "AI & Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368033,7 +367692,7 @@
         "company_name": "Riverlane",
         "id": "76a80127-61cd-4505-a0ab-83a7a4f164b2",
         "title": "PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374253,7 +373912,7 @@
         "company_name": "Definity Financial",
         "id": "a6e8511b-3bf1-4f82-ba9d-e7cfe181bc0b",
         "title": "Direct Channel Operations Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -402056,7 +401715,7 @@
         "company_name": "CARIAD",
         "id": "8839dc6e-9ef8-427b-84fc-c141bc4ecf56",
         "title": "Engineer 1 Intern - VLA Planning and Control Deployment",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
