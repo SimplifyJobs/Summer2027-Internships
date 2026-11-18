@@ -219237,7 +219237,7 @@
         "company_name": "AQR Capital Management",
         "id": "33d87281-2914-4356-ad13-441114284934",
         "title": "Engineering Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -222686,7 +222686,7 @@
         "company_name": "Schonfeld",
         "id": "20aa7ab0-ffba-4efb-abf1-15d3064172be",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265268,7 +265268,7 @@
         "company_name": "Lennox International",
         "id": "2f899503-8bb3-4e7a-a9df-cf5adee0fe01",
         "title": "IoT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -277606,7 +277606,7 @@
         "company_name": "Electronic Arts",
         "id": "4da6c9fc-cf6a-40fe-93d4-92e3a9666cf7",
         "title": "AI Engineer Intern - Creative Innovations - Character Pipelines",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -283911,7 +283911,7 @@
         "company_name": "GM financial",
         "id": "1ac553bb-ffc0-4a7f-8b30-56dc1a3d8f8a",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323586,7 +323586,7 @@
         "company_name": "Waymo",
         "id": "2c73ca1b-9721-4b27-8136-c1168f53106c",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340481,7 +340481,7 @@
         "company_name": "Texas Instruments",
         "id": "2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a",
         "title": "Software Engineer Intern - Compiler",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354891,7 +354891,7 @@
         "company_name": "Citi",
         "id": "530841a3-53ed-4300-885c-e69f45dc6380",
         "title": "Technology Analyst Intern - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365841,7 +365841,7 @@
         "company_name": "Leidos",
         "id": "1fb3e29d-8788-4298-8d2f-3e8388ac3ff0",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375816,7 +375816,7 @@
         "company_name": "Kinaxis",
         "id": "21479fdc-ebba-40c6-9d9e-8c263e7e7296",
         "title": "Developer Co-op Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381686,7 +381686,7 @@
         "company_name": "Global Relay",
         "id": "3245acd0-2f34-463e-85a8-24ae76e5f965",
         "title": "Java Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
