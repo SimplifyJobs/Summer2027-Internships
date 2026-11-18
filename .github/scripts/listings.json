@@ -1,51 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AirCapture",
-        "id": "e816626b-6017-4dd5-8087-ddec19f44acd",
-        "title": "Test Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774246396,
-        "date_posted": 1774246396,
-        "url": "https://job-boards.greenhouse.io/aircapture/jobs/4665737006",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AirCapture",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Virginia",
-        "id": "eb8f3c86-1e89-4140-8b0f-06ec150fff3c",
-        "title": "Statlab Graduate Associate - Multiple Teams",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774245713,
-        "date_posted": 1774245713,
-        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/StatLab-Graduate-Associate--Student-Wage-_R0081481",
-        "locations": [
-            "Charlottesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1774532327,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -284244,7 +284198,7 @@
         "company_name": "Johnson & Johnson",
         "id": "46c77ff4-d626-47a9-bdb5-d46938c07a50",
         "title": "Software Engineer Co-op - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366697,7 +366651,7 @@
         "company_name": "SharkNinja",
         "id": "63520628-3bea-473d-856d-e7aeeca07d8e",
         "title": "Product Strategy & Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
