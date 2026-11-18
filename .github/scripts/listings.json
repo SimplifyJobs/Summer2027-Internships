@@ -1,176 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intropic",
-        "id": "5336742d-f13f-4d2d-bed9-2fbc9a7b9fe2",
-        "title": "Quantrepreneur - Quantitative Development",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774275736,
-        "date_posted": 1774275736,
-        "url": "https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Intropic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intropic",
-        "id": "2a020896-015e-4ca9-8e89-f9ce18d0152c",
-        "title": "Quantrepreneur - Engineering",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774275610,
-        "date_posted": 1774275610,
-        "url": "https://jobs.lever.co/intropic/1427876a-fb80-4ee1-96da-79cac32a7803/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Intropic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Otter Products",
-        "id": "fa4b7aa2-125f-41ee-9ccb-01259fcc8585",
-        "title": "Test Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774275073,
-        "date_posted": 1774275073,
-        "url": "https://careers-otterproducts.icims.com/jobs/6855/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Otter-Products",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rivian",
-        "id": "c03f42d9-8f69-4668-8412-9195f68a1bfd",
-        "title": "Intern - Mechanical Modeling",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774275023,
-        "date_posted": 1774275023,
-        "url": "https://careers.rivian.com/jobs/29843?lang=en-us&icims=1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rivian",
-        "id": "8ecf3cb5-c6c3-4e9e-8447-3e157738d4bd",
-        "title": "Intern - Embedded Software",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774275017,
-        "date_posted": 1774275017,
-        "url": "https://careers.rivian.com/jobs/29841?lang=en-us&icims=1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rivian",
-        "id": "4c548efc-10e0-4409-8516-55e7406aec92",
-        "title": "Research Park Intern - Machine Learning Compiler",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774275129,
-        "date_posted": 1774275129,
-        "url": "https://careers.rivian.com/jobs/29851?lang=en-us&icims=1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MSX International",
-        "id": "714e1baa-85de-44d3-ab08-cdb2902b4476",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774275303,
-        "date_posted": 1774275303,
-        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012262046",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/MSX-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
@@ -194,50 +24,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "079556dd-72d9-4e93-ac83-24d1b32c6b2e",
-        "title": "Engineering Apprentice - Calibration & Test",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774274989,
-        "date_posted": 1774274989,
-        "url": "https://jobs.keysight.com/jobs/51379?lang=en-us&icims=1",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MSX International",
-        "id": "62cb8d34-d2cb-4d28-87a5-cfe2f3fd7dba",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774275311,
-        "date_posted": 1774275311,
-        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012261931",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/MSX-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Dmg Media",
         "id": "7fcc9910-e01f-4556-81a7-460fcc0c85ed",
@@ -256,30 +42,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Iovance Biotherapeutics",
-        "id": "debf3738-4beb-4f9e-a528-5f9c465d857b",
-        "title": "Portfolio Strategy & Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774275666,
-        "date_posted": 1774275666,
-        "url": "https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5159195008",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Iovance-Biotherapeutics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -184838,7 +184600,7 @@
         "company_name": "Analog Devices",
         "id": "4a0d4bf5-9311-4e02-bc23-e93e7601bcd1",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335790,7 +335552,7 @@
         "company_name": "Ryan",
         "id": "5bfc436a-9656-4284-9854-0a7cfa20e018",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386854,7 +386616,7 @@
         "company_name": "East Penn Manufacturing",
         "id": "620db921-a48d-4d17-a568-e83e604c7290",
         "title": "Research & Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413337,7 +413099,7 @@
         "company_name": "Sallie Mae",
         "id": "cd04939e-41ff-4433-9c3d-b29cd8035646",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413704,6 +413466,29 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GIRO",
+        "id": "cd9fa12e-1ae0-4151-ae6b-3a709f7ae230",
+        "title": "Software Development and Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795011517,
+        "date_posted": 1789344000,
+        "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GIRO-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
