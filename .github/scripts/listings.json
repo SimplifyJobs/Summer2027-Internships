@@ -120670,7 +120670,7 @@
         "company_name": "Marshall Wace",
         "id": "ae7fd66d-2ccb-4c86-894b-f1f097cff21c",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -183589,7 +183589,7 @@
         "company_name": "Booz Allen",
         "id": "8a398659-4aa5-4cf4-a9d1-222302c48e50",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -195071,7 +195071,7 @@
         "company_name": "Textron",
         "id": "974d081a-6d17-4aab-a42a-e9b35cafde7d",
         "title": "Software Engineer Intern - Electronic Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -235740,7 +235740,7 @@
         "company_name": "Garmin",
         "id": "1497b24b-487f-4977-a5ba-8c56c2ffb099",
         "title": "Software Engineer Intern - Real Time Aviation Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -261964,7 +261964,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "b6fc3934-181a-4132-bdaa-096257d221fe",
         "title": "Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -276380,7 +276380,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -281453,7 +281453,7 @@
         "company_name": "GM financial",
         "id": "c101ff9c-9897-4854-bc18-a135671acfc2",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -321608,7 +321608,7 @@
         "company_name": "Harbinger Motors",
         "id": "99659b1b-083d-4434-963c-184b68a27b48",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -346465,7 +346465,7 @@
         "company_name": "Crusoe",
         "id": "fd1af9f8-2356-4f0f-b005-ab9f523e4e24",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -349104,7 +349104,7 @@
         "company_name": "CVS Health",
         "id": "9147dac1-26c6-4658-9945-d0022e829e9a",
         "title": "Medicaid Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353367,7 +353367,7 @@
         "company_name": "PrizePicks",
         "id": "c51327c4-9c59-4844-892a-e98c6bae088e",
         "title": "Fraud Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -405474,7 +405474,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "c7ea0325-d8d2-42f5-b7ac-3e4998fe42a5",
         "title": "Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413393,6 +413393,423 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Starwood-Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "c069db03-8351-4057-bd8c-ad4c630ac0e6",
+        "title": "Robotics Intern - Agentic Robotics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794959641,
+        "date_posted": 1794959551,
+        "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warp Sciences",
+        "id": "14cf296e-5ae4-4ed9-af34-b633a9f68b7d",
+        "title": "Robot Learning Intern - Robotics Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794959695,
+        "date_posted": 1794873600,
+        "url": "https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Warp-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Matic",
+        "id": "44f6bc12-d112-439f-9405-f1b7da6201d2",
+        "title": "Electrical Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794959641,
+        "date_posted": 1792454400,
+        "url": "https://jobs.ashbyhq.com/MaticRobots/2f93fe19-0d71-4972-98da-8baf9d4ab05e/application?embed=true",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MaticRobots",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Havas",
+        "id": "cd5de118-e876-4d4d-a89d-8260ff33254d",
+        "title": "Junior Google Analytics Platformer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794959506,
+        "date_posted": 1794873600,
+        "url": "https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Google--Analytics--Enablement-Platformer_JR0101727",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Havas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paccar",
+        "id": "af3eb102-71c0-4ec6-b56e-d1109f2abe2b",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794959504,
+        "date_posted": 1794959432,
+        "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors",
+        "locations": [
+            "Denton, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SRI International",
+        "id": "ff23e228-0c00-44d9-a66e-604e243b1bad",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794959307,
+        "date_posted": 1794873600,
+        "url": "https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "e8ae340a-8115-4b05-8029-d7e5e387a8d0",
+        "title": "PhD Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794959281,
+        "date_posted": 1794931500,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/182898?icims=1&lang=en-us",
+        "locations": [
+            "Boston, MA",
+            "Chicago, IL",
+            "Westminster, CO",
+            "Irving, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GEI Consultants",
+        "id": "90213d71-b1f5-4017-a387-21a5200ec72d",
+        "title": "Web Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794959281,
+        "date_posted": 1794959161,
+        "url": "https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GEI-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SRI International",
+        "id": "441a79ab-2aca-4ab8-899e-8cc4f757947d",
+        "title": "Electrical Engineering Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794959305,
+        "date_posted": 1794873600,
+        "url": "https://careers-sri.icims.com/jobs/6543/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Constellation Energy",
+        "id": "11f69ae2-522e-4819-8898-d55df90e6226",
+        "title": "IT Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794959328,
+        "date_posted": 1794950340,
+        "url": "https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "14e649ce-d6d4-4fd9-85c1-9bbcc2bf27d2",
+        "title": "PhD Data Visualization Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794959281,
+        "date_posted": 1794931320,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/182963?icims=1&lang=en-us",
+        "locations": [
+            "Boston, MA",
+            "Chicago, IL",
+            "Westminster, CO",
+            "Irving, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bissell",
+        "id": "338d9e1a-1a20-438f-a987-cab632ee2298",
+        "title": "AI & Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794959167,
+        "date_posted": 1794930660,
+        "url": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bissell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "b0a65ac1-33c7-4ae4-a6e5-f8891c8b8bb2",
+        "title": "Research Intern - Frontier Tuning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794959136,
+        "date_posted": 1794958960,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
+        "locations": [
+            "Boston, MA",
+            "SF",
+            "Redmond, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Deeplocal",
+        "id": "77908349-6d07-4a91-b136-136a9a8ec5ba",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794959161,
+        "date_posted": 1794931701,
+        "url": "https://job-boards.greenhouse.io/deeplocal/jobs/8395842",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deeplocal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blount Fine Foods",
+        "id": "78737283-4ec8-46a0-b0bd-933a3828da28",
+        "title": "Manufacturing Operations Analytics Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794958921,
+        "date_posted": 1794958888,
+        "url": "https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false",
+        "locations": [
+            "Fall River, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blount-Fine-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "50475e1d-7406-45d1-aea1-4f1ed5575cea",
+        "title": "AI/Machine Learning Intern - Interim Engineering Intern - SW",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794958966,
+        "date_posted": 1794958801,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722176432",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uber",
+        "id": "1ea41be2-0794-4b3a-b1c7-e75c97703e2a",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794958764,
+        "date_posted": 1794958600,
+        "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CMI Media Group",
+        "id": "86db6edc-0358-4030-942e-af6c6d3de158",
+        "title": "Business Insights Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1794958236,
+        "date_posted": 1794958094,
+        "url": "https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CMI-Media-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
