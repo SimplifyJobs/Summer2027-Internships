@@ -1,168 +1,5 @@
 [
     {
-        "date_updated": 1777381408,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/coverdash/52181e3d-c2d4-4982-b7e5-3a51403ec7c3",
-        "company_name": "Coverdash",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "b5d5d753-fb15-4c91-9a3a-89e9b18b204d",
-        "date_posted": 1774261965,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774262037,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/impiricus/jobs/5160169008",
-        "company_name": "Impiricus",
-        "title": "Intern - Software Engineer (Backend)",
-        "locations": [
-            "Atlanta, GA",
-            "New York, NY",
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "facdfc4d-a213-40ea-9950-122c283d8c44",
-        "date_posted": 1774262037,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776440234,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5158034008",
-        "company_name": "RF-SMART",
-        "title": "Software Developer Intern",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "40240365-d768-4a62-82c4-6f0e0e24c886",
-        "date_posted": 1774262139,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775481655,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/4bb2befc-ab56-48bb-b2f2-969c40c78ca9",
-        "company_name": "City of Philadelphia",
-        "title": "Data Analyst Intern",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "20a68bda-00cf-48bf-a861-5abbdd8c14ae",
-        "date_posted": 1774262277,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774960588,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/cognitiv/jobs/4192536009",
-        "company_name": "Cognitiv",
-        "title": "Machine Learning Engineer Intern",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "20176164-15c1-4bc5-b71a-4e82b3ab5c2f",
-        "date_posted": 1774262356,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774873042,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/drivewealth/jobs/7673424003?gh_jid=7673424003",
-        "company_name": "DriveWealth",
-        "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "3c911f9a-2be9-4adc-be3f-8bd436385151",
-        "date_posted": 1774262477,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774263255,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
-        "company_name": "Geneva Trading",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "58821bd1-bd22-45bf-82f0-c375329b1523",
-        "date_posted": 1774263048,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Intropic",
@@ -152284,7 +152121,7 @@
         "company_name": "The Nuclear Company",
         "id": "cca92450-5ead-4d71-8d7f-084c27b9d1f9",
         "title": "AI/ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -286863,7 +286700,7 @@
         "company_name": "Intel",
         "id": "2d77d594-bd99-46dd-bb12-5e46c01f41e8",
         "title": "System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311088,7 +310925,7 @@
         "company_name": "Electronic Arts",
         "id": "e0b3cbee-7fd0-464e-a195-d3e925f3e990",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321024,7 +320861,7 @@
         "company_name": "Workday",
         "id": "94a30c63-9e16-4706-b9bb-9713c9b0afd0",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -328412,7 +328249,7 @@
         "company_name": "Faculte",
         "id": "e22ccf19-d6e8-4c19-8ad3-e0cd9dc5c79c",
         "title": "Data Science Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -359519,7 +359356,7 @@
         "company_name": "SOTI",
         "id": "8ac418d6-3fee-416d-8394-e104b7e5e798",
         "title": "Software Developer Intern - Server",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405639,7 +405476,7 @@
         "company_name": "Environmental Defense Fund",
         "id": "4b853c05-5bdf-470c-a923-8b825bb0ac8a",
         "title": "Consumer Energy Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -413805,5 +413642,26 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "d4a4c695-f09c-471f-9a81-d1ce0c2d7d75",
+        "title": "Project Engineering Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794998020,
+        "date_posted": 1790086174,
+        "url": "https://jobs.l3harris.com/job/Waterdown-Project-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432399900/?ats=successfactors",
+        "locations": [
+            "Waterdown, Hamilton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
