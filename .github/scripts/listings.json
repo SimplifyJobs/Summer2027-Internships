@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Copart",
-        "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
-        "title": "Technology Product Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774277685,
-        "date_posted": 1774277685,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dmg Media",
-        "id": "7fcc9910-e01f-4556-81a7-460fcc0c85ed",
-        "title": "AI Engineer Intern - Innovation Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774276369,
-        "date_posted": 1774276369,
-        "url": "https://www.dmgmedia.co.uk/careers/jobs/id/7739047?gh_jid=7739047",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Dmg-Media",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Extreme Networks",
         "id": "1d89e24b-43e1-4f1d-8ea0-cdf20414bfbb",
@@ -81163,7 +81119,7 @@
         "company_name": "Oracle",
         "id": "7f652134-0291-4759-8e6a-e499a01587af",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320695,7 +320651,7 @@
         "company_name": "Workday",
         "id": "9187fc2c-03e7-4644-8d01-d1d0a44fc73d",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -395062,7 +395018,7 @@
         "company_name": "Ryan",
         "id": "705e5826-affc-452d-a27d-d5d1b43a091e",
         "title": "Application Development Intern - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413494,5 +413450,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intropic",
+        "id": "5336742d-f13f-4d2d-bed9-2fbc9a7b9fe2",
+        "title": "Quantrepreneur Intern - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792745406,
+        "date_posted": 1790932021,
+        "url": "https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
