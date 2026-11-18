@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1774261894,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-calamp.icims.com/jobs/4326/intern%2c-engineer-software---carlsbad%2c-ca-%28summer-2026%29/job",
-        "company_name": "CalAmp",
-        "title": "ntern, Engineer Software",
-        "locations": [
-            "Carlsbad, Ca"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1554a295-c149-425e-addc-4d97676807a8",
-        "date_posted": 1774261894,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1777381408,
         "sponsorship": "Other",
         "active": false,
@@ -184,27 +161,6 @@
         "date_posted": 1774263048,
         "company_url": "",
         "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Tencent",
-        "id": "fda6a6f4-bcf9-4cd1-9ee5-7a6f3d3b32b6",
-        "title": "Investment Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774260933,
-        "date_posted": 1774260933,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Investment-Analyst-Intern_R107139",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -152328,7 +152284,7 @@
         "company_name": "The Nuclear Company",
         "id": "cca92450-5ead-4d71-8d7f-084c27b9d1f9",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333497,7 +333453,7 @@
         "company_name": "Axiom Space",
         "id": "55d8577a-649c-47a8-a60f-2fc353841220",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345772,7 +345728,7 @@
         "company_name": "Zillow",
         "id": "6244dbb0-e314-486b-b2c6-143c829bd211",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405683,7 +405639,7 @@
         "company_name": "Environmental Defense Fund",
         "id": "4b853c05-5bdf-470c-a923-8b825bb0ac8a",
         "title": "Consumer Energy Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
