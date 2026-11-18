@@ -1,120 +1,5 @@
 [
     {
-        "date_updated": 1777968910,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Manhattan-Beach-CA/Cloud-Analyst-Intern--Summer-2026-_JR126223",
-        "company_name": "Skechers",
-        "title": "Cloud Analyst Intern",
-        "locations": [
-            "Manhattan Beach, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "99ac722a-91b3-4c9e-98f3-6ba482a69f70",
-        "date_posted": 1774258509,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1777633706,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://bsa.applytojob.com/apply/dvXDzc11tD/Customer-Solutions-Intern-ERP-Software",
-        "company_name": "BS&A Software",
-        "title": "Customer Solutions Intern (ERP Software)",
-        "locations": [
-            "Lansing, MI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e5e7f956-3419-466d-837f-e7522257a9f6",
-        "date_posted": 1774258566,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774532327,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2026-Intern---Applied-AI-Strategy---Research_JR334473",
-        "company_name": "Salesforce",
-        "title": "Intern - Applied AI Strategy & Research",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "2e307846-15fa-4251-aa91-ae7d3946aef9",
-        "date_posted": 1774259114,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776440234,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/sanmar/jobs/5084516007?gh_jid=5084516007",
-        "company_name": "SanMar",
-        "title": "IT Intern, AI",
-        "locations": [
-            "Issaquah, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "49017fce-72d6-4e4e-9369-37ce955ef19f",
-        "date_posted": 1774259213,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776158977,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-biorad.icims.com/jobs/38121/data-engineer-intern/job",
-        "company_name": "Bio-Rad Laboratories",
-        "title": "Data Engineer Intern",
-        "locations": [
-            "Hercules, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "d6de9c50-68d9-49f7-8ee9-6a2e8c404cb0",
-        "date_posted": 1774260102,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1774261894,
         "sponsorship": "Other",
         "active": true,
@@ -275797,7 +275682,7 @@
         "company_name": "Rivian",
         "id": "40393754-cddc-4a20-94cc-f5d3c6f488bf",
         "title": "Software Engineer Co-op Intern - Enterprise Applications",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -327346,7 +327231,7 @@
         "company_name": "Boston Consulting Group",
         "id": "71573abd-2d22-4f73-b614-94625aa6bdfe",
         "title": "Forward Deployed AI Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333132,7 +333017,7 @@
         "company_name": "ROCKWOOL Group",
         "id": "1574e15c-77ef-47fe-b378-57f7771e9990",
         "title": "Associate Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -352638,7 +352523,7 @@
         "company_name": "GlobalFoundries",
         "id": "3e211619-4420-445b-a075-16b34c4fc36e",
         "title": "Technology Architecture Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
