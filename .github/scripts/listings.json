@@ -313961,7 +313961,7 @@
         "company_name": "John Deere",
         "id": "fa734bf9-e27f-4e85-97fb-6e126f1ec998",
         "title": "Part-Time Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2028"
         ],
@@ -387221,7 +387221,7 @@
         "company_name": "East Penn Manufacturing",
         "id": "0155c8dd-b6a4-434e-92db-21345d539bb8",
         "title": "Research & Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411258,7 +411258,7 @@
         "company_name": "Birdseye Security Solutions",
         "id": "05799004-d77a-4b48-b797-2b29a38c7087",
         "title": "AI Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
