@@ -254486,7 +254486,7 @@
         "company_name": "Waymo",
         "id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
         "title": "Software Engineering Intern - Commercialization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301689,7 +301689,7 @@
         "company_name": "Astranis",
         "id": "b0025ed6-8829-47bb-bcd8-5b8c57167f43",
         "title": "RF Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -368379,7 +368379,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382093,7 +382093,7 @@
         "company_name": "Seaspan",
         "id": "d5833357-34bc-4fcd-83c8-6158cb05a53b",
         "title": "Logistics Support Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
