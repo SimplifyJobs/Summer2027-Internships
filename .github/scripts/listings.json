@@ -276398,7 +276398,7 @@
         "company_name": "GuideStone",
         "id": "25230324-75c3-45fd-95c9-96e3284c06d4",
         "title": "Software Developer Intern - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387322,7 +387322,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "3637c96b-e3a1-4ad6-9c56-e835096933dc",
         "title": "Hardware/Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413681,6 +413681,29 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "2c35406a-a454-4de2-a3de-763af7d27d5d",
+        "title": "Lidar Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795009732,
+        "date_posted": 1794441600,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
