@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1774532327,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Chandler-Arizona-United-States-Of-America/Cloud-Operations-Intern_JR-022103",
-        "company_name": "Avnet",
-        "title": "Cloud Operations Intern",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "098e4f77-4d82-4bfd-8b51-0184cb3999a3",
-        "date_posted": 1774256365,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1776158977,
         "sponsorship": "Other",
         "active": false,
@@ -384847,7 +384824,7 @@
         "company_name": "ASML",
         "id": "b90babbc-5fa6-4414-b46f-911f2e400a97",
         "title": "Machine Learning and Image-Based Metrics for EUV System Setup Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
