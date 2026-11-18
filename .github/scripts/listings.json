@@ -168799,7 +168799,7 @@
         "company_name": "Zipline",
         "id": "c6c14151-e693-4703-a811-df609af2491a",
         "title": "Hardware Test Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -230087,7 +230087,7 @@
         "company_name": "Revel",
         "id": "b7c13988-0346-4ec4-a700-b203261be2f2",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -254532,7 +254532,7 @@
         "company_name": "Waymo",
         "id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
         "title": "Software Engineering Intern - Commercialization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -370620,7 +370620,7 @@
         "company_name": "Sonos",
         "id": "b748b636-64b5-4ca3-b76a-cc941b9c3ab4",
         "title": "Software Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398534,7 +398534,7 @@
         "company_name": "GSA Capital",
         "id": "a0512115-877f-4d69-8afa-beff709bf82d",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413883,6 +413883,149 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Invitation Homes",
+        "id": "ef2faf73-e6f3-42de-9c9d-4b35b6fdb91f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1794969738,
+        "date_posted": 1794873600,
+        "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern-Software-Engineering_R5984",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Invitation-Homes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "9a47f7a1-f214-444d-99aa-90af3e2efe5c",
+        "title": "Research Intern - Firmware Security",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794969388,
+        "date_posted": 1794969194,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ecliptic Enterprises",
+        "id": "9ebeb8b0-e1e7-483c-8646-705fcf78e1f5",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794969235,
+        "date_posted": 1794969130,
+        "url": "https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ecliptic-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smarty",
+        "id": "fa2cd117-f8f4-4f40-bb10-fb0561ef0154",
+        "title": "Data Acquisition & Quality Specialist Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1794969038,
+        "date_posted": 1794968996,
+        "url": "https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6",
+        "locations": [
+            "Orem, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Smarty",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Firefly Aerospace",
+        "id": "189abd7e-504a-48da-a428-77b194d234c0",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1794969027,
+        "date_posted": 1792454400,
+        "url": "https://fireflyspace.wd115.myworkdayjobs.com/firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188",
+        "locations": [
+            "Leander, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Firefly-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Smarty",
+        "id": "0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1794969036,
+        "date_posted": 1794968996,
+        "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
+        "locations": [
+            "Orem, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Smarty",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
