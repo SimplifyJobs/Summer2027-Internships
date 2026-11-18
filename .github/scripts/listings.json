@@ -376885,7 +376885,7 @@
         "company_name": "Publicis Groupe",
         "id": "ee80920c-af56-413b-98f3-5ccb04862cd3",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402712,7 +402712,7 @@
         "company_name": "Airbnb",
         "id": "f176d1e9-17ce-4475-93c3-e20392a140d5",
         "title": "Advanced Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
