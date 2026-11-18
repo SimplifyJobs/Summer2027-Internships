@@ -276312,7 +276312,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -366740,7 +366740,7 @@
         "company_name": "Micron Technology",
         "id": "a585644d-0025-4f14-bcc6-e841979c4f42",
         "title": "Memory Performance and Power Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384823,7 +384823,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -414028,6 +414028,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airbnb",
+        "id": "27c63eb2-f606-4f11-bf9a-3392a2d765f1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794987056,
+        "date_posted": 1794978014,
+        "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbnb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
