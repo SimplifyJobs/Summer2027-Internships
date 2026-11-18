@@ -193599,7 +193599,7 @@
         "company_name": "Emerson Electric",
         "id": "5d96a0ef-da32-47b9-9204-73dd02b7dd39",
         "title": "Firmware Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -220333,7 +220333,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -277668,7 +277668,7 @@
         "company_name": "Danaher",
         "id": "7a1c6145-534b-4180-a87b-447e2edd9c8f",
         "title": "IT Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368603,7 +368603,7 @@
         "company_name": "Boston Scientific",
         "id": "c97976da-bd27-48d0-88a3-6bfed6a0287c",
         "title": "R&D Software Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372245,7 +372245,7 @@
         "company_name": "Great American Insurance Company",
         "id": "947ecf5c-75d7-40ab-9352-13a2b8e00ce5",
         "title": "Content Publishing Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402184,7 +402184,7 @@
         "company_name": "Gordon Food Service",
         "id": "a9d08686-9b60-46b4-b4c6-c955c83223e5",
         "title": "Digital Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413976,6 +413976,54 @@
             "Orem, UT"
         ],
         "company_url": "https://simplify.jobs/c/Smarty",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canadian Strategic Missions",
+        "id": "0398ec3d-cdf1-4c12-9aab-b7ff257065b7",
+        "title": "Engineering Intern - Labs",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794986105,
+        "date_posted": 1794986036,
+        "url": "https://csmc.bamboohr.com/careers/51/",
+        "locations": [
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Canadian-Strategic-Missions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SSI",
+        "id": "660c847a-60fb-4269-bd43-e9e2f7ef9f36",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1794985564,
+        "date_posted": 1794985469,
+        "url": "https://ssicorporate.bamboohr.com/careers/101/",
+        "locations": [
+            "Victoria, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SSI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
