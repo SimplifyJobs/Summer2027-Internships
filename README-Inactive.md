@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 4186 Inactive Internship Roles by Category
+### Browse 4189 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1456)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1459)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (277)
 
@@ -355,6 +355,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Android Engineer Intern</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Full-Stack Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -363,6 +370,13 @@
 <tr>
 <td>↳</td>
 <td>Frontend Engineer Intern</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>iOS Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>11d</td>
@@ -2331,6 +2345,13 @@
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
 <td>Android Applications Developer Intern</td>
 <td>Chicago, IL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Midland-States-Bank?utm_source=GHList&utm_medium=company">Midland States Bank</a></strong></td>
+<td>AI Solutions Engineer Intern</td>
+<td>Rockford, IL<br>St. Louis, MO<br>Effingham, IL</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -12580,7 +12601,7 @@
 <td>Applied AI Intern</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -18204,7 +18225,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Ernst-And-Young?utm_source=GHList&utm_medium=company">Ernst & Young</a></strong></td>
 <td>Data and Intelligence Delivery Intern - Assurance</td>
 <td><details><summary><strong>12 locations</strong></summary>Salt Lake City, UT<br>Indianapolis, IN<br>Houston, TX<br>Des Moines, IA<br>Detroit, MI<br>Tampa, FL<br>Dallas, TX<br>Greenville, SC<br>St. Louis, MO<br>Alpharetta, GA<br>Phoenix, AZ<br>Grandview Heights, OH</details></td>
 <td>🔒</td>
