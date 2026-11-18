@@ -193855,7 +193855,7 @@
         "company_name": "Emerson Electric",
         "id": "275f2fb7-98f5-49cb-a0fb-fbdc6925a2c6",
         "title": "Embedded Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -341391,7 +341391,7 @@
         "company_name": "Graphcore",
         "id": "269f1429-7b09-4c8c-958f-36696b091490",
         "title": "Software Engineer Intern - AI Compute Libraries & Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341901,7 +341901,7 @@
         "company_name": "Meta",
         "id": "35a618f9-3e92-414f-9b23-8d8d2130672d",
         "title": "Research Scientist Intern - Multimodal Behavioral AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
