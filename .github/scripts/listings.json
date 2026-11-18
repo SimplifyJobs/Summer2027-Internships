@@ -270191,7 +270191,7 @@
         "company_name": "Epic Games",
         "id": "e4639935-0247-4578-b4a3-814cab5c5c8e",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290664,7 +290664,7 @@
         "company_name": "Alexion",
         "id": "40714b55-23e6-4ad4-af4f-3fb84666d2be",
         "title": "Development Operations AI & Automation Enablement Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298115,7 +298115,7 @@
         "company_name": "Symphony",
         "id": "e01e0224-e425-4bc7-b957-ae573fcd0993",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329288,7 +329288,7 @@
         "company_name": "Kensington",
         "id": "e0a6f7fd-1e2d-4420-80b3-10efc9577f23",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390722,7 +390722,7 @@
         "company_name": "The New York Times",
         "id": "e83280af-86b2-46ea-8179-6344933c3f14",
         "title": "Interactive News Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
