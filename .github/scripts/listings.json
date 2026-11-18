@@ -200152,7 +200152,7 @@
         "company_name": "Valon",
         "id": "ca0eac8e-e88d-40b0-a5a1-1f9cdff78ba1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -226102,7 +226102,7 @@
         "company_name": "ICF International",
         "id": "75efacf7-58e1-468e-9621-e23a1444acdf",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270598,7 +270598,7 @@
         "company_name": "Together AI",
         "id": "71d40ca7-1546-417c-8bf5-c360ac814bb0",
         "title": "Systems Research Engineer Intern - GPU Programming",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363091,7 +363091,7 @@
         "company_name": "Nike",
         "id": "e659fec5-e932-49f7-941c-34d29c17ac98",
         "title": "Product Line Management Intern - Apparel - Accessories",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371544,7 +371544,7 @@
         "company_name": "KLA",
         "id": "5e8c21c1-f470-4d63-854c-06b64c723453",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386755,7 +386755,7 @@
         "company_name": "Publicis Groupe",
         "id": "b614fa2e-7a03-4758-90ba-ac5fb5eb7049",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
