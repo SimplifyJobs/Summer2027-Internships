@@ -123349,7 +123349,7 @@
         "company_name": "Figure",
         "id": "4c29c5cb-a89e-426b-92f8-09ff54edf5f7",
         "title": "Hardware Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -270738,7 +270738,7 @@
         "company_name": "Waymo",
         "id": "d473bd44-d390-41bc-b173-144940110b9e",
         "title": "Product Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327179,7 +327179,7 @@
         "company_name": "Bose",
         "id": "4db14536-35df-4c54-a441-ac5bd7b8253f",
         "title": "Embedded Audio Machine Learning Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -385316,7 +385316,7 @@
         "company_name": "Microchip Technology",
         "id": "ddb283e1-9746-4079-9650-03b28434dd98",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398534,7 +398534,7 @@
         "company_name": "GSA Capital",
         "id": "a0512115-877f-4d69-8afa-beff709bf82d",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412161,7 +412161,7 @@
         "company_name": "SecurityMetrics",
         "id": "c5774094-54c2-4d78-bb91-86ec4d8cb4a7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
