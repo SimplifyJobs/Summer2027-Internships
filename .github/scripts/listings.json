@@ -192948,7 +192948,7 @@
         "company_name": "Emerson Electric",
         "id": "2ea6ef00-ed8b-496c-a8ad-437191623ee4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -204451,7 +204451,7 @@
         "company_name": "Shure",
         "id": "10891019-b6b2-42dd-acd2-980b3b6cd2dc",
         "title": "Audio Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -213318,7 +213318,7 @@
         "company_name": "Kinaxis",
         "id": "249847ab-d7a0-4993-a3ae-0dd0e2e831ed",
         "title": "Developer Intern Co-op - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -230045,7 +230045,7 @@
         "company_name": "Revel",
         "id": "240adc3d-e80f-42bc-9a7b-559c2acdc5f5",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -264167,7 +264167,7 @@
         "company_name": "Avis Budget Group",
         "id": "23eccfe8-4364-45b3-a8ef-cb8127b89e2c",
         "title": "IT Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -270236,7 +270236,7 @@
         "company_name": "Flex",
         "id": "1ce187ae-c250-4b22-8bee-28e3422d6cba",
         "title": "Manufacturing Data & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290853,7 +290853,7 @@
         "company_name": "Itron",
         "id": "1e39ef9b-ab50-405f-808e-28002f4fc72f",
         "title": "Data Science Intern - Distributed Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334848,7 +334848,7 @@
         "company_name": "Invesco",
         "id": "37d58ddd-afcb-49be-bd32-4911843a04c9",
         "title": "Quantitative Intern - Portfolio Engineering and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364968,7 +364968,7 @@
         "company_name": "PrizePicks",
         "id": "4380e085-d294-474c-8406-d6adf347b44e",
         "title": "Business Intelligence Intern - Game Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371480,7 +371480,7 @@
         "company_name": "Philips",
         "id": "12008b01-d68c-4c3d-89e5-fe8a4fc022f7",
         "title": "Data Engineer Co-op - Biocompatibility",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394017,7 +394017,7 @@
         "company_name": "Kensington",
         "id": "3646873a-8686-46f7-9475-cebfe98ac4ff",
         "title": "BI/Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397630,7 +397630,7 @@
         "company_name": "Veolia",
         "id": "9c3d434b-a6d9-43ad-a828-71d1d4170e6e",
         "title": "Manufacturing Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402015,7 +402015,7 @@
         "company_name": "RTX",
         "id": "2340e846-c70c-49d0-b110-70c6e65ba5fa",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410519,7 +410519,7 @@
         "company_name": "Zurich Insurance",
         "id": "1c985c59-7b90-44d9-a78b-a64792dd2fd5",
         "title": "Data Analytics & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413592,7 +413592,7 @@
         "company_name": "Sallie Mae",
         "id": "0d7de9f1-ab29-4d17-998f-41d56c74b639",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
