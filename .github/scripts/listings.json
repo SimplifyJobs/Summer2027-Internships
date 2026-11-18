@@ -123536,7 +123536,7 @@
         "company_name": "DRW",
         "id": "d1bb038f-04a0-4995-9bcc-ff779f3a2054",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299312,7 +299312,7 @@
         "company_name": "Hitachi Energy",
         "id": "afb85700-ea58-43bf-99ac-13cfaadcee3e",
         "title": "Hardware Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325540,7 +325540,7 @@
         "company_name": "Medpace",
         "id": "ae3e214d-ad36-44cf-9706-a3988951b4d2",
         "title": "Python Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390607,7 +390607,7 @@
         "company_name": "Medtronic",
         "id": "c01692fb-46b1-4cf9-b387-0face897eedc",
         "title": "Data Quality & Stewardship Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -413471,5 +413471,73 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace",
+        "id": "e7dcd505-2d1c-4e95-8afb-68a14ae0ad14",
+        "title": "Informatics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795015122,
+        "date_posted": 1795001940,
+        "url": "https://careers.medpace.com/jobs/13079?icims=1&lang=en-us",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trainline",
+        "id": "6748ee09-8ba9-42eb-a423-934641666a7c",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795014953,
+        "date_posted": 1794960000,
+        "url": "https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trainline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerence",
+        "id": "60ea7bb5-3160-449a-9e8c-df9e0b2b6839",
+        "title": "Student Worker Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795014951,
+        "date_posted": 1794873600,
+        "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0006047",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
