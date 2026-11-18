@@ -313116,7 +313116,7 @@
         "company_name": "GuideWell Mutual",
         "id": "b02141a2-8d29-4f0b-b7a7-280a77592468",
         "title": "IT Graduate Internship - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362139,7 +362139,7 @@
         "company_name": "Micron Technology",
         "id": "b83ac3e2-dbad-4c8f-ad68-1ed696c5a30a",
         "title": "Product Yield Enhancement Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
