@@ -220878,7 +220878,7 @@
         "company_name": "Simon Property Group",
         "id": "dc41208b-cfd9-4775-90bc-0df9e9ce96c2",
         "title": "Data Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275592,7 +275592,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390364,7 +390364,7 @@
         "company_name": "Molina Healthcare",
         "id": "df5eafa1-788e-43eb-a0cd-755cec712155",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411305,7 +411305,7 @@
         "company_name": "Birdseye Security Solutions",
         "id": "a73d65d0-ef99-4368-9bb7-6e1a8095fa49",
         "title": "Computer Vision Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413538,6 +413538,101 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DriveWealth",
+        "id": "3f1088e9-3742-4919-8f86-1fb30cc82265",
+        "title": "AI Consulting Associate Program People Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795016902,
+        "date_posted": 1794960000,
+        "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "d9d64ad1-bfcf-465d-90e1-bad73dcb61da",
+        "title": "Robotics Intern - Prototyping and Robotics Operations",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795016709,
+        "date_posted": 1795016564,
+        "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sallie Mae",
+        "id": "0d7de9f1-ab29-4d17-998f-41d56c74b639",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795016014,
+        "date_posted": 1794873600,
+        "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000625",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Sallie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "e40ead49-69ad-422a-8008-5929557e27a4",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795015842,
+        "date_posted": 1794787200,
+        "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323",
+        "locations": [
+            "Falls Church, VA",
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
         ]
     }
 ]
