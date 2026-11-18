@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Treefera",
-        "id": "fc2f87c9-f97c-48c8-8d6a-bd1af3a4d31a",
-        "title": "Treefera Intern Programme",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774228372,
-        "date_posted": 1774228372,
-        "url": "https://jobs.ashbyhq.com/treefera/800f0bc8-ca10-4d6e-8b89-f9bc8867e63f/application",
-        "locations": [
-            "London, UK",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Treefera",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "AirCapture",
         "id": "e816626b-6017-4dd5-8087-ddec19f44acd",
@@ -168909,7 +168887,7 @@
         "company_name": "Zipline",
         "id": "071765de-4952-4b97-af1c-89b300f431f8",
         "title": "Hardware Test Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -352630,7 +352608,7 @@
         "company_name": "GlobalFoundries",
         "id": "125c32fc-ca61-4131-9772-9d02c97c7729",
         "title": "Silicon Photonics Reliability Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363910,7 +363888,7 @@
         "company_name": "TMX Group",
         "id": "0d688839-0f84-46dd-8f9f-51546107a140",
         "title": "Analyst Model Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -393750,7 +393728,7 @@
         "company_name": "Salesforce",
         "id": "000d33ac-e9e5-467f-bca9-5f233205ca83",
         "title": "Product Management Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
