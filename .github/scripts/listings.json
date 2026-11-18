@@ -1,74 +1,5 @@
 [
     {
-        "date_updated": 1776158977,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-biorad.icims.com/jobs/38299/software-business-analyst-intern/job",
-        "company_name": "Bio-Rad Laboratories",
-        "title": "Software Business Analyst Intern",
-        "locations": [
-            "Hercules, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "a2d5eaed-1da6-4dfa-98b3-dd21dc4dd43f",
-        "date_posted": 1774256565,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774532327,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Software-Engineer_R0094752",
-        "company_name": "Erickson Senior Living",
-        "title": "Intern \u2013 Software Engineer",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "85ab0b15-1cd7-4a33-b440-ead39af8dc3a",
-        "date_posted": 1774256810,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775834862,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/sanmar/jobs/5084702007?gh_jid=5084702007",
-        "company_name": "SanMar",
-        "title": "IT Intern, Software Development",
-        "locations": [
-            "Issaquah, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9aac97bb-9076-4dd2-8d33-9577c0e6a158",
-        "date_posted": 1774257593,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1777968910,
         "sponsorship": "Other",
         "active": false,
@@ -21820,30 +21751,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "e0b68754-f6bf-4417-b34d-9809dde9c3e0",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774257202,
-        "date_posted": 1774257202,
-        "url": "https://lifeattiktok.com/search/7532582984265812231",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -275890,7 +275797,7 @@
         "company_name": "Rivian",
         "id": "40393754-cddc-4a20-94cc-f5d3c6f488bf",
         "title": "Software Engineer Co-op Intern - Enterprise Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -321090,7 +320997,7 @@
         "company_name": "Meter",
         "id": "04abf4d8-48c2-4b8e-8ba1-c572d1072c66",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -325837,7 +325744,7 @@
         "company_name": "Boston Consulting Group",
         "id": "191ec10e-48aa-42a6-a296-acd2f1d46586",
         "title": "Forward Deployed AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333225,7 +333132,7 @@
         "company_name": "ROCKWOOL Group",
         "id": "1574e15c-77ef-47fe-b378-57f7771e9990",
         "title": "Associate Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -364735,7 +364642,7 @@
         "company_name": "Ixian Robotics",
         "id": "0291dc48-d38e-41a2-8ec1-6679aa4b7d0f",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -414029,6 +413936,33 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "3c660071-514f-4ae0-933a-05082c35f633",
+        "title": "People Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794994028,
+        "date_posted": 1791814273,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246",
+        "locations": [
+            "SF",
+            "Chicago, IL",
+            "NYC",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
