@@ -337706,7 +337706,7 @@
         "company_name": "Rothesay",
         "id": "1a7232dc-f554-4d51-a14c-0119b05d8672",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413360,7 +413360,7 @@
         "company_name": "Sallie Mae",
         "id": "3775de5d-9a03-4c19-b11c-c719087bcf25",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
