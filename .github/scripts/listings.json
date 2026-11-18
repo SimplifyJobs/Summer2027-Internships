@@ -275874,7 +275874,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352219,7 +352219,7 @@
         "company_name": "Marvell",
         "id": "c684f1da-b1e6-48de-aa01-5a615dc5c26f",
         "title": "Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367941,7 +367941,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -384385,7 +384385,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413663,5 +413663,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fanatics",
+        "id": "382e68bd-7f9a-433c-a906-cf3b15984178",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795000369,
+        "date_posted": 1794998317,
+        "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
