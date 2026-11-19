@@ -139939,7 +139939,7 @@
         "company_name": "University of Nevada, Reno",
         "id": "989307cb-3526-457e-a8ee-77b6cdda5c4f",
         "title": "Web Development Intern - Marketing & Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -212448,7 +212448,7 @@
         "company_name": "Marvell",
         "id": "853f43c9-8095-4fb8-880b-20c796875015",
         "title": "Analog Engineer Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268630,7 +268630,7 @@
         "company_name": "Centene",
         "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -273822,7 +273822,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412700,5 +412700,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "e8bbf313-db80-4a1b-b1fd-6c7cb8eb3583",
+        "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795056141,
+        "date_posted": 1795055981,
+        "url": "https://www.metacareers.com/jobs/994911809842621",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "b0ce7f24-559f-4b1c-bed2-b832cc9c2944",
+        "title": "Robotics Intern - Generalist Robot Learning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795055406,
+        "date_posted": 1795055263,
+        "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
