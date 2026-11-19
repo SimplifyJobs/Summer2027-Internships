@@ -130263,7 +130263,7 @@
         "company_name": "Medpace",
         "id": "78b03927-c204-476c-947a-99cb2714c3ee",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -267786,7 +267786,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "73aba348-3766-42da-95f5-af2bf255384f",
         "title": "Data and AI Engineering Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -275476,7 +275476,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379375,7 +379375,7 @@
         "company_name": "Paccar",
         "id": "413fa3ea-a5c0-4c3d-b1db-e01f70015c85",
         "title": "Product Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392808,7 +392808,7 @@
         "company_name": "Tonic",
         "id": "2f889d44-57d3-4ede-906e-ecf56eef67eb",
         "title": "Forward Deployed Engineer Co-op - Data De-Identification",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -395423,7 +395423,7 @@
         "company_name": "Envoy Air",
         "id": "33f7c7d5-475c-414a-a990-ea78ae5390c4",
         "title": "College Intern - Aircraft Maintenance",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -403374,7 +403374,7 @@
         "company_name": "Entegris",
         "id": "26ed8f15-5f1f-4a5a-9cca-0403cf4d7334",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411704,7 +411704,7 @@
         "company_name": "DriveWealth",
         "id": "3f1088e9-3742-4919-8f86-1fb30cc82265",
         "title": "AI Consulting Associate Program People Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
