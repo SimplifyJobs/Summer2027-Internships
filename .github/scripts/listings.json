@@ -365723,7 +365723,7 @@
         "company_name": "Graphcore",
         "id": "23e73d43-3b98-441f-abc3-9363e7f5d4aa",
         "title": "Software Engineer Intern - AI Compute Libraries & Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365820,7 +365820,7 @@
         "company_name": "Indie",
         "id": "2081c3f3-7a52-4da7-a160-43d0509b4835",
         "title": "Wireless Charging Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386106,7 +386106,7 @@
         "company_name": "Susquehanna International Group",
         "id": "3164dba8-b1d8-4a4a-9df0-36d4603c8550",
         "title": "Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412800,6 +412800,27 @@
             "Foxborough, MA"
         ],
         "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Little Caesars Enterprises",
+        "id": "db50819f-f9d8-4d03-bcf4-c3ee4a46a6c0",
+        "title": "Portfolio IT Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795095742,
+        "date_posted": 1794441600,
+        "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Portfolio-IT_R9716",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Little-Caesars",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
