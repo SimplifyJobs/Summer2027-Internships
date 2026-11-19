@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Rexford Industrial",
-        "id": "a9e083bf-3e7b-4af5-85f8-937a002cc72f",
-        "title": "Technology Intern - Power BI and Data Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774315079,
-        "date_posted": 1774315079,
-        "url": "https://job-boards.greenhouse.io/rexfordindustrial/jobs/5835003004",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rexford-Industrial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
         "id": "95ee222b-93f0-4d86-bbf6-2f99d0ab9b03",
         "title": "Sensor Fusion Research Intern",
@@ -133,29 +110,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Locus Robotics",
-        "id": "7a322779-cd3a-417e-bf21-18af6d6ca2ea",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774315902,
-        "date_posted": 1774315902,
-        "url": "https://job-boards.greenhouse.io/locusrobotics/jobs/5087491007",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/LocusRobotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -366210,7 +366164,7 @@
         "company_name": "Indie",
         "id": "07aad510-60aa-4f59-a810-1efbb9d74d6f",
         "title": "Applications Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402518,7 +402472,7 @@
         "company_name": "Entegris",
         "id": "1231d0ec-856a-46c6-a2db-f7c8c23d2a43",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
