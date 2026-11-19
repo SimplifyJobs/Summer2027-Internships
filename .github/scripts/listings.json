@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Roku",
-        "id": "9ae4806e-52bc-4ffa-9b06-3e9adab91b0f",
-        "title": "Security Researcher Intern - Trust Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774362015,
-        "date_posted": 1774362015,
-        "url": "https://www.weareroku.com/jobs/7745675?gh_jid=7745675",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cotiviti",
-        "id": "e2ba9913-9696-492a-aa3b-1452e906954d",
-        "title": "Intern \u2013 Agentic AI Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774361329,
-        "date_posted": 1774361329,
-        "url": "https://careers-cotiviti.icims.com/jobs/18706/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cotiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d2bf58e9-7388-48cf-9a5a-a7851ddbeba6",
@@ -180,30 +132,6 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "466fb8d5-0978-48fe-bbfe-b0bdb2df53aa",
-        "title": "Data Analyst Project Intern - Data Science",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774362530,
-        "date_posted": 1774362530,
-        "url": "https://lifeattiktok.com/search/7620775575152462085",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -289014,7 +288942,7 @@
         "company_name": "Itron",
         "id": "6236ea31-fdc8-485d-a8fc-b2fe9c0aa953",
         "title": "Data Science Intern - Distributed Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412824,5 +412752,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "fe8638b3-b345-4d84-ba2c-646ef6fbc433",
+        "title": "Sensor Modeling and Simulation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795097726,
+        "date_posted": 1791936000,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Undergrad-Intern_R016876",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
