@@ -1,122 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "58bf6f5c-3c37-45f4-abb4-fb6cc395b58b",
-        "title": "Intern Manufacturing Technician",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774394448,
-        "date_posted": 1774394448,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern-Manufacturing-Technician-New-Kensington--PA-Summer-2026_579677",
-        "locations": [
-            "Tarentum, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zayo",
-        "id": "4a62631a-3af3-4260-9342-45adb42c2482",
-        "title": "Intern Network Automation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774394280,
-        "date_posted": 1774394280,
-        "url": "https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/CO---Denver/Intern---Network-Automation_R0016210",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Zayo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AtkinsR\u00e9alis",
-        "id": "ea4eb439-47ce-48b0-8be7-9ce1c75c938b",
-        "title": "Digital Twin Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774393660,
-        "date_posted": 1774393660,
-        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCACosta-Mesa/Digital-Twin-Intern---Summer-2026_R-151470-1",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AtkinsRealis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "8d11d9af-311d-4ae1-a817-c39705a63b4e",
-        "title": "Chemist Intern - Bachelor/Masters",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774393559,
-        "date_posted": 1774393559,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Chemist-Intern--Bachelor-Masters---Santa-Clara--CA-_R2612276",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DXC Technology",
-        "id": "29e9077a-1f8c-4784-b396-ecf106c85644",
-        "title": "DXC Academic Programme Degree Apprenticeship in Data & AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774393356,
-        "date_posted": 1774393356,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/DXC-Academic-Programme---Degree-Apprenticeship-in-Data---AI_51576237",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sono Bello",
         "id": "9aa3c76c-38b0-4a8e-87fb-3b3fa39a3a55",
@@ -33974,7 +33858,7 @@
         "company_name": "Zoox",
         "id": "948a7229-20bf-4220-9876-ec5879966d9c",
         "title": "Student Worker Intern - Firmware Engineer - Firmware Thermal/Body",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -62276,7 +62160,7 @@
         "company_name": "NVIDIA",
         "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
         "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -272156,7 +272040,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -284391,7 +284275,7 @@
         "company_name": "Boston Scientific",
         "id": "59c13592-23da-4c96-8a2d-f4639cfe1e1e",
         "title": "R&D Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -359990,7 +359874,7 @@
         "company_name": "Old Mission",
         "id": "cf73adb5-c92f-4caf-8bbc-8d6e4ab23e39",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370567,7 +370451,7 @@
         "company_name": "Cartesian Systems",
         "id": "d4e19c51-d9cc-4927-ad63-28977317c743",
         "title": "Applied ML/CS PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408622,7 +408506,7 @@
         "company_name": "Soros Fund Management",
         "id": "751bdabd-e853-41ef-9842-6f7d92883fd9",
         "title": "Quantitative Strategist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -411459,5 +411343,753 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lucid Motors",
+        "id": "bfc7b38a-bae3-4573-8b03-da5a8bbff0de",
+        "title": "Embedded Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130669,
+        "date_posted": 1795130066,
+        "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HERE Technologies",
+        "id": "5d5eab3c-e51f-4838-9594-8b80a78973ba",
+        "title": "Applied AI Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795130482,
+        "date_posted": 1795046400,
+        "url": "https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/HERE-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "62a276ae-a9d7-4971-91d6-af6673585530",
+        "title": "Agentic AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130504,
+        "date_posted": 1795129523,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung Research America",
+        "id": "133dfd58-e65d-4b80-951a-bd1a9a54546e",
+        "title": "Memory Subsystem Intern - SoC Architecture",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1795130484,
+        "date_posted": 1795123716,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8949357002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "daa09c11-0467-422f-9569-4d9ea490336c",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130310,
+        "date_posted": 1794524035,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5479814008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "cb97248f-6ae3-4ec9-ad6e-72e4f688e819",
+        "title": "Analog Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130284,
+        "date_posted": 1794420428,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5473749008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "af15f3fd-75c2-49a5-b6e4-2588f738ef9c",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130311,
+        "date_posted": 1794523719,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5473816008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "7b78d5a2-07b8-4f90-97d8-7e6ac683980c",
+        "title": "Analog Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130312,
+        "date_posted": 1794434506,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5475081008",
+        "locations": [
+            "Boston, MA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "57e7d759-c401-447e-9555-e80a8eb1261f",
+        "title": "Analog Engineering Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130284,
+        "date_posted": 1794421655,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5473774008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "239630c8-42e9-421c-a908-9be5bd749777",
+        "title": "Silicon Validation & Test Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130310,
+        "date_posted": 1795112877,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5473832008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "112cbdec-f1eb-4f64-b3aa-cdb848cd9ff0",
+        "title": "Chip Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795130284,
+        "date_posted": 1794433775,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5468924008",
+        "locations": [
+            "Boston, MA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Horizon Trading Solutions",
+        "id": "95e6e9a2-6a90-4a42-8ecc-c899e3ccd385",
+        "title": "Java Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795130167,
+        "date_posted": 1795106830,
+        "url": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon-Trading-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "QuEra Computing",
+        "id": "a42c350f-1d9e-4ebd-90ae-b1ea9d081c5a",
+        "title": "Quantum Calibrations Intern - Quantum Computing Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795130165,
+        "date_posted": 1795128777,
+        "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5490107008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Horizon Trading Solutions",
+        "id": "4b186364-72dd-445a-aa47-b26731004b25",
+        "title": "Java Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795130159,
+        "date_posted": 1795106817,
+        "url": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Paris, France",
+            "Nantes, France",
+            "Rennes, France",
+            "Hong Kong"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon-Trading-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "b192313c-9892-4f12-9f02-51fa773a14d9",
+        "title": "Digital Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129934,
+        "date_posted": 1795102318,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veolia",
+        "id": "f830fea0-864e-4afe-80e7-419b5b9a9d6c",
+        "title": "Manufacturing Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795129934,
+        "date_posted": 1795117800,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ralliant",
+        "id": "ffd308ae-0047-4f00-9033-765b3021b684",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129753,
+        "date_posted": 1795129504,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "a3af265e-5644-4b07-b4f4-d9b853106138",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129755,
+        "date_posted": 1795129504,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11266",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "607497f0-972c-423b-b3f6-8b9572402c4a",
+        "title": "Identity Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129754,
+        "date_posted": 1795115280,
+        "url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas Instruments",
+        "id": "46be2a82-673e-48b7-8b08-1d960420d797",
+        "title": "Synthetic Data for Edge AI System Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795129754,
+        "date_posted": 1795129641,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "09de125b-81fc-4aaf-abf4-9de34a890a79",
+        "title": "Systems Engineer Intern - Gan",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795129794,
+        "date_posted": 1795129641,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "d5e85bac-e66d-4ac0-9624-4882e3634ade",
+        "title": "System Level Verification Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129563,
+        "date_posted": 1795129504,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "d2751e58-6e6b-4d56-89ff-009147539a34",
+        "title": "Compute In-Memory System Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795129754,
+        "date_posted": 1795129641,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016331",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "709f3b16-6eaa-4a0a-860f-b7256c4e9524",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129755,
+        "date_posted": 1795129504,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11231",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "4949198a-9f8d-4f14-95e0-a77b50812c7f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129755,
+        "date_posted": 1795129505,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11167",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "2e7a7e4f-0095-41b4-bbda-747c6983d3b9",
+        "title": "Analog Design Engineer Intern - Gan Device",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795129796,
+        "date_posted": 1795129640,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020327",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Docusign",
+        "id": "ce4d0d8e-1e2b-40d2-af65-feb695922f47",
+        "title": "Product Data Science Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795129754,
+        "date_posted": 1795107240,
+        "url": "https://careers.docusign.com/jobs/31092?icims=1&lang=en-us",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/DocuSign",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "a6ba66a7-6432-4f62-87be-23264981b4e3",
+        "title": "Electrical Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129563,
+        "date_posted": 1795129504,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas Instruments",
+        "id": "609409a7-5528-4f31-8e68-37da1dc2bd2e",
+        "title": "Systems Engineer Intern - Robotics and AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795129798,
+        "date_posted": 1795129640,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016336",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "ed503577-4570-41ce-82dd-5280e1d95ac7",
+        "title": "Electrical Engineer Production Support Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129563,
+        "date_posted": 1795111080,
+        "url": "https://careers.gov2x.com/jobs/63954?icims=1&lang=en-us",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Georgian Partners Growth",
+        "id": "724d8d28-ef8b-46f7-ba87-c388f6f3c296",
+        "title": "Physical AI and Robotics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129648,
+        "date_posted": 1795046400,
+        "url": "https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Georgian-Partners-Growth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barry's",
+        "id": "19246e69-1bac-489d-834d-e6d274bdfbc3",
+        "title": "Undergraduate Summer Scholar Intern - Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795129674,
+        "date_posted": 1795129451,
+        "url": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Barrys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
