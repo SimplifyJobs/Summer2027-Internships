@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson & Johnson",
-        "id": "792af229-ec6f-4e81-8fed-4d7f746ede7c",
-        "title": "Performance Evaluation R&D",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774365239,
-        "date_posted": 1774365239,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Performance-Evaluation-R-D-Co-op_R-055648",
-        "locations": [
-            "Bridgewater Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Doximity",
         "id": "f18f4905-5cbe-443d-a2c9-4aa9b255b73e",
@@ -192231,7 +192207,7 @@
         "company_name": "Textron",
         "id": "6af66330-0329-40f5-abaf-5feaf563f36d",
         "title": "Software Engineer Intern - Sea Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -260459,7 +260435,7 @@
         "company_name": "Garmin",
         "id": "2f7f0d05-4984-4739-ad90-66a2e6cb8c2c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -304145,7 +304121,7 @@
         "company_name": "Arondite",
         "id": "97279dfa-d506-4a6b-be36-a783c8647797",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351698,7 +351674,7 @@
         "company_name": "Navy Federal",
         "id": "c5d18f1d-65ab-49c8-86ae-b293e6a1c377",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -365584,7 +365560,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412634,6 +412610,97 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Space Dynamics Laboratory",
+        "id": "ec63f3d6-689a-45ea-aa6a-980217419acf",
+        "title": "Software Engineering Assistant Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795101878,
+        "date_posted": 1795101750,
+        "url": "https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scout Space",
+        "id": "a8d87113-aa75-4085-aa94-8b2b2fee847a",
+        "title": "Computer Vision Engineer Intern - AI/ML",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795101511,
+        "date_posted": 1795086663,
+        "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scout-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSA Safety",
+        "id": "6b257bab-c647-4853-8aa3-4ad9634b67fc",
+        "title": "Electrical Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795101180,
+        "date_posted": 1795098000,
+        "url": "https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "1f1efbc4-df6d-40b0-b90d-8831e116d0ca",
+        "title": "Research Intern - Machine Learning for Biology and Healthcare",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795101163,
+        "date_posted": 1795100971,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
