@@ -330895,7 +330895,7 @@
         "company_name": "Duolingo",
         "id": "fcd982ae-aea3-46cd-8bbc-8da178cd67ab",
         "title": "Product Manager MBA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333126,7 +333126,7 @@
         "company_name": "Invesco",
         "id": "fd464347-4df7-40dc-86c4-3b7ff3dfb1ce",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
