@@ -273729,7 +273729,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -340065,7 +340065,7 @@
         "company_name": "DriveWealth",
         "id": "f53a894a-ab47-4376-99ff-d2e440e9c33d",
         "title": "AI Consulting Associate Program Brokerage Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -402499,7 +402499,7 @@
         "company_name": "T-Mobile",
         "id": "c61c3197-26ec-4fec-a5f5-e604bd6d0899",
         "title": "Data Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
