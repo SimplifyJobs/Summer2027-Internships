@@ -388996,7 +388996,7 @@
         "company_name": "Medtronic",
         "id": "520f1ac7-8ae5-43e8-a9ac-7c1e9c8741d5",
         "title": "Data Quality & Stewardship Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -402754,7 +402754,7 @@
         "company_name": "KLA Corporation",
         "id": "c8b02f7b-4d23-4813-a169-4d1e876422c5",
         "title": "Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403784,7 +403784,7 @@
         "company_name": "CoStar Group",
         "id": "be6ad631-0dc1-427c-aaf1-88f8916fd4e9",
         "title": "Vision & Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
