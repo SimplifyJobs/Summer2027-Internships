@@ -120114,7 +120114,7 @@
         "company_name": "Jane Street",
         "id": "d7612fa7-5009-43fc-a9d3-8f16c3478eb2",
         "title": "Hardware Engineer - FPGA/Asic",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -164922,7 +164922,7 @@
         "company_name": "NVIDIA",
         "id": "ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
         "title": "Systems Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -169735,7 +169735,7 @@
         "company_name": "GE Vernova",
         "id": "e2e530e2-ab90-45f9-976f-41287cf6edcc",
         "title": "Energy Optimization Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -202141,7 +202141,7 @@
         "company_name": "Shure",
         "id": "d8973231-aa83-4db4-8ff2-34fe4b8cac2e",
         "title": "Mobile Applications Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365560,7 +365560,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386661,7 +386661,7 @@
         "company_name": "Ballotpedia",
         "id": "dd16f64f-a794-4611-9dcc-8913da108e5e",
         "title": "GIS Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
