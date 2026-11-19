@@ -412906,5 +412906,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Pyrotek",
+        "id": "c9a8405e-a813-4db7-a08e-18e55bae5e72",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795048577,
+        "date_posted": 1795032929,
+        "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000162385949",
+        "locations": [
+            "Spokane, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pyrotek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
