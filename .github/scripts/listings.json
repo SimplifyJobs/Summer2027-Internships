@@ -149999,7 +149999,7 @@
         "company_name": "The Nuclear Company",
         "id": "b57a206e-05f4-4b02-9ccd-b54ba30848e2",
         "title": "Software Engineering Intern - Product - Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332819,7 +332819,7 @@
         "company_name": "Invesco",
         "id": "825cae44-1221-442b-93fc-552072a0498e",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340065,7 +340065,7 @@
         "company_name": "DriveWealth",
         "id": "f53a894a-ab47-4376-99ff-d2e440e9c33d",
         "title": "AI Consulting Associate Program Brokerage Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365796,7 +365796,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377121,7 +377121,7 @@
         "company_name": "Paccar",
         "id": "be25948f-3dbe-43b8-8b4b-424a01d9b356",
         "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377213,7 +377213,7 @@
         "company_name": "Paccar",
         "id": "d973936c-50d5-41f6-acc8-e1dbd6c84acd",
         "title": "Materials Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377234,7 +377234,7 @@
         "company_name": "Paccar",
         "id": "d489989d-98b0-4876-852a-50e2caecd69b",
         "title": "Warranty Business Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379085,7 +379085,7 @@
         "company_name": "Paccar",
         "id": "ef31b232-5a78-40fe-9d4a-b2cca861468f",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412781,5 +412781,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Schneider Electric",
+        "id": "b4ab6293-700b-4816-9b35-bbc9edcf6990",
+        "title": "Offer Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795084204,
+        "date_posted": 1794934020,
+        "url": "https://se.jibeapply.com/jobs/141204?icims=1&lang=en-us",
+        "locations": [
+            "Boston, MA",
+            "Foxborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
