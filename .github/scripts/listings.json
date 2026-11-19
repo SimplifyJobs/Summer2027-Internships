@@ -78975,7 +78975,7 @@
         "company_name": "Oracle",
         "id": "fd404e0e-48f5-40a5-bcb9-7db3833a26f7",
         "title": "Product Manager Intern - Ovip",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333551,7 +333551,7 @@
         "company_name": "Ryan",
         "id": "9ca48e9a-a09b-4300-802e-47d9b4466d99",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
