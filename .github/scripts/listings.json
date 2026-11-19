@@ -315715,7 +315715,7 @@
         "company_name": "Viget",
         "id": "b058e4f4-66d1-4259-8983-1c888392410d",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373445,7 +373445,7 @@
         "company_name": "Intel",
         "id": "77de7b38-36e0-4774-8df0-6a71133bf167",
         "title": "TD Memory Quality and Reliability PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379362,7 +379362,7 @@
         "company_name": "TikTok",
         "id": "559f2104-6ca2-4331-8157-be28b1324602",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
