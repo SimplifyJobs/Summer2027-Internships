@@ -275476,7 +275476,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292520,7 +292520,7 @@
         "company_name": "AfterQuery",
         "id": "0dd2a24d-6ed2-46e0-ad44-2b1f11989d18",
         "title": "Research Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382024,7 +382024,7 @@
         "company_name": "Paccar",
         "id": "2f96e3d6-e7b7-4c8f-ac5d-832fdca16735",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392808,7 +392808,7 @@
         "company_name": "Tonic",
         "id": "2f889d44-57d3-4ede-906e-ecf56eef67eb",
         "title": "Forward Deployed Engineer Co-op - Data De-Identification",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395423,7 +395423,7 @@
         "company_name": "Envoy Air",
         "id": "33f7c7d5-475c-414a-a990-ea78ae5390c4",
         "title": "College Intern - Aircraft Maintenance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412756,5 +412756,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
+        "title": "Product Manager Project Intern - GMPT Sales and Operations Management Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792748705,
+        "date_posted": 1792631843,
+        "url": "https://lifeattiktok.com/search/7620569902743406901",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
