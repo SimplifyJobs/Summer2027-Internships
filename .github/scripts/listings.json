@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "d83c6657-d691-47a7-bfa4-9d47f4870c97",
-        "title": "Computer Science and Algorithms Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774346651,
-        "date_posted": 1774346651,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Summer-Computer-Science-and-Algorithms-Intern--Bachelors---Austin--TX-_R2615685",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Roku",
         "id": "9ae4806e-52bc-4ffa-9b06-3e9adab91b0f",
@@ -130263,7 +130242,7 @@
         "company_name": "Medpace",
         "id": "78b03927-c204-476c-947a-99cb2714c3ee",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -150020,7 +149999,7 @@
         "company_name": "The Nuclear Company",
         "id": "b57a206e-05f4-4b02-9ccd-b54ba30848e2",
         "title": "Software Engineering Intern - Product - Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -191820,7 +191799,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -267786,7 +267765,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "73aba348-3766-42da-95f5-af2bf255384f",
         "title": "Data and AI Engineering Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -274036,7 +274015,7 @@
         "company_name": "SoundOff Signal",
         "id": "a8472d45-9d65-479c-9822-173cdacfce6c",
         "title": "Electrical Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382261,7 +382240,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -388945,7 +388924,7 @@
         "company_name": "Amazon",
         "id": "8e9386a9-d035-4b7e-b0c8-882a67e2bb20",
         "title": "Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -401727,7 +401706,7 @@
         "company_name": "State Farm",
         "id": "b9075c04-a0bf-4ac8-973b-60aa1d7c730e",
         "title": "Property and Casualty Underwriting Intern - Knowledge Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410863,7 +410842,7 @@
         "company_name": "Paccar",
         "id": "af3eb102-71c0-4ec6-b56e-d1109f2abe2b",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412774,6 +412753,29 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crystal Dynamics",
+        "id": "ae65cb8b-ec6b-48b7-a221-afec9b7f068d",
+        "title": "Game Design Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1795084024,
+        "date_posted": 1793040388,
+        "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crystal-Dynamics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
