@@ -278895,7 +278895,7 @@
         "company_name": "GM financial",
         "id": "c101ff9c-9897-4854-bc18-a135671acfc2",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297104,7 +297104,7 @@
         "company_name": "Bose",
         "id": "2d557827-15c8-4aae-b17a-37a7ad82b3ec",
         "title": "Data Science Co-op - NLP & GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -354075,7 +354075,7 @@
         "company_name": "Leidos",
         "id": "bf3a1bd0-0f1c-4719-af15-7f67b32b2590",
         "title": "Business Systems AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365889,7 +365889,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -365913,7 +365913,7 @@
         "company_name": "Indie",
         "id": "2081c3f3-7a52-4da7-a160-43d0509b4835",
         "title": "Wireless Charging Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412744,5 +412744,89 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eridu AI",
+        "id": "f15013ab-bc88-41a1-b7fc-084a31cdfa69",
+        "title": "ASIC Architecture Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795075038,
+        "date_posted": 1795074936,
+        "url": "https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f",
+        "locations": [
+            "Saratoga, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eridu-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bose",
+        "id": "aadac344-466b-49c1-9edf-8e0bbb15a85d",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1795075023,
+        "date_posted": 1794960000,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bose",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "eb20cf0f-e882-4371-8d02-39c616e9fd04",
+        "title": "AI Engineer Intern - Mission Innovation Lab",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795074697,
+        "date_posted": 1794787200,
+        "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MakerMaker",
+        "id": "257fb63b-2043-4128-8ca6-1ccc68542d8c",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795074485,
+        "date_posted": 1795046400,
+        "url": "https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/MakerMaker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
