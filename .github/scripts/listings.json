@@ -273680,7 +273680,7 @@
         "company_name": "GE Aerospace",
         "id": "5bcc84d6-aa71-420b-8da9-eb3f46477f69",
         "title": "Data Science Co-op - Flight Analytics Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -333506,7 +333506,7 @@
         "company_name": "Ryan",
         "id": "7e2ddc17-84b3-4327-99fb-1e197ca793c3",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
