@@ -1,146 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CACI",
-        "id": "d2bf58e9-7388-48cf-9a5a-a7851ddbeba6",
-        "title": "AI/ML Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774364039,
-        "date_posted": 1774364039,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/AI-ML-Data-Scientist-Intern---Summer-2026_323607",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ingram Micro",
-        "id": "94a4bb57-93bb-4503-ab54-a0c0c1cb1f5d",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774364110,
-        "date_posted": 1774364110,
-        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Williamsville-NY-United-States-of-America/Summer-Intern---Developer_R-114438",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intel",
-        "id": "08017b17-c395-4c3d-915e-5ffcf693b012",
-        "title": "AI Applied Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774364104,
-        "date_posted": 1774364104,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-Scientist---Intern_JR0280313-1",
-        "locations": [
-            "Hillsboro, OR",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Gen",
-        "id": "f71afbed-9931-4bba-9d92-951fbb90b817",
-        "title": "Marketing Analytics Intern - Fintech & Digital Consumer Behavior",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774363694,
-        "date_posted": 1774363694,
-        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Marketing-Analytics-Intern---Fintech---Digital-Consumer-Behavior_55302",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Group 1001",
-        "id": "1e6d3e36-8681-4782-ab12-4606266febcc",
-        "title": "Reinsurance Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774363791,
-        "date_posted": 1774363791,
-        "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Reinsurance-Analytics-Intern_R26_0137",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Group-1001",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "1170c08b-0554-44df-ac3f-fc00efa660ae",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774363536,
-        "date_posted": 1774363536,
-        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Software-Engineer-Intern---Redondo-Beach-CA_R10214523-2",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Johnson & Johnson",
         "id": "792af229-ec6f-4e81-8fed-4d7f746ede7c",
@@ -168150,7 +168010,7 @@
         "company_name": "Vanguard",
         "id": "74a4f228-ddb1-4953-9597-1c278c491082",
         "title": "Data Science Intern - College to Corporate IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395536,7 +395396,7 @@
         "company_name": "Selective Insurance",
         "id": "988292e2-9865-480d-8599-0279ef142eb3",
         "title": "Business Intelligence & Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
