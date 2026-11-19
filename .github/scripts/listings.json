@@ -288871,7 +288871,7 @@
         "company_name": "Nike",
         "id": "5026ba2b-5cad-47ff-afae-726a8320e7f1",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -311865,7 +311865,7 @@
         "company_name": "Staples",
         "id": "6ab5dcfd-8e07-4748-82a9-d93ffac3f5ec",
         "title": "Financial Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
