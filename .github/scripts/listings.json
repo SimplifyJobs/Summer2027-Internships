@@ -253482,7 +253482,7 @@
         "company_name": "Analog Devices",
         "id": "62ae2c19-fa99-4894-b992-57deaf9c599e",
         "title": "Design Evaluation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386450,7 +386450,7 @@
         "company_name": "Little Caesars Enterprises",
         "id": "fe236070-be61-4ddf-b369-1eab4543e031",
         "title": "Data IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407239,7 +407239,7 @@
         "company_name": "RTX",
         "id": "ff08a4e1-a35e-4faa-b08f-aed1a3fcf7e7",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
