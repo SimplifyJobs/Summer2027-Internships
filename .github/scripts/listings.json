@@ -136305,7 +136305,7 @@
         "company_name": "TikTok",
         "id": "6219c04b-bc5c-4d14-90ea-426f117b51c0",
         "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -268178,7 +268178,7 @@
         "company_name": "Waymo",
         "id": "3ee8cde6-c824-4a43-ab0b-64b136f0e388",
         "title": "MS/PhD Intern - Sim-Realism ML Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -283677,7 +283677,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "932473fd-b2c2-4043-94aa-f69318eda3f1",
         "title": "Engineering Intern - Airbag ECU",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382333,7 +382333,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412655,5 +412655,50 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mytra",
+        "id": "f8d027b7-dcfb-4dc2-8c62-0b33b8491181",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795043929,
+        "date_posted": 1795043849,
+        "url": "https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292",
+        "locations": [
+            "Brisbane, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mytra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Workstream",
+        "id": "40ef9e3b-1493-4170-b639-2beafbc6c791",
+        "title": "Full Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795054690,
+        "date_posted": 1795053901,
+        "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Workstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
