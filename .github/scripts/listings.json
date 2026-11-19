@@ -493,30 +493,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Eversource Energy",
-        "id": "059ffc67-c990-4423-a54e-fd4e33c571d8",
-        "title": "Intern Data Analyst - Business Integration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774389705,
-        "date_posted": 1774389705,
-        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/XMLNAME-2026-Summer-Intern-Data-Analyst--Business-Integration_R-029986",
-        "locations": [
-            "New Britain, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Eversource-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "S&P Global ",
         "id": "13c1662f-75f5-491c-9bd2-b11959b8d094",
@@ -377110,7 +377086,7 @@
         "company_name": "Intuitive Surgical",
         "id": "4fa09baa-9d2e-447f-a634-fa99e6a9201f",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406238,7 +406214,7 @@
         "company_name": "Lightmatter",
         "id": "244ece75-c37a-420d-9923-f0415e7ba302",
         "title": "Hardware Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409543,7 +409519,7 @@
         "company_name": "SurePoint Ag Systems",
         "id": "1c9dc088-116a-43ff-a6ae-6ab513f43e5e",
         "title": "Drone Imaging Agronomy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
