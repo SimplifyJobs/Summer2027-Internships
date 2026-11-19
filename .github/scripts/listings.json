@@ -172642,7 +172642,7 @@
         "company_name": "Motorola",
         "id": "40a73eb1-1878-4203-a116-82e2ad5c39c2",
         "title": "Android Application Developer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262681,7 +262681,7 @@
         "company_name": "NVIDIA",
         "id": "55a28a09-e8b9-4af7-bec5-c02f4642f6f2",
         "title": "PhD Research Intern - Generalist Embodied Agents Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335984,7 +335984,7 @@
         "company_name": "NVIDIA",
         "id": "409557ba-787e-483f-90a0-5070340bc017",
         "title": "ASIC Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378824,7 +378824,7 @@
         "company_name": "NVIDIA",
         "id": "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
         "title": "AI Compiler and Kernel Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
