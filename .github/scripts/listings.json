@@ -1,234 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "95ee222b-93f0-4d86-bbf6-2f99d0ab9b03",
-        "title": "Sensor Fusion Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774316782,
-        "date_posted": 1774316782,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000116275262",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rexford Industrial",
-        "id": "47cae76f-2c90-4e8f-9916-cfed805c1d51",
-        "title": "Technology Intern - AI and Automation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774316078,
-        "date_posted": 1774316078,
-        "url": "https://job-boards.greenhouse.io/rexfordindustrial/jobs/5835020004",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rexford-Industrial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Walt Disney Company",
-        "id": "6f4b1d08-d6dd-427d-8e4e-0f7c2aace739",
-        "title": "ESPN Programming Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774316525,
-        "date_posted": 1774316525,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Bristol-CT-USA/ESPN-Programming-Intern--Summer-2026_10141053",
-        "locations": [
-            "Bristol, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Age of Learning",
-        "id": "632008cc-8f2f-4d6f-b517-c730137c8cac",
-        "title": "AI Chatbot Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774316362,
-        "date_posted": 1774316362,
-        "url": "https://jobs.lever.co/aofl/6e328d19-c00b-4d79-8e74-841dbceba6f0/apply",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Age-of-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Varda Space",
-        "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
-        "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1774316508,
-        "date_posted": 1774316508,
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Varda-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zayo",
-        "id": "6104ca70-2b98-4f5c-a937-ec030a54ef22",
-        "title": "ServiceNow Intern - Service Order Management - TSM & GenAI Enablement",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774317553,
-        "date_posted": 1774317553,
-        "url": "https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/CO---Denver/ServiceNow-Intern---Service-Order-Management--TSM---GenAI-Enablement_R0016191",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Zayo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zayo",
-        "id": "53a70680-b10a-458c-a45a-291a960b08f6",
-        "title": "Intern \u2013 Data Governance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774317549,
-        "date_posted": 1774317549,
-        "url": "https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/CO---Denver/Intern---Data-Governance_R0016211-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Zayo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Signet Jewelers",
-        "id": "18e30750-a690-4f6c-9128-1b2d90b99f8a",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774317572,
-        "date_posted": 1774317572,
-        "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern--Hybrid-_REQ_77289",
-        "locations": [
-            "Akron, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Signet-Jewelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "1521fad0-f1cf-4bae-bff3-b51d5a0ce1ce",
-        "title": "Software Engineering ServiceNow Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774317572,
-        "date_posted": 1774317572,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Engineering-ServiceNow-Internship_REQ349675",
-        "locations": [
-            "Frisco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "15202e29-af2a-44c7-bea2-6207a9f115a8",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774317571,
-        "date_posted": 1774317571,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ348619",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "American Rare Earths",
         "id": "224e6611-9cfb-4eef-8107-822517f2d5e4",
@@ -129958,7 +129730,7 @@
         "company_name": "Marvell",
         "id": "20993cd8-1b5a-4189-b6be-cfa7278f694c",
         "title": "Analog Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -138192,7 +137964,7 @@
         "company_name": "University of Rochester",
         "id": "288b98cb-c28a-4749-b863-533bf90afd67",
         "title": "Research Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -210368,7 +210140,7 @@
         "company_name": "Marvell",
         "id": "2271cd83-5514-4430-a1fb-de0e010e1cdc",
         "title": "Analog Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -210415,7 +210187,7 @@
         "company_name": "Marvell",
         "id": "2f652f94-1136-4e28-af95-1e3074062ebf",
         "title": "Analog Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -212724,7 +212496,7 @@
         "company_name": "Marvell",
         "id": "368e9143-7848-4e5c-83b0-7a6542b4af11",
         "title": "Silicon Photonics Intern - PhD - Fall 2026 Start Date",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -231048,7 +230820,7 @@
         "company_name": "Bird Construction",
         "id": "1df55d00-dd04-4dc4-87fa-6d2037f3caf6",
         "title": "Business Intelligence Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -244369,7 +244141,7 @@
         "company_name": "Perpay",
         "id": "2649b240-bda5-4d10-bbcc-5ddb74bb2202",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268525,7 +268297,7 @@
         "company_name": "BGIS",
         "id": "32cfc08b-e4d3-4ca0-94e6-ce2057a6006a",
         "title": "Asset Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364205,7 +363977,7 @@
         "company_name": "LinkedIn",
         "id": "87a05892-5f38-4b25-9d6d-a2c15165936d",
         "title": "Software Engineer Intern - First Play",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385360,7 +385132,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "3812edba-598b-4522-8c4e-fa2062c6f911",
         "title": "Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395339,7 +395111,7 @@
         "company_name": "Klaviyo",
         "id": "30bcdd6c-3fac-42e1-a4ef-2da1711b4cae",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
