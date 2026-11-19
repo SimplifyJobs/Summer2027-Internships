@@ -210370,7 +210370,7 @@
         "company_name": "Marvell",
         "id": "ffed4c0e-ef20-4b01-b9fd-db56428a85d5",
         "title": "Analog Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298983,7 +298983,7 @@
         "company_name": "Koch Industries",
         "id": "fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
