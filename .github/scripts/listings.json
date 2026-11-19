@@ -217065,7 +217065,7 @@
         "company_name": "Oracle",
         "id": "df021870-bc1b-408c-ac28-255a67469798",
         "title": "Data Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -241531,7 +241531,7 @@
         "company_name": "Citizens Financial Group",
         "id": "e0125f9d-5b88-4e1f-844e-39275d743833",
         "title": "Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -273493,7 +273493,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368380,7 +368380,7 @@
         "company_name": "Arch Capital Group",
         "id": "ba0de6a9-5863-4ea4-ae9c-f02606a2461d",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382004,7 +382004,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386163,7 +386163,7 @@
         "company_name": "Little Caesars Enterprises",
         "id": "b7dfb785-5310-43d6-a62f-4ed0b0a01714",
         "title": "Developer IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408420,7 +408420,7 @@
         "company_name": "Zurich Insurance",
         "id": "1c985c59-7b90-44d9-a78b-a64792dd2fd5",
         "title": "Data Analytics & AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412701,6 +412701,100 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bread Financial",
+        "id": "c0fa2195-311d-4b20-895a-835015b65bb8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795103729,
+        "date_posted": 1794787200,
+        "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421",
+        "locations": [
+            "Frisco, TX",
+            "Chadds Ford Township, PA",
+            "Columbus, OH",
+            "Draper, UT",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Bread-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "f015f687-d0c7-457d-b211-12b8b167fe60",
+        "title": "Associate Optical Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795102974,
+        "date_posted": 1795102855,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Optical-Engineer-NY-14606/1422807100/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlantic Health System",
+        "id": "0bb74ea0-6f5c-4892-9675-62883390af80",
+        "title": "Pharmacy Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795102780,
+        "date_posted": 1795102632,
+        "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551",
+        "locations": [
+            "Morristown, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlantic-Health-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "bc1488c1-9306-473d-8806-8f2222f6a278",
+        "title": "Technology Enablement Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795102432,
+        "date_posted": 1794873600,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
