@@ -204153,7 +204153,7 @@
         "company_name": "Northwood Space",
         "id": "ecdb732a-4566-44b5-bb1e-360045df13d9",
         "title": "Electrical Engineer Intern - Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -279645,7 +279645,7 @@
         "company_name": "Analog Devices",
         "id": "dea5dba9-d950-4c4f-bde6-abe568af5ea9",
         "title": "Analog Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -306832,7 +306832,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "601b1b74-d436-4fd4-bf1e-5c288d6706bc",
         "title": "Cloud Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384613,7 +384613,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "dabf05d4-39a8-42bd-9bcf-fe7b98c996c1",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401593,7 +401593,7 @@
         "company_name": "Roche",
         "id": "ea12beda-d207-46ec-aec9-ec828c03b0d3",
         "title": "AI & Digitalisation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411845,7 +411845,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "e40ead49-69ad-422a-8008-5929557e27a4",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
