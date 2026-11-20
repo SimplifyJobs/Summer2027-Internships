@@ -1,118 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Commonwealth of Massachusetts",
-        "id": "f33deafa-a6df-4112-b056-c1309541ae79",
-        "title": "Digital Governance and Policy Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774448638,
-        "date_posted": 1774448638,
-        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001IF",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arcesium",
-        "id": "68ce0a2b-ee0d-4df3-b719-6d8031fee1c6",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774448778,
-        "date_posted": 1774448778,
-        "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5088158007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcesium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Torch Technologies",
-        "id": "11e94799-7f1b-4fcc-987b-b1e0796514c0",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774448443,
-        "date_posted": 1774448443,
-        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern---Summer-2026_R826",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Torch-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "CoStar Group",
-        "id": "29fdf9b6-13fb-43ff-ba50-6bea339a9119",
-        "title": "Quantitative Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774447966,
-        "date_posted": 1774447966,
-        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-MA-Boston/Quantitative-Analyst-Intern--CoStar-Debt-Solutions---Summer-2026_R38546",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/CoStar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Freese and Nichols",
-        "id": "63c0a5f6-30ea-42f2-a4b0-90eb78ecb0f9",
-        "title": "Part-Time Intern - Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774447786,
-        "date_posted": 1774447786,
-        "url": "https://freese.wd1.myworkdayjobs.com/Freese_Nichols_External/job/Fort-Worth-Texas/Summer-2026-Part-Time-Internship---Software-Development_JR103553",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Freese-And-Nichols",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "TNS",
         "id": "3de7ddd4-4951-42b8-97de-864d68e72fb9",
@@ -219,54 +107,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sallie Mae",
-        "id": "937f4857-f3dc-47cc-9041-c425efc2f1d1",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1774449115,
-        "date_posted": 1774449115,
-        "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/New-Castle-DE/Data-Analytics-Intern_R26_000035",
-        "locations": [
-            "New Castle, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Sallie-Mae",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BenchSci",
-        "id": "74302b72-f037-40db-a075-c264bdd71eec",
-        "title": "BenchSci Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774448969,
-        "date_posted": 1774448969,
-        "url": "https://jobs.lever.co/benchsci/bac8e1ed-5a5c-4951-a8d8-8b4ce90701c4/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BenchSci",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -132565,7 +132405,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "d71bed9a-99bb-4a02-ae62-3ee72d73fb36",
         "title": "Powertrain Controls Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315272,7 +315112,7 @@
         "company_name": "Applied Materials",
         "id": "5fb4d896-a9c6-45e7-86c0-d27e03d7d551",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352019,7 +351859,7 @@
         "company_name": "FTI Consulting",
         "id": "4400b7b2-318d-4cfe-a277-a8687cae1078",
         "title": "Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
