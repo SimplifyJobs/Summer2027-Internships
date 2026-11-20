@@ -330993,7 +330993,7 @@
         "company_name": "National Bank of Canada",
         "id": "f5398a2b-3679-4382-af99-0d9ac640b121",
         "title": "Artificial Intelligence Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407815,7 +407815,7 @@
         "company_name": "Microchip Technology",
         "id": "fd1e375c-f802-422b-b643-8f43471c209b",
         "title": "Engineering Intern - ASIC Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
