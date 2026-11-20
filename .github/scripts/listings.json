@@ -236642,7 +236642,7 @@
         "company_name": "Waymo",
         "id": "07e245b0-b4de-4587-a8b2-5891870634da",
         "title": "Vehicle Intent and Prediction Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304835,7 +304835,7 @@
         "company_name": "Procter & Gamble",
         "id": "04082f6d-c15d-4431-bf6a-5ac5f3fd7dc8",
         "title": "IT Technical Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337412,7 +337412,7 @@
         "company_name": "Humble Robotics",
         "id": "18198413-10c8-4a0e-b6e1-1f6ad54facb4",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -360564,7 +360564,7 @@
         "company_name": "Qualcomm",
         "id": "163fdc07-70e9-4d69-8015-d6034524908e",
         "title": "Formal Verification Engineering Intern - 6 months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
