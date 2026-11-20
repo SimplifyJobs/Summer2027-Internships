@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 4262 Inactive Internship Roles by Category
+### Browse 4263 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1488)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1489)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (281)
 
@@ -3282,6 +3282,13 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
 <td>AI Network Engineering Intern</td>
+<td>Bossier City, LA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Generative AI Software Development Intern</td>
 <td>Bossier City, LA</td>
 <td>🔒</td>
 <td>1mo</td>
