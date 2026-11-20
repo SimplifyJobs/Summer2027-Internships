@@ -1,77 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sono Bello",
-        "id": "9aa3c76c-38b0-4a8e-87fb-3b3fa39a3a55",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774401588,
-        "date_posted": 1774401588,
-        "url": "https://job-boards.greenhouse.io/sonobello/jobs/5164230008",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sono-Bello",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "dd0303b3-f849-4eec-bfce-a1dd1ec3a1fe",
-        "title": "Software Engineer Intern ML AI",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1774401515,
-        "date_posted": 1774401515,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-ML-AI/213550",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westinghouse Electric Company",
-        "id": "1f278309-70ae-4a32-9684-00be05e60870",
-        "title": "APX Strategy Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774400790,
-        "date_posted": 1774400790,
-        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-APX-Strategy-Analytics-Intern-Summer-2026-NC/1376405300/?ats=successfactors",
-        "locations": [
-            "Grove City, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Applied Materials",
         "id": "a3c5aed7-4000-47f3-b2fe-cf11f354915f",
@@ -248,29 +177,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Carbon Robotics",
-        "id": "8a4822a9-3b70-4374-ae32-c26913362cfd",
-        "title": "Intern \u2013 Software Engineering - Full Stack",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774402172,
-        "date_posted": 1774402172,
-        "url": "https://carbonrobotics.com/job-openings?gh_jid=4664726006",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carbon-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "FOX",
         "id": "7d545c0e-cee5-46e3-b3a6-5018cc6246b5",
@@ -312,30 +218,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Agility Robotics",
-        "id": "dbab9534-ffeb-4462-a0c2-9c229bdd111f",
-        "title": "Robot Learning Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774402000,
-        "date_posted": 1774402000,
-        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=5836476004",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Agility-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -211635,7 +211517,7 @@
         "company_name": "The Cary Company",
         "id": "06b42354-9e3f-4ab3-9d2d-ea134923bf23",
         "title": "AI / Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277652,7 +277534,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "03a8913b-a007-4657-8f59-bc29a722beda",
         "title": "Generative AI Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340324,7 +340206,7 @@
         "company_name": "Safran",
         "id": "0313d012-4781-4a03-8d3c-6c2e029e9dc1",
         "title": "Optical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
