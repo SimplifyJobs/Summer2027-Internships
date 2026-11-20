@@ -329708,7 +329708,7 @@
         "company_name": "Pattern",
         "id": "c8e23a58-3dd6-4df5-8717-0a5d2b3ec7fa",
         "title": "Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333775,7 +333775,7 @@
         "company_name": "Qualcomm",
         "id": "c7dad505-76b9-4e8f-8428-ae8f0fff35b9",
         "title": "Machine Learning AISW Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339289,7 +339289,7 @@
         "company_name": "Qualcomm",
         "id": "d953ea49-1b23-4215-b939-c264146bd112",
         "title": "Display Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382739,7 +382739,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bf8068f6-2266-41e3-a2e7-a16e3f7bc6dc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411835,7 +411835,7 @@
         "company_name": "Amii",
         "id": "babedaae-ed92-4a49-bf32-6765ef14cd04",
         "title": "Machine Learning Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
