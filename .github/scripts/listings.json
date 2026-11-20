@@ -158000,7 +158000,7 @@
         "company_name": "NXP Semiconductors",
         "id": "fd3c39d2-33c3-49a1-9e2c-6c0f99a93001",
         "title": "AI and Software Engineer Intern - Automotive MPUs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273111,7 +273111,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -283620,7 +283620,7 @@
         "company_name": "Boston Scientific",
         "id": "59c13592-23da-4c96-8a2d-f4639cfe1e1e",
         "title": "R&D Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338740,7 +338740,7 @@
         "company_name": "Toyota",
         "id": "274daa15-b592-485a-8d98-cc56d12ebdca",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385110,7 +385110,7 @@
         "company_name": "Public Service Enterprise Group",
         "id": "540fffcc-1cee-4834-9b92-ebc48f062b36",
         "title": "Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385157,7 +385157,7 @@
         "company_name": "KLA",
         "id": "12f65111-8cf7-40a0-b93e-b90f6b9ddaa1",
         "title": "Optical Systems Student Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -389078,7 +389078,7 @@
         "company_name": "Zoox",
         "id": "680cbf01-1662-4204-9638-55b49e07da7c",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407874,7 +407874,7 @@
         "company_name": "APEX Analytix",
         "id": "68916cbe-97cc-414d-8732-d68540a99d35",
         "title": "Product Management Intern - DevOps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413194,6 +413194,29 @@
             "Middleborough, MA"
         ],
         "company_url": "https://simplify.jobs/c/Rexa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "North Atlantic Industries",
+        "id": "33919652-9bd9-484e-a9f6-0e54a5e8dcc6",
+        "title": "Electrical Engineer Power Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795167203,
+        "date_posted": 1789414250,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501161",
+        "locations": [
+            "Bohemia, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
