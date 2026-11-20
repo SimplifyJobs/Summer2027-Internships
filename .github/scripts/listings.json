@@ -122321,7 +122321,7 @@
         "company_name": "Cybernetic Labs",
         "id": "fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
         "title": "Full-Stack Software Engineer Intern - Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -193277,7 +193277,7 @@
         "company_name": "Johnson & Johnson",
         "id": "c82530ca-dbef-4fab-9d6f-c3146e43aeb8",
         "title": "Data Science Co-op - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398047,7 +398047,7 @@
         "company_name": "Motorola Solutions",
         "id": "faa8ced0-db83-4724-94e6-3b1f665c56bf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413225,6 +413225,29 @@
             "Kanata, Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "REXA",
+        "id": "a4da6180-6f78-4f2c-ac8b-f1d23a467b3b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795161655,
+        "date_posted": 1795161554,
+        "url": "https://rexa.bamboohr.com/careers/134/",
+        "locations": [
+            "Middleborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rexa",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
