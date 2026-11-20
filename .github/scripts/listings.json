@@ -252957,7 +252957,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fb26bbca-ac3f-49e6-9afe-4e1360c4f952",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -277627,7 +277627,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "fbed94d0-207f-4923-97dd-2c066c0e8d6a",
         "title": "AI Network Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360341,7 +360341,7 @@
         "company_name": "Samsung",
         "id": "f659fed4-5d48-4ce0-9d80-bbaecf78e22d",
         "title": "RTL Power Macromodeling Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399181,7 +399181,7 @@
         "company_name": "AMAX",
         "id": "f9f754f3-4be2-47b3-a3e3-c25461bccb9e",
         "title": "R&D Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
