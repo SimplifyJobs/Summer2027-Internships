@@ -219578,7 +219578,7 @@
         "company_name": "Stryker",
         "id": "302e6ed8-0e34-4d81-bd75-93f9c018883c",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -410672,7 +410672,7 @@
         "company_name": "Manulife Financial",
         "id": "bc1488c1-9306-473d-8806-8f2222f6a278",
         "title": "Technology Enablement Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
