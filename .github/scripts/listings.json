@@ -271702,7 +271702,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340577,7 +340577,7 @@
         "company_name": "Meta",
         "id": "aacdee8b-5d3f-4b0b-ba7e-f6f590ca5792",
         "title": "Research Scientist Intern - Robot Foundation Models",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354258,7 +354258,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "f9ab5346-cb10-4f3b-a2e8-f9af8016eec4",
         "title": "Ab Initio Nuclear Theory Postdoctoral Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -359350,7 +359350,7 @@
         "company_name": "GrayMatter Robotics",
         "id": "901b53ec-fba2-40bc-89d6-a7200607ee62",
         "title": "Robotics Engineering Intern: Systems & Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -360851,7 +360851,7 @@
         "company_name": "Sycamore",
         "id": "a19b6b71-cdc8-4602-94e3-b3a50b1f9ba9",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412548,6 +412548,148 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amii",
+        "id": "babedaae-ed92-4a49-bf32-6765ef14cd04",
+        "title": "Machine Learning Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795143062,
+        "date_posted": 1795142970,
+        "url": "https://amii.bamboohr.com/careers/247/",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amii",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amii",
+        "id": "30a91fba-b828-4176-a249-7439c077b383",
+        "title": "Machine Learning Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795143062,
+        "date_posted": 1795142971,
+        "url": "https://amii.bamboohr.com/careers/254/",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amii",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amii",
+        "id": "28281120-e756-4b72-b1a7-c54f3ced2d39",
+        "title": "Machine Learning Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795143062,
+        "date_posted": 1795142970,
+        "url": "https://amii.bamboohr.com/careers/249/",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amii",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Piper Sandler",
+        "id": "8ba99fbd-63b7-40d0-a543-94677e208bdd",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795142726,
+        "date_posted": 1795046400,
+        "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Piper-Sandler",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southern Mississippi Trading",
+        "id": "2f0708e4-8365-497f-9fd5-cd1b2e6babcc",
+        "title": "AI and Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795142551,
+        "date_posted": 1795142351,
+        "url": "https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern",
+        "locations": [
+            "Waynesboro, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Mississippi-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung",
+        "id": "cf9000e5-12f7-4f27-8411-ea80f63beb57",
+        "title": "Serdes Analog Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795142578,
+        "date_posted": 1795136267,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
