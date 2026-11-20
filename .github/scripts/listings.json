@@ -184604,7 +184604,7 @@
         "company_name": "DraftKings",
         "id": "f1913663-f443-410e-930f-eb7dff9c3450",
         "title": "Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -230440,7 +230440,7 @@
         "company_name": "Motorola",
         "id": "f05b7f44-4e4a-468b-a7a2-eacae2e87ff2",
         "title": "FPGA Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
