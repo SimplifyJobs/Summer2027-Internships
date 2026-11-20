@@ -163833,7 +163833,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -175578,7 +175578,7 @@
         "company_name": "GE Appliances",
         "id": "88d4e38d-d6d5-4550-8ea8-651074023cd3",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -216378,7 +216378,7 @@
         "company_name": "AQR Capital Management",
         "id": "6605fc56-e2f1-411d-aee7-a7b19e4f51a1",
         "title": "Arbitrage Research Summer Analyst Intern - AQR Arbitrage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302712,7 +302712,7 @@
         "company_name": "Signifyd",
         "id": "ecea0a0c-194c-4478-8605-93cac5731cb2",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324790,7 +324790,7 @@
         "company_name": "Athene",
         "id": "77d8fe89-cf3c-44d0-bb1b-617d54c2e182",
         "title": "Risk Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -360212,7 +360212,7 @@
         "company_name": "DriveWealth",
         "id": "eba86e55-1480-473d-814f-7d863ebba833",
         "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360844,7 +360844,7 @@
         "company_name": "Quadric",
         "id": "7d4422bd-d3e5-46bf-aab9-1aa024e2e435",
         "title": "Deep Learning Compiler Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374158,7 +374158,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "ef971fc9-99f7-453f-91a9-664481b3b831",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412584,6 +412584,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ford Motor Company",
+        "id": "05ef4aa9-f0f1-4fb0-b395-911f1ca8fc2c",
+        "title": "Vehicle Access System Engineering Intern - Advanced EV",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795132824,
+        "date_posted": 1795132633,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636",
+        "locations": [
+            "Allen Park, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
