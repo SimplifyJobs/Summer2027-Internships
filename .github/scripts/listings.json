@@ -367777,7 +367777,7 @@
         "company_name": "Walmart",
         "id": "e0096175-7492-48c9-9a0f-d4b5ba3ce428",
         "title": "Corporate Intern: Data & Tech Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400824,7 +400824,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "eb961a40-c8ad-450e-9ef6-4a0b05ba5920",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
