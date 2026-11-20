@@ -122490,7 +122490,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -167128,7 +167128,7 @@
         "company_name": "GE Vernova",
         "id": "cda123ef-2e15-45a0-8ef1-f1983b6bf58b",
         "title": "Energy Optimization Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -182884,7 +182884,7 @@
         "company_name": "Stryker",
         "id": "8254bef8-0753-4347-9bd2-47e5536eab40",
         "title": "Software Engineering Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -276289,7 +276289,7 @@
         "company_name": "NVIDIA",
         "id": "ee431909-7205-4557-aa56-5518cfa74e0e",
         "title": "PhD Research Intern - Quantum Simulation and AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298767,7 +298767,7 @@
         "company_name": "Cook Group",
         "id": "e6b611b1-56cf-4323-bd4d-9566f7d450d5",
         "title": "Statistics & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357225,7 +357225,7 @@
         "company_name": "Renesas Electronics",
         "id": "5ef845ef-48a9-46a2-b813-ae3353972e64",
         "title": "Analog Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -357273,7 +357273,7 @@
         "company_name": "Boston Dynamics",
         "id": "d1eb6cb3-969b-432d-bc33-ab75d1d2130f",
         "title": "Electrical Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -379492,7 +379492,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381087,7 +381087,7 @@
         "company_name": "Meta",
         "id": "7c1bbb4d-9914-41c7-a380-95de6cbc42b5",
         "title": "Research Scientist Intern - Humanoid Control & Dexterous Manipulation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397105,7 +397105,7 @@
         "company_name": "Lightmatter",
         "id": "c4b320e0-8093-49ca-a4aa-90f0bb9cb4f7",
         "title": "Laser Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397540,7 +397540,7 @@
         "company_name": "Genentech",
         "id": "e6cc258e-e627-46e5-b6b9-cbb116089fc6",
         "title": "Summer Intern - Digital, AI, and Clinical Outcome Assessments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
