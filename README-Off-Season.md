@@ -37675,18 +37675,18 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company">GE Appliances</a></strong></td>
-<td>Electrical Engineer Co-op</td>
-<td>Louisville, KY</td>
-<td>Fall 2027</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Protech-Automotive-Solutions?utm_source=GHList&utm_medium=company">Protech Automotive Solutions</a></strong></td>
 <td>Automotive ADAS Calibration Technician Apprentice</td>
 <td>Delaware<br>Salisbury, MD</td>
 <td>Fall 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company">GE Appliances</a></strong></td>
+<td>Electrical Engineer Co-op</td>
+<td>Louisville, KY</td>
+<td>Fall 2027</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
