@@ -158000,7 +158000,7 @@
         "company_name": "NXP Semiconductors",
         "id": "fd3c39d2-33c3-49a1-9e2c-6c0f99a93001",
         "title": "AI and Software Engineer Intern - Automotive MPUs",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219340,7 +219340,7 @@
         "company_name": "Ingredion",
         "id": "50830172-7af7-4ae3-9ca9-1e8d425064b1",
         "title": "Artificial Intelligence & Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -322787,7 +322787,7 @@
         "company_name": "Nokia",
         "id": "a0c93f2d-63da-4cc6-ae93-f2fdf6fc64cd",
         "title": "Optoelectronics Test Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -385323,7 +385323,7 @@
         "company_name": "Catholic Charities of Kansas City-St. Joseph",
         "id": "8537e046-7519-47ea-ad7e-6684f0fb7398",
         "title": "Data and Project Coordinator AmeriCorps VISTA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389078,7 +389078,7 @@
         "company_name": "Zoox",
         "id": "680cbf01-1662-4204-9638-55b49e07da7c",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -407874,7 +407874,7 @@
         "company_name": "APEX Analytix",
         "id": "68916cbe-97cc-414d-8732-d68540a99d35",
         "title": "Product Management Intern - DevOps",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -413217,6 +413217,50 @@
             "Bohemia, NY"
         ],
         "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trener Robotics",
+        "id": "354c0758-802d-4ab5-8ee4-879e6d627e89",
+        "title": "Robotics Engineer / Lab Technician Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795169570,
+        "date_posted": 1795132800,
+        "url": "https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trener-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "iCapital Network",
+        "id": "8c654982-1044-49dc-939c-7d279e1eb3b2",
+        "title": "Data Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795169763,
+        "date_posted": 1795033161,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ICapital-Network",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
