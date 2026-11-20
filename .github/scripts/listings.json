@@ -382874,7 +382874,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "16bd2193-13cc-492b-89ac-4a90a8ef0385",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411883,7 +411883,7 @@
         "company_name": "Amii",
         "id": "28281120-e756-4b72-b1a7-c54f3ced2d39",
         "title": "Machine Learning Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
