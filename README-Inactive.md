@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 4283 Inactive Internship Roles by Category
+### Browse 4285 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1497)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1496)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (282)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1520)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1522)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (307)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (677)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (678)
 
 ---
 
@@ -351,7 +351,7 @@
 <td>Software Engineer Intern</td>
 <td>Universal City, LA</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/UiPath?utm_source=GHList&utm_medium=company">UiPath</a></strong></td>
@@ -877,13 +877,6 @@
 <td>Bellevue, WA</td>
 <td>🔒</td>
 <td>21d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Cambridge, UK</td>
-<td>🔒</td>
-<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
@@ -7942,13 +7935,6 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Software Engineering Intern - Software Engineering</td>
-<td>Fort Lauderdale, FL</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/DraftKings?utm_source=GHList&utm_medium=company">DraftKings</a></strong></td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Boston, MA</td>
@@ -7992,6 +7978,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
+<td>Software Engineering Intern - Software Engineering</td>
+<td>Fort Lauderdale, FL</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineering Intern - Software Engineering</td>
 <td>Portage, MI</td>
 <td>🔒</td>
@@ -8741,21 +8734,21 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
+<td>Project Engineer Intern - Summer 2027 🎓</td>
+<td>Bellevue, WA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Project Engineer Intern - Summer 2027 🎓</td>
+<td>Bellevue, WA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Energy Optimization Software Engineer Intern - Summer 2027 🎓</td>
-<td>Bellevue, WA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Project Engineer Intern - Summer 2027 🎓</td>
-<td>Bellevue, WA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Project Engineer Intern - Summer 2027 🎓</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
 <td>3mo</td>
@@ -12695,6 +12688,13 @@
 <td>9d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
+<td>Summer Intern - Digital, AI, and Clinical Outcome Assessments</td>
+<td>South SF</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Art-Of-Problem-Solving?utm_source=GHList&utm_medium=company">Art of Problem Solving</a></strong></td>
 <td>Data Science Intern</td>
 <td>San Diego, CA</td>
@@ -15687,6 +15687,13 @@
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Factory Enablement Digital Engineer Co-op</td>
 <td>Cedar Rapids, IA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>PhD Research Intern - Quantum Simulation and AI 🎓</td>
+<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -24973,7 +24980,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company">Akuna Capital</a></strong></td>
+<td>↳</td>
 <td>Quantitative Development & Strategy Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -25445,6 +25452,13 @@
 <td><strong><a href="https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company">Altera</a></strong></td>
 <td>FPGA IP Design Engineer Intern</td>
 <td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Lightmatter?utm_source=GHList&utm_medium=company">Lightmatter</a></strong></td>
+<td>Laser Firmware Intern</td>
+<td>Boston, MA</td>
 <td>🔒</td>
 <td>8d</td>
 </tr>
