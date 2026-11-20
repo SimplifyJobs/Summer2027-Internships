@@ -122294,7 +122294,7 @@
         "company_name": "Cybernetic Labs",
         "id": "d939c49f-1d93-4ba9-aa2f-32e4e7398633",
         "title": "Forward Deployed Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -129549,7 +129549,7 @@
         "company_name": "OpusClip",
         "id": "b021d4b5-16c6-4efd-a380-34c4d466a750",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -183413,7 +183413,7 @@
         "company_name": "Stryker",
         "id": "ca835172-bf35-4ed0-b110-8dec8dc954ea",
         "title": "Software Engineering Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -204363,7 +204363,7 @@
         "company_name": "GlobalFoundries",
         "id": "db477b31-3358-44a9-85b7-9c1740e035fe",
         "title": "SiGe HBT Device Modelling Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -211034,7 +211034,7 @@
         "company_name": "The Cary Company",
         "id": "06b42354-9e3f-4ab3-9d2d-ea134923bf23",
         "title": "AI / Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -276512,7 +276512,7 @@
         "company_name": "GM financial",
         "id": "c101ff9c-9897-4854-bc18-a135671acfc2",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389253,7 +389253,7 @@
         "company_name": "DriveWealth",
         "id": "90ce8440-7b7f-4a23-9faf-98290634d956",
         "title": "AI Consulting Associate Program Brokerage Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412427,6 +412427,77 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scheels",
+        "id": "0c884a35-d2e9-478a-b007-cb9b4907befe",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795159630,
+        "date_posted": 1795159541,
+        "url": "https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/Scheels",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EFI Foundation",
+        "id": "64e1919d-6c6d-43fa-a3ee-0f0579a5f5d2",
+        "title": "Research Intern/Fellow",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795159284,
+        "date_posted": 1795159191,
+        "url": "https://efifoundation.bamboohr.com/careers/43/",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/EFI-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Melaleuca",
+        "id": "d263736b-e32b-4826-90b6-26e21a6d1a7d",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795159148,
+        "date_posted": 1795159028,
+        "url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Melaleuca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
