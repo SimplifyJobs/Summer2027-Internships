@@ -323,27 +323,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Liberty University",
-        "id": "2247fdeb-0268-461d-ac67-f0b7d9c609cc",
-        "title": "IT Computer Lab Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774476066,
-        "date_posted": 1774476066,
-        "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Lynchburg-VA/IT-Computer-Lab-Apprentice_R0010391",
-        "locations": [
-            "Lynchburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Liberty-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "ZOLL Medical Corporation",
         "id": "53fc322e-85b0-4410-99e9-1a71f3dfcdad",
@@ -218820,7 +218799,7 @@
         "company_name": "Zipline",
         "id": "344ab169-a8ca-4178-8d88-e864f5408c19",
         "title": "Aircraft Software Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -261989,7 +261968,7 @@
         "company_name": "GM financial",
         "id": "3aafe9c0-e14d-4259-82c1-58a96d23552b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268535,7 +268514,7 @@
         "company_name": "CAE",
         "id": "1c4c6e2a-b8f1-414c-ba29-d58ee1ce7dbe",
         "title": "Software Developer Intern - Content Creation Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387105,7 +387084,7 @@
         "company_name": "ASML",
         "id": "3782f150-ff64-421e-b976-15d91c64802e",
         "title": "Computational Imaging and Metrology Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
