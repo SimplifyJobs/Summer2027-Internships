@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uncountable",
-        "id": "c5d99aec-a24e-48a7-a680-3954ba770c54",
-        "title": "Full-Stack Intern",
-        "active": true,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1774430178,
-        "date_posted": 1774430178,
-        "url": "https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application",
-        "locations": [
-            "London, UK",
-            "SF",
-            "NYC",
-            "Munich, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Uncountable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Insitro",
-        "id": "21f55edc-715b-44a3-87fe-ffbb071bbf22",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774429885,
-        "date_posted": 1774429885,
-        "url": "https://jobs.ashbyhq.com/insitro/785db2de-c425-401c-869c-fff3e14fcdea/application",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Insitro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Commonwealth of Massachusetts",
         "id": "f33deafa-a6df-4112-b056-c1309541ae79",
@@ -105686,7 +105632,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Later",
-        "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
+        "id": "119ba1cb-df5a-4b95-9bed-4d76527e4280",
         "title": "AI Automation Engineer Co-op",
         "active": true,
         "terms": [
@@ -273165,7 +273111,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290209,7 +290155,7 @@
         "company_name": "AfterQuery",
         "id": "0dd2a24d-6ed2-46e0-ad44-2b1f11989d18",
         "title": "Research Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383515,7 +383461,7 @@
         "company_name": "Milwaukee Brewers",
         "id": "1c9bb24e-b46c-49c9-8632-39b22afc21ff",
         "title": "Minor League Technology Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385211,7 +385157,7 @@
         "company_name": "KLA",
         "id": "12f65111-8cf7-40a0-b93e-b90f6b9ddaa1",
         "title": "Optical Systems Student Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
