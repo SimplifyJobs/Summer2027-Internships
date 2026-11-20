@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "e0b730ba-4f1b-48f6-ba9f-e99996809328",
-        "title": "AI Researcher",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774420437,
-        "date_posted": 1774420437,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI-Research-Intern---8-months_R_1474619",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "0e93047e-7f08-4d6d-9750-c22f586c8e61",
-        "title": "AI Research Intern - 8 months",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774420436,
-        "date_posted": 1774420436,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI-Research-Intern---8-months_R_1474632",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "09d17377-5621-4d98-92fd-ede3d10b9c59",
-        "title": "AI Research Intern - 8 months",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774420434,
-        "date_posted": 1774420434,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI-Research-Intern---8-months_R_1474762",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Live Nation Entertainment",
-        "id": "966f546b-a717-4d4d-8fa2-8007e8a23ab0",
-        "title": "Marketing Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774422058,
-        "date_posted": 1774422058,
-        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Marketing-Analytics-Intern_JR-88731",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Uncountable",
         "id": "c5d99aec-a24e-48a7-a680-3954ba770c54",
@@ -122528,7 +122432,7 @@
         "company_name": "Cybernetic Labs",
         "id": "a6f02442-de0a-454f-a56f-8462c72d7c74",
         "title": "Software Engineer Intern - Agent Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -139983,7 +139887,7 @@
         "company_name": "JP Morgan Chase",
         "id": "98635871-6276-41e4-ad95-172485704a2c",
         "title": "Data & AI Intern - Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -183414,7 +183318,7 @@
         "company_name": "Stryker",
         "id": "a980e8b0-12fe-45eb-9fa2-697b990375e7",
         "title": "Data Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364651,7 +364555,7 @@
         "company_name": "Bank of Montreal",
         "id": "abaefc1d-50b7-4172-a329-4fc9c7667dbd",
         "title": "Quantitative Trading Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
