@@ -182908,7 +182908,7 @@
         "company_name": "Stryker",
         "id": "3c6dc4c7-bd24-4215-a600-0d55a3952673",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331016,7 +331016,7 @@
         "company_name": "National Bank of Canada",
         "id": "4fa22455-1249-435d-afe1-cc78e8b8b42d",
         "title": "Artificial Intelligence Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392497,7 +392497,7 @@
         "company_name": "Trilogy Health Services",
         "id": "4b696a25-371d-4850-bd83-a776f749aa20",
         "title": "Information Systems Developer of AI and Automated Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400399,7 +400399,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "3ce645b0-f6de-4226-a5b3-65a6d95354ae",
         "title": "Machine Learning Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
