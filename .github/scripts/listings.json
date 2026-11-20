@@ -2,94 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "SEI",
-        "id": "f9bee07c-a388-4a67-a810-9b0966e948c5",
-        "title": "Intern \u2013 SEI Data Office AI Intern - SEI Data Office AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774452000,
-        "date_posted": 1774452000,
-        "url": "https://seic.wd1.myworkdayjobs.com/SEI_Global_Services/job/USA---PA---Oaks/XMLNAME-2026-Intern---SEI-Data-Office-AI-Intern_R0035952",
-        "locations": [
-            "Phoenixville, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/SEIC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "c95d2cdc-76f3-4a67-8951-56ce4572cbb6",
-        "title": "Intern \u2013 Smart Manufacturing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774451150,
-        "date_posted": 1774451150,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Smart-Manufacturing_JR95965",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DXC Technology",
-        "id": "4475bfac-4218-4b36-9bec-5ebb2c6694a0",
-        "title": "Degree Apprenticeship in Data & AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774451043,
-        "date_posted": 1774451043,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/XMLNAME-51576237-DXC-Academic-Programme---Degree-Apprenticeship-in-Data---AI_51576529",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DXC Technology",
-        "id": "0e8484cc-b698-43a8-9651-2b23b065b37b",
-        "title": "DXC Academic Programme \u2013 Modern Apprenticeship in Data & AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774451042,
-        "date_posted": 1774451042,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/XMLNAME-51576240-DXC-Academic-Programme---Modern-Apprenticeship-in-Data---AI_51576527",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Al Warren Oil Company",
         "id": "c7f2e562-9c39-4b5a-9d95-89b86d3e4a4b",
         "title": "Software Developer Intern",
@@ -119180,7 +119092,7 @@
         "company_name": "DRW",
         "id": "9d3f1c22-843d-4d5f-822e-542fba89e477",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -170193,7 +170105,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -221813,7 +221725,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -233174,7 +233086,7 @@
         "company_name": "Epic Games",
         "id": "cc42178a-cb7e-4d51-9f4c-a0cfc4b81f50",
         "title": "UI Programmer Intern - Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -271069,7 +270981,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397809,7 +397721,7 @@
         "company_name": "Farmers Mutual Hail",
         "id": "c9f1a3d2-c7ac-44dd-85c0-72319685dbe3",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405137,7 +405049,7 @@
         "company_name": "Boston Scientific",
         "id": "ba118afe-7991-4a5a-87c7-f68325d9f99d",
         "title": "AI Engineer Intern - Generative & Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408048,7 +407960,7 @@
         "company_name": "Starwood Capital Group",
         "id": "c34c6925-097c-4bad-bab0-a81212890927",
         "title": "Agentic Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408071,7 +407983,7 @@
         "company_name": "Starwood Capital Group",
         "id": "c97bbf74-e4d6-4fbc-b83a-0a45cbdc60a4",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -410285,7 +410197,7 @@
         "company_name": "Bread Financial",
         "id": "c0fa2195-311d-4b20-895a-835015b65bb8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413123,5 +413035,165 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flare",
+        "id": "ca3f8898-4242-437d-93c0-86e4161f061a",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795188280,
+        "date_posted": 1795188134,
+        "url": "https://flare.bamboohr.com/careers/29/",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Flare-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graco",
+        "id": "e300213a-13f8-44cd-9ca8-dbc481e5ab55",
+        "title": "Electrical Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795188062,
+        "date_posted": 1795046400,
+        "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552",
+        "locations": [
+            "Flagstaff, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Graco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Symbotic",
+        "id": "aebb523a-9619-4c64-9e37-32778713a349",
+        "title": "Software Engineer Intern - Front-End",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795188083,
+        "date_posted": 1795132800,
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Symbotic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Systems Planning and Analysis",
+        "id": "80c2eec1-d0db-47f0-b9ce-67834cfa6455",
+        "title": "Integrated Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795187523,
+        "date_posted": 1795186320,
+        "url": "https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AON3D",
+        "id": "36697ae4-2c1a-4649-82f5-c13159e97aad",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795187523,
+        "date_posted": 1795181407,
+        "url": "https://job-boards.greenhouse.io/aon3d/jobs/4504702009",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AON3D",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "e967ed72-8ab2-47b3-a77e-89fb34babbc1",
+        "title": "Masters Server Power Management Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795187405,
+        "date_posted": 1795185660,
+        "url": "https://careers.amd.com/jobs/89816?icims=1&lang=en-us",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huawei",
+        "id": "2728def8-e9fd-4afd-8ccd-5d648d38463a",
+        "title": "Researcher Intern - Mathematical Foundations of Differentiable World Models",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795187271,
+        "date_posted": 1795181862,
+        "url": "https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Huawei-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
