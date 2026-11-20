@@ -254182,7 +254182,7 @@
         "company_name": "FHLBank Chicago",
         "id": "36d9cf7b-db8f-4fc4-9347-d2ef14972f74",
         "title": "Model Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279009,7 +279009,7 @@
         "company_name": "Motorola",
         "id": "dffa3f5f-d496-43e5-90e0-105b940da03c",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350078,7 +350078,7 @@
         "company_name": "KLA Corporation",
         "id": "b03555c3-944d-4213-aab1-95db2f80fabf",
         "title": "Software Engineer Intern - C++ - Linux",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373664,7 +373664,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "2ffb87fc-eef2-4456-bf21-597d3959f98e",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
