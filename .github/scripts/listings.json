@@ -313363,7 +313363,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "a0f12336-bc97-406f-8566-d979678ebf6b",
         "title": "Analyst/Researcher Intern - Analyst/Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358535,7 +358535,7 @@
         "company_name": "onsemi",
         "id": "9857a37f-ddfe-474b-877b-894f4761b0d3",
         "title": "Customer Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371804,7 +371804,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "b4e0a3a3-103b-4d99-a55c-4456842414c8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393111,7 +393111,7 @@
         "company_name": "Matillion",
         "id": "ae7750b1-899e-4303-94dc-793bbd2be58d",
         "title": "Computer Science Intern - Software Engineering with AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
