@@ -189504,7 +189504,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -224188,7 +224188,7 @@
         "company_name": "United Launch Alliance",
         "id": "e6dbbc55-6f12-4929-aae1-6c7b7e14a24b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -248445,7 +248445,7 @@
         "company_name": "North Atlantic Industries",
         "id": "a9c87258-44b4-479b-b798-056f263de8b8",
         "title": "Full Stack Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284988,7 +284988,7 @@
         "company_name": "Keysight Technologies",
         "id": "f4ec9754-f694-4e49-89d1-e4e407d7d2ff",
         "title": "EDA AI/ML Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350054,7 +350054,7 @@
         "company_name": "KLA Corporation",
         "id": "76ebac3b-92ba-48b2-b5ad-c3ea2b664381",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365831,7 +365831,7 @@
         "company_name": "Altera",
         "id": "6cb8334b-aefe-49d7-8abf-7622722ab92f",
         "title": "Software Engineer Intern - Factory Apps",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377691,7 +377691,7 @@
         "company_name": "Moderna",
         "id": "a8192ed5-e5e9-415e-a09c-8bbc96ebe4bd",
         "title": "mRNA Design Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399132,7 +399132,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "712b2630-73fb-450b-a8c8-955e1d5180dd",
         "title": "Enterprise Performance Modeling and Simulation Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413265,6 +413265,110 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smule",
+        "id": "253c8870-0795-4331-816e-75f117e86bc3",
+        "title": "Applied Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795171906,
+        "date_posted": 1795171743,
+        "url": "https://smule.bamboohr.com/careers/29/",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Smule",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smule",
+        "id": "124ea243-efc7-445a-b7b6-93988eab5ec8",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795171906,
+        "date_posted": 1795171743,
+        "url": "https://smule.bamboohr.com/careers/31/",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Smule",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smule",
+        "id": "93a4d3cf-da91-437c-adcd-cb807fd35b67",
+        "title": "Research Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795171906,
+        "date_posted": 1795171743,
+        "url": "https://smule.bamboohr.com/careers/30/",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Smule",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AI Security Institute",
+        "id": "11ea2e35-1022-4acb-968a-8d8381dcc2f5",
+        "title": "Red Team Researcher Resident - Red Team",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795171366,
+        "date_posted": 1795166124,
+        "url": "https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Cardiff, UK",
+            "Bristol, UK",
+            "Darlington, UK",
+            "Birmingham, UK",
+            "Salford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Security-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
