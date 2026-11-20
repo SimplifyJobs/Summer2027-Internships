@@ -2,115 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "TNS",
-        "id": "3de7ddd4-4951-42b8-97de-864d68e72fb9",
-        "title": "Mobile Telecom Applications Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774450022,
-        "date_posted": 1774450022,
-        "url": "https://tnsi.wd1.myworkdayjobs.com/Search/job/USA---Seattle/Mobile-Telecom-Applications-Intern_R2851",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TNS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Access Group",
-        "id": "237d2976-7eca-4598-bbb1-64b5af986916",
-        "title": "Tech & Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774449952,
-        "date_posted": 1774449952,
-        "url": "https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/Loughborough-Headquarters/Tech---Data-Summer-Intern_JR003341-1",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Access-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Access Group",
-        "id": "1920913b-7f29-46e1-9b8e-703edd752d57",
-        "title": "Tech and Data Trainee Associate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774449949,
-        "date_posted": 1774449949,
-        "url": "https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/Loughborough-Headquarters/Tech---Data-Trainee-Associate_JR003340-2",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Access-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SEI",
-        "id": "de34ba70-f2bf-4038-adda-949464e1357a",
-        "title": "Intern \u2013 SEI Data Office Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774449232,
-        "date_posted": 1774449232,
-        "url": "https://seic.wd1.myworkdayjobs.com/SEI_Global_Services/job/USA---PA---Oaks/XMLNAME-2026-Intern---SEI-Data-Office-Data-Engineering-Intern_R0035958",
-        "locations": [
-            "Phoenixville, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/SEIC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Babel Street",
-        "id": "c5217014-2fe6-4dc3-82b2-36ec9dcd85f4",
-        "title": "Software Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774449156,
-        "date_posted": 1774449156,
-        "url": "https://job-boards.greenhouse.io/babelstreet/jobs/7747118",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Babel-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "SEI",
         "id": "f9bee07c-a388-4a67-a810-9b0966e948c5",
         "title": "Intern \u2013 SEI Data Office AI Intern - SEI Data Office AI Intern",
@@ -148,29 +39,6 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "725d4477-a61d-4ec9-9778-550fdbf093de",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774450933,
-        "date_posted": 1774450933,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2026---Onsite-_01828930",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -218,30 +86,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intel",
-        "id": "e7a7a763-164f-49ff-9d71-1acebf603d2b",
-        "title": "Graduate AI and GPU Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774450589,
-        "date_posted": 1774450589,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Graduate-AI-and-GPU-Research-Intern_JR0281871",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -230002,7 +229846,7 @@
         "company_name": "Navy Federal",
         "id": "b71e17fa-8cfc-4470-998c-563ade508ae9",
         "title": "Business Intelligence Analyst Intern - Consumer Lending",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368102,7 +367946,7 @@
         "company_name": "DRW",
         "id": "ab2d0948-c8de-434b-a065-d64cf16f2b93",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
