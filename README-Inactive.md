@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 4279 Inactive Internship Roles by Category
+### Browse 4281 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1496)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (282)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1517)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1519)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (307)
 
@@ -12622,7 +12622,7 @@
 <td>Property and Casualty Underwriting Intern - Knowledge Management</td>
 <td>Richardson, TX<br>Bloomington, IL</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
@@ -13601,6 +13601,13 @@
 <td>↳</td>
 <td>Data Analyst Intern</td>
 <td>Pittsburgh, PA</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/FTI-Consulting?utm_source=GHList&utm_medium=company">FTI Consulting</a></strong></td>
+<td>Data & Analytics Intern</td>
+<td>London, UK</td>
 <td>🔒</td>
 <td>25d</td>
 </tr>
@@ -15997,6 +16004,13 @@
 <td>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/The-Marzetti-Company?utm_source=GHList&utm_medium=company">The Marzetti Company</a></strong></td>
+<td>IT Analytics Intern</td>
+<td>Columbus, OH</td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AutoZone?utm_source=GHList&utm_medium=company">AutoZone</a></strong></td>
@@ -25502,7 +25516,7 @@
 <td>Applications Engineering Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PA-Consulting?utm_source=GHList&utm_medium=company">PA Consulting</a></strong></td>

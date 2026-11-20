@@ -16510,7 +16510,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1856)</summary>
+<summary>🗃️ Inactive roles (1855)</summary>
 
 <table>
 <thead>
@@ -20821,7 +20821,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
 <td>Developer Co-op Intern - Machine Learning</td>
 <td>Toronto, ON, Canada<br>Ottawa, ON, Canada<br>Remote in Canada</td>
 <td>Winter 2027</td>
@@ -31361,14 +31361,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Asset Management Intern</td>
 <td>Murray, UT</td>
 <td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sallie-Mae?utm_source=GHList&utm_medium=company">Sallie Mae</a></strong></td>
-<td>Data Analytics Intern</td>
-<td>New Castle, DE</td>
-<td>Winter 2027, Spring 2027, Summer 2027</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
