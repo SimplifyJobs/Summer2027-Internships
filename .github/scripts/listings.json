@@ -144450,7 +144450,7 @@
         "company_name": "Louisiana Blue",
         "id": "41322ea3-9446-4196-ad23-37747898216b",
         "title": "Healthcare Price and Transparency Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -147178,7 +147178,7 @@
         "company_name": "Terranova",
         "id": "5725405b-6f22-485b-a418-ad3c6148afb4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -365272,7 +365272,7 @@
         "company_name": "Astronics",
         "id": "3d956618-19c8-41b1-beb3-388e234964d5",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380213,7 +380213,7 @@
         "company_name": "Nutanix",
         "id": "4a56e5c7-104e-4300-af23-cd40dfd09685",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400424,7 +400424,7 @@
         "company_name": "Wolters Kluwer",
         "id": "527bfca2-0633-4f39-9057-864baf83e6ac",
         "title": "Product Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412265,6 +412265,284 @@
             "Allen Park, MI"
         ],
         "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "c1b6a336-1f07-4e77-9682-cdb74fad5b71",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795141654,
+        "date_posted": 1795134260,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990016986011",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pathlabs",
+        "id": "b0cd14b7-c677-4221-b6fb-e7a8d7035eff",
+        "title": "Software and AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795141465,
+        "date_posted": 1795141335,
+        "url": "https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern",
+        "locations": [
+            "Missoula, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Pathlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tarana Wireless",
+        "id": "a330f92d-8bbe-4101-99dd-42c10ff9ec7a",
+        "title": "Hardware Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795141451,
+        "date_posted": 1795141317,
+        "url": "https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tarana-Wireless",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Formlabs",
+        "id": "6088d4cc-1e5f-4495-8f41-33af9ea62bde",
+        "title": "API & Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795141280,
+        "date_posted": 1795134860,
+        "url": "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LinkedIn",
+        "id": "ae87e9d7-6095-4858-ad45-3e454d66d799",
+        "title": "AI/ML Engineer Intern - Generative AI",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795140725,
+        "date_posted": 1795135606,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LinkedIn",
+        "id": "c267ac77-cf36-46c9-8ade-0c7e564d152e",
+        "title": "AI/ML Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795140725,
+        "date_posted": 1795136968,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LinkedIn",
+        "id": "b80c73b2-8965-4d66-bb3b-ade96bd3a1f3",
+        "title": "Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795140783,
+        "date_posted": 1795135395,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "e0dd6ddb-be26-46c8-90bf-1131ea814357",
+        "title": "Research Intern - AI Serving Systems and Hardware",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795140567,
+        "date_posted": 1795140531,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lucid Motors",
+        "id": "f057ac78-d4d1-4443-8a91-99ef6b3ee471",
+        "title": "Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795140452,
+        "date_posted": 1795135259,
+        "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lucid Motors",
+        "id": "cb3d3d43-dec0-479f-bf5c-08c24c2f12fa",
+        "title": "ADAS Systems Integration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795140457,
+        "date_posted": 1795135106,
+        "url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lucid Motors",
+        "id": "8cf12030-dee3-49e9-baaa-ea5dfb834537",
+        "title": "Infotainment Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1795140455,
+        "date_posted": 1795138046,
+        "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lucid Motors",
+        "id": "23c15372-9632-404c-a541-af54e55a15f8",
+        "title": "AI & Data Intern - Applied AI/Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795140460,
+        "date_posted": 1795130683,
+        "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
