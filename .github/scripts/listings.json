@@ -270209,7 +270209,7 @@
         "company_name": "Epic Games",
         "id": "c6ad75c6-e86c-4602-8344-eb52b14bb37e",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333564,7 +333564,7 @@
         "company_name": "The Toro Company",
         "id": "75a57c7c-d53e-471f-ad32-b424227e9f4a",
         "title": "Cloud Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357225,7 +357225,7 @@
         "company_name": "Renesas Electronics",
         "id": "5ef845ef-48a9-46a2-b813-ae3353972e64",
         "title": "Analog Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357273,7 +357273,7 @@
         "company_name": "Boston Dynamics",
         "id": "d1eb6cb3-969b-432d-bc33-ab75d1d2130f",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413195,5 +413195,53 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The SilverLogic",
+        "id": "1c40cb3e-36ea-45e6-9a21-bf448515a35e",
+        "title": "AI Engineer/Consultant Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795189886,
+        "date_posted": 1795189720,
+        "url": "https://silverlogic.bamboohr.com/careers/36/",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/The-SilverLogic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wurl",
+        "id": "51721c6e-7373-4e16-8508-6d390c350eb6",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795188647,
+        "date_posted": 1795171905,
+        "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4731130006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wurl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
