@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thorlabs",
-        "id": "ff12c2d7-4a17-4e9c-a727-c69ab34e9e19",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774534839,
-        "date_posted": 1774534839,
-        "url": "https://apply.workable.com/thorlabs/j/313D67D856/apply",
-        "locations": [
-            "Branchville, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Thorlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sharp Electronics",
-        "id": "1034255c-7a61-4de0-b7fd-fcae014a3824",
-        "title": "Intern Product Manager - Business Products",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774534471,
-        "date_posted": 1774534471,
-        "url": "https://careers-sharpusa.icims.com/jobs/8707/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Sharp-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Applied Materials",
         "id": "afa9b70e-7a67-4bd1-ac11-e9555a36dbb2",
@@ -43808,27 +43766,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mackenzie Investments",
-        "id": "3135e472-53f3-4bbd-8f08-dc2d0ca0ca6c",
-        "title": "Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1777019081,
-        "date_posted": 1774534245,
-        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5832/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
