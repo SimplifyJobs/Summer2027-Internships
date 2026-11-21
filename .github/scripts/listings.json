@@ -1,103 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Western Alliance",
-        "id": "a6fedffe-8f73-4746-bb91-e02c8073850c",
-        "title": "Intern - Computer Science Majors",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774489621,
-        "date_posted": 1774489621,
-        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2026-Internship---Computer-Science-Majors_R12232",
-        "locations": [
-            "Dallas, TX",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Alliance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Western Alliance",
-        "id": "8bc3d7ec-c8f0-4ba5-9b41-d471f022a2c3",
-        "title": "Intern - Computer Science Majors",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774489627,
-        "date_posted": 1774489627,
-        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2026-Internship---Computer-Science-Majors_R12233",
-        "locations": [
-            "Dallas, TX",
-            "Phoenix, AZ",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Alliance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "74ebe188-7ab2-4d55-81ef-849d7bcd9ddc",
-        "title": "Product Manager Intern - Content and Service Entertainment Ads",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774488982,
-        "date_posted": 1774488982,
-        "url": "https://lifeattiktok.com/search/7621302005031864581",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Energy Vault",
-        "id": "c40d5d7b-eb1f-475d-b827-ee00479b46a6",
-        "title": "Intern Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774488720,
-        "date_posted": 1774488720,
-        "url": "https://jobs.lever.co/EnergyVault/6df5f1b9-8fce-4717-aaa0-98768ef28eeb/apply",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Energy-Vault",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Wabtec",
         "id": "72a2e330-7f0e-4f36-ac82-676cafd5b25e",
@@ -259323,7 +259226,7 @@
         "company_name": "Waymo",
         "id": "371c8592-d416-40cf-88fb-3f95ac049ad3",
         "title": "Scenes Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314565,7 +314468,7 @@
         "company_name": "Workday",
         "id": "2ab54297-543e-4470-b71e-2e95b53cd687",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
