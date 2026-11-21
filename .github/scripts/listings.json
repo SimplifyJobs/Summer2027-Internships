@@ -238181,7 +238181,7 @@
         "company_name": "Genworth Financial",
         "id": "09e1c7ef-5308-4aa4-b767-2020b75e4811",
         "title": "Data Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -243949,7 +243949,7 @@
         "company_name": "BDO Canada",
         "id": "aac6f4d7-096c-4de7-b7cf-9bc0e9bd4343",
         "title": "Full-Stack Developer Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -414363,6 +414363,170 @@
             "Brillion, WI"
         ],
         "company_url": "https://simplify.jobs/c/AriensCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ribbon",
+        "id": "b5e9a29a-b709-4d78-8e07-c795aad202ea",
+        "title": "Software Developer Co-op - Common Cloud Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795276474,
+        "date_posted": 1795046400,
+        "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ribbon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thomson Reuters",
+        "id": "c747d4ed-3d3e-4384-891a-5c604173888e",
+        "title": "Research Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795276085,
+        "date_posted": 1795132800,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Intern---Agentic-AI---NLP---ML_JREQ205375",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Littelfuse",
+        "id": "550703d5-4325-4941-864f-5e518447d573",
+        "title": "R&D Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795275905,
+        "date_posted": 1795132800,
+        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1",
+        "locations": [
+            "Rapid City, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Littelfuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Delta Dental",
+        "id": "fbc36d2d-35f9-4bfd-8880-eacd9e2756cc",
+        "title": "Application Development Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795275788,
+        "date_posted": 1794960000,
+        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534",
+        "locations": [
+            "Okemos, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Delta-Dental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MBDA",
+        "id": "bebe3c10-ace7-45af-8e1c-824f7fd02207",
+        "title": "Software Work Experience Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1795275775,
+        "date_posted": 1795046400,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blizzard Entertainment",
+        "id": "436c4c36-f3de-487a-83b6-492a4266d8ff",
+        "title": "Data Platform Engineering Intern - Data Platform Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795275585,
+        "date_posted": 1794787200,
+        "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "2f9d52bb-ed7d-407a-b2db-ba4eaffe95b9",
+        "title": "Software Engineer Intern - Circuit Simulation infrastructure",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795275195,
+        "date_posted": 1795046400,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
