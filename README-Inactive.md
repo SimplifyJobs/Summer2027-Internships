@@ -225,7 +225,7 @@
 <td>Technical Game Design Intern - League of Legends and Teamfight Tactics</td>
 <td>LA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Formlabs?utm_source=GHList&utm_medium=company">Formlabs</a></strong></td>
