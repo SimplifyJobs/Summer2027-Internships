@@ -356184,7 +356184,7 @@
         "company_name": "Ciena",
         "id": "1a2e7785-ecd0-432f-a592-087e510f7845",
         "title": "Electronic Reliability Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -411465,7 +411465,7 @@
         "company_name": "AON3D",
         "id": "36697ae4-2c1a-4649-82f5-c13159e97aad",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
