@@ -1,160 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "afa9b70e-7a67-4bd1-ac11-e9555a36dbb2",
-        "title": "Computer Science Intern - AI/ML Tools - Bachelor's",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1774538468,
-        "date_posted": 1774538468,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/HuntsvilleAL/XMLNAME-2026-Summer-Computer-Science-Intern--AI-ML-Tools----Bachelor-s--Huntsville--AL-_R2616144-1",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "e83b1c18-664b-43a5-b2a6-45ae369be556",
-        "title": "DXC Degree Academic Programme - Data/AI",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774538300,
-        "date_posted": 1774538300,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Degree-Academic-Programme---Data-AI_51576540",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DXC Technology",
-        "id": "b28b15bb-ff3d-429e-8a79-c4fab3bcca3d",
-        "title": "DXC Degree Apprentice Programme - Data/ AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774538307,
-        "date_posted": 1774538307,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Degree-Apprentice-Programme---Data--AI---Farnborough_51576539",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oshkosh",
-        "id": "fea0482e-b9d1-4b08-8562-7c9d8e41e9f8",
-        "title": "Electrical Design Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774538056,
-        "date_posted": 1774538056,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pyle-United-Kingdom/Electrical-Design-Apprentice_R45329",
-        "locations": [
-            "Swansea, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Pennsylvania State University",
-        "id": "72636fd7-15a0-474b-8146-e83de77d2b08",
-        "title": "OriginLabs Technician and Lab Monitor",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774538199,
-        "date_posted": 1774538199,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-OriginLabs-Technician-and-Lab-Monitor_REQ_0000076919-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FMC Corporation",
-        "id": "aa6544d6-458e-4776-8ed6-7a7f37c1a68e",
-        "title": "Market Intelligence & Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774537754,
-        "date_posted": 1774537754,
-        "url": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Philadelphia-Pennsylvania/Market-Intelligence---Data-Analyst-Intern_R-1668",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/FMC-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hitachi",
-        "id": "759f419b-5f10-41a6-8705-c15f4515c31b",
-        "title": "Software Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774537729,
-        "date_posted": 1774537729,
-        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Summer-2026-_R1012230",
-        "locations": [
-            "Scarborough, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cirrus Logic",
         "id": "e266847e-7fd9-4d08-b846-56ae0dae2ed4",
@@ -268891,7 +268737,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399788,7 +399634,7 @@
         "company_name": "Federal Home Loan Bank of Dallas",
         "id": "92e97129-5157-407c-a20a-583d03213c24",
         "title": "Digital Transformation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -414428,6 +414274,95 @@
             "Glasgow, UK"
         ],
         "company_url": "https://simplify.jobs/c/Rolls-Royce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Compassion International",
+        "id": "b5c5b115-3401-43ce-ac29-ea46e184089f",
+        "title": "Summer Intern - Data and Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795274671,
+        "date_posted": 1795046400,
+        "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Compassion-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Walmart",
+        "id": "060bdac5-8e6c-447e-ae09-d04ae31a8b25",
+        "title": "MBA Product Manager Intern - MBA",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795274129,
+        "date_posted": 1795132800,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Woodward Governor",
+        "id": "28b10e18-b290-443b-b1ae-dca8536f1cd0",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795273765,
+        "date_posted": 1795132800,
+        "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
+        "locations": [
+            "Niles, IL",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Woodward-Governor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AriensCo",
+        "id": "b4668eae-16c6-4c57-927b-a0dc130281a9",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795273563,
+        "date_posted": 1795132800,
+        "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
+        "locations": [
+            "Brillion, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/AriensCo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
