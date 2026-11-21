@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "STRS Ohio",
-        "id": "2c501bc7-6de6-4b43-9cf9-5bc81411a079",
-        "title": "Solutions Analyst - ITS Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774510344,
-        "date_posted": 1774510344,
-        "url": "https://strsoh.wd1.myworkdayjobs.com/STRS_Jobs/job/Columbus-Ohio/Solutions-Analyst--ITS-Student_JR100619",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/STRS-Ohio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Argonne National Laboratory",
         "id": "80a6bb0a-0472-4226-b5d2-745d5b0b8492",
@@ -268998,7 +268977,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348700,7 +348679,7 @@
         "company_name": "Huntington Bancshares",
         "id": "baf68adf-358f-4898-99b5-1bb3a08bd7f6",
         "title": "Enterprise Payments Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414382,6 +414361,98 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Convverge",
+        "id": "fbb75aa4-661e-464a-988f-c30cfd40ddb5",
+        "title": "Junior Developer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795247111,
+        "date_posted": 1795246991,
+        "url": "https://convverge.bamboohr.com/careers/31/",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Convverge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vatic Outsourcing",
+        "id": "cc0e5132-bdce-42ad-897c-ee8003bc0cd9",
+        "title": "Business Intelligence Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795246209,
+        "date_posted": 1795246193,
+        "url": "https://vaticoutsourcing.bamboohr.com/careers/152/",
+        "locations": [
+            "Marietta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vatic-Outsourcing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurora Innovation",
+        "id": "76127016-50b2-48d1-99eb-f720b5ff3a2d",
+        "title": "Hardware Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795246228,
+        "date_posted": 1790812800,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application?embed=true",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "5e4572a4-e876-4056-a421-eab41b69f824",
+        "title": "Physics & AI Modeling Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788496921,
+        "date_posted": 1782963411,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
