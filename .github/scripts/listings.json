@@ -254388,7 +254388,7 @@
         "company_name": "Altar'd State",
         "id": "e2caf3c4-f5a1-480c-b6b0-7479ebdd4b8d",
         "title": "IT Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -335347,7 +335347,7 @@
         "company_name": "Insomniac Games",
         "id": "9f461243-b3dd-46c6-882c-7cece23604c7",
         "title": "Technical Artist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355718,7 +355718,7 @@
         "company_name": "Hitachi",
         "id": "da7bf188-3e70-455c-973d-25bf668ed458",
         "title": "Software Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363997,7 +363997,7 @@
         "company_name": "Meta",
         "id": "aa17c8d8-a4c8-4f40-9a0f-73bca79d2727",
         "title": "Research Scientist Intern - Scam and Trust",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401126,7 +401126,7 @@
         "company_name": "Aurora Innovation",
         "id": "beaa414a-33e5-448c-ae31-d7aeeb886d98",
         "title": "Embedded Software Engineer Intern - Lidar",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
