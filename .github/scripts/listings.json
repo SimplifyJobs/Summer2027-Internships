@@ -103606,7 +103606,7 @@
         "company_name": "pony.ai",
         "id": "40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
         "title": "Research Intern - Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -249349,7 +249349,7 @@
         "company_name": "Oshkosh",
         "id": "521c0e75-2b2f-41b5-a0bd-d4a44e24ee3d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -269311,7 +269311,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -286032,7 +286032,7 @@
         "company_name": "DraftKings",
         "id": "4e50989c-28b7-441b-aabc-eb291b528b95",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321542,7 +321542,7 @@
         "company_name": "GE Vernova",
         "id": "42f5973e-2aff-404f-84c2-f2aaba6998d1",
         "title": "AI Post-Training and Model Alignment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332728,7 +332728,7 @@
         "company_name": "Insomniac Games",
         "id": "3d74d34b-cf5a-4c64-b08a-73afd63a61f6",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345043,7 +345043,7 @@
         "company_name": "ACI Worldwide",
         "id": "59c91bb5-c7b2-4849-9e8e-c13518b6dd45",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362881,7 +362881,7 @@
         "company_name": "Astronics",
         "id": "3d956618-19c8-41b1-beb3-388e234964d5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369744,7 +369744,7 @@
         "company_name": "Publicis Groupe",
         "id": "56c51dc3-89fa-48ac-acd9-d8bb5ef31395",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395320,7 +395320,7 @@
         "company_name": "GlobalFoundries",
         "id": "55799669-fdb2-4df4-8003-40a72d0e7531",
         "title": "AI Processor Hardware/Software Integration Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414399,5 +414399,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lucid Motors",
+        "id": "cdb1ef31-7f9b-4574-bbe4-01e83315372f",
+        "title": "ADAS Platform Tools Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795228042,
+        "date_posted": 1795223699,
+        "url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "16db2d2f-ebe2-4ccb-8526-7d28df513068",
+        "title": "Research Intern - AI System Architecture Modeling and Performance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795226898,
+        "date_posted": 1795226683,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
