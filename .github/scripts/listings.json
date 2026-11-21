@@ -264332,7 +264332,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -390850,7 +390850,7 @@
         "company_name": "Johnson & Johnson",
         "id": "0aa8fe34-4c71-413b-b204-37dd5226fd7d",
         "title": "Postdoctoral Scientist \u2013 AI/ML and Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
