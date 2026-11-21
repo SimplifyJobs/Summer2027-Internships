@@ -230750,7 +230750,7 @@
         "company_name": "ITT",
         "id": "a6d9fcc3-2f85-4609-9b2d-2ed435325914",
         "title": "Product Management Co-op - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -271756,7 +271756,7 @@
         "company_name": "Stryker",
         "id": "fb864212-d3c0-4051-9019-29f9bcfde6ac",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321444,7 +321444,7 @@
         "company_name": "GE Vernova",
         "id": "dfc6d5d9-fa48-468c-999b-1116299c47c2",
         "title": "AI Post-Training and Model Alignment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335324,7 +335324,7 @@
         "company_name": "Insomniac Games",
         "id": "f3b0993a-b1fc-4fa4-a1f4-bc7129fb05f3",
         "title": "Engine and Tools Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372469,7 +372469,7 @@
         "company_name": "KLA Corporation",
         "id": "f9f2c39b-cbd9-4654-bfd9-2ff0ac221771",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
