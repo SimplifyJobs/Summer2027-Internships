@@ -135210,7 +135210,7 @@
         "company_name": "Baseten",
         "id": "1fefa123-5f4a-45e9-b0eb-c51de18773df",
         "title": "Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -270703,7 +270703,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414454,5 +414454,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Astera",
+        "id": "2a369c5b-2d82-4445-b2ae-c67327efa726",
+        "title": "Robotics Systems Intern - Wheeled Platforms & Lifting Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795253225,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
