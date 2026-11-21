@@ -381603,7 +381603,7 @@
         "company_name": "Little Caesars Enterprises",
         "id": "cfc01a26-bc31-4944-802c-370b51b0e573",
         "title": "AI IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
