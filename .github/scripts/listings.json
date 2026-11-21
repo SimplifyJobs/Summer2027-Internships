@@ -297347,7 +297347,7 @@
         "company_name": "OCC",
         "id": "cd6cde79-1a15-4a7b-a17f-f27dbbee1fa9",
         "title": "Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -352998,7 +352998,7 @@
         "company_name": "Skydio",
         "id": "af44a97e-7851-4c17-95b2-1f4d3f8e5d53",
         "title": "Autonomy Engineer Intern - Simulation & Robotics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414492,5 +414492,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "First PREMIER Bank",
+        "id": "4dc92cd6-9b3c-4d24-862a-dbc1d9ee58f4",
+        "title": "Digital Innovation & Strategy Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795230023,
+        "date_posted": 1795132800,
+        "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Digital-Innovation---Strategy-Internship_R-551-1",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/First-PREMIER-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
