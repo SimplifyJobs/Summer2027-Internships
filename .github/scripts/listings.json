@@ -178279,7 +178279,7 @@
         "company_name": "Fab2",
         "id": "fe8d6250-c4c0-4fb3-b256-8ad1b487a711",
         "title": "Embedded Software Engineer Intern - Winter",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -189175,7 +189175,7 @@
         "company_name": "Magna",
         "id": "aa975266-5fe4-4030-a4d9-2b7f6ba7f717",
         "title": "ADAS Feature Owner Intern - Systems Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -263377,7 +263377,7 @@
         "company_name": "Magna",
         "id": "f9425a33-0fd0-4dcb-8403-642a08c2e836",
         "title": "Validation Engineer Intern - EMC Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -339707,7 +339707,7 @@
         "company_name": "Crusoe",
         "id": "fd1af9f8-2356-4f0f-b005-ab9f523e4e24",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369351,7 +369351,7 @@
         "company_name": "Keysight Technologies",
         "id": "93c70e55-fdf9-4720-a4f7-a7e8958e0a75",
         "title": "FPGA Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -370289,7 +370289,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f58cb7db-54c6-41d1-8762-0f0c2661bc7d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384347,7 +384347,7 @@
         "company_name": "Waymo",
         "id": "f16059fd-1053-4b21-8779-0a612c57506d",
         "title": "Summer Intern - MS/PhD - Perception Systems Engineering: Pedestrian Detection Precision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414532,5 +414532,183 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acuity Insurance",
+        "id": "c7a7d18b-2854-4ff1-895e-d8615d3b70b6",
+        "title": "Strategic Information Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795219221,
+        "date_posted": 1795219213,
+        "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7",
+        "locations": [
+            "Sheboygan, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acuity Insurance",
+        "id": "b8549479-150a-4767-bd86-93084fdfb960",
+        "title": "Data Analytics Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795219221,
+        "date_posted": 1795219213,
+        "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7",
+        "locations": [
+            "Sheboygan, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity Insurance",
+        "id": "612e81e2-c670-4480-bb34-d840b958320e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795219221,
+        "date_posted": 1795219214,
+        "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217",
+        "locations": [
+            "Remote in USA",
+            "Sheboygan, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Resultant",
+        "id": "a6bd5c4e-4a73-4fd6-834b-7dd15f929806",
+        "title": "Data & Analytics Consultant Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795219221,
+        "date_posted": 1795194145,
+        "url": "https://jobs.smartrecruiters.com/Resultant/744000162782371",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Resultant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Bird",
+        "id": "57281c88-d5a6-44c7-8073-967a6fc0e31a",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795219308,
+        "date_posted": 1795219165,
+        "url": "https://recruiting.ultipro.com/BLU1004BBBC/JobBoard/1dfd3da7-cc1c-4f67-a1ca-2de669150f8c/OpportunityDetail?opportunityId=040f49cf-a6dd-406f-958c-bd411122159a",
+        "locations": [
+            "Macon, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Bird",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Bank",
+        "id": "30dc3855-0151-4bc1-bc73-852befcb0a29",
+        "title": "Digital Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795219221,
+        "date_posted": 1795219148,
+        "url": "https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelitybank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mawer Investment Management",
+        "id": "9c2fdf55-0def-44f9-99a4-da99bea4e316",
+        "title": "AI Engineer Student Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795219255,
+        "date_posted": 1795219070,
+        "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mawer-Investment-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mawer Investment Management",
+        "id": "95d9a24b-d178-47f6-b2eb-e2ca86cb444d",
+        "title": "AI Orchestrator Student Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795219252,
+        "date_posted": 1795219070,
+        "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mawer-Investment-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
