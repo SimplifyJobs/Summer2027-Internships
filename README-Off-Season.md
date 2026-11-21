@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 474 Internship Roles by Category
+### Browse 472 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (151)
 
@@ -20,7 +20,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (10)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (128)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (126)
 
 ---
 
@@ -32568,14 +32568,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>0d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AON3D?utm_source=GHList&utm_medium=company">AON3D</a></strong></td>
-<td>Software Developer Intern</td>
-<td>Montreal, QC, Canada</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/aon3d/jobs/4504702009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/36697ae4-2c1a-4649-82f5-c13159e97aad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Avnan?utm_source=GHList&utm_medium=company">Avnan</a></strong></td>
 <td>Electronics Engineering Technologist Co-op</td>
 <td>Mississauga, ON, Canada</td>
@@ -32773,14 +32765,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Corvallis, OR</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Technical-Student-Assistant---OPEnS-Lab_JR0001736?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a95e645b-d4e1-4e7a-ad25-7ec0e7b7f610?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
-<td>Electronic Reliability Engineer Co-op</td>
-<td>Ottawa, ON, Canada</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1a2e7785-ecd0-432f-a592-087e510f7845?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>25d</td>
 </tr>
 <tr>
@@ -33524,7 +33508,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1072)</summary>
+<summary>🗃️ Inactive roles (1074)</summary>
 
 <table>
 <thead>
@@ -33538,6 +33522,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AON3D?utm_source=GHList&utm_medium=company">AON3D</a></strong></td>
+<td>Software Developer Intern</td>
+<td>Montreal, QC, Canada</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sumitomo-Electric-Wiring-Systems?utm_source=GHList&utm_medium=company">Sumitomo Electric Wiring Systems</a></strong></td>
 <td>Validation Engineer Co-op Intern</td>
@@ -33685,6 +33677,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
 <td>Optical Performance Lab Verification and Testing Co-op</td>
+<td>Ottawa, ON, Canada</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Electronic Reliability Engineer Co-op</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
