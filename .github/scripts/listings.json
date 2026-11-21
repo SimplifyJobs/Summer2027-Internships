@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Argonne National Laboratory",
-        "id": "80a6bb0a-0472-4226-b5d2-745d5b0b8492",
-        "title": "Postdoctoral Appointee - MSD Experimental Condensed Matter Physics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774521966,
-        "date_posted": 1774521966,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---MSD-Experimental-Condensed-Matter-Physics_421675",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Thorlabs",
         "id": "ff12c2d7-4a17-4e9c-a727-c69ab34e9e19",
         "title": "Engineering Intern",
@@ -187096,7 +187073,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -259939,7 +259916,7 @@
         "company_name": "Toyota Research Institute",
         "id": "bc20048b-8487-4494-bbf4-4471e014be8c",
         "title": "Human-Centered AI Research Intern - Causal Reasoning Models",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -313264,7 +313241,7 @@
         "company_name": "Electronic Arts",
         "id": "d5b1be21-ea3d-442a-ac92-5df1ec91238c",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313405,7 +313382,7 @@
         "company_name": "Electronic Arts",
         "id": "c150fc14-14cb-445f-b7a5-4f8d6b827ffc",
         "title": "Gameplay Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404323,7 +404300,7 @@
         "company_name": "Forterra",
         "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -406953,7 +406930,7 @@
         "company_name": "Toyota Research Institute",
         "id": "d9d64ad1-bfcf-465d-90e1-bad73dcb61da",
         "title": "Robotics Intern - Prototyping and Robotics Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
