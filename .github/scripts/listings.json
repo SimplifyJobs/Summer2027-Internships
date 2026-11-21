@@ -181356,7 +181356,7 @@
         "company_name": "Stryker",
         "id": "ac16b37b-d5ee-4a02-8d77-305bc1ab5168",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -255481,7 +255481,7 @@
         "company_name": "Wellington Management",
         "id": "ac7bfb32-7f0b-4685-a576-98f6e7acd1d9",
         "title": "Investment Strategy Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -273800,7 +273800,7 @@
         "company_name": "Waymo",
         "id": "90c4aeeb-3983-4bd2-9dfe-15097a7f2d59",
         "title": "Machine Learning Engineer Intern - Road Understanding",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383365,7 +383365,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "8fa89537-d305-4785-b78d-905385cdc625",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414444,6 +414444,53 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gorbel",
+        "id": "fe1b3680-b402-4413-a522-d43c7499a5a9",
+        "title": "Front-End Web Developer Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795229157,
+        "date_posted": 1795132800,
+        "url": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1",
+        "locations": [
+            "Victor, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Gorbel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Koch Industries",
+        "id": "f9d36ef7-8b25-4124-a93e-859b264cd811",
+        "title": "Data and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795228563,
+        "date_posted": 1795228402,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
