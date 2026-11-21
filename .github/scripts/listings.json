@@ -230128,7 +230128,7 @@
         "company_name": "Varian",
         "id": "2df4621a-ca36-4f82-a281-3f14c7d2930a",
         "title": "Embedded Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -299319,7 +299319,7 @@
         "company_name": "Moment Energy",
         "id": "1e0edc08-872a-46c3-b0b1-5a8eba101fe2",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
