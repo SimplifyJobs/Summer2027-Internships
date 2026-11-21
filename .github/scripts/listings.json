@@ -25,29 +25,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "a2061216-0f2d-43e1-8dc2-0b3d872ee650",
-        "title": "Electronics Technician Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774508407,
-        "date_posted": 1774508407,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electronics-Technician---Intern_R0155935",
-        "locations": [
-            "Bedford, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "STRS Ohio",
         "id": "2c501bc7-6de6-4b43-9cf9-5bc81411a079",
@@ -292400,7 +292377,7 @@
         "company_name": "Procter & Gamble",
         "id": "a8c66c12-7b88-4351-bbae-e428ebee0012",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339829,7 +339806,7 @@
         "company_name": "Ciena",
         "id": "8dedd654-cac4-43f6-bc05-e4c9270ae39a",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -371372,7 +371349,7 @@
         "company_name": "KLA Corporation",
         "id": "80f18dd7-dd58-4635-88b5-28ffe8a06439",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379443,7 +379420,7 @@
         "company_name": "Publicis Groupe",
         "id": "7a225481-17bf-4ff1-809f-c42cf1757c2b",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414247,5 +414224,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "799037f7-5af0-47ab-9dc8-b77d7a0fa096",
+        "title": "Software Engineer Project Intern - Content AI Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1792746182,
+        "date_posted": 1781503942,
+        "url": "https://lifeattiktok.com/search/7621299118434961669",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
