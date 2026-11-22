@@ -1,101 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SiFive",
-        "id": "de32672b-e299-4728-857a-e9714510e0de",
-        "title": "CPU Design Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774591625,
-        "date_posted": 1774591625,
-        "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SiFive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NBCUniversal",
-        "id": "d3beceeb-585c-49d6-8478-ae5480fd807f",
-        "title": "Culinary Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774617561,
-        "date_posted": 1774591575,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000117141938",
-        "locations": [
-            "North Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rolls-Royce Motorcars",
-        "id": "75cfa15d-4740-4b16-bde7-92b946730038",
-        "title": "Intern Technical Service Electrical or Mechanical & Digitalization",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774617068,
-        "date_posted": 1774591493,
-        "url": "https://jobs.bmwgroup.com/job/Woodcliff-Lake-Intern-Technical-Service-Electrical-or-Mechanical-&-Digitalization-New/1378078933/?ats=successfactors",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "5f65a98d-7f74-4256-ac22-44ba5c68e076",
-        "title": "Copyright Solution Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774591943,
-        "date_posted": 1774591943,
-        "url": "https://lifeattiktok.com/search/7615924066587232517",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Socure",
         "id": "f926c3eb-b1ea-4028-b59a-bc891b3e6b9f",
@@ -401809,7 +401714,7 @@
         "company_name": "ServiceNow",
         "id": "a2fe1cc0-aff1-49f6-bc73-fc65ecaa526f",
         "title": "Associate Forward Deployed Solution Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
