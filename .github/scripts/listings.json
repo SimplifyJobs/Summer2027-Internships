@@ -266791,7 +266791,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412862,6 +412862,30 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neros Technologies",
+        "id": "c2b3d6cb-a6e8-4677-b5cb-24255710302d",
+        "title": "Firmware/Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795313343,
+        "date_posted": 1795311965,
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neros-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
