@@ -335216,7 +335216,7 @@
         "company_name": "Expedia Group",
         "id": "a99e2f5f-e8a1-4b4f-9c09-643e09df2f89",
         "title": "Machine Learning Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412886,6 +412886,57 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interdigital",
+        "id": "b2252d03-ef88-4b77-a90b-a1f565ba425b",
+        "title": "PhD Research Intern - AI Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795316043,
+        "date_posted": 1794873600,
+        "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/LosAltos_CA/PhD-Research-Intern--AI-Lab_REQ26-1172",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interdigital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schnucks",
+        "id": "0f52b6f8-706e-404f-8ce4-13343631217f",
+        "title": "Data Science Generative AI Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1795315522,
+        "date_posted": 1795046400,
+        "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
+        "locations": [
+            "St. Louis, MO",
+            "Missouri",
+            "Indiana",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Schnucks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
