@@ -359082,7 +359082,7 @@
         "company_name": "WGU",
         "id": "0c948dc9-1eb1-44a6-86f9-c0695549d3b4",
         "title": "Data Governance Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412841,6 +412841,143 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fiskars Group",
+        "id": "de5b84ef-da26-41b7-a59d-1dd83d33491c",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795361238,
+        "date_posted": 1795046400,
+        "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520",
+        "locations": [
+            "Middleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiskars-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Brands",
+        "id": "ef8562a4-25a5-4d0e-9199-0322e26692b1",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795360891,
+        "date_posted": 1794787200,
+        "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Brands",
+        "id": "3bddb066-3054-4a0c-9cc7-b0ba4e388c00",
+        "title": "Data and AI Enablement Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795360900,
+        "date_posted": 1794787200,
+        "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721",
+        "locations": [
+            "Rochester, NY",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neogen",
+        "id": "9c9115ad-7e10-4ed2-9f6d-b00d4a2c8f1c",
+        "title": "Embedded Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795360696,
+        "date_posted": 1795360645,
+        "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064",
+        "locations": [
+            "Oakdale, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Neogen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Governors University",
+        "id": "cbbfc481-5c2f-4875-a3ae-53fd2183c75f",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795360358,
+        "date_posted": 1795132800,
+        "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Governors-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First Bank & Trust",
+        "id": "c19ddb09-a366-491b-8f74-c4e088f343a8",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795359962,
+        "date_posted": 1795132800,
+        "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864",
+        "locations": [
+            "Brookings, SD",
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/First-Bank-And-Trust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
