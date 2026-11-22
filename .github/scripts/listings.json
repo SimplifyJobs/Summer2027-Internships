@@ -266696,7 +266696,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382514,7 +382514,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e10ce551-2780-4df7-898b-4416e1679bd9",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412568,7 +412568,7 @@
         "company_name": "Blackberry",
         "id": "aea2626a-4582-4875-ab5a-aeed57c50f4d",
         "title": "Hardware Engineering Student Intern - Radar",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
