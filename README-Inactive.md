@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 4358 Inactive Internship Roles by Category
+### Browse 4359 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1526)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1527)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (283)
 
@@ -119,6 +119,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Indianapolis, IN</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
+<td>Associate Forward Deployed Solution Engineer Intern</td>
+<td>Santa Clara, CA<br>NYC</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
