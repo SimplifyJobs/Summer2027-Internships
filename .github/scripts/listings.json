@@ -309638,7 +309638,7 @@
         "company_name": "Werfen",
         "id": "d16d5776-a774-4531-951a-cf1dede1cc30",
         "title": "R&D Systems Hardware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326520,7 +326520,7 @@
         "company_name": "Thomson Reuters",
         "id": "d693d40a-0d07-4961-a531-b9fc35cd6d3d",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401976,7 +401976,7 @@
         "company_name": "HexArmor",
         "id": "ba23165e-e66d-4e52-90f4-9e640cdb5325",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
