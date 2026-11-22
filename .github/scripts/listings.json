@@ -311781,7 +311781,7 @@
         "company_name": "Workday",
         "id": "7d29e9a8-e116-43c5-a3b9-267f864cddfc",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311998,7 +311998,7 @@
         "company_name": "Workday",
         "id": "3bcb752a-418d-4efe-88b2-389292a7eed0",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
