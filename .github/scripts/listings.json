@@ -336970,7 +336970,7 @@
         "company_name": "TD Bank",
         "id": "2d43585f-8138-4d37-97ac-3ac58db1d2cc",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399559,7 +399559,7 @@
         "company_name": "Capital Group",
         "id": "2090dcc2-c489-4ec4-bd16-8b1af5aa79f2",
         "title": "Global Technology Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
