@@ -344035,7 +344035,7 @@
         "company_name": "Thomson Reuters",
         "id": "afa3c0c7-940c-4de0-847a-f6af71fecffb",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398011,7 +398011,7 @@
         "company_name": "Verisk",
         "id": "f080ba31-67e8-4a12-a748-8d74a2b6067b",
         "title": "Data Science/AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412891,5 +412891,47 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "e8ff9442-41f5-41b5-83e0-6bfd57fd8f6b",
+        "title": "Data Analyst Intern - Wealth Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795333873,
+        "date_posted": 1793923200,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "454fafe8-96a5-4072-9e93-ab09c827aa64",
+        "title": "Business Data Intern - Film IT",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795333336,
+        "date_posted": 1795188377,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
