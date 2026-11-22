@@ -268422,7 +268422,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279027,7 +279027,7 @@
         "company_name": "Rhoda AI",
         "id": "1736ee29-1f1e-4421-8616-9c616abc3f8e",
         "title": "Robot Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -311805,7 +311805,7 @@
         "company_name": "Workday",
         "id": "0a37326a-6eb6-4459-8249-044ccfac8600",
         "title": "Software Application Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
