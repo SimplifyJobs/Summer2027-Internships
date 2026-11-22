@@ -322821,7 +322821,7 @@
         "company_name": "Wikimedia Foundation",
         "id": "58133210-2067-49d2-85f6-9cbc957b9b44",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -371710,7 +371710,7 @@
         "company_name": "Man Group",
         "id": "4c0936e7-c5c5-4b43-81f3-e52b45e16d3e",
         "title": "Systematic Quant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
