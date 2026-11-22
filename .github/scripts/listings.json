@@ -266556,7 +266556,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412779,7 +412779,7 @@
         "company_name": "NBCUniversal",
         "id": "c670d7e9-977a-470d-8a6c-8b9abe9099ad",
         "title": "Business Data Intern - Film IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412974,6 +412974,29 @@
             "Sioux Falls, SD"
         ],
         "company_url": "https://simplify.jobs/c/First-Bank-And-Trust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viavi Solutions",
+        "id": "d71c5ba9-0935-4cef-bd4c-21f2c50b2e47",
+        "title": "Robotics Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795361941,
+        "date_posted": 1794960000,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
