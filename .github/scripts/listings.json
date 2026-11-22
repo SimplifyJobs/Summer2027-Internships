@@ -268422,7 +268422,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -390433,7 +390433,7 @@
         "company_name": "Micron Technology",
         "id": "23656e12-b4f7-407c-aa31-bfc1c7f3a9f9",
         "title": "Data Scientist New Grad - AI for Business Functions",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412917,7 +412917,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
-        "id": "454fafe8-96a5-4072-9e93-ab09c827aa64",
+        "id": "c670d7e9-977a-470d-8a6c-8b9abe9099ad",
         "title": "Business Data Intern - Film IT",
         "active": true,
         "terms": [
