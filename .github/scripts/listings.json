@@ -184766,7 +184766,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -184815,7 +184815,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345949,7 +345949,7 @@
         "company_name": "Citi",
         "id": "b2378902-0565-466e-8c16-f3e53b4f62e3",
         "title": "Technology Summer Analyst Intern - Production Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412933,5 +412933,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "090826fc-fc8c-443f-8302-02afa9826799",
+        "title": "BIOS Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1795344880,
+        "date_posted": 1795342620,
+        "url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
