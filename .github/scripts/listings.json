@@ -234525,7 +234525,7 @@
         "company_name": "TTP",
         "id": "d7a329dc-ebe8-4007-97e8-ebfc60890ad5",
         "title": "Electronic Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346974,7 +346974,7 @@
         "company_name": "Zebra Technologies",
         "id": "4932b03e-a9cc-4ba5-b920-5bf313404094",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367368,7 +367368,7 @@
         "company_name": "Tecsys",
         "id": "932b8b82-9a55-4a83-a9a8-8cdead995b71",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374041,7 +374041,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "4ae827c4-a7cf-4609-a5ef-c377bba8dbdf",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375765,7 +375765,7 @@
         "company_name": "Cook Group",
         "id": "49202fb5-c465-4ec5-b01d-e7c14d518773",
         "title": "Artificial Intelligence & Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380450,7 +380450,7 @@
         "company_name": "Spectrum Control",
         "id": "ba35c253-36e9-4541-be80-6b3558722e8f",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -392294,7 +392294,7 @@
         "company_name": "Shield AI",
         "id": "b1fe1b9f-f127-4ef0-89e0-dd7c9086acaf",
         "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408150,7 +408150,7 @@
         "company_name": "Renesas Electronics",
         "id": "b727a346-069a-4d13-ae2d-571e4a23aaa7",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
