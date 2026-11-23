@@ -107708,7 +107708,7 @@
         "company_name": "Verne Robotics",
         "id": "5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -408262,7 +408262,7 @@
         "company_name": "Renesas Electronics",
         "id": "9762fc4c-e499-4ab1-93c9-cb202498a515",
         "title": "System Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
