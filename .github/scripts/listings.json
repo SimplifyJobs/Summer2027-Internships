@@ -329408,7 +329408,7 @@
         "company_name": "Navy Federal",
         "id": "13228689-c229-492e-9ba7-4142539075a9",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345112,7 +345112,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "195bd444-509b-435b-a889-48767b1b42b2",
         "title": "MBA Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400432,7 +400432,7 @@
         "company_name": "Zurich Insurance",
         "id": "1c985c59-7b90-44d9-a78b-a64792dd2fd5",
         "title": "Data Analytics & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
