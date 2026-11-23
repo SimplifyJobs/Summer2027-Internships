@@ -151047,7 +151047,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -305909,7 +305909,7 @@
         "company_name": "MSA Safety",
         "id": "93c487ce-79a1-4da5-86f6-3cfebea198ed",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -352992,7 +352992,7 @@
         "company_name": "GrayMatter Robotics",
         "id": "901b53ec-fba2-40bc-89d6-a7200607ee62",
         "title": "Robotics Engineering Intern: Systems & Applications",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -367368,7 +367368,7 @@
         "company_name": "Tecsys",
         "id": "932b8b82-9a55-4a83-a9a8-8cdead995b71",
         "title": "Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -410982,7 +410982,7 @@
         "company_name": "Ribbon",
         "id": "b5e9a29a-b709-4d78-8e07-c795aad202ea",
         "title": "Software Developer Co-op - Common Cloud Services",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412385,5 +412385,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "5d0d0eae-1321-4bd4-adaf-c4a3ea617d41",
+        "title": "Machine Learning Intern - Time Series and Reinforcement Learning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795447660,
+        "date_posted": 1795447624,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Benchling",
+        "id": "a628d336-09fd-45c3-bd3c-fcfe8c92c533",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795446441,
+        "date_posted": 1795392000,
+        "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Benchling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
