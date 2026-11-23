@@ -412325,5 +412325,94 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CSAA Insurance Group",
+        "id": "c4789610-8d62-4348-8bfe-4437a419921e",
+        "title": "Product Strategy & Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795402083,
+        "date_posted": 1795132800,
+        "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/CSAA-Insurance-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "3a161bb0-8dda-47d6-bb3a-7db211a89d97",
+        "title": "Client Security & Data Foundation Software Engineer Intern - BRIC",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795402110,
+        "date_posted": 1795402070,
+        "url": "https://lifeattiktok.com/search/7705023349533346101",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Artefact",
+        "id": "47e36cdc-aad6-4231-9d3b-7539e4a4bcd2",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795401759,
+        "date_posted": 1795393389,
+        "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Artefact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lumentum",
+        "id": "98739a8e-be8d-4278-a61d-45a742339319",
+        "title": "Data Science & Analytics Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795401218,
+        "date_posted": 1794787200,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
