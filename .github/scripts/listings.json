@@ -218680,7 +218680,7 @@
         "company_name": "Nokia",
         "id": "cd7ae22b-dab5-44c6-9ac4-b2f3b7a9b123",
         "title": "Optical Test Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -265302,7 +265302,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -267583,7 +267583,7 @@
         "company_name": "Marvell",
         "id": "99bffa98-fcc7-41ec-beed-d75d5954991d",
         "title": "Electrical Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -274867,7 +274867,7 @@
         "company_name": "Bluestaq",
         "id": "d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9",
         "title": "Software Engineering Resident - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -300141,7 +300141,7 @@
         "company_name": "Meta",
         "id": "e458bd10-4f0d-449d-9f51-dcb595087eb9",
         "title": "Software Engineer Intern - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -344371,7 +344371,7 @@
         "company_name": "KLA",
         "id": "aa2d539c-b01a-4bba-9dab-3b2698bcd970",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400530,7 +400530,7 @@
         "company_name": "Federal Home Loan Bank of Des Moines",
         "id": "b59d2f37-1b00-4626-890d-80631e89837c",
         "title": "Application Development Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -405613,7 +405613,7 @@
         "company_name": "Snowflake",
         "id": "b4ef0d6c-f65b-48c0-b030-61b50a0eb09b",
         "title": "Software Engineer Intern - Core - Infrastructure & Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407571,7 +407571,7 @@
         "company_name": "GCI",
         "id": "b4483434-9308-427a-89b6-b7e728f106d8",
         "title": "Targeting Intelligence Analyst Intern - Paid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407822,7 +407822,7 @@
         "company_name": "MDA Space",
         "id": "ab80f545-5844-4f66-805c-8ec34d6a8202",
         "title": "Engineering Intern - Test Procedures Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -412486,6 +412486,470 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "bf7be755-266e-4016-ad50-096a56afdd42",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795476421,
+        "date_posted": 1795046400,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "3b853022-5629-46f0-9410-31a4e4d1518e",
+        "title": "Applied AI Intern - HR CDAO",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795476445,
+        "date_posted": 1795476248,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lifeway",
+        "id": "b5da85e0-f6ac-4b3c-965a-7f736c578129",
+        "title": "Summer Internship - Business Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795476241,
+        "date_posted": 1795392000,
+        "url": "https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lifeway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lifeway",
+        "id": "f4ef9827-4f9e-4b9b-8359-e2c86ae192c9",
+        "title": "Software Engineer Intern - Full Stack - Back-End",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795476279,
+        "date_posted": 1795392000,
+        "url": "https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lifeway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Paccar",
+        "id": "3c63e1b8-3433-4cb8-9a82-bbda924ef085",
+        "title": "Vehicle Software Integration Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1795476261,
+        "date_posted": 1795476087,
+        "url": "https://jobs.paccar.com/job/Sunnyvale-2027-Spring-Internship-Vehicle-Software-Integration-Engineer-CA-94089/1459888133/?ats=successfactors",
+        "locations": [
+            "Denton, TX",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "John Deere",
+        "id": "7d892ff4-eb46-4bee-a563-ba85495ae59c",
+        "title": "Simulation Engineering Student Intern - Product Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795476284,
+        "date_posted": 1795476214,
+        "url": "https://johndeere.eightfold.ai/careers/job/137484510505",
+        "locations": [
+            "Urbandale, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First PREMIER Bank",
+        "id": "3c3da8b8-0e6c-422a-b982-8251c24ff97c",
+        "title": "Financial Modeling & Analysis Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795476254,
+        "date_posted": 1795392000,
+        "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Financial-Modeling---Analysis-Internship_R-517-1",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/First-PREMIER-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lifeway",
+        "id": "371f3fc2-df75-4478-a3c1-902ce972609f",
+        "title": "Front-End Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795476273,
+        "date_posted": 1795392000,
+        "url": "https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Nashville, TN",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lifeway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell",
+        "id": "e0b870a8-3315-455a-b57d-f0c00c8a8e8a",
+        "title": "Energy and Utilities Software Product Design and AI Development Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795475907,
+        "date_posted": 1795475701,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Milliman",
+        "id": "fcb08f49-b9ed-4c1d-87f3-7191ff497a33",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795475701,
+        "date_posted": 1795475585,
+        "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Milliman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "a6e7484a-77b3-4267-ac3d-8200ef4a75c1",
+        "title": "Software Development Engineer Intern - Artificial General Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795475521,
+        "date_posted": 1795475472,
+        "url": "https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GrayMatter Robotics",
+        "id": "542449da-e7d7-4289-a17e-c344f121c66a",
+        "title": "Robotics Engineering Intern: Systems & Applications",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795475521,
+        "date_posted": 1795392000,
+        "url": "https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "29b21ac0-b37f-4d26-b196-d238a0c90ce2",
+        "title": "Research Scientist Intern - Spatial-temporal Consistent 4D Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795475406,
+        "date_posted": 1795475310,
+        "url": "https://www.metacareers.com/jobs/2357948038329505",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Electric Power Engineers",
+        "id": "caa7de20-6b52-42f8-845d-a6a4068e5cb1",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795475162,
+        "date_posted": 1795392000,
+        "url": "https://careers-epeconsulting.icims.com/jobs/2449/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Electric-Power-Engineers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CornerStone Partners",
+        "id": "225c690b-8396-44d6-946a-9df808bff1e7",
+        "title": "AI and Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795475162,
+        "date_posted": 1795475105,
+        "url": "https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CornerStone-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blueprint AI (Mental Health)",
+        "id": "5e5339f2-ae06-4a87-8ccb-aaeb76d60882",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795475298,
+        "date_posted": 1795475109,
+        "url": "https://apply.workable.com/blueprint-health/j/6C902886A5/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blueprint-AI-Mental-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Contoro",
+        "id": "b32a528b-ad62-4c61-b574-1cc0e45d394b",
+        "title": "Robotics Software Engineer Intern - Autonomy - Automation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795475162,
+        "date_posted": 1795392000,
+        "url": "https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Contoro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seasats",
+        "id": "3c53fcff-20c6-413f-a5dc-2c5080cdf728",
+        "title": "Electronics Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795475162,
+        "date_posted": 1795475103,
+        "url": "https://seasats.breezy.hr/p/58eb0549bc6d/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Seasats",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital Technology Group",
+        "id": "db60d7d6-8fb0-477a-9f59-c1942a1bfe9b",
+        "title": "Data Engineering and Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795475085,
+        "date_posted": 1795469563,
+        "url": "https://boards.greenhouse.io/capitaltg/jobs/5307074007",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Technology-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital Technology Group",
+        "id": "925b7a41-c932-4a58-86cf-2d898a6888db",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795475089,
+        "date_posted": 1795469548,
+        "url": "https://boards.greenhouse.io/capitaltg/jobs/5281563007",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Technology-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
