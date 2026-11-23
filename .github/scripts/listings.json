@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ChampionX",
-        "id": "fe1d8359-c446-49b6-b698-de81d386e18e",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774688848,
-        "date_posted": 1774688848,
-        "url": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA---Tennessee---Knoxville/Intern_R00135420",
-        "locations": [
-            "Knoxville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/ChampionX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "MSX International",
         "id": "819b73f5-a024-4b68-aa4d-8b3a2786c59e",
@@ -86,29 +65,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Arkansas",
-        "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
-        "title": "Cosmos Graduate Research Assistant",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774771207,
-        "date_posted": 1774688915,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -158637,7 +158593,7 @@
         "company_name": "TikTok",
         "id": "0027f5ce-0bdc-419e-ac80-095bae27c176",
         "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -237866,7 +237822,7 @@
         "company_name": "NVIDIA",
         "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -267231,7 +267187,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346095,7 +346051,7 @@
         "company_name": "Skydio",
         "id": "baa25da2-9ee0-403d-8396-0d4788626830",
         "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
