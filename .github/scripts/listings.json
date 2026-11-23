@@ -219540,7 +219540,7 @@
         "company_name": "Allen Control Systems",
         "id": "3317833d-ccb8-4a20-b49c-8ff24b724fdf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -252286,7 +252286,7 @@
         "company_name": "Garmin",
         "id": "2f7f0d05-4984-4739-ad90-66a2e6cb8c2c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -278971,7 +278971,7 @@
         "company_name": "Keysight Technologies",
         "id": "2f8cb420-1d37-4da2-b624-4a2f38e9d546",
         "title": "EDA AI/ML Layout Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -346001,7 +346001,7 @@
         "company_name": "Teledyne",
         "id": "29141e11-18f3-454f-9ef4-99bb74ed9da2",
         "title": "Engineering Intern - Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
