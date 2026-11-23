@@ -255817,7 +255817,7 @@
         "company_name": "OCC",
         "id": "16c51e84-e299-4273-8cd2-b0c002eb340d",
         "title": "Model Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281880,7 +281880,7 @@
         "company_name": "PrizePicks",
         "id": "1160c568-c962-41a1-8d1f-f07a116813d9",
         "title": "Product Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -400503,7 +400503,7 @@
         "company_name": "Bound",
         "id": "1766b9ad-6231-4035-b13d-f0f5bf630fbe",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
