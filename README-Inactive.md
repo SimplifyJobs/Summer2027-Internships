@@ -13609,7 +13609,7 @@
 <td>Data Scientist Intern 🎓</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>

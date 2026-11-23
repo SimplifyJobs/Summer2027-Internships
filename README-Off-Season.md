@@ -676,12 +676,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>30d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Accenture-FS?utm_source=GHList&utm_medium=company">Accenture</a></strong></td>
 <td>Technology Software Engineer Apprentice</td>
 <td>Newcastle upon Tyne, UK</td>
 <td>Fall 2027, Spring 2028</td>
 <td><div align="center"><a href="https://accenture.pinpointhq.com/en/postings/97c7121d-21cf-4cfc-aed2-5f4b54e81368?ats=pinpointhq&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a876872e-f37a-4ea0-89a2-4186656af26f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rokt?utm_source=GHList&utm_medium=company">Rokt</a></strong></td>
@@ -14564,7 +14564,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td>↳</td>
 <td>AI Product Manager Intern 🎓</td>
 <td>London, UK</td>
 <td>Fall 2026</td>
@@ -21637,14 +21637,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marmon-Holdings?utm_source=GHList&utm_medium=company">Marmon Holdings</a></strong></td>
-<td>AI Intern</td>
-<td>Sauget, IL</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Verdantas?utm_source=GHList&utm_medium=company">Verdantas</a></strong></td>
 <td>Environmental Data Analytics Intern - Geographic Information Systems</td>
 <td>Syracuse, NY</td>
@@ -21768,6 +21760,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
 <td>AI Systems and Infrastructure Engineering Intern 🎓</td>
 <td>Austin, TX</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Marmon-Holdings?utm_source=GHList&utm_medium=company">Marmon Holdings</a></strong></td>
+<td>AI Intern</td>
+<td>Sauget, IL</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -26533,17 +26533,17 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/National-Laboratory-Of-The-Rockies?utm_source=GHList&utm_medium=company">National Laboratory of the Rockies</a></strong></td>
-<td>Graduate Intern</td>
-<td>Remote in USA<br>Golden, CO</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Machine Learning Researcher Intern/Co-op 🎓</td>
+<td>Hartford, CT</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Machine Learning Researcher Intern/Co-op 🎓</td>
-<td>Hartford, CT</td>
+<td><strong><a href="https://simplify.jobs/c/National-Laboratory-Of-The-Rockies?utm_source=GHList&utm_medium=company">National Laboratory of the Rockies</a></strong></td>
+<td>Graduate Intern</td>
+<td>Remote in USA<br>Golden, CO</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>4mo</td>
@@ -33344,7 +33344,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Montreal, QC, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sumitomo-Electric-Wiring-Systems?utm_source=GHList&utm_medium=company">Sumitomo Electric Wiring Systems</a></strong></td>
