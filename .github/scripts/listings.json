@@ -68,31 +68,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Becton Dickinson",
-        "id": "0aa90784-d129-4480-827e-cdd3987afbd5",
-        "title": "Marketing Intern - Innovation Marketing Team",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1774693344,
-        "date_posted": 1774693344,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Marketing-Intern--Innovation-Marketing-Team_R-536632-1",
-        "locations": [
-            "Warwick, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Altera Corporation",
         "id": "fca7e12c-2669-4526-a1dd-26a5a4d89be4",
@@ -181,31 +156,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DataRobot",
-        "id": "06cbc73c-5566-416f-b82c-e45ed6cb7811",
-        "title": "Applied Data Science Associate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774693647,
-        "date_posted": 1774693647,
-        "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Washington-DC-US/Applied-Data-Science-Associate---Federal_R-102463",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/e9018a18-f399-4722-9811-7b6136d4a44b",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -328486,7 +328436,7 @@
         "company_name": "Electronic Arts",
         "id": "9e472e5e-45ed-46ff-833d-4b4506676f0f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383395,7 +383345,7 @@
         "company_name": "Red Bull",
         "id": "91b4d42f-de80-4207-9ec2-08866ad1f9be",
         "title": "Shopper Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385173,7 +385123,7 @@
         "company_name": "ASML",
         "id": "5f6fd2ac-8e3b-4fa3-b909-6752048d9a79",
         "title": "AI Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401929,7 +401879,7 @@
         "company_name": "APEX Analytix",
         "id": "68916cbe-97cc-414d-8732-d68540a99d35",
         "title": "Product Management Intern - DevOps",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412460,5 +412410,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AJ Bell",
+        "id": "55da762f-4d6d-4896-a252-592b49e94f26",
+        "title": "Digital Degree Apprentice - Software Development Pathway",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1795429490,
+        "date_posted": 1795425652,
+        "url": "https://jobs.smartrecruiters.com/AJBell1/744000163169494",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AJ-Bell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
