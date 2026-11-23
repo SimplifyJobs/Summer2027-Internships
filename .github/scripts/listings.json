@@ -145650,7 +145650,7 @@
         "company_name": "Advanced Energy",
         "id": "34a18efe-cd13-4293-a683-2e44304e1154",
         "title": "Firmware Engineer Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353832,7 +353832,7 @@
         "company_name": "Shield AI",
         "id": "2507d753-2e29-4433-be1b-355a19295f16",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355428,7 +355428,7 @@
         "company_name": "Intuitive Surgical",
         "id": "5d4a2e1b-0381-4b6d-bcf8-601636e1a627",
         "title": "Robotics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
