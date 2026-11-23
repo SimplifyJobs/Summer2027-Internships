@@ -158522,7 +158522,7 @@
         "company_name": "TikTok",
         "id": "0027f5ce-0bdc-419e-ac80-095bae27c176",
         "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027"
         ],
@@ -265390,7 +265390,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -408122,7 +408122,7 @@
         "company_name": "Shield AI",
         "id": "ebfeb2eb-8fcc-4883-8688-30e1f57055e0",
         "title": "Operational Analysis Intern - Operational Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
