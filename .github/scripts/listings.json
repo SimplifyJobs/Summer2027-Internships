@@ -288024,7 +288024,7 @@
         "company_name": "UL Solutions",
         "id": "692cb87c-949d-4c21-bbb0-8aec9daaa90e",
         "title": "SAR Laboratory Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343274,7 +343274,7 @@
         "company_name": "AMA",
         "id": "4b9ad5d9-8851-4dc9-8ad9-be4eee964eb5",
         "title": "Architecture Research Intern - Predictive Modelling & Simulations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
