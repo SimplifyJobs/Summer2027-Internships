@@ -343641,7 +343641,7 @@
         "company_name": "American University",
         "id": "8fdc0497-e3c5-4c6c-b725-d14873b39235",
         "title": "Imagery Analysis Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390979,7 +390979,7 @@
         "company_name": "Brex",
         "id": "7c3a4e38-9f60-4930-b927-0bca4f0e442f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
