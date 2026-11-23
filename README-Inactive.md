@@ -6,11 +6,11 @@
 
 ---
 
-### Browse 4399 Inactive Internship Roles by Category
+### Browse 4401 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1540)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1541)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (284)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (285)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1556)
 
@@ -2114,6 +2114,13 @@
 <td><strong><a href="https://simplify.jobs/c/RF-SMART?utm_source=GHList&utm_medium=company">RF-SMART</a></strong></td>
 <td>Software Support Engineer Intern</td>
 <td>Jacksonville, FL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
+<td>Forward Deployed Engineer Intern</td>
+<td>NYC<br>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -10896,6 +10903,13 @@
 <td>5d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/APEX-Analytix?utm_source=GHList&utm_medium=company">APEX Analytix</a></strong></td>
+<td>Product Management Intern - DevOps</td>
+<td>Greensboro, NC</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/FNBO?utm_source=GHList&utm_medium=company">FNBO</a></strong></td>
 <td>Banking Product Intern</td>
 <td>Omaha, NE</td>
@@ -12905,6 +12919,13 @@
 <td>2d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Shield-AI?utm_source=GHList&utm_medium=company">Shield AI</a></strong></td>
+<td>Operational Analysis Intern - Operational Analysis</td>
+<td>Arlington County, Arlington, VA</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
 <td>Data Scientist Intern</td>
 <td>Denton, TX</td>
@@ -13995,13 +14016,6 @@
 <td>Irving, TX</td>
 <td>🔒</td>
 <td>28d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company">Skydio</a></strong></td>
-<td>Autonomy Engineer Intern - Deep Learning / Computer Vision</td>
-<td>San Mateo, CA</td>
-<td>🔒</td>
-<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
@@ -17994,6 +18008,13 @@
 <td>2mo</td>
 </tr>
 <tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>Research Intern 🎓</td>
+<td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>Data Analyst Intern - Global Technology & Solutions</td>
 <td>Mt Laurel Township, NJ</td>
@@ -18004,13 +18025,6 @@
 <td>↳</td>
 <td>Data Engineer Intern - Global Technology & Solutions</td>
 <td>Mt Laurel Township, NJ</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>Research Intern 🎓</td>
-<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
