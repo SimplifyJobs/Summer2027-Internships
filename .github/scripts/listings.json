@@ -103883,7 +103883,7 @@
         "company_name": "Palantir",
         "id": "eed44008-bc56-4a68-9f65-0b98b4876804",
         "title": "Forward Deployed Software Engineer Intern - Commercial",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2028",
@@ -364294,7 +364294,7 @@
         "company_name": "AltaLink",
         "id": "9d960e6e-7528-4c88-bdba-0041e9882cda",
         "title": "Project Support Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -399626,7 +399626,7 @@
         "company_name": "Qualcomm",
         "id": "9f33eb65-3c19-47fa-b0ca-d0101c113023",
         "title": "GPU Compiler Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
