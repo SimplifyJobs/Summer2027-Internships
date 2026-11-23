@@ -212509,7 +212509,7 @@
         "company_name": "Schonfeld",
         "id": "ce15dae3-7399-4de2-93b2-1047bc6aedc8",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269978,7 +269978,7 @@
         "company_name": "Brunswick",
         "id": "c5f567d9-027e-4207-b6d3-80f5a9566861",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -317719,7 +317719,7 @@
         "company_name": "Faculte",
         "id": "e22ccf19-d6e8-4c19-8ad3-e0cd9dc5c79c",
         "title": "Data Science Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -319460,7 +319460,7 @@
         "company_name": "AGCO",
         "id": "e403ba00-5510-4bef-bb10-1139a69f459a",
         "title": "Agricultural Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -328507,7 +328507,7 @@
         "company_name": "Ciena",
         "id": "c08867ba-6803-4c02-ab9c-9de333439a21",
         "title": "Services Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -354581,7 +354581,7 @@
         "company_name": "Uline",
         "id": "d7027afa-efad-4c6a-8b5a-853c11811670",
         "title": "International Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
