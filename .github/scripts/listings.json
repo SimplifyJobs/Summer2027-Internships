@@ -225242,7 +225242,7 @@
         "company_name": "Graco",
         "id": "05f45fc6-6df7-4dee-8c20-77c07bce25ef",
         "title": "Artificial Intelligence Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -342307,7 +342307,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "0ab7c867-2323-4110-9daf-6b5d47cde582",
         "title": "Biologics MSAT Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -354904,7 +354904,7 @@
         "company_name": "Schonfeld",
         "id": "06b10676-879d-4a83-9f64-ad12866cbd63",
         "title": "DMFI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388056,7 +388056,7 @@
         "company_name": "Altice USA",
         "id": "01e2563c-d8db-4d50-9707-f7422e617529",
         "title": "Business Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -395355,7 +395355,7 @@
         "company_name": "Shield AI",
         "id": "0481fb67-c0ea-4fc5-b59c-316b5ffb6870",
         "title": "Hardware Test Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405677,7 +405677,7 @@
         "company_name": "Snowflake",
         "id": "00cd908d-fc5f-4712-97e8-b714c9ca0b11",
         "title": "Software Engineer Intern - Database Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407682,7 +407682,7 @@
         "company_name": "GCI",
         "id": "0b7e1658-3d8b-4e1f-92cf-0f1ce0d05287",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
