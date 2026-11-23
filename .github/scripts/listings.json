@@ -22907,27 +22907,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Federal Reserve System",
-        "id": "994f4cdb-d101-45f9-947e-2d62a34c2edf",
-        "title": "Coop: Digital Money and Payments Research & Development",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1776078768,
-        "date_posted": 1774690949,
-        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Fall-2026-Coop--Digital-Money-and-Payments-Research---Development_R-0000031772",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "EQ Bank",
         "id": "04d028c2-711a-4166-88c0-4e3473cb1410",
@@ -237822,7 +237801,7 @@
         "company_name": "NVIDIA",
         "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -267187,7 +267166,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311277,7 +311256,7 @@
         "company_name": "Google",
         "id": "68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
         "title": "Forward Deployed Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346051,7 +346030,7 @@
         "company_name": "Skydio",
         "id": "baa25da2-9ee0-403d-8396-0d4788626830",
         "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401950,7 +401929,7 @@
         "company_name": "APEX Analytix",
         "id": "68916cbe-97cc-414d-8732-d68540a99d35",
         "title": "Product Management Intern - DevOps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -409139,7 +409118,7 @@
         "company_name": "Shield AI",
         "id": "61ec4acd-f407-4303-9ca8-5d49036bce4c",
         "title": "Operational Analysis Intern - Operational Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
