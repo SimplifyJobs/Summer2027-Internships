@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Flagship Pioneering",
-        "id": "6d19c9fa-8aa4-4e2c-ac42-c79a1d477803",
-        "title": "Data Science Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774771636,
-        "date_posted": 1774735622,
-        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8480502002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Altera Corporation",
         "id": "fca7e12c-2669-4526-a1dd-26a5a4d89be4",
         "title": "GenAI / Machine Learning Intern - Design Automation - AI Agents",
@@ -747,27 +726,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hudl",
-        "id": "856cdec2-0bd6-446a-bef0-a13c17b4de4e",
-        "title": "Intern \u2013 Hardware Operatons",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774736590,
-        "date_posted": 1774736590,
-        "url": "https://job-boards.greenhouse.io/hudl/jobs/7746558",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudl",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -212603,7 +212561,7 @@
         "company_name": "ENFOS",
         "id": "492852af-0410-4c62-9c26-766e5ec7b288",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334378,7 +334336,7 @@
         "company_name": "Anduril",
         "id": "58a18c55-845e-4263-98d7-78701275167e",
         "title": "Robotics Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -347946,7 +347904,7 @@
         "company_name": "Parallel Systems",
         "id": "43a7eeee-ee9e-4c96-b3b8-0a83889e94bc",
         "title": "Hardware Engineering Intern - Mechanical and Electrical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355358,7 +355316,7 @@
         "company_name": "RTX",
         "id": "3f3c57d3-3d85-4024-9f7f-43350270aabf",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365685,7 +365643,7 @@
         "company_name": "Schneider Electric",
         "id": "585157cb-2a25-4e5d-8dbb-321781e13898",
         "title": "AI Quality & Continuous Improvement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -379512,7 +379470,7 @@
         "company_name": "Shield AI",
         "id": "5e01c887-e95d-4785-9a00-436d4da36038",
         "title": "Software Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401713,7 +401671,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "bee8e5de-03d0-4cf7-9457-e9ec51642c89",
         "title": "AI Application Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
