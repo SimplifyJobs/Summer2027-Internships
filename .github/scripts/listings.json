@@ -265344,7 +265344,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389551,7 +389551,7 @@
         "company_name": "International",
         "id": "d9461ffc-f97d-4212-9d5c-5603ebac867a",
         "title": "Artificial Intelligence/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -406571,7 +406571,7 @@
         "company_name": "CAS",
         "id": "85823614-4deb-4ffa-a83b-0aa1d9620736",
         "title": "Technology Intern - Application Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412426,6 +412426,103 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Benchling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Playfly Sports",
+        "id": "a5b1e709-3c40-4f69-9d26-a662fedb49e8",
+        "title": "Research & Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795449422,
+        "date_posted": 1795443440,
+        "url": "https://www.playfly.com/careers?gh_jid=4486378009",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Playfly-Sports",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "APEX Analytix",
+        "id": "44661bd9-b43c-446d-a232-8a1d4bd6d3c6",
+        "title": "Software Engineer Intern - Platform Tooling",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795449099,
+        "date_posted": 1795448995,
+        "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/APEX-Analytix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stantec",
+        "id": "93b72ea9-618d-4090-9692-e453b229d3a9",
+        "title": "Data Scientist Intern - Water",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795448163,
+        "date_posted": 1795448049,
+        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005",
+        "locations": [
+            "Boston, MA",
+            "Denver, CO",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "a932445e-1f5f-40cf-b791-2660f0bb0b13",
+        "title": "Specialist, Integration/Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795448013,
+        "date_posted": 1795447813,
+        "url": "https://jobs.l3harris.com/job/Greenville-(DoD-SkillBridge),-Specialist,-IntegrationTest-Engineering-TX-75402/1452921700/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
