@@ -102105,7 +102105,7 @@
         "company_name": "Palantir",
         "id": "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
         "title": "Forward Deployed Software Engineer Intern - Commercial",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -250603,7 +250603,7 @@
         "company_name": "EQT Corporation",
         "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
         "title": "Data Engineering Intern - Completions Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299829,7 +299829,7 @@
         "company_name": "Cook Group",
         "id": "ca1c343b-c596-426d-b7d7-4f8ee16d5b4a",
         "title": "Applied AI & Full Stack Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333860,7 +333860,7 @@
         "company_name": "Verisk",
         "id": "f98a73fd-4f03-43a7-9253-2a17b5fdee3d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342083,7 +342083,7 @@
         "company_name": "The Toro Company",
         "id": "fb4240c7-cb85-41c8-82ab-0d99dd36ba66",
         "title": "Electrical/Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
