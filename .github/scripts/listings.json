@@ -380656,7 +380656,7 @@
         "company_name": "University of Ottawa",
         "id": "3344e973-66b8-44a4-99b3-66715dc4ed29",
         "title": "Research Assistant Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -404369,7 +404369,7 @@
         "company_name": "Workstream",
         "id": "40ef9e3b-1493-4170-b639-2beafbc6c791",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
