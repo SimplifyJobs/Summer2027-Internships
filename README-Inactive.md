@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 4402 Inactive Internship Roles by Category
+### Browse 4403 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1542)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1543)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (284)
 
@@ -231,6 +231,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>London, UK</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Crowdstrike?utm_source=GHList&utm_medium=company">CrowdStrike</a></strong></td>
+<td>Intelligence Launch Intern</td>
+<td>London, UK<br>Reading, UK</td>
 <td>🔒</td>
 <td>11d</td>
 </tr>
@@ -13434,7 +13441,7 @@
 <td>Data Analyst Intern - Enterprise Data Analyst - Data Products</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zebra-Technologies?utm_source=GHList&utm_medium=company">Zebra Technologies</a></strong></td>
@@ -13770,7 +13777,7 @@
 <td>Data Analyst Intern - Enterprise Data Analyst - Data Products</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sherwin-Williams?utm_source=GHList&utm_medium=company">Sherwin-Williams</a></strong></td>
@@ -21354,7 +21361,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/CSX?utm_source=GHList&utm_medium=company">CSX</a></strong></td>
 <td>Intermodal Intern - Summer 2027 - Paid</td>
 <td>Jacksonville, FL</td>
 <td>🔒</td>
@@ -26195,7 +26202,7 @@
 <td>Electronic Engineer Intern</td>
 <td>Melbourn, Royston, UK</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
