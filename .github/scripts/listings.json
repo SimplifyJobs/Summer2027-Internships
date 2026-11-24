@@ -197195,7 +197195,7 @@
         "company_name": "John Deere",
         "id": "7a0bdcf4-53bf-4783-b4b4-4c79dd8fa54a",
         "title": "Application Engineering Intern - JDPS Application Engineering - Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -216073,7 +216073,7 @@
         "company_name": "JP Morgan Chase",
         "id": "74b330d3-7101-4dd6-8176-1b306bd2c5dd",
         "title": "Quantitative Research Markets Analyst Intern - Quantitative Trading & Research Markets",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -301528,7 +301528,7 @@
         "company_name": "Paccar",
         "id": "bb0f6ffe-d6dd-4765-88f5-116b16c81e58",
         "title": "Customer Experience Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366125,7 +366125,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "7815ee26-83c0-49c1-9736-e247a0fd427f",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384450,7 +384450,7 @@
         "company_name": "Warner Bros.",
         "id": "47c3c751-3105-4a4f-b082-e478747a865c",
         "title": "Data Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -389083,7 +389083,7 @@
         "company_name": "HP Inc.",
         "id": "5af709ff-5844-41ba-9742-d01a310bf9ce",
         "title": "Performance Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400627,7 +400627,7 @@
         "company_name": "Forterra",
         "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413826,6 +413826,142 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ISO New England",
+        "id": "c13215ac-4384-43f0-a2d0-adcf7b054607",
+        "title": "Dynamic Dashboard Development and Energy Market Analyst Intern - Dynamic Dashboard Development & Energy Market Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795515514,
+        "date_posted": 1792155240,
+        "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4453371009",
+        "locations": [
+            "Holyoke, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ISO-New-England",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ISO New England",
+        "id": "f3d2c73f-e5c3-4ecb-b5f0-6c2a96bc21c8",
+        "title": "Market Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795515512,
+        "date_posted": 1792510394,
+        "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4454673009",
+        "locations": [
+            "Holyoke, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ISO-New-England",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ISO New England",
+        "id": "5c518e16-7289-4a4e-8496-ceb3fe250b50",
+        "title": "Operations Process Automation Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795515518,
+        "date_posted": 1792516959,
+        "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4455610009",
+        "locations": [
+            "Holyoke, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ISO-New-England",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ISO New England",
+        "id": "3c8c3856-7047-4705-ade0-3ea8d8c50c86",
+        "title": "AI Assisted Modeling of Energy Storage Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795515512,
+        "date_posted": 1792507276,
+        "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4456494009",
+        "locations": [
+            "Holyoke, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ISO-New-England",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ISO New England",
+        "id": "5e2cf9c9-69d5-49c2-9404-377291b8f21c",
+        "title": "Market Analysis Tool Intern - Market Analysis Tool",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795515513,
+        "date_posted": 1792506401,
+        "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4456528009",
+        "locations": [
+            "Holyoke, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ISO-New-England",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Plains All American Pipeline",
+        "id": "653df457-3dc0-4d64-87af-18df2883960b",
+        "title": "Operations Management System Intern - Digital & AI Innovation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795516060,
+        "date_posted": 1795132800,
+        "url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Plains-All-American-Pipeline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
