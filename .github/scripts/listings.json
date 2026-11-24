@@ -159260,7 +159260,7 @@
         "company_name": "Zoox",
         "id": "1b670e5e-9edc-4255-93f8-5fdac2fb70ac",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -267007,7 +267007,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267366,7 +267366,7 @@
         "company_name": "ASM Global",
         "id": "0851431c-8006-418d-ad5e-f304128900fc",
         "title": "Student Data Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357395,7 +357395,7 @@
         "company_name": "Indie",
         "id": "07aad510-60aa-4f59-a810-1efbb9d74d6f",
         "title": "Applications Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413737,5 +413737,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RoboForce",
+        "id": "236f1366-9b33-4f75-bc9b-0495fa17b755",
+        "title": "AI Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795512241,
+        "date_posted": 1792544648,
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5459229008",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoboForce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "2dcc58d5-e980-425f-8373-76d26b5546c2",
+        "title": "Business Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795512421,
+        "date_posted": 1791583912,
+        "url": "https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
