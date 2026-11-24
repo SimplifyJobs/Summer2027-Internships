@@ -245176,7 +245176,7 @@
         "company_name": "Dell Technologies",
         "id": "3f378f5d-230d-4bed-998d-878cbbef8769",
         "title": "Analytics Intern - Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -340110,7 +340110,7 @@
         "company_name": "ZS",
         "id": "2b0bc99c-7278-4add-aed9-1545d88f374a",
         "title": "Business Technology Solutions Consultant Intern - University Students",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357736,7 +357736,7 @@
         "company_name": "Rendezvous Robotics",
         "id": "3c8619b7-10fa-46c2-aa69-0864a5118fd5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -397935,7 +397935,7 @@
         "company_name": "Helcim",
         "id": "2624e6fd-5ca0-43ca-a14f-8d3c0063fd03",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
