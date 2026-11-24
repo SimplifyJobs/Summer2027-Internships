@@ -391658,7 +391658,7 @@
         "company_name": "Shive-Hattery",
         "id": "a31cdf39-a527-48df-95d0-b048ca50228e",
         "title": "Software Developer Intern - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400627,7 +400627,7 @@
         "company_name": "Forterra",
         "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -413963,5 +413963,47 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Energy Solutions",
+        "id": "aac9fffd-b652-4588-b9d2-d5e8c7c2c4c3",
+        "title": "Clean Transportation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795517101,
+        "date_posted": 1791559095,
+        "url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229251007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EnergySolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Energy Solutions",
+        "id": "d727438a-4b85-414c-ac96-678d4eddeb40",
+        "title": "Solar Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795517101,
+        "date_posted": 1791560937,
+        "url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229243007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EnergySolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
