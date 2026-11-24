@@ -310317,7 +310317,7 @@
         "company_name": "Micron Technology",
         "id": "cedb1575-2b84-471a-8de3-e8f8bb3be3ce",
         "title": "IT Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -414259,6 +414259,76 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iCapital Network",
+        "id": "9ef6ba15-7af9-4747-b59e-e6f15665463e",
+        "title": "SI and Annuities Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795534070,
+        "date_posted": 1795529775,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ICapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NASA Jet Propulsion Laboratory",
+        "id": "0abf44bd-1664-4576-8f15-2e958d00b1a6",
+        "title": "Business Administration Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795532889,
+        "date_posted": 1795132800,
+        "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Business-Administration-Academic-Part-time-Intern_R6311",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NASA-JPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fanatics",
+        "id": "3563c76a-b34e-4368-8653-6f067348425a",
+        "title": "Product Management Intern - Card Tech",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795532838,
+        "date_posted": 1795530648,
+        "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
