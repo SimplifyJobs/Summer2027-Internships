@@ -267031,7 +267031,7 @@
         "company_name": "Rippling",
         "id": "0315cabd-eed9-4fb0-bf72-2770478f6bb9",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402160,7 +402160,7 @@
         "company_name": "Compunetix",
         "id": "14b45ec6-cd52-4f94-9eee-9ca874bdac85",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -406277,7 +406277,7 @@
         "company_name": "Scheels",
         "id": "0c884a35-d2e9-478a-b007-cb9b4907befe",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
