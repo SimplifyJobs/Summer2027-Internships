@@ -381550,7 +381550,7 @@
         "company_name": "Leidos",
         "id": "77c8e346-3780-4747-992a-a0692af4336d",
         "title": "AI/Automation Development Intern - Assessment & Authorization",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411483,7 +411483,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e8ff9442-41f5-41b5-83e0-6bfd57fd8f6b",
         "title": "Data Analyst Intern - Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
