@@ -309686,7 +309686,7 @@
         "company_name": "Electronic Arts",
         "id": "c0ed9e00-a8a7-4c6d-b0a2-caef36fca2a9",
         "title": "C++ Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -357395,7 +357395,7 @@
         "company_name": "Indie",
         "id": "07aad510-60aa-4f59-a810-1efbb9d74d6f",
         "title": "Applications Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -389324,7 +389324,7 @@
         "company_name": "HP Inc.",
         "id": "c4b8e999-c6d3-421e-922b-8cdd5da12a7d",
         "title": "Performance Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413556,6 +413556,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veolia",
+        "id": "e56c16ed-c43f-4794-87be-c60acdfe34c2",
+        "title": "Manufacturing Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795504148,
+        "date_posted": 1795490016,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
