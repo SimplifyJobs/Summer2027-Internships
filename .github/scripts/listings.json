@@ -285497,7 +285497,7 @@
         "company_name": "Point72",
         "id": "1241572f-e197-4dc1-85b5-7e85e15234d8",
         "title": "Micro-Intern: Research Technology Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -304891,7 +304891,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "594991dc-434c-49b1-9e3d-2d3121ca735a",
         "title": "Radiation Effects Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -344115,7 +344115,7 @@
         "company_name": "KLA Corporation",
         "id": "0da57b70-03cc-4f7d-a381-5927888dcf79",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379678,7 +379678,7 @@
         "company_name": "Invesco",
         "id": "d8cc7189-431c-4e08-938a-58fd924c969f",
         "title": "Digital Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
