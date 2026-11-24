@@ -145201,7 +145201,7 @@
         "company_name": "ByteDance",
         "id": "d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
         "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -189285,7 +189285,7 @@
         "company_name": "Ingredion",
         "id": "db4af251-6b9b-46c0-9892-2242d0199f3f",
         "title": "Artificial Intelligence & Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -212467,7 +212467,7 @@
         "company_name": "Schonfeld",
         "id": "ce15dae3-7399-4de2-93b2-1047bc6aedc8",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246811,7 +246811,7 @@
         "company_name": "Lunar Outpost",
         "id": "8b5f96a8-b90d-4f41-9ff7-1c4b1bc8089b",
         "title": "Robotics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358603,7 +358603,7 @@
         "company_name": "Riverlane",
         "id": "5be918fc-af4e-4bf5-9db2-e4aa41c3982e",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371417,7 +371417,7 @@
         "company_name": "Global Relay",
         "id": "c8b528c0-9e2b-41f1-b70b-f51830b754e2",
         "title": "Java Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -388698,7 +388698,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "8fc5dfae-9745-459b-8c40-2c93d630e074",
         "title": "ASIC/FPGA Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -410558,7 +410558,7 @@
         "company_name": "iA",
         "id": "a1afbfa8-e273-4682-a846-d3f5f3f4b72c",
         "title": "Industrial Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412951,5 +412951,353 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "cea3cf41-7e95-4fed-a73b-125fa23ce04c",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478275,
+        "date_posted": 1795392000,
+        "url": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Exowatt",
+        "id": "60fe2bfd-5d70-4125-a0fd-2ff792996d47",
+        "title": "Software & AI Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1795478281,
+        "date_posted": 1795478191,
+        "url": "https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Exowatt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Culver's",
+        "id": "f01f8423-8219-4906-b1ce-6506e4b2e32d",
+        "title": "Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478268,
+        "date_posted": 1795478145,
+        "url": "https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79",
+        "locations": [
+            "Prairie du Sac, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Culvers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "a59dace8-5aed-4def-bb71-8aca612be915",
+        "title": "Data Innovations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478063,
+        "date_posted": 1795470720,
+        "url": "https://careers.noblis.org/jobs/28005?icims=1&lang=en-us",
+        "locations": [
+            "Springfield, VA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ViaSat",
+        "id": "61d55973-b2c9-4001-ad5e-42a852f95674",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478041,
+        "date_posted": 1795454820,
+        "url": "https://careers.viasat.com/jobs/10478?icims=1&lang=en-us",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ViaSat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Runna",
+        "id": "81dc0163-6b9d-4d27-af0d-f364c619ee52",
+        "title": "Full Stack Engineer Intern - Core App",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795477861,
+        "date_posted": 1795392000,
+        "url": "https://jobs.ashbyhq.com/runna/3639d900-9433-4e57-b9f8-ad74340c4bad/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Runna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Runna",
+        "id": "454c1586-5186-4801-ac1a-670c32001a32",
+        "title": "Full Stack Engineer Intern - Growth",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795477861,
+        "date_posted": 1795392000,
+        "url": "https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Runna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Workstream",
+        "id": "be2051f8-a2d6-43b6-b1fb-1c07cd506c24",
+        "title": "Wearable Devices Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795477861,
+        "date_posted": 1795467575,
+        "url": "https://job-boards.greenhouse.io/workstream/jobs/6268345004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Workstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Runna",
+        "id": "233bb5b9-1103-49b3-abb1-83af20b1b8dd",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795477861,
+        "date_posted": 1795392000,
+        "url": "https://jobs.ashbyhq.com/runna/59bd8bad-51db-4ac3-b557-ff65b6dbb56f/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Runna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Illinois Tool Works",
+        "id": "94a72a59-20ae-4fcc-a654-f08453eb1a00",
+        "title": "Software or Computer Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795477501,
+        "date_posted": 1795477491,
+        "url": "https://careers.itw.com/global/en/job/JR11356",
+        "locations": [
+            "Fairmont, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Legrand",
+        "id": "97928512-e4a2-4a3a-96a8-6ff152a61899",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795477374,
+        "date_posted": 1795477272,
+        "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Legrand",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "60e1861c-5482-429c-9640-4477f978fa1d",
+        "title": "PhD Intern - AI Research",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1795477363,
+        "date_posted": 1795464731,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "95a334fe-a4fa-4bb9-8388-e02bf718a1d7",
+        "title": "Computer Vision Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1795477354,
+        "date_posted": 1795464756,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brave",
+        "id": "5051347d-3cdd-4c43-9290-d929b5f5ada6",
+        "title": "Software Development Intern - Web3 Core",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1795476961,
+        "date_posted": 1795469485,
+        "url": "https://job-boards.greenhouse.io/brave/jobs/8412532",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Brave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oscar Health",
+        "id": "c9b6e057-a2e6-4569-82c2-9e595b27ae5b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2028",
+            "Summer 2028",
+            "Winter 2028"
+        ],
+        "date_updated": 1795476820,
+        "date_posted": 1795458321,
+        "url": "https://oscarhealth.com/careers/jobs?gh_jid=8407472",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
