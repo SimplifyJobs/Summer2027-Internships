@@ -183056,7 +183056,7 @@
         "company_name": "Tesla",
         "id": "21d6e4f1-9a13-4078-8012-b3f6e65719ac",
         "title": "Software Engineer Intern - Core AI Compiler & Runtime",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -342501,7 +342501,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "064696e6-6d8e-4382-bef3-138d86097bed",
         "title": "Computational Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -370054,7 +370054,7 @@
         "company_name": "Qualcomm",
         "id": "1cc20c71-908b-45aa-9a70-22f2792a9b8f",
         "title": "Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
