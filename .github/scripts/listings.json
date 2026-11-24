@@ -48,29 +48,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "14cdcd96-1da8-4d88-883c-aaa3908a6de2",
-        "title": "Intern Engineer - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774822079,
-        "date_posted": 1774822079,
-        "url": "https://careers-gdms.icims.com/jobs/71717/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1778157806,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -177960,7 +177937,7 @@
         "company_name": "Cardinal Health",
         "id": "72f55229-7e1a-4b64-b053-593f7de6067a",
         "title": "Data and Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -211860,7 +211837,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -228063,7 +228040,7 @@
         "company_name": "Rockefeller Capital Management",
         "id": "420f3d0b-1d54-4f51-8d47-bfbf5af053fa",
         "title": "Summer Analyst Intern - Core Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258194,7 +258171,7 @@
         "company_name": "RTX",
         "id": "5946c3c7-9377-4d6c-9b0b-f01fc24f1d9d",
         "title": "Digital Hardware Design Engineer Co-op - Winter/Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -258666,7 +258643,7 @@
         "company_name": "Gemini",
         "id": "595eb124-49d0-4457-9e82-79dbcd23c3e6",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298525,7 +298502,7 @@
         "company_name": "Mayo Clinic",
         "id": "5deaeeac-9451-4c30-96a6-fd4a16eccee7",
         "title": "Research Fellow in Surgical AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368416,7 +368393,7 @@
         "company_name": "KLA Corporation",
         "id": "7119d05b-82f8-4636-8a9f-426c89f7a8c5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373347,7 +373324,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "6e77db86-68fd-4230-b94e-ef69b5581fa6",
         "title": "System Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392654,7 +392631,7 @@
         "company_name": "CARIAD",
         "id": "627576f6-b0fe-4582-a365-d7ea08a67a41",
         "title": "Engineer 1 Intern - VLA Model Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404145,7 +404122,7 @@
         "company_name": "Workstream",
         "id": "40ef9e3b-1493-4170-b639-2beafbc6c791",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413654,7 +413631,7 @@
         "company_name": "Esri",
         "id": "412be03d-2c43-46ce-9ee3-6ebeafbd46f5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
