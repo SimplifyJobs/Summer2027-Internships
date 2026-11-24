@@ -184018,7 +184018,7 @@
         "company_name": "Textron",
         "id": "5489cdce-696e-4c2f-b1ae-e937cff71c6c",
         "title": "Software Engineer Intern - Crewed Land",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320906,7 +320906,7 @@
         "company_name": "Expedia Group",
         "id": "3b537031-55e0-438c-9aee-888baa79d6cd",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329831,7 +329831,7 @@
         "company_name": "Tencent",
         "id": "584887e2-9ec1-48e4-84dd-0d5050bd1c52",
         "title": "Generative AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394350,7 +394350,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "1930aa1f-6b82-411d-88d7-1c42cdfa1597",
         "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397445,7 +397445,7 @@
         "company_name": "Renesas Electronics",
         "id": "4a878341-b59a-4f01-ae88-94e135bfd7af",
         "title": "Power Management Integrated Circuit Analog Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398140,7 +398140,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "331732d6-2320-4e49-9426-29401912aba0",
         "title": "Cyber AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
