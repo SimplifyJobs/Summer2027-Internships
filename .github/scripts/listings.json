@@ -49,27 +49,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Guidewire",
-        "id": "1d51ee6a-9f49-4f9e-b6d1-a9ff65d500ca",
-        "title": "Services Solutions Technical Architect Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774764496,
-        "date_posted": 1774764496,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/Services-Solutions-Technical-Architect-Intern_JR_14535",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics Mission Systems",
         "id": "14cdcd96-1da8-4d88-883c-aaa3908a6de2",
@@ -376842,7 +376821,7 @@
         "company_name": "Citizens Energy Group",
         "id": "43237025-ed40-4f46-a692-5ad8bf1c72fe",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379676,7 +379655,7 @@
         "company_name": "Invesco",
         "id": "519aa545-7ad9-4720-9fc1-926b6e963038",
         "title": "Digital Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
