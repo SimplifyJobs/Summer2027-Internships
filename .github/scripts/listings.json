@@ -219569,7 +219569,7 @@
         "company_name": "Revel",
         "id": "7b684d8f-d5d1-4f2a-ae66-c9f8f79aec21",
         "title": "Forward Deployed Engineer Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265258,7 +265258,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301437,7 +301437,7 @@
         "company_name": "The Semios Group",
         "id": "9b4e37d9-a98c-45f4-bc30-a54925f62d8b",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -303109,7 +303109,7 @@
         "company_name": "Anduril",
         "id": "9e2e6559-0af7-4f08-8cca-e4a650d95b46",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390591,7 +390591,7 @@
         "company_name": "McDonald's",
         "id": "1982a165-a74a-476f-8ebb-5136a38d056d",
         "title": "Global Tech Infrastructure & Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401016,7 +401016,7 @@
         "company_name": "Xradar",
         "id": "861f6527-4fbe-4536-a2b9-0ec1d95328fc",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -414374,5 +414374,202 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "11f4ffec-8602-40ac-b28a-7e926f238340",
+        "title": "Geographic Information Systems Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795562462,
+        "date_posted": 1795562291,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rubrik",
+        "id": "f8f30537-c326-4d7f-9014-ada2b84211a0",
+        "title": "Product Management Intern - Managed Service Provider",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795562462,
+        "date_posted": 1795547900,
+        "url": "https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rubrik",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eulerity",
+        "id": "f250aee1-baf7-4cf5-8963-1a8276aad0de",
+        "title": "Finance Data Analyst Intern - Finance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795562144,
+        "date_posted": 1795537914,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4731948006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Intuitive Surgical",
+        "id": "2eed9b1c-4dac-4b07-83e7-b810b19c11c5",
+        "title": "Product Management MBA Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795562104,
+        "date_posted": 1795553637,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000163546809",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sparksoft",
+        "id": "fd035325-c111-46c9-b277-51698b00fed9",
+        "title": "Business / Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795561946,
+        "date_posted": 1795548861,
+        "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007",
+        "locations": [
+            "Maryland"
+        ],
+        "company_url": "https://simplify.jobs/c/Sparksoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Indie",
+        "id": "a40cd0e7-6b37-4879-82a6-beeac133e86f",
+        "title": "Camera Host Tools Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795561742,
+        "date_posted": 1795559089,
+        "url": "https://www.indie.inc/careers/job-opportunities/?gh_jid=5291418007",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Indie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KPMG",
+        "id": "dc808c2a-8079-4484-8c01-7e5dfd00919c",
+        "title": "Junior Risk Analyst Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795561816,
+        "date_posted": 1795535580,
+        "url": "https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Victoria, BC, Canada",
+            "Saskatoon, SK, Canada",
+            "Calgary, AB, Canada",
+            "Vaughan, ON, Canada",
+            "Hamilton, ON, Canada",
+            "Edmonton, AB, Canada",
+            "St. John's, NL, Canada",
+            "Regina, SK, Canada",
+            "London, ON, Canada",
+            "Ottawa, ON, Canada",
+            "Vancouver, BC, Canada",
+            "Prince George, BC, Canada",
+            "Fredericton, NB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/KPMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "dae50b6f-3c3c-4e59-bfb9-a823062c400b",
+        "title": "Front-End Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1795561775,
+        "date_posted": 1795561535,
+        "url": "https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+        "locations": [
+            "Seattle, WA",
+            "Chicago, IL",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
