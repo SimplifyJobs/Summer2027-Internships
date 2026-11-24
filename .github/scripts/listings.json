@@ -226099,7 +226099,7 @@
         "company_name": "Barclays",
         "id": "81a0e97d-9eea-4bd4-bbf6-b511c860fa9c",
         "title": "Technology Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265281,7 +265281,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385946,7 +385946,7 @@
         "company_name": "RTX",
         "id": "f3d65b6a-089f-4407-b544-6f651a4c28be",
         "title": "Electronic Warfare Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399375,7 +399375,7 @@
         "company_name": "Boston Scientific",
         "id": "9505b5cc-26f0-4893-93fe-d10cabec7014",
         "title": "Product Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413580,5 +413580,162 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Esri",
+        "id": "c6fcfa7b-64c5-438b-b327-e3f5af651cac",
+        "title": "GIS Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795506914,
+        "date_posted": 1787693413,
+        "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217904007",
+        "locations": [
+            "Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Esri",
+        "id": "5207bd70-eb5d-4242-aba6-0714d0d37365",
+        "title": "Enterprise Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795506907,
+        "date_posted": 1790096976,
+        "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5246028007",
+        "locations": [
+            "Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "29a084d4-fdf6-4ef2-b926-16e740b71190",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795506905,
+        "date_posted": 1793917352,
+        "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286753007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "412be03d-2c43-46ce-9ee3-6ebeafbd46f5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795506898,
+        "date_posted": 1790093138,
+        "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5244524007",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "3d67817e-0fda-4e2d-a390-58eb5f728d03",
+        "title": "Software Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795506899,
+        "date_posted": 1787693393,
+        "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217883007",
+        "locations": [
+            "Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "273a5509-f837-4c1d-8f0d-a72ca96d630d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795506898,
+        "date_posted": 1790270739,
+        "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5246038007",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "bf7e70ee-2c50-4692-9d4f-717271c5334f",
+        "title": "Micro-Intern - IAP",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795505986,
+        "date_posted": 1788451946,
+        "url": "https://job-boards.greenhouse.io/joblinks/jobs/8176978",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
