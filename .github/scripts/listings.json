@@ -162898,7 +162898,7 @@
         "company_name": "Springs Window Fashions",
         "id": "b59dc602-a7f2-4fe8-b95c-1d885aaf533c",
         "title": "Data Analyst Intern - Consumer Business Unit",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -165153,7 +165153,7 @@
         "company_name": "Springs Window Fashions",
         "id": "cb063395-698b-47f5-9fe1-4b86a1b0dee5",
         "title": "Software Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -178546,7 +178546,7 @@
         "company_name": "Major League Baseball",
         "id": "c3be8106-43f1-4763-b56f-088b14894576",
         "title": "Domestic Scouting Analyst Fellow - Domestic Scouting",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -207926,7 +207926,7 @@
         "company_name": "Apex",
         "id": "d06c9bca-b6bb-4a9e-88dd-5dc6f0b1a038",
         "title": "Ground Software Intern - Spring or Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -257936,7 +257936,7 @@
         "company_name": "RTX",
         "id": "bd8058b7-a84d-4dfb-91d8-845c08275253",
         "title": "Digital Hardware Design Engineer Co-op - Summer/Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -357596,7 +357596,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "c79fefe1-fbce-4cf7-ab66-bed442b0c2cb",
         "title": "AI/ML Software Development and Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412473,7 +412473,7 @@
         "company_name": "DraftKings",
         "id": "bf7be755-266e-4016-ad50-096a56afdd42",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
