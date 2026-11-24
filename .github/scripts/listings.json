@@ -216073,7 +216073,7 @@
         "company_name": "JP Morgan Chase",
         "id": "74b330d3-7101-4dd6-8176-1b306bd2c5dd",
         "title": "Quantitative Research Markets Analyst Intern - Quantitative Trading & Research Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -267007,7 +267007,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -366125,7 +366125,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "7815ee26-83c0-49c1-9736-e247a0fd427f",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398459,7 +398459,7 @@
         "company_name": "Camping World",
         "id": "2d609f21-b04d-4102-a341-b7fc2585a162",
         "title": "Data Analyst Intern - AI & Machine Learning Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410874,7 +410874,7 @@
         "company_name": "Woodward Governor",
         "id": "28b10e18-b290-443b-b1ae-dca8536f1cd0",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413780,6 +413780,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Quantinuum",
+        "id": "41e56d1f-dcce-4cdc-8be3-79cfda8b8ca7",
+        "title": "Metasurface Resonant Photonic Design Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795512961,
+        "date_posted": 1789164973,
+        "url": "https://jobs.eu.lever.co/quantinuum/dc2d5427-8263-400f-9ca7-501d2e17162f/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantinuum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Quantinuum",
+        "id": "5eb1b98b-42fb-4e34-ba1b-0549ebc134be",
+        "title": "Metasurface Optical Design Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795513681,
+        "date_posted": 1789164972,
+        "url": "https://jobs.eu.lever.co/quantinuum/ca00d719-ecda-4245-9c41-0da221dc2bb5/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantinuum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
