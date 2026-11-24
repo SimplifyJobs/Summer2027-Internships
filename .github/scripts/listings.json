@@ -142963,7 +142963,7 @@
         "company_name": "ByteDance",
         "id": "f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
         "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295814,7 +295814,7 @@
         "company_name": "Keysight Technologies",
         "id": "7136a7a6-b9b6-47d9-be27-85bb3d354b11",
         "title": "R&D Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -296514,7 +296514,7 @@
         "company_name": "Astera Labs",
         "id": "dd774f3a-91d2-4b8d-88b9-3ce86360a893",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308196,7 +308196,7 @@
         "company_name": "Aptiv",
         "id": "e8314098-af0f-4c4a-988b-ea69c0698a13",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -313631,7 +313631,7 @@
         "company_name": "Astera Labs",
         "id": "8ab72468-1cea-4680-a6b4-0f4ac1744e1a",
         "title": "Analog/Mixed Signal System Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322049,7 +322049,7 @@
         "company_name": "Muon Space",
         "id": "f3fe5670-e9b7-400c-b35b-2d10dd196257",
         "title": "Ground Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334541,7 +334541,7 @@
         "company_name": "Berkshire Grey",
         "id": "f57b940d-a21a-4d57-8f7c-1f352e6b2698",
         "title": "Robot Learning R&D Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -387802,7 +387802,7 @@
         "company_name": "Altice USA",
         "id": "f60a9ca0-d42f-48f5-9643-b10749754e9e",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -397652,7 +397652,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "ecba7dcd-8896-44c3-bb7f-3f2b3b3fb4d6",
         "title": "Data Analytics Intern - OSD Process Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408789,7 +408789,7 @@
         "company_name": "Microchip Technology",
         "id": "792ffa39-f33c-4176-87f8-1950a3c506e2",
         "title": "ASIC Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -410917,7 +410917,7 @@
         "company_name": "AriensCo",
         "id": "b4668eae-16c6-4c57-927b-a0dc130281a9",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -413299,5 +413299,120 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strava",
+        "id": "6678365d-b71e-422c-99d3-6c158aae7a49",
+        "title": "Software Engineer Intern - Android - Subscriptions",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478444,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Strava",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strava",
+        "id": "1ed4dcbd-dc04-4740-93c7-3f5a4478d760",
+        "title": "Software Engineer Intern - Server - Comms",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478444,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Strava",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strava",
+        "id": "bb5c00e9-57e3-48fd-8113-a2d429c4d05c",
+        "title": "Software Engineer Intern - Server - User Lifecycle",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478445,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Strava",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Strava",
+        "id": "80590ce8-e65c-44a9-907c-6a3ed264022d",
+        "title": "Machine Learning Engineer Intern - AI/ML Data Products",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478446,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Strava",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strava",
+        "id": "5adba604-3ce4-40d7-82ce-ffed95ed3ef1",
+        "title": "Software Engineer Intern - Server - Next Sports",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795478443,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Strava",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
