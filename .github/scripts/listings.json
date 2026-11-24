@@ -267535,7 +267535,7 @@
         "company_name": "Marvell",
         "id": "b90ec8c6-62de-4677-9db4-1799997bef9e",
         "title": "Electrical Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -296024,7 +296024,7 @@
         "company_name": "Astera Labs",
         "id": "9665a307-accf-4760-a8e1-3e309af12216",
         "title": "Physical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380100,7 +380100,7 @@
         "company_name": "Ryan",
         "id": "7ecdd27f-f4ab-42d2-b91b-2536a6667f3d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385061,7 +385061,7 @@
         "company_name": "Boston Scientific",
         "id": "7e9ddadf-ad41-4c7e-af12-06862e3ce7c2",
         "title": "Urology R&D Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
