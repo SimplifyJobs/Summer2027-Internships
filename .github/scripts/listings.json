@@ -339283,7 +339283,7 @@
         "company_name": "Amazon",
         "id": "79f3969b-886f-4281-9e1a-926e475353e8",
         "title": "Hardware Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -371308,7 +371308,7 @@
         "company_name": "Eulerity",
         "id": "7e85584b-c434-4186-90e5-021b0f802f3b",
         "title": "Finance Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388654,7 +388654,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "8fc5dfae-9745-459b-8c40-2c93d630e074",
         "title": "ASIC/FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
