@@ -138849,7 +138849,7 @@
         "company_name": "Roblox",
         "id": "f89dbf35-2e68-4087-a28a-1092da1e72d4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -250285,7 +250285,7 @@
         "company_name": "Rockwell Automation",
         "id": "fdef26c7-fa7e-4032-b5b0-ddc1667549ba",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -296113,7 +296113,7 @@
         "company_name": "Astera Labs",
         "id": "f81a1952-cfe8-4ceb-9c7e-652848972c6f",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308196,7 +308196,7 @@
         "company_name": "Aptiv",
         "id": "e8314098-af0f-4c4a-988b-ea69c0698a13",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -324189,7 +324189,7 @@
         "company_name": "University of Texas at Austin",
         "id": "f7d43f88-b142-46f2-9334-796092e21c57",
         "title": "Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344813,7 +344813,7 @@
         "company_name": "Siemens",
         "id": "c56751ac-6762-423d-9796-8d62264d5cac",
         "title": "Python Backend Developer Intern - Energy Flexibility Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
