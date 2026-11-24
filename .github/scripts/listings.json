@@ -265281,7 +265281,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -266910,7 +266910,7 @@
         "company_name": "Rippling",
         "id": "fff73d24-2557-417b-a791-58567415f245",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391587,7 +391587,7 @@
         "company_name": "Shield AI",
         "id": "f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
         "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -414005,5 +414005,237 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CarGurus",
+        "id": "ee404af2-610e-42a2-8a2e-cf5fe7ca9de9",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519089,
+        "date_posted": 1790801919,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230686",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarGurus",
+        "id": "b730a995-0701-41d5-84f5-aa52b4735693",
+        "title": "Data Governance Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519089,
+        "date_posted": 1790801734,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230749",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CarGurus",
+        "id": "a87676d0-1e21-4807-9d97-fa492a9143c8",
+        "title": "Software Engineer Intern - Full Stack",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519123,
+        "date_posted": 1790803540,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230777",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarGurus",
+        "id": "a6e5ed37-0eb9-42d7-9d15-0448e72fb148",
+        "title": "Data Analytics Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519089,
+        "date_posted": 1790801713,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231510",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarGurus",
+        "id": "99fe7134-4906-4bd6-a0ab-47d4ab11103b",
+        "title": "Product Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519089,
+        "date_posted": 1790801894,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230677",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarGurus",
+        "id": "9966d0c4-2f1f-41c0-b665-32e7860ef0e3",
+        "title": "Data Platform Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519089,
+        "date_posted": 1790801767,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarGurus",
+        "id": "5d18bb66-893c-41fc-ae16-41e29cd81046",
+        "title": "Finance AI Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519089,
+        "date_posted": 1790801835,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231798",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CarGurus",
+        "id": "4652d869-e739-4f9b-b01e-bfb28992cd97",
+        "title": "Software Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519089,
+        "date_posted": 1790801967,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231504",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CarGurus",
+        "id": "44e1b845-a722-4cb6-842c-45e7848f74cd",
+        "title": "Software Engineer Intern - Full Stack",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795519122,
+        "date_posted": 1790803490,
+        "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230763",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fervo Energy",
+        "id": "0eb6394b-8d34-4f2f-80c4-1241604bd151",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795518547,
+        "date_posted": 1795508907,
+        "url": "https://job-boards.greenhouse.io/fervoenergy/jobs/4512537009",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Fervo-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
