@@ -162944,7 +162944,7 @@
         "company_name": "Springs Window Fashions",
         "id": "a9cd2f49-efd8-4433-b2f9-c9ddea84ea80",
         "title": "AI Analyst Intern - Consumer Business Unit",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347296,7 +347296,7 @@
         "company_name": "National Indemnity Company",
         "id": "f8dd7f00-f7e5-4079-a695-23d6e7e1e315",
         "title": "Marketing Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -414375,5 +414375,27 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RF-SMART",
+        "id": "637771ab-fcba-4414-9c25-99bfe21fa777",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795536197,
+        "date_posted": 1795536121,
+        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
+        "locations": [
+            "Highlands Ranch, CO",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RF-SMART",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
