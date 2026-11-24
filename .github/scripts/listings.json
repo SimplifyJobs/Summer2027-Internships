@@ -290987,7 +290987,7 @@
         "company_name": "VaynerMedia",
         "id": "0faa8b6f-8465-4562-a585-7786a6e1a728",
         "title": "Data Analytics Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -329761,7 +329761,7 @@
         "company_name": "Tencent",
         "id": "0bc0ca2c-64dd-461f-92a3-43dc0d4f0fb1",
         "title": "Generative AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402957,7 +402957,7 @@
         "company_name": "Canadian Strategic Missions",
         "id": "0398ec3d-cdf1-4c12-9aab-b7ff257065b7",
         "title": "Engineering Intern - Labs",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
