@@ -99941,7 +99941,7 @@
         "company_name": "Astera Labs",
         "id": "1d80a1df-6557-427b-8e92-f3380038cd16",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362866,7 +362866,7 @@
         "company_name": "Astera Labs",
         "id": "22021546-205a-467d-b274-f4cf864649f6",
         "title": "AI Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
