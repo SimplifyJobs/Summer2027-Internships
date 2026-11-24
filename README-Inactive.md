@@ -14,9 +14,9 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1569)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (317)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (316)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (718)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (719)
 
 ---
 
@@ -92,7 +92,7 @@
 <td>BIOS Engineering Co-op 🎓</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GCI-Tech?utm_source=GHList&utm_medium=company">GCI</a></strong></td>
@@ -9748,7 +9748,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
 <td>Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -13196,7 +13196,7 @@
 <td>Drone Imaging Agronomy Intern</td>
 <td>Manhattan, KS</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Merrick?utm_source=GHList&utm_medium=company">Merrick</a></strong></td>
@@ -13266,7 +13266,7 @@
 <td>Data Scientist Intern - CoreAI</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
@@ -22460,7 +22460,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD 🎓</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -23391,7 +23391,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer Intern - Data-Global E-Commerce-Search 🎓</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -23405,7 +23405,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Engineer Intern - Commerce Ads - Summer 2027</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -24215,13 +24215,6 @@
 <td>Edinburgh, UK</td>
 <td>🔒</td>
 <td>29d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
-<td>Quantitative Research Intern 🎓</td>
-<td>Atlanta, GA</td>
-<td>🔒</td>
-<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
@@ -26605,6 +26598,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company">HP Inc.</a></strong></td>
+<td>Performance Engineering Co-op</td>
+<td>Fort Collins, CO</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Performance Engineering Co-op</td>
 <td>Fort Collins, CO</td>
 <td>🔒</td>
