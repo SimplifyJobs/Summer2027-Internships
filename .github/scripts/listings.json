@@ -131963,7 +131963,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "e142c984-ca46-4624-af2c-e5061b8b60f2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -245777,7 +245777,7 @@
         "company_name": "Altera",
         "id": "e76d4605-d469-425d-a79a-1fa00dca13b2",
         "title": "Quartus Compiler Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -265281,7 +265281,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387025,7 +387025,7 @@
         "company_name": "Selective Insurance",
         "id": "ec82070a-1dec-4b05-9e7d-e8e93eab62f9",
         "title": "IT Commercial Lines Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387071,7 +387071,7 @@
         "company_name": "Selective Insurance",
         "id": "9a604003-28ad-46f3-991d-0d27170b494c",
         "title": "IT Information Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399563,7 +399563,7 @@
         "company_name": "Qualcomm",
         "id": "9f33eb65-3c19-47fa-b0ca-d0101c113023",
         "title": "GPU Compiler Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -414329,6 +414329,51 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BEUMER Group",
+        "id": "5bf8dfe3-4db3-4a58-bae6-a6583727fe02",
+        "title": "AI Development Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795535105,
+        "date_posted": 1795533384,
+        "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739",
+        "locations": [
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/BEUMER-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "2804d321-266b-4853-a3f6-2741c53b953d",
+        "title": "Masters AI Rack/Cluster Design Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1795534958,
+        "date_posted": 1795534080,
+        "url": "https://careers.amd.com/jobs/89564?icims=1&lang=en-us",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
