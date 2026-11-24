@@ -90957,7 +90957,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231107,7 +231107,7 @@
         "company_name": "Impulse Space",
         "id": "1e876ae2-39bb-4074-b163-dcb7368e9df3",
         "title": "Flight Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343256,7 +343256,7 @@
         "company_name": "AMA",
         "id": "2b9aaa15-99f9-47a0-bdf4-dbc1f91203ee",
         "title": "Architecture Research Intern - Optimization & Decision Modelling",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
