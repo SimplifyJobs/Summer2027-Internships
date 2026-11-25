@@ -276771,7 +276771,7 @@
         "company_name": "Moment Energy",
         "id": "22726e24-c6c4-4f17-ac39-fecbc1551a52",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -354312,7 +354312,7 @@
         "company_name": "RosaicLabs",
         "id": "3fc2cdd1-4ad2-454e-bd39-424e1347ddef",
         "title": "AI Accelerator Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
