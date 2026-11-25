@@ -317742,7 +317742,7 @@
         "company_name": "Anduril",
         "id": "dafc249b-2c6d-433d-9420-560205cd6a93",
         "title": "Research Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -356641,7 +356641,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
