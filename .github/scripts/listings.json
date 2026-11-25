@@ -111910,7 +111910,7 @@
         "company_name": "Jump Trading",
         "id": "a7c171b9-3bae-433c-ba6d-a3f97c7b2008",
         "title": "Campus AI Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -412857,7 +412857,7 @@
         "company_name": "Veolia",
         "id": "e56c16ed-c43f-4794-87be-c60acdfe34c2",
         "title": "Manufacturing Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
