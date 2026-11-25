@@ -211596,7 +211596,7 @@
         "company_name": "Garmin",
         "id": "e0a1bb59-1fb6-4c2b-bd8e-8bd8ec2bc007",
         "title": "Software Engineer Intern - Automotive OEM",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -356641,7 +356641,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -356688,7 +356688,7 @@
         "company_name": "Indie",
         "id": "07aad510-60aa-4f59-a810-1efbb9d74d6f",
         "title": "Applications Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -414815,5 +414815,96 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "bc9756cd-5851-45b0-a46f-cdb537120839",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795620283,
+        "date_posted": 1795607520,
+        "url": "https://jobs.keysight.com/jobs/58027?icims=1&lang=en-us",
+        "locations": [
+            "Paignton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of St. Thomas",
+        "id": "ff12fa07-66e0-4a55-9131-b0323a91a0c3",
+        "title": "Graduate Assistant for Data Analytics Intern - Center for Well-Being",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795620091,
+        "date_posted": 1795564800,
+        "url": "https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-St-Thomas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "26ee6493-02d8-49da-a580-97b2be904636",
+        "title": "AI/ML Research Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1795620085,
+        "date_posted": 1795618980,
+        "url": "https://careers.noblis.org/jobs/28841?icims=1&lang=en-us",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waters",
+        "id": "540a8cd1-224d-43b7-bcd1-e081d9e57ed7",
+        "title": "IT Digital Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795619971,
+        "date_posted": 1795564800,
+        "url": "https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Milford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
