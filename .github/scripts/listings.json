@@ -220330,7 +220330,7 @@
         "company_name": "AnaVation",
         "id": "bfd3e5c6-0630-477a-a77e-5849e825fd81",
         "title": "Computer Science Intern - Summer Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -237478,7 +237478,7 @@
         "company_name": "AnaVation",
         "id": "c4f9efb0-cfe9-4fa9-8eba-dd91a195bd79",
         "title": "Computer Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265210,7 +265210,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -415056,6 +415056,287 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bandwidth",
+        "id": "b83dd5ca-0ff8-4558-a2ff-f5535e54b006",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795575425,
+        "date_posted": 1795570721,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414452",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bandwidth",
+        "id": "a8cb5ac6-a7fe-44a7-80a9-e11ab5ca605a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795575425,
+        "date_posted": 1795570840,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414426",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bandwidth",
+        "id": "3f48a86b-a011-4e52-a82a-10e066c46c6c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795575425,
+        "date_posted": 1795570874,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414440",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bandwidth",
+        "id": "23609cfe-dbde-4ea2-bb6b-26e6a21acfd4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795575425,
+        "date_posted": 1795570760,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414444",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bandwidth",
+        "id": "0fd475ad-5a8f-4c47-b625-21d0951fbe36",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795575425,
+        "date_posted": 1795570680,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414448",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bandwidth",
+        "id": "0ac4d045-ae34-4b4e-a936-b96916afbe0a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795575425,
+        "date_posted": 1795570902,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414430",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bandwidth",
+        "id": "07a728ec-e242-4c6f-b654-ca87efa1aa61",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795575425,
+        "date_posted": 1795570812,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414436",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neuralink",
+        "id": "3269a8e7-99ce-41bb-bffb-4015d4310f95",
+        "title": "Electrical Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795575245,
+        "date_posted": 1795564438,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/8197808003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SambaNova Systems",
+        "id": "79b96a28-9ba5-4dd5-8ed0-ff6e276f0752",
+        "title": "Runtime Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795575068,
+        "date_posted": 1795562568,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "X Development",
+        "id": "ea676687-2aed-4508-ba3d-fc66f2c21586",
+        "title": "PhD / Master's Resident - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795574892,
+        "date_posted": 1795574710,
+        "url": "https://x.company/careers/8472640002?gh_jid=8472640002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Development",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PatientPoint",
+        "id": "23a7d465-f7ca-4589-9a09-1a20194f2d12",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795574704,
+        "date_posted": 1795550281,
+        "url": "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/PatientPoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Davidson Kempner",
+        "id": "fe91cc53-5153-42e5-95af-0792a1afc894",
+        "title": "Quantitative Investment Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795573832,
+        "date_posted": 1793902187,
+        "url": "https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8926928002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Davidson-Kempner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
