@@ -75146,7 +75146,7 @@
         "company_name": "Base Power",
         "id": "7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361581,7 +361581,7 @@
         "company_name": "Waterworth",
         "id": "5b1d6184-e8d0-413a-94df-e5abdf39ba54",
         "title": "Computer Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363058,7 +363058,7 @@
         "company_name": "Snowflake",
         "id": "def9df22-e128-4dda-9596-1d0de6902d93",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -414311,7 +414311,7 @@
         "company_name": "RF-SMART",
         "id": "637771ab-fcba-4414-9c25-99bfe21fa777",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
