@@ -257890,7 +257890,7 @@
         "company_name": "Rivian",
         "id": "76662f8c-6f4c-47a6-ac45-6a867a9c86be",
         "title": "Supply Chain Data, AI and Business Intelligence Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -400556,7 +400556,7 @@
         "company_name": "Forterra",
         "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403839,7 +403839,7 @@
         "company_name": "Samsung",
         "id": "8eb1a21e-c57a-44e4-a936-098c9e7c642a",
         "title": "Architecture Research Engineer Intern - Resilient Collective Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413031,7 +413031,7 @@
         "company_name": "Workstream",
         "id": "be2051f8-a2d6-43b6-b1fb-1c07cd506c24",
         "title": "Wearable Devices Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
