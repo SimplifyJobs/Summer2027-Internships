@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 4493 Inactive Internship Roles by Category
+### Browse 4494 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1581)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1582)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (289)
 
@@ -246,7 +246,7 @@
 <td>Human Machine Teaming Intern</td>
 <td>Washington, DC</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -1988,6 +1988,13 @@
 <td>↳</td>
 <td>Client AI Software Engineer Intern</td>
 <td>Manchester, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Tools Intern</td>
+<td>Birmingham, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
