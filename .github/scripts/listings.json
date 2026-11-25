@@ -210286,7 +210286,7 @@
         "company_name": "Schonfeld",
         "id": "2958c86d-fef5-4422-a0a1-7bd489bfebf1",
         "title": "Business Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -276654,7 +276654,7 @@
         "company_name": "Keysight Technologies",
         "id": "f4ec9754-f694-4e49-89d1-e4e407d7d2ff",
         "title": "EDA AI/ML Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -280193,7 +280193,7 @@
         "company_name": "Dandy",
         "id": "7f191783-2ab3-4626-a830-2072091a9f5a",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351223,7 +351223,7 @@
         "company_name": "DriveWealth",
         "id": "eba86e55-1480-473d-814f-7d863ebba833",
         "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351268,7 +351268,7 @@
         "company_name": "DriveWealth",
         "id": "80919054-b40e-4ff9-9a11-e6e21dcf9d98",
         "title": "AI Consulting Associate Program Product Owner Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -365075,7 +365075,7 @@
         "company_name": "Tecsys",
         "id": "932b8b82-9a55-4a83-a9a8-8cdead995b71",
         "title": "Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -380865,7 +380865,7 @@
         "company_name": "DriveWealth",
         "id": "90ce8440-7b7f-4a23-9faf-98290634d956",
         "title": "AI Consulting Associate Program Brokerage Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401005,7 +401005,7 @@
         "company_name": "DriveWealth",
         "id": "3f1088e9-3742-4919-8f86-1fb30cc82265",
         "title": "AI Consulting Associate Program People Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -413382,6 +413382,378 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ManTech",
+        "id": "907ac2b0-1ba3-4cc3-bce0-e61334c9d123",
+        "title": "C++ Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795649047,
+        "date_posted": 1795649040,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/67268",
+        "locations": [
+            "Lexington Park, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Docusign",
+        "id": "5cdf390b-512a-4085-bf21-d304481c9985",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795649047,
+        "date_posted": 1795633440,
+        "url": "https://careers.docusign.com/jobs/32541?icims=1&lang=en-us",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/DocuSign",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Docusign",
+        "id": "485dc312-8ac1-4e1d-981d-81d05ebe80e5",
+        "title": "Product Manager Intern - Abuse Protection",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795649047,
+        "date_posted": 1795622940,
+        "url": "https://careers.docusign.com/jobs/32212?icims=1&lang=en-us",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/DocuSign",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "971d3938-cdd2-4327-a461-d65bbc6ed814",
+        "title": "Energy Management Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795648908,
+        "date_posted": 1795633814,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751559",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Staples",
+        "id": "7dd43831-e7c5-4a2c-8a46-8163de373bf1",
+        "title": "Full Stack Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795648868,
+        "date_posted": 1795648760,
+        "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Staples",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mayo Clinic",
+        "id": "4840fe64-410d-4200-bdf4-4fe127006106",
+        "title": "Research Fellow - Radiology - Bagci lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795648868,
+        "date_posted": 1795648827,
+        "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396473",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Mayo-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "e3e053b8-8e7b-4690-9875-c136637ed047",
+        "title": "Robotics Audio DSP Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795648909,
+        "date_posted": 1795648797,
+        "url": "https://www.tesla.com/careers/search/job/291227",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harvard Companies",
+        "id": "6d9381cc-2655-4404-851d-efb28660dba7",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795648919,
+        "date_posted": 1795582800,
+        "url": "https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Harvard-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wabash Valley Power Alliance",
+        "id": "84b43ef9-4cf8-4353-9a11-2577b1557a34",
+        "title": "Energy Efficiency & Demand Response Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795648718,
+        "date_posted": 1795630491,
+        "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Wabash-Valley-Power-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tecsys",
+        "id": "1725daf8-54c2-43a4-9e0c-c71429a089ba",
+        "title": "Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795648703,
+        "date_posted": 1795648577,
+        "url": "https://apply.workable.com/tecsys/j/B6D2B7128A/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tecsys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "7c652220-6519-4d9f-b1e8-7e507b3fdd5b",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795648321,
+        "date_posted": 1795648286,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160378",
+        "locations": [
+            "Luton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harvard Companies",
+        "id": "712ebe2f-ad58-4cd9-9b74-44b35f09a100",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795648321,
+        "date_posted": 1795564800,
+        "url": "https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Harvard-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cantor Fitzgerald",
+        "id": "633a2b03-59e2-4038-9ef8-68cb2b9a15ca",
+        "title": "Technology Summer Intern - Development",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795648378,
+        "date_posted": 1795648297,
+        "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cantor-Fitzgerald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "f6380356-be52-4669-b4db-bce898c49a61",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795648203,
+        "date_posted": 1795641405,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8963039002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Starkey",
+        "id": "c60e2c32-7f9d-4251-8b45-47b44ed86850",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795648175,
+        "date_posted": 1795648035,
+        "url": "https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Starkey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas Instruments",
+        "id": "a5c7cf18-e98f-4038-b97a-b2892fc5e469",
+        "title": "Web Marketing Intern - Digital Experience Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795647964,
+        "date_posted": 1795647869,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
