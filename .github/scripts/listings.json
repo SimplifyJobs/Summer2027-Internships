@@ -356688,7 +356688,7 @@
         "company_name": "Indie",
         "id": "07aad510-60aa-4f59-a810-1efbb9d74d6f",
         "title": "Applications Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398740,7 +398740,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "427bec11-8943-4ada-a572-dc6406bec262",
         "title": "Data Analyst & Marketing/Sales Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412416,7 +412416,7 @@
         "company_name": "Runna",
         "id": "233bb5b9-1103-49b3-abb1-83af20b1b8dd",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
