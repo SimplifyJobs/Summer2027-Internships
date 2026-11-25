@@ -313967,7 +313967,7 @@
         "company_name": "Brooks Running",
         "id": "29c9c1f3-674c-4819-bb01-94f413d39a1e",
         "title": "Run Performance Graduate Intern - Run Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -370902,7 +370902,7 @@
         "company_name": "Botpress Technologies",
         "id": "242cf8f3-3e86-497c-9929-78f7c704959b",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -401928,7 +401928,7 @@
         "company_name": "City of Campbell River",
         "id": "899ceff5-26e3-46f7-ab8d-a9703c3ae26d",
         "title": "Co-op Student - OMS Project - Capital Projects",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -415028,6 +415028,30 @@
             "Sioux Falls, SD"
         ],
         "company_url": "https://simplify.jobs/c/First-PREMIER-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Tech Interactive",
+        "id": "98f1165f-bf4b-4417-bbc9-2922776a829d",
+        "title": "STEM Impact & Data Reporting Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1795571531,
+        "date_posted": 1795571326,
+        "url": "https://ats.rippling.com/the-tech/jobs/1681a3cc-c0d0-4161-8fcc-6edac78f0475",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Tech-Interactive",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
