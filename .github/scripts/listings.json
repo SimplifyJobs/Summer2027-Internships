@@ -323233,7 +323233,7 @@
         "company_name": "Electronic Arts",
         "id": "e77870f3-55c7-4d18-8364-57029d5adc18",
         "title": "Software Engineer Tools Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400556,7 +400556,7 @@
         "company_name": "Forterra",
         "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -413031,7 +413031,7 @@
         "company_name": "Workstream",
         "id": "be2051f8-a2d6-43b6-b1fb-1c07cd506c24",
         "title": "Wearable Devices Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -415382,5 +415382,53 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Artefact",
+        "id": "e7ea3145-19cf-49b6-bc9f-cb292a69e0c9",
+        "title": "AI Builder Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795603730,
+        "date_posted": 1795393411,
+        "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Artefact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Artefact",
+        "id": "fa1ceab1-caea-4ea3-9d07-2e5efa622f5a",
+        "title": "AI Builder Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795604064,
+        "date_posted": 1795393407,
+        "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Artefact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
