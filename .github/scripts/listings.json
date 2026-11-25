@@ -1,53 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altera Corporation",
-        "id": "fca7e12c-2669-4526-a1dd-26a5a4d89be4",
-        "title": "GenAI / Machine Learning Intern - Design Automation - AI Agents",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774832781,
-        "date_posted": 1774832781,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/GenAI---Machine-Learning-Intern---Design-Automation--AI-Agents-_R02241",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "d6c30ab4-e60a-4234-a43e-ce7c8fe10952",
-        "title": "Data Analytics/Business Intelligence/Process Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774841386,
-        "date_posted": 1774832880,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730023",
-        "locations": [
-            "SF",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1778157806,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -88170,7 +88122,7 @@
         "company_name": "Tesla",
         "id": "65d7082a-180e-4d87-914c-87e9e3d15ae0",
         "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -212774,7 +212726,7 @@
         "company_name": "Super",
         "id": "5381d494-c740-425b-9fff-4d9d0b1fe091",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -414752,5 +414704,334 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "e5e856c3-4982-40e5-92e4-b5dae10efbab",
+        "title": "Research Intern - Memory Pathfinding",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795569880,
+        "date_posted": 1795569682,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079448",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "8b4b2bce-20ad-45a0-bf4e-a27a396c5f72",
+        "title": "Research Intern - AI Systems Architecture - Efficient LLM Inference",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795569884,
+        "date_posted": 1795569682,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "a25c6fcf-1b2b-4b7f-be99-31a8e0e14608",
+        "title": "Research Intern - CXL Memory",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795569882,
+        "date_posted": 1795569682,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kinaxis",
+        "id": "e2182706-f62c-4ef5-b32e-fc64134c0b8e",
+        "title": "Data Foundations Intern - Data & Analytics",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795569762,
+        "date_posted": 1795478400,
+        "url": "https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Nikkiso",
+        "id": "98973a92-e48a-42ff-8713-8b8f55bb30b6",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795569664,
+        "date_posted": 1795564800,
+        "url": "https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nikkiso",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kimley-Horn",
+        "id": "423cda84-329b-4121-b2ca-e7f6f637cda7",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795569664,
+        "date_posted": 1795563300,
+        "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Advanced Energy",
+        "id": "13cb67a5-c287-4ef1-a6ec-ff256d6c3e0b",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1795569773,
+        "date_posted": 1795569629,
+        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "0a1029c2-aaef-48e1-9dac-d3e082d6683e",
+        "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795569748,
+        "date_posted": 1795565599,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "00583741-1c69-4dd2-8d14-3641d868fd51",
+        "title": "Design Verification Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795569726,
+        "date_posted": 1795561141,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5493962008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "bfa1bf13-0025-4f44-84e6-abffbe40a90e",
+        "title": "Design Verification Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795569725,
+        "date_posted": 1795561139,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5474684008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "QinetiQ",
+        "id": "d5a30e45-f930-4281-8553-61e6a7d76bb3",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795569664,
+        "date_posted": 1795478400,
+        "url": "https://careers-qinetiqus.icims.com/jobs/12880/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/QinetiQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Charles Schwab",
+        "id": "4e617c54-d8d6-419c-8227-7acd67ed01b7",
+        "title": "Treasury Modeling Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795569716,
+        "date_posted": 1795478400,
+        "url": "https://career-schwab.icims.com/jobs/126255/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "fe9170a7-7096-4d38-9845-9cf5b534d862",
+        "title": "Hardware Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1795569456,
+        "date_posted": 1795569266,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451",
+        "locations": [
+            "Solon, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "First PREMIER Bank",
+        "id": "278adf4e-1f34-4ace-b345-17eff150d8df",
+        "title": "Customer Care Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795568583,
+        "date_posted": 1795478400,
+        "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/Customer-Care-Intern_R-514-1",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/First-PREMIER-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
