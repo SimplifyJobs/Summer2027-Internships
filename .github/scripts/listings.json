@@ -415338,5 +415338,28 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "032204d8-7bcf-491f-9448-13ad5041983d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795591081,
+        "date_posted": 1795591050,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Software-Engineer-Intern-FL-32919/1453684500/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
