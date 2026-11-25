@@ -351555,7 +351555,7 @@
         "company_name": "Amazon",
         "id": "3ab267db-4e87-4497-860d-bee107ecd3c9",
         "title": "Applied Scientist Intern - Pxt Legends",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371310,7 +371310,7 @@
         "company_name": "Staples",
         "id": "540147a8-5c6b-4f1d-8311-8fce3c94c9de",
         "title": "Software Engineer Intern - SDS e-Commerce Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
