@@ -295161,7 +295161,7 @@
         "company_name": "West Monroe",
         "id": "e1a00c87-df0a-4d78-b1d3-198436c5af60",
         "title": "Data & Analytics Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340132,7 +340132,7 @@
         "company_name": "West Monroe",
         "id": "c3465a2c-2b53-48e3-8dd2-3c11df883e30",
         "title": "Data & Analytics Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362955,7 +362955,7 @@
         "company_name": "Andreessen Horowitz",
         "id": "e00d51e8-391a-473d-a100-37fa803e306d",
         "title": "Research Intern - Frontier",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383002,7 +383002,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c380dac0-7841-444a-a70a-b2dbe0f6983a",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399815,7 +399815,7 @@
         "company_name": "Ross Video",
         "id": "59ea50bc-8ce0-47c1-9bee-343eefe5c360",
         "title": "Research Assistant Co-op - AI Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -412621,7 +412621,7 @@
         "company_name": "Kinaxis",
         "id": "e2182706-f62c-4ef5-b32e-fc64134c0b8e",
         "title": "Data Foundations Intern - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
