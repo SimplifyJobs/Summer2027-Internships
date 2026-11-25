@@ -175374,7 +175374,7 @@
         "company_name": "Epic Games",
         "id": "f9f97fdb-31b2-402a-8522-918cec708267",
         "title": "Web Engineer Intern - Tools & Portals",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -263344,7 +263344,7 @@
         "company_name": "Lazard",
         "id": "f9ebd06d-f0d2-4be5-b56b-c7072ac6e875",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -266887,7 +266887,7 @@
         "company_name": "Rippling",
         "id": "fff73d24-2557-417b-a791-58567415f245",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323112,7 +323112,7 @@
         "company_name": "Field AI",
         "id": "fd62318c-78e9-47ad-a66a-f7a1501c5a7f",
         "title": "Simulation \u2013 Sim to Real Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -370929,7 +370929,7 @@
         "company_name": "Botpress Technologies",
         "id": "74cb6a03-be46-40f2-8129-a4bb565f6641",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -387735,7 +387735,7 @@
         "company_name": "Altice USA",
         "id": "93f840b3-e735-4ee5-8cbb-e007eafb977f",
         "title": "Developer Intern - Financial & People Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -414731,5 +414731,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TransUnion",
+        "id": "b6fb4775-b029-410e-8d24-d84afb8fb694",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795566443,
+        "date_posted": 1794787200,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransUnion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
