@@ -354037,7 +354037,7 @@
         "company_name": "Quadric",
         "id": "e9ea1661-68e7-422e-8093-f10f51fb0d07",
         "title": "AI Kernel Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374571,7 +374571,7 @@
         "company_name": "Toyota Research Institute",
         "id": "b7daac34-0a43-4511-bd61-102463daf2e2",
         "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Summer 2026"
@@ -382977,7 +382977,7 @@
         "company_name": "Zoox",
         "id": "074c9d6a-c89d-49bf-b2ab-27d71b051a60",
         "title": "AI Workflows & Safety Decision Making Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -402677,7 +402677,7 @@
         "company_name": "CMI Media Group",
         "id": "86db6edc-0358-4030-942e-af6c6d3de158",
         "title": "Business Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -414565,6 +414565,166 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Campbell River",
+        "id": "663452b4-b060-4430-8058-dea460c7c787",
+        "title": "OMS Project Co-op - Capital Projects",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795564324,
+        "date_posted": 1795558948,
+        "url": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848",
+        "locations": [
+            "Campbell River, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Campbell-River",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "5c4ff4e4-2ba8-4244-9b38-08135d57623f",
+        "title": "Robotics Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795563568,
+        "date_posted": 1795552080,
+        "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "347de250-7760-4abd-a7c2-f89f2b261f3c",
+        "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795563565,
+        "date_posted": 1795563381,
+        "url": "https://www.metacareers.com/jobs/1482835147112669",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "da151fb0-478a-4dc8-a909-d1d905f8c391",
+        "title": "Battery Engineer Intern - Battery Systems Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795563567,
+        "date_posted": 1795563380,
+        "url": "https://www.metacareers.com/jobs/1165674205921515",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "ccee3e39-6a88-4c3c-b913-c7af244fc90c",
+        "title": "Artificial Intelligence and Complex Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795563572,
+        "date_posted": 1795552140,
+        "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Reach Labs",
+        "id": "9e52e349-d863-4322-94e2-b6c2d08b4316",
+        "title": "Hardware Prototyping Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795563361,
+        "date_posted": 1795563326,
+        "url": "https://jobs.lever.co/reachpower/01124bcd-9d13-498d-85ef-4a0fb2389168/apply",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reach-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace",
+        "id": "2fac82c2-bc73-4de9-bf75-0ff5935d9b47",
+        "title": "Clinical Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795563475,
+        "date_posted": 1795542600,
+        "url": "https://careers.medpace.com/jobs/13558?icims=1&lang=en-us",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
