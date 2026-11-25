@@ -99664,7 +99664,7 @@
         "company_name": "Hiverge",
         "id": "2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242842,7 +242842,7 @@
         "company_name": "Highgate",
         "id": "29efc01f-ded3-4731-b798-5b9a09c13427",
         "title": "Data Services Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -257890,7 +257890,7 @@
         "company_name": "Rivian",
         "id": "76662f8c-6f4c-47a6-ac45-6a867a9c86be",
         "title": "Supply Chain Data, AI and Business Intelligence Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -266936,7 +266936,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323256,7 +323256,7 @@
         "company_name": "Electronic Arts",
         "id": "3ace9955-fb8a-4ca0-a716-7b9d6f86671f",
         "title": "Software Engineer Intern - Gameplay UI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368160,7 +368160,7 @@
         "company_name": "Aries Global",
         "id": "2b153e89-7e63-40db-9868-0e0d80b7ad0f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -410715,7 +410715,7 @@
         "company_name": "Trajectory",
         "id": "59dd5c4a-eb80-4559-ab58-af2899bbdad9",
         "title": "Member of Technical Staff Generalist Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
