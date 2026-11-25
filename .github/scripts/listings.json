@@ -164268,7 +164268,7 @@
         "company_name": "Apple",
         "id": "ba733cd9-7086-4e38-bdec-d13b07b8b1d3",
         "title": "GPU Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -408820,7 +408820,7 @@
         "company_name": "Milliman",
         "id": "be9c1870-7006-4e8b-8a8a-56ff262c8ad4",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
