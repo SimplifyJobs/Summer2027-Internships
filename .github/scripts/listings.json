@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1778679388,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://situsamc.wd1.myworkdayjobs.com/en-US/situsamc/job/Remote/Intern---AI-Software-Development-Team_JR02562",
-        "company_name": "SitusAMC",
-        "title": "Intern - AI Software Development Team",
-        "locations": [
-            "Remote in US"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "d6737fae-2535-4b76-b693-3713c0dc4b0e",
-        "date_posted": 1774875824,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Becton Dickinson",
@@ -362256,7 +362233,7 @@
         "company_name": "Marmon Holdings",
         "id": "69225149-308a-4cc5-84fa-f22b334b94b9",
         "title": "Data Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
