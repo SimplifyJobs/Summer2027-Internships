@@ -99664,7 +99664,7 @@
         "company_name": "Hiverge",
         "id": "2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242842,7 +242842,7 @@
         "company_name": "Highgate",
         "id": "29efc01f-ded3-4731-b798-5b9a09c13427",
         "title": "Data Services Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -258849,7 +258849,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "07387e7d-77be-43e1-9d2b-2170a06a2a06",
         "title": "Operations Analytics and Problem Management",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -266936,7 +266936,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368160,7 +368160,7 @@
         "company_name": "Aries Global",
         "id": "2b153e89-7e63-40db-9868-0e0d80b7ad0f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
