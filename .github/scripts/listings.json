@@ -411592,7 +411592,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "5c4ff4e4-2ba8-4244-9b38-08135d57623f",
         "title": "Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
