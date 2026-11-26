@@ -1,166 +1,5 @@
 [
     {
-        "date_updated": 1775834862,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-revolutioncompany.icims.com/jobs/2869/full-stack-developer-intern/job",
-        "company_name": "Revolution",
-        "title": "Full Stack Developer Intern",
-        "locations": [
-            "Dallas. TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "03e55a45-ecf9-4f94-9dad-35e6e3f65220",
-        "date_posted": 1774935842,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776440234,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-biorad.icims.com/jobs/38316/test-engineering-intern-%28software%29/job",
-        "company_name": "Bio-Rad Laboratories",
-        "title": "Test Engineering Intern (Software)",
-        "locations": [
-            "Hercules, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3a4c6dff-d288-40a5-a26e-551d641cf3aa",
-        "date_posted": 1774936000,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775481655,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/embedding-vc/eaf10b14-03ef-412c-b0f0-78900f0a213c",
-        "company_name": "Creatify",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "2d6c607d-d59a-4790-aac5-ec410e6ffe63",
-        "date_posted": 1774936113,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775481655,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://palomarproducts.applytojob.com/apply/NO42sUcZ9h/Software-Engineering-Intern-Onsite",
-        "company_name": "Palomar Products",
-        "title": "Software Engineering Intern - Onsite",
-        "locations": [
-            "Rancho Santa Margarita, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "387670fa-5bb3-484a-93ec-2d4ab8b0f1cb",
-        "date_posted": 1774936203,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775834862,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-revolutioncompany.icims.com/jobs/2868/ai-engineer-intern/job",
-        "company_name": "Revolution",
-        "title": "AI Engineer Intern",
-        "locations": [
-            "Terre Haute, IN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "42c6fccb-baa0-4279-94e0-1b72f361244b",
-        "date_posted": 1774936363,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775481655,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://apply.workable.com/terabase-energy/j/5CDBB58919/",
-        "company_name": "Terabase",
-        "title": "Robotics & Autonomy Engineering Intern",
-        "locations": [
-            "Davis, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "2b5f6473-3e69-4c88-b370-2c7dfffe24c6",
-        "date_posted": 1774936488,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775481655,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-gotyto.icims.com/jobs/1794/ai-ml-engineering-intern/job",
-        "company_name": "TALON",
-        "title": "AI/ML Engineering Intern",
-        "locations": [
-            "Reston, VA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "ca11c9e4-b199-436a-9c72-5c8e97d13880",
-        "date_posted": 1774936575,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Pindrop",
@@ -393725,7 +393564,7 @@
         "company_name": "JSX",
         "id": "3776b303-0849-4822-8f8b-efd9d1b813dc",
         "title": "Commercial Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402840,7 +402679,7 @@
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "2390d275-b07c-4391-a69a-b60197aee08b",
         "title": "Object Oriented Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411788,7 +411627,7 @@
         "company_name": "AMD",
         "id": "2804d321-266b-4853-a3f6-2741c53b953d",
         "title": "Masters AI Rack/Cluster Design Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
