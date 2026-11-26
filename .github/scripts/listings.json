@@ -340708,7 +340708,7 @@
         "company_name": "Navy Federal",
         "id": "c5d18f1d-65ab-49c8-86ae-b293e6a1c377",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404704,7 +404704,7 @@
         "company_name": "AMD",
         "id": "e967ed72-8ab2-47b3-a77e-89fb34babbc1",
         "title": "Masters Server Power Management Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
