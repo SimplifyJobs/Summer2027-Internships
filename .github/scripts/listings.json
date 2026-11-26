@@ -409466,7 +409466,7 @@
         "company_name": "JP Morgan Chase",
         "id": "3b853022-5629-46f0-9410-31a4e4d1518e",
         "title": "Applied AI Intern - HR CDAO",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -413835,6 +413835,54 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "7b39170d-3c04-4950-9d6e-71f7c52be118",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795706119,
+        "date_posted": 1795701900,
+        "url": "https://careers.amd.com/jobs/102333?icims=1&lang=en-us",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DEPT",
+        "id": "f22421d0-9ba8-49f6-9e0b-6e2c924538f0",
+        "title": "AI Engineer Trainee - AI Engineer Traineeship",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795705634,
+        "date_posted": 1795698881,
+        "url": "https://job-boards.greenhouse.io/dept/jobs/8414501",
+        "locations": [
+            "Netherlands",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/DEPT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
