@@ -233760,7 +233760,7 @@
         "company_name": "MegazoneCloud",
         "id": "7c26ef09-c2c9-47e6-b9a9-1e62b056f9dd",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -399016,7 +399016,7 @@
         "company_name": "APEX Analytix",
         "id": "68916cbe-97cc-414d-8732-d68540a99d35",
         "title": "Product Management Intern - DevOps",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
