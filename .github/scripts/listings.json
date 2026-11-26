@@ -297090,7 +297090,7 @@
         "company_name": "Meta",
         "id": "e458bd10-4f0d-449d-9f51-dcb595087eb9",
         "title": "Software Engineer Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302050,7 +302050,7 @@
         "company_name": "TikTok",
         "id": "f5c083c4-8c51-47e5-b0b9-9e74ab87ed5f",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317103,7 +317103,7 @@
         "company_name": "Atoms",
         "id": "f531f9e9-2165-4c86-a9ff-8efab2b0a393",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -354318,7 +354318,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411659,7 +411659,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ccee3e39-6a88-4c3c-b913-c7af244fc90c",
         "title": "Artificial Intelligence and Complex Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
