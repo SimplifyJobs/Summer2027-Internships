@@ -262527,7 +262527,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354594,7 +354594,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407601,7 +407601,7 @@
         "company_name": "Mawer Investment Management",
         "id": "95d9a24b-d178-47f6-b2eb-e2ca86cb444d",
         "title": "AI Orchestrator Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
