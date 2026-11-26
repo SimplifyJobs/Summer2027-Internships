@@ -177986,7 +177986,7 @@
         "company_name": "Aerotech",
         "id": "2f9629e6-d596-4732-b145-84c6123660ec",
         "title": "Electrical/Computer Engineering Intern Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -264253,7 +264253,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399016,7 +399016,7 @@
         "company_name": "APEX Analytix",
         "id": "68916cbe-97cc-414d-8732-d68540a99d35",
         "title": "Product Management Intern - DevOps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
