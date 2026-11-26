@@ -414405,5 +414405,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "18d68763-3c47-4ab5-b01f-6be06b7897f9",
+        "title": "Research Intern - Machine Learning for Biology and Healthcare",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795651410,
+        "date_posted": 1795651228,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557097217",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
