@@ -177986,7 +177986,7 @@
         "company_name": "Aerotech",
         "id": "2f9629e6-d596-4732-b145-84c6123660ec",
         "title": "Electrical/Computer Engineering Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240159,7 +240159,7 @@
         "company_name": "Highgate",
         "id": "29efc01f-ded3-4731-b798-5b9a09c13427",
         "title": "Data Services Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -264253,7 +264253,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
