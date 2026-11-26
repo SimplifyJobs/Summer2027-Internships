@@ -105403,7 +105403,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "5e40a228-3721-4f88-96d5-3f59b73be6c4",
         "title": "Quantitative Strategy Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262711,7 +262711,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400291,7 +400291,7 @@
         "company_name": "Ecliptic Enterprises",
         "id": "9ebeb8b0-e1e7-483c-8646-705fcf78e1f5",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403868,7 +403868,7 @@
         "company_name": "CAS",
         "id": "a3321497-bc73-4221-b04b-32490b84a5f3",
         "title": "Business Data Analytics Intern - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407764,7 +407764,7 @@
         "company_name": "Mawer Investment Management",
         "id": "9c2fdf55-0def-44f9-99a4-da99bea4e316",
         "title": "AI Engineer Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -414088,5 +414088,117 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "fbf4266e-b848-473e-8302-c9828621276d",
+        "title": "Machine Learning Engineer Intern - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795660021,
+        "date_posted": 1795659939,
+        "url": "https://lifeattiktok.com/search/7712192759532357893",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "QuEra Computing",
+        "id": "7fe3a334-d820-4526-b73b-f72bcf8288ee",
+        "title": "Technical Product Management Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795660056,
+        "date_posted": 1795650285,
+        "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QuEra Computing",
+        "id": "434aa7d8-8775-43bf-be81-a590f69d4ea5",
+        "title": "Photonics Data Engineer Intern - Data Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795660058,
+        "date_posted": 1795649935,
+        "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenSesame",
+        "id": "c4e37c25-c2af-42ad-a27a-13daa426ddf8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795659323,
+        "date_posted": 1795650391,
+        "url": "https://boards.greenhouse.io/opensesame/jobs/8418272",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenSesame",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "OpenSesame",
+        "id": "04493088-dacd-4059-920a-cf86ac5d3a7e",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795659333,
+        "date_posted": 1795650473,
+        "url": "https://boards.greenhouse.io/opensesame/jobs/8418204",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenSesame",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
