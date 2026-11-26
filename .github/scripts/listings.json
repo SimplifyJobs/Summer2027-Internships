@@ -101093,7 +101093,7 @@
         "company_name": "Citadel Securities",
         "id": "8f8172aa-6806-412b-b161-9e3f526a849c",
         "title": "Quantitative Researcher PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -101140,7 +101140,7 @@
         "company_name": "Citadel Securities",
         "id": "40090818-c9a2-4104-9627-111a5b9cd079",
         "title": "Quantitative Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104816,7 +104816,7 @@
         "company_name": "Citadel Securities",
         "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104868,7 +104868,7 @@
         "company_name": "Citadel Securities",
         "id": "c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -112555,7 +112555,7 @@
         "company_name": "Citadel Securities",
         "id": "1a44500b-c841-4121-ad65-9ed0746573db",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -244649,7 +244649,7 @@
         "company_name": "Citadel Securities",
         "id": "25dd4ce6-5b41-41fb-9f9c-dabce0749a16",
         "title": "Quantitative Researcher Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
