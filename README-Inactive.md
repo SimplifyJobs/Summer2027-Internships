@@ -295,7 +295,7 @@
 <td>Software Engineering Intern</td>
 <td>Emeryville, CA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">Visa</a></strong></td>
@@ -1170,7 +1170,7 @@
 <td>Software Engineer Intern - First Play</td>
 <td>Mountain View, CA</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Schonfeld?utm_source=GHList&utm_medium=company">Schonfeld</a></strong></td>
@@ -13868,14 +13868,14 @@
 <td>NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference 🎓</td>
 <td>Seattle, WA<br>Richland, WA</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference 🎓</td>
 <td>Seattle, WA<br>Richland, WA</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company">Intuitive Surgical</a></strong></td>
@@ -24459,7 +24459,7 @@
 <td>Quantitative Modeling Intern 🎓</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
