@@ -293130,7 +293130,7 @@
         "company_name": "The Focusrite Group",
         "id": "8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
         "title": "Embedded Software Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398191,7 +398191,7 @@
         "company_name": "HERE Technologies",
         "id": "6a41b107-e8c4-4787-a685-fa948468c79f",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398260,7 +398260,7 @@
         "company_name": "HERE Technologies",
         "id": "708423f4-aa00-4c3a-b562-bfd7b1c0b7d0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399174,7 +399174,7 @@
         "company_name": "HERE Technologies",
         "id": "5d5eab3c-e51f-4838-9594-8b80a78973ba",
         "title": "Applied AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
