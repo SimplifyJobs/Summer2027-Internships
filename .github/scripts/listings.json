@@ -1,140 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Octopus Energy",
-        "id": "52477347-67fa-444b-ba31-4770207c2acb",
-        "title": "Octopus in Colour Intern - Backend Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775036538,
-        "date_posted": 1775034312,
-        "url": "https://jobs.lever.co/octoenergy/763336cc-befe-4df8-882d-f3fff44a9e87/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Octopus-energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Covestro",
-        "id": "d30085fd-1463-4b89-ad20-e92f34d8e231",
-        "title": "Intern in Lab Automation for R&D Processes",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775035621,
-        "date_posted": 1775035275,
-        "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Praktikant-in-im-Bereich-Datenanalyse-fr-F-E-Datensets--m-w-d----mit-Gehaltsangabe_JR-2026-00570",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/a64ca911-92ef-4bce-99ec-a890a343a30c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "State Street",
-        "id": "8b37d536-42f6-4d16-b47b-e250182e3793",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775036451,
-        "date_posted": 1775035289,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Summer-Internship-Program---Charles-River-Development-Product-Management-Intern_R-784228-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rockwell Automation",
-        "id": "514d23a9-435e-44f4-a1cb-6cb7b04a098e",
-        "title": "Apprentice Repair Technician",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775035621,
-        "date_posted": 1775035180,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milton-Keynes-England-United-Kingdom/Apprentice-Repair-Technician_R26-1603",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CME Group",
-        "id": "d8421101-5075-44e6-859c-9b2f6112b3d7",
-        "title": "Data Services Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775036431,
-        "date_posted": 1775034867,
-        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Data-Services-Summer-Internship_34222",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CME-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "State Street",
-        "id": "39616439-f1d8-426e-b63b-f1f51d96b2bc",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775036470,
-        "date_posted": 1775035207,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/London-England/Summer-Internship-Program---Charles-River-Development-Product-Management-Intern_R-784228",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
@@ -27825,30 +27691,6 @@
             "Ontario, OH"
         ],
         "company_url": "https://simplify.jobs/c/e52e17c7-c352-40d3-85c1-94d7be1df9e7",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Upvest",
-        "id": "db8c50e2-fefb-4370-b564-f0449b89ceca",
-        "title": "Trainee Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1776505454,
-        "date_posted": 1775034446,
-        "url": "https://jobs.ashbyhq.com/upvest/4a4f30e8-f31a-4138-9241-5553de2cb13e/application",
-        "locations": [
-            "London, UK",
-            "Berlin, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Upvest",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -94884,7 +94726,7 @@
         "company_name": "Hiverge",
         "id": "2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262135,7 +261977,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
