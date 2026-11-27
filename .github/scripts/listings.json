@@ -412513,5 +412513,167 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atoms",
+        "id": "fc6955f6-8ff8-4433-b4eb-739c55ab20e0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795746464,
+        "date_posted": 1795720285,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atoms",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PQShield",
+        "id": "a209bd23-da6c-48fa-a548-37df370d9dc1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795746087,
+        "date_posted": 1795717643,
+        "url": "https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PQShield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PQShield",
+        "id": "2449c86e-134e-4493-be4b-b53aafd20b6d",
+        "title": "Hardware Engineer Intern - Placement Year",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795746086,
+        "date_posted": 1795717543,
+        "url": "https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PQShield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ICONIQ Capital",
+        "id": "f8b9290a-c40c-41ac-8a11-71628a1c4e5e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795745403,
+        "date_posted": 1794860319,
+        "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8394060",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/ICONIQ-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICONIQ Capital",
+        "id": "e36215ee-22f4-4838-820e-3fb56c3da112",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795745403,
+        "date_posted": 1794798532,
+        "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ICONIQ-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICONIQ Capital",
+        "id": "d4e5b166-f1fd-4172-85ae-9b4ba4ffd6df",
+        "title": "Data Science Intern - Science",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795745389,
+        "date_posted": 1794798134,
+        "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/ICONIQ-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ICONIQ Capital",
+        "id": "b289619b-f028-4230-b7a7-6315b92066ef",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795745384,
+        "date_posted": 1794601419,
+        "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ICONIQ-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
