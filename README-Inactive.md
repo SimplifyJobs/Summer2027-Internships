@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 4508 Inactive Internship Roles by Category
+### Browse 4510 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1584)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1585)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (289)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1588)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1589)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (317)
 
@@ -169,7 +169,7 @@
 <td>AI Application Intern</td>
 <td>Farmington Hills, MI</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sallie-Mae?utm_source=GHList&utm_medium=company">Sallie Mae</a></strong></td>
@@ -688,6 +688,13 @@
 <td>Arlington County, Arlington, VA</td>
 <td>🔒</td>
 <td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Roku?utm_source=GHList&utm_medium=company">Roku</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Manchester, UK</td>
+<td>🔒</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zebra-Technologies?utm_source=GHList&utm_medium=company">Zebra Technologies</a></strong></td>
@@ -13248,6 +13255,13 @@
 <td>2d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
+<td>Applied AI Intern - HR CDAO 🎓</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Milliman?utm_source=GHList&utm_medium=company">Milliman</a></strong></td>
 <td>Data Analyst Intern</td>
 <td>Brookfield, WI</td>
@@ -13322,7 +13336,7 @@
 <td>Data Analyst & Marketing/Sales Intern</td>
 <td>Denham, UK</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Merrick?utm_source=GHList&utm_medium=company">Merrick</a></strong></td>
@@ -13847,7 +13861,7 @@
 <td>Data Analyst Intern - Enterprise Data Analyst - Data Products</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zebra-Technologies?utm_source=GHList&utm_medium=company">Zebra Technologies</a></strong></td>
@@ -14036,7 +14050,7 @@
 <td>Data Scientist Intern 🎓</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
@@ -14211,7 +14225,7 @@
 <td>Data Analyst Intern - Enterprise Data Analyst - Data Products</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sherwin-Williams?utm_source=GHList&utm_medium=company">Sherwin-Williams</a></strong></td>
@@ -21879,7 +21893,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/CSX?utm_source=GHList&utm_medium=company">CSX</a></strong></td>
 <td>Intermodal Intern - Summer 2027 - Paid</td>
 <td>Jacksonville, FL</td>
 <td>🔒</td>
@@ -24424,7 +24438,7 @@
 <td>DMFI Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cenovus-Energy?utm_source=GHList&utm_medium=company">Cenovus Energy</a></strong></td>
@@ -26811,7 +26825,7 @@
 <td>Electronic Engineer Intern</td>
 <td>Melbourn, Royston, UK</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>

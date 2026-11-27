@@ -473,7 +473,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>London, UK</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a0801bb3-f2ee-476d-8ba0-16142be10fa4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LabCorp?utm_source=GHList&utm_medium=company">LabCorp</a></strong></td>
@@ -636,7 +636,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Accenture-FS?utm_source=GHList&utm_medium=company">Accenture</a></strong></td>
 <td>Technology Software Engineer Apprentice</td>
 <td>Newcastle upon Tyne, UK</td>
 <td>Fall 2027, Spring 2028</td>
@@ -12156,7 +12156,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Francisco, CA<br>Austin, TX</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
@@ -14524,7 +14524,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td>↳</td>
 <td>AI Product Manager Intern 🎓</td>
 <td>London, UK</td>
 <td>Fall 2026</td>
@@ -15133,7 +15133,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Netherlands<br>United Kingdom</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8414501?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f22421d0-9ba8-49f6-9e0b-6e2c924538f0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/QuEra-Computing?utm_source=GHList&utm_medium=company">QuEra Computing</a></strong></td>
@@ -30378,7 +30378,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Roanoke, VA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -33312,7 +33312,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Montreal, QC, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sumitomo-Electric-Wiring-Systems?utm_source=GHList&utm_medium=company">Sumitomo Electric Wiring Systems</a></strong></td>
