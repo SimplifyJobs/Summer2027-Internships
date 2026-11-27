@@ -388232,7 +388232,7 @@
         "company_name": "Huawei",
         "id": "b5e0adf9-5977-4432-ae4d-aa1803b66414",
         "title": "Engineer Co-op - Openjiuwen AI Agent Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388389,27 +388389,6 @@
         "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1",
         "locations": [
             "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Huawei-Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huawei",
-        "id": "690be9b5-93e1-4b65-95be-44f1ca50492d",
-        "title": "Researcher Co-op - AI Computing System",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1794538281,
-        "date_posted": 1775083935,
-        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1",
-        "locations": [
-            "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Huawei-Tech",
         "is_visible": true,
