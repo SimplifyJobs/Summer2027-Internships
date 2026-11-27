@@ -406,7 +406,7 @@
 <td>Security Software Engineer Intern 🎓</td>
 <td>Kirkland, WA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000162827365?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/508fc924-1d5c-4bc7-a1a6-9af031033913?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
@@ -1120,7 +1120,7 @@
 <td>Software Engineer Intern</td>
 <td>St. Louis, MO</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/studentprogram/jobs/5286753007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/29a084d4-fdf6-4ef2-b926-16e740b71190?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lumbermen-S?utm_source=GHList&utm_medium=company">Lumbermen's</a></strong></td>
@@ -2635,7 +2635,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CarGurus?utm_source=GHList&utm_medium=company">CarGurus</a></strong></td>
+<td>↳</td>
 <td>Software Development Engineer Intern</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/ecjobb/jobs/8231504?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4652d869-e739-4f9b-b01e-bfb28992cd97?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
