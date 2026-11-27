@@ -411164,7 +411164,7 @@
         "company_name": "CodeRabbit",
         "id": "b50a5fcc-fce0-445b-9d9d-763cfe56ae42",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412248,6 +412248,214 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7",
+        "title": "Student Researcher - Seed Model - LLM",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1790289181,
+        "date_posted": 1790288300,
+        "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "77ff658e-cabb-48be-9248-a271f5f898ff",
+        "title": "Student Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791106138,
+        "date_posted": 1780610905,
+        "url": "https://jobs.bytedance.com/en/position/7623552947364317445/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "079a44ae-b213-4f4c-9088-cc2c48d346b1",
+        "title": "Student Researcher - Seed Model - LLM",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1790241484,
+        "date_posted": 1780610904,
+        "url": "https://jobs.bytedance.com/en/position/7623539152655632693/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f3007eae-7ae6-48d3-8e58-2c2ab54559dd",
+        "title": "Student Researcher Intern - Seed Model - AI Foundation Model Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791109672,
+        "date_posted": 1780610917,
+        "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d964cbb0-851e-48b9-97f4-66e970586e9a",
+        "title": "Student Researcher Intern - Seed Model - Multimodal Interaction & World Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1790245801,
+        "date_posted": 1780610913,
+        "url": "https://jobs.bytedance.com/en/position/7623547506849679621/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "5ee0c221-6808-401f-9d4e-a8e71f60785b",
+        "title": "Student Researcher - Seed Model - Speech",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1790243101,
+        "date_posted": 1780610903,
+        "url": "https://jobs.bytedance.com/en/position/7623551375612627253/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "38db92f9-6338-4caa-b797-e738cda127b9",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1790242562,
+        "date_posted": 1780610905,
+        "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "12c61451-8c62-417c-b97a-6b13f42bc584",
+        "title": "Student Researcher - Seed Model - Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1790241841,
+        "date_posted": 1780610905,
+        "url": "https://jobs.bytedance.com/en/position/7623543230203939077/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "021c42ed-56c5-498d-9c09-5301ad13605f",
+        "title": "Student Researcher - Seed Model - Speech",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1790241301,
+        "date_posted": 1780610914,
+        "url": "https://jobs.bytedance.com/en/position/7623550540616108293/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
