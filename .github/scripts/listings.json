@@ -368644,7 +368644,7 @@
         "company_name": "Roku",
         "id": "50c5c42d-bfc3-4f63-905a-abf16bd78c02",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407466,7 +407466,7 @@
         "company_name": "JP Morgan Chase",
         "id": "3b853022-5629-46f0-9410-31a4e4d1518e",
         "title": "Applied AI Intern - HR CDAO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
