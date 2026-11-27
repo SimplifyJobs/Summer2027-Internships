@@ -258041,7 +258041,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -410066,6 +410066,31 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "4817c149-ca7d-47b8-b5d6-7a36ddf722a3",
+        "title": "Software Engineer Interview Intern - Apple Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795821501,
+        "date_posted": 1795821414,
+        "url": "https://jobs.apple.com/en-us/details/200696753",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
             "PhD"
         ]
     }
