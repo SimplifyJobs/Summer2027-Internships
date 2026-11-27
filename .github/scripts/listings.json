@@ -214258,7 +214258,7 @@
         "company_name": "Nokia",
         "id": "cd7ae22b-dab5-44c6-9ac4-b2f3b7a9b123",
         "title": "Optical Test Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -260880,7 +260880,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -412670,6 +412670,51 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/ICONIQ-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Encepta",
+        "id": "eb145360-48cc-4186-866e-897b5631839b",
+        "title": "GIS Data Technician Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1795747722,
+        "date_posted": 1795747556,
+        "url": "https://encepta.bamboohr.com/careers/181/",
+        "locations": [
+            "Victoria, BC, Canada",
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Encepta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Synopsys",
+        "id": "b482502c-37d5-4da2-8d19-bc7a1356fd29",
+        "title": "Technical-Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795746801,
+        "date_posted": 1795746646,
+        "url": "https://synopsys.avature.net/careers/JobDetail/19725",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Synopsys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
