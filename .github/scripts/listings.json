@@ -94726,7 +94726,7 @@
         "company_name": "Hiverge",
         "id": "2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -109032,7 +109032,7 @@
         "company_name": "Amazon",
         "id": "4762de7d-d90a-4004-bf12-486138c11efc",
         "title": "Software Development Engineer Apprentice - Military Veterans",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -261977,7 +261977,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
