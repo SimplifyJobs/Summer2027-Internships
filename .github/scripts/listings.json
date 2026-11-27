@@ -227466,7 +227466,7 @@
         "company_name": "Citizens Financial Group",
         "id": "df13ab5f-9eb4-4357-86df-afc457026297",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320108,7 +320108,7 @@
         "company_name": "The Focusrite Group",
         "id": "b0fb54b5-eefe-4969-b998-22da93d6c774",
         "title": "Software Developer Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
