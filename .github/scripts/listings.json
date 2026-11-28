@@ -21404,7 +21404,7 @@
         "company_name": "Axos Bank",
         "id": "f4bde942-8a53-4997-8a6e-3c3ad226eb46",
         "title": "Automation Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253859,7 +253859,7 @@
         "company_name": "Cambridge Investment Research",
         "id": "f711ced7-f0a9-4e7a-a582-89533451f2d3",
         "title": "Financial Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291898,7 +291898,7 @@
         "company_name": "Lumentum",
         "id": "f4996671-a6cc-4d07-b6a5-0c766a99e859",
         "title": "Embedded Software Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -293732,7 +293732,7 @@
         "company_name": "Procter & Gamble",
         "id": "ef96a3f9-16e2-4616-994f-10af59a086aa",
         "title": "R&D PhD Summer Intern: Grooming M&S",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314699,7 +314699,7 @@
         "company_name": "Intel",
         "id": "f4473dfb-1d23-48f0-8ea4-3bf930c7328d",
         "title": "Compiler Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333381,7 +333381,7 @@
         "company_name": "MBDA",
         "id": "c257ab7c-571a-42ff-9f8e-94eb839939fe",
         "title": "Electronic Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349877,7 +349877,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372161,7 +372161,7 @@
         "company_name": "Light & Wonder",
         "id": "f175936e-7cd2-44d3-8f3d-2c881af188ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382961,7 +382961,7 @@
         "company_name": "Dow Chemical Company",
         "id": "f953ad90-6b80-4798-97ee-1bcc2ea8583c",
         "title": "Infrastructure Mapping & Data Quality Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385905,7 +385905,7 @@
         "company_name": "Visa",
         "id": "709d2a20-5676-43d5-835a-d5ee1b75506d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386671,7 +386671,7 @@
         "company_name": "CACI",
         "id": "eb8a6bc2-3f52-4314-86ca-52883b6332d4",
         "title": "Embedded Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389058,7 +389058,7 @@
         "company_name": "DraftKings",
         "id": "61cec817-fbbc-4b1c-a32b-3f284958fabd",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389534,7 +389534,7 @@
         "company_name": "ASML",
         "id": "66d868a1-ada3-4053-93c1-ef721ae97298",
         "title": "EUV Data Science and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396891,7 +396891,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "fe8638b3-b345-4d84-ba2c-646ef6fbc433",
         "title": "Sensor Modeling and Simulation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405793,7 +405793,7 @@
         "company_name": "Strava",
         "id": "6678365d-b71e-422c-99d3-6c158aae7a49",
         "title": "Software Engineer Intern - Android - Subscriptions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -405885,7 +405885,7 @@
         "company_name": "Strava",
         "id": "5adba604-3ce4-40d7-82ce-ffed95ed3ef1",
         "title": "Software Engineer Intern - Server - Next Sports",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
