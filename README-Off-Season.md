@@ -265,7 +265,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Québec City, QC, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/QSL/744000162086264?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d9d37c94-a957-47d8-acce-351a80f126dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Angel-Host?utm_source=GHList&utm_medium=company">Angel Host</a></strong></td>
@@ -16254,7 +16254,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1896)</summary>
+<summary>🗃️ Inactive roles (1895)</summary>
 
 <table>
 <thead>
@@ -21021,7 +21021,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
 <td>Developer Co-op Intern - Machine Learning</td>
 <td>Toronto, ON, Canada<br>Ottawa, ON, Canada<br>Remote in Canada</td>
 <td>Winter 2027</td>
@@ -31425,14 +31425,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Intern Technology - Data Engineering</td>
 <td>Toronto, ON, Canada</td>
 <td>Winter 2027, Spring 2027, Summer 2027</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Pennsylvania-State-University?utm_source=GHList&utm_medium=company">Pennsylvania State University</a></strong></td>
-<td>AI/ML Research and Development Intern</td>
-<td>State College, PA<br>Reston, VA</td>
-<td>Spring 2026, Summer 2026, Fall 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
