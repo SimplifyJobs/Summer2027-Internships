@@ -218607,7 +218607,7 @@
         "company_name": "Barclays",
         "id": "bc0b7e31-28a3-407d-882f-267df776fbd8",
         "title": "Data and Analytics Intern - Customer and Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -257810,7 +257810,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286215,7 +286215,7 @@
         "company_name": "Lumentum",
         "id": "d72513fe-2382-446f-96ad-147acd1b864b",
         "title": "Embedded Software Developer Co-op - Optical Circuit Switch",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -287627,7 +287627,7 @@
         "company_name": "Micron Technology",
         "id": "d5388aa1-9c78-4299-af3e-9ce158e44b7e",
         "title": "Design Architecture Intern - Hbm",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -302540,7 +302540,7 @@
         "company_name": "Kyndryl",
         "id": "6af37fd6-50dd-4415-b8fd-2213d7e19394",
         "title": "Marketing Intern - Marketing Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334455,7 +334455,7 @@
         "company_name": "NatWest Group",
         "id": "dffd4db8-49f0-4ebf-bfdc-8c58fe35018a",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -344102,7 +344102,7 @@
         "company_name": "Boston Dynamics",
         "id": "d1eb6cb3-969b-432d-bc33-ab75d1d2130f",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349374,7 +349374,7 @@
         "company_name": "HP Inc.",
         "id": "d2f0c44e-b2d5-4ab2-ad1e-7991506e8027",
         "title": "Software Systems Intern - IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357286,7 +357286,7 @@
         "company_name": "Itron",
         "id": "cf471dc3-8d26-4e89-9b32-03b6cf179664",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -380499,7 +380499,7 @@
         "company_name": "Amgen",
         "id": "6720bfaa-e0e6-4eba-967e-54b8576e2587",
         "title": "Computer Engineering Co-op - Large Molecule Discovery - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -385833,7 +385833,7 @@
         "company_name": "Visa",
         "id": "db47c3f9-10a7-47a6-bc11-6f289c9d2291",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385857,7 +385857,7 @@
         "company_name": "Visa",
         "id": "be5563f9-1a50-43de-91fc-6b0b11d799eb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385881,7 +385881,7 @@
         "company_name": "Visa",
         "id": "e6dfef1e-0040-4298-bbd6-b95d30d5220b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389081,7 +389081,7 @@
         "company_name": "DraftKings",
         "id": "5e3ec9de-8cd9-4e62-bd37-bb937a73dc1d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -404172,7 +404172,7 @@
         "company_name": "Western Governors University",
         "id": "cbbfc481-5c2f-4875-a3ae-53fd2183c75f",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -416197,6 +416197,122 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "e2826a50-1d95-4c56-9ca3-5e3fe84ffa9d",
+        "title": "Business Analyst Co-op Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795834660,
+        "date_posted": 1795737600,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031168-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "bf9299ac-aa72-49a9-ba23-ac1b89596bed",
+        "title": "Agile Center of Excellence Co-op Intern - 4 Months",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795834659,
+        "date_posted": 1795737600,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Agile-Center-of-Excellence--Summer-2027--Co-op-Internship----4-Months_R260031148-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "7fe913ae-a03d-465d-bb0d-53351103d575",
+        "title": "Software Engineer Co-op Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795834660,
+        "date_posted": 1795392000,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/San-Ramon-CA-USA/Software-Engineer--Winter-2027--Co-op-Internship---4-months_R260031974",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bank of Montreal",
+        "id": "04b4dbd1-b727-40f2-9ac5-7dd5fe47a411",
+        "title": "Product Associate Co-op Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795834660,
+        "date_posted": 1795737600,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Associate--Summer-2027--Co-op-Internship----4-Months_R260031145-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Draper",
+        "id": "bdfd9295-6ecb-4e65-944a-d1c5943d2d41",
+        "title": "Simulation Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795833382,
+        "date_posted": 1795478400,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
