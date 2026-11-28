@@ -2,52 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "df437fd6-a79e-4a55-b3f4-3c4a4c1b61a3",
-        "title": "Industrial Placement Intern - Continuous Improvement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1775111201,
-        "date_posted": 1775110069,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-SAY-AYRSHIRE-001--1-Dow-Ave--ROHR-AERO-SRVCS/Industrial-Placement--Summer----Continuous-Improvement_01833090",
-        "locations": [
-            "Girvan, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BillionToOne",
-        "id": "81efd219-5558-42a5-8226-3adb72e17e94",
-        "title": "AI Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775111041,
-        "date_posted": 1775111038,
-        "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4680728005",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/BillionToOne",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Camping World",
         "id": "d6535b43-3971-44e3-ae3f-8ce4b5b95a4e",
         "title": "Data Analyst Intern",
@@ -26165,27 +26119,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Haize Labs",
-        "id": "01b73789-a55c-4227-864d-4e1c9f06b059",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1775110861,
-        "date_posted": 1775109764,
-        "url": "https://job-boards.greenhouse.io/haizelabs/jobs/4685944008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Haize-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -260350,7 +260283,7 @@
         "company_name": "Procter & Gamble",
         "id": "839325fc-57c6-4d5b-9db5-a2273ec9dd48",
         "title": "R&D Intern - AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Summer 2026"
@@ -335925,7 +335858,7 @@
         "company_name": "Thales",
         "id": "7a04abc6-6dbe-4af5-b0ac-c6df3e337263",
         "title": "Tools and Process Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373863,7 +373796,7 @@
         "company_name": "L3Harris Technologies",
         "id": "53b6fbdd-d9b3-4517-bc3c-b29a78168ebf",
         "title": "Data Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405862,7 +405795,7 @@
         "company_name": "Strava",
         "id": "80590ce8-e65c-44a9-907c-6a3ed264022d",
         "title": "Machine Learning Engineer Intern - AI/ML Data Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
