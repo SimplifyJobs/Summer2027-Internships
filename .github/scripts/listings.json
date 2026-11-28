@@ -198276,7 +198276,7 @@
         "company_name": "Canadian Tire",
         "id": "8a9a71cf-0026-4870-a88b-5296a4e42c67",
         "title": "Business Operations Analyst Student - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349922,7 +349922,7 @@
         "company_name": "HP Inc.",
         "id": "b64d919f-170b-4ad3-aabb-30b23dc31666",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350129,7 +350129,7 @@
         "company_name": "HP Inc.",
         "id": "8e8ee3a0-f39c-46f0-9c25-c1ffceafac8e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366416,7 +366416,7 @@
         "company_name": "Tokyo Electron",
         "id": "9bf07bc4-4118-4283-b715-d53f7129e10f",
         "title": "Research Scientist Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370727,7 +370727,7 @@
         "company_name": "The Federal Reserve System",
         "id": "c553bd8b-5df6-4e4f-b2aa-ab7731814f81",
         "title": "Knowledge and Information Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389743,7 +389743,7 @@
         "company_name": "Piedmont Airlines",
         "id": "a2043ab0-6914-4249-8a29-b54e7ef94e7f",
         "title": "Safety Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405772,7 +405772,7 @@
         "company_name": "Strava",
         "id": "bb5c00e9-57e3-48fd-8113-a2d429c4d05c",
         "title": "Software Engineer Intern - Server - User Lifecycle",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
