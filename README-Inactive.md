@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 4526 Inactive Internship Roles by Category
+### Browse 4533 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1596)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1599)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (287)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1596)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (1598)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (316)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (731)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (733)
 
 ---
 
@@ -106,7 +106,7 @@
 <td>Manufacturing Software Engineer Intern</td>
 <td>Boulder, CO</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/AMD?utm_source=GHList&utm_medium=company">AMD</a></strong></td>
@@ -264,7 +264,21 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Strava?utm_source=GHList&utm_medium=company">Strava</a></strong></td>
+<td>Software Engineer Intern - Android - Subscriptions</td>
+<td>SF</td>
+<td>🔒</td>
+<td>15d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Intern - Server - Comms</td>
+<td>SF</td>
+<td>🔒</td>
+<td>15d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern - Server - Next Sports</td>
 <td>SF</td>
 <td>🔒</td>
 <td>15d</td>
@@ -329,6 +343,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Reading, UK</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td>Cambridge, UK</td>
 <td>🔒</td>
 <td>16d</td>
 </tr>
@@ -13444,6 +13465,13 @@
 <td>15d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Data Science Intern</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>15d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Cigna-Group?utm_source=GHList&utm_medium=company">Cigna Group</a></strong></td>
 <td>Healthcare Analytics Intern</td>
 <td>Morris Plains, NJ</td>
@@ -15834,6 +15862,13 @@
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Application Portfolio Support Intern - Summer 2027</td>
 <td>Farmington, CT</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble</a></strong></td>
+<td>R&D PhD Summer Intern: Grooming M&S 🎓</td>
+<td>Boston, MA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -26821,6 +26856,13 @@
 <td>16d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
+<td>Embedded Software Development Intern</td>
+<td>Westminster, CO</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company">Altera</a></strong></td>
 <td>FPGA IP Design Engineer Intern</td>
 <td>Toronto, ON, Canada</td>
@@ -27650,6 +27692,13 @@
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Electrical Hardware Design Engineer Intern</td>
 <td>Huntsville, AL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/The-Aerospace-Corporation?utm_source=GHList&utm_medium=company">The Aerospace Corporation</a></strong></td>
+<td>Sensor Modeling and Simulation Intern</td>
+<td>Chantilly, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -29404,13 +29453,6 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/MBDA?utm_source=GHList&utm_medium=company">MBDA</a></strong></td>
-<td>Electronic Engineer Intern</td>
-<td>Stevenage, UK</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineering Co-op</td>
 <td>Wilsonville, OR</td>
@@ -29435,6 +29477,13 @@
 <td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
 <td>Semiconductor Research & Technology Development Intern 🎓</td>
 <td>Albany, NY</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/MBDA?utm_source=GHList&utm_medium=company">MBDA</a></strong></td>
+<td>Electronic Engineer Intern</td>
+<td>Stevenage, UK</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
