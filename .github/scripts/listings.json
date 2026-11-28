@@ -393068,7 +393068,7 @@
         "company_name": "Forterra",
         "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394211,7 +394211,7 @@
         "company_name": "APEX Analytix",
         "id": "68916cbe-97cc-414d-8732-d68540a99d35",
         "title": "Product Management Intern - DevOps",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -395632,7 +395632,7 @@
         "company_name": "Trainline",
         "id": "6748ee09-8ba9-42eb-a423-934641666a7c",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
