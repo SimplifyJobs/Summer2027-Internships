@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 4542 Inactive Internship Roles by Category
+### Browse 4543 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1603)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (1604)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (287)
 
@@ -1329,6 +1329,13 @@
 <tr>
 <td>↳</td>
 <td>Software Systems Intern - IQ</td>
+<td>SF</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Quality Assurance Intern</td>
 <td>SF</td>
 <td>🔒</td>
 <td>1mo</td>
