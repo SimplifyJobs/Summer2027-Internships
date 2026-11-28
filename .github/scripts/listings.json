@@ -257743,7 +257743,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384575,7 +384575,7 @@
         "company_name": "StepStone Group",
         "id": "c579fad0-b08a-4e65-a2cf-77f72aa87439",
         "title": "AI Quant Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
