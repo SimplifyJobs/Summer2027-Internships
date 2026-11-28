@@ -239179,7 +239179,7 @@
         "company_name": "APEX Analytix",
         "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -257743,7 +257743,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389331,7 +389331,7 @@
         "company_name": "Canadian Tire",
         "id": "a429667e-4913-40e2-8b6a-ff22e64696c8",
         "title": "Programmer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
