@@ -301417,7 +301417,7 @@
         "company_name": "Johnson Controls",
         "id": "8fc02634-7bf1-4c6c-9d32-78f048f7e7e6",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -307178,7 +307178,7 @@
         "company_name": "CoStar Group",
         "id": "dc12ad6e-94a3-4674-995b-d23b3b5013e8",
         "title": "Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -410200,5 +410200,270 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "iA Financial Group",
+        "id": "b2b7c029-dca8-4ebc-a336-989f632c526e",
+        "title": "AI Specialist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795825649,
+        "date_posted": 1795392000,
+        "url": "https://ia.wd3.myworkdayjobs.com/Professional/job/Toronto-Ontario/AI-Specialist_JR10028300",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IA-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Federal Home Loan Bank of Dallas",
+        "id": "e9a209ed-db55-4f33-b300-02831e3529f3",
+        "title": "Digital Transformation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795825649,
+        "date_posted": 1795392000,
+        "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Summer-Digital-Transformation-Intern_REQ-457",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Dallas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "3bac23c2-132f-4250-8ad2-c05a6d8f2f88",
+        "title": "Artificial Intelligence/Machine Learning Software Development and Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795825656,
+        "date_posted": 1795478400,
+        "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "03f2c072-c3b0-4343-a322-bdc69925d36b",
+        "title": "Electronics Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795825507,
+        "date_posted": 1794873600,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272",
+        "locations": [
+            "Glendale, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trinzic",
+        "id": "57f98129-2df3-437d-95d6-fc8fa761dc50",
+        "title": "Data Processing Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795825475,
+        "date_posted": 1791417600,
+        "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Trinzic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trinzic",
+        "id": "c56b6f91-7af5-440b-aa7e-83ea32b5dac0",
+        "title": "Image Processing Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1795825416,
+        "date_posted": 1791417600,
+        "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Trinzic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trinzic",
+        "id": "cc3eb44f-cec2-458d-ba80-caed446ec1ac",
+        "title": "Defense & Intel Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795825428,
+        "date_posted": 1793836800,
+        "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Software-Engineering-Internship_R3001235",
+        "locations": [
+            "Orlando, FL",
+            "King of Prussia, PA",
+            "Colorado Springs, CO",
+            "Lexington, MA",
+            "Chantilly, VA",
+            "Ann Arbor, MI",
+            "Lexington Park, MD",
+            "Beavercreek, OH",
+            "Huntsville, AL",
+            "Kihei, HI",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trinzic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trinzic",
+        "id": "6b0a90b1-57a3-4c6a-b21d-2ee3bd40fcf1",
+        "title": "Defense & Intel Electrical Engineer Intern - Defense & Intel",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795825428,
+        "date_posted": 1793836800,
+        "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Electrical-or-Computer-Engineering-Internship_R3001233",
+        "locations": [
+            "Orlando, FL",
+            "King of Prussia, PA",
+            "Colorado Springs, CO",
+            "Lexington, MA",
+            "Chantilly, VA",
+            "Ann Arbor, MI",
+            "Lexington Park, MD",
+            "Beavercreek, OH",
+            "Huntsville, AL",
+            "Kihei, HI",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trinzic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trinzic",
+        "id": "7941d394-3940-47ba-87f3-7c472aecb76f",
+        "title": "Defense & Intel Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795825428,
+        "date_posted": 1793836800,
+        "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Computer-Science-Internship_R3001231-1",
+        "locations": [
+            "Orlando, FL",
+            "King of Prussia, PA",
+            "Colorado Springs, CO",
+            "Lexington, MA",
+            "Chantilly, VA",
+            "Ann Arbor, MI",
+            "Lexington Park, MD",
+            "Beavercreek, OH",
+            "Huntsville, AL",
+            "Kihei, HI",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trinzic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Dimensional Fund Advisors",
+        "id": "5fce40d0-55f8-44cb-be95-ea51f6505160",
+        "title": "Strategy Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795825337,
+        "date_posted": 1794873600,
+        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dimensional-Fund-Advisors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
