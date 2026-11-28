@@ -120915,7 +120915,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "d821822b-83af-4852-9853-6c6285ac4f11",
         "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -405865,7 +405865,7 @@
         "company_name": "First PREMIER Bank",
         "id": "d408f0fa-1641-4178-94e9-19684e5bca5e",
         "title": "Collections Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
