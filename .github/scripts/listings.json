@@ -239179,7 +239179,7 @@
         "company_name": "APEX Analytix",
         "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -257743,7 +257743,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297779,7 +297779,7 @@
         "company_name": "Microsoft",
         "id": "d4e3c76d-f9b8-472c-9d21-a01ad5a58623",
         "title": "Applied Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -352334,7 +352334,7 @@
         "company_name": "Ciena",
         "id": "7b33b6fd-f6cc-443d-908d-c217c9767ef6",
         "title": "Embedded Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -393068,7 +393068,7 @@
         "company_name": "Forterra",
         "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -403752,7 +403752,7 @@
         "company_name": "NVIDIA",
         "id": "7621fa9b-ec20-4491-982c-595a00ea2cc0",
         "title": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
