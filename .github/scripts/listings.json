@@ -327315,7 +327315,7 @@
         "company_name": "GlobalFoundries",
         "id": "2441119b-bd88-48bc-9848-d1e3b43b84af",
         "title": "Failure Analysis Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394211,7 +394211,7 @@
         "company_name": "APEX Analytix",
         "id": "68916cbe-97cc-414d-8732-d68540a99d35",
         "title": "Product Management Intern - DevOps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395632,7 +395632,7 @@
         "company_name": "Trainline",
         "id": "6748ee09-8ba9-42eb-a423-934641666a7c",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -416319,5 +416319,28 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Hudson River Trading",
+        "id": "33d712fe-87e1-49e6-ba71-1dd17d118d63",
+        "title": "Algorithm Developer Intern - Quant Research & Trading",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795858399,
+        "date_posted": 1783981844,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845",
+        "locations": [
+            "London, UK",
+            "NYC",
+            "Singapore"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
