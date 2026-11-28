@@ -350108,7 +350108,7 @@
         "company_name": "Indie",
         "id": "e925d6fc-4054-4d56-bd4b-a35f60724d50",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -410093,5 +410093,112 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "e473c3fe-63c0-4a4e-be41-a27e89b8f122",
+        "title": "Research Intern - Distributed AI systems for agentic workflows",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795823864,
+        "date_posted": 1795823759,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557106762",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CARFAX Canada",
+        "id": "4688b446-b700-4f20-9cba-45bdf936ba90",
+        "title": "Developer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795823138,
+        "date_posted": 1795823063,
+        "url": "https://carfaxcanada.bamboohr.com/careers/84/",
+        "locations": [
+            "London, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CARFAX-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intercept",
+        "id": "db60c0d9-6ca0-486a-93cd-96de10069fbe",
+        "title": "Analytics & Intelligence Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795822921,
+        "date_posted": 1795822851,
+        "url": "https://intercept.bamboohr.com/careers/50/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intercept",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Intercept",
+        "id": "9c944ddf-4d4d-4790-aabc-4b7310fb1042",
+        "title": "Product Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795822921,
+        "date_posted": 1795822851,
+        "url": "https://intercept.bamboohr.com/careers/48/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intercept",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intercept",
+        "id": "5697b42b-a6eb-412b-baa0-0510105eca3d",
+        "title": "Solutions Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795822973,
+        "date_posted": 1795822851,
+        "url": "https://intercept.bamboohr.com/careers/49/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intercept",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
