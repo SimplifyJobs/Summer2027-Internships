@@ -310866,7 +310866,7 @@
         "company_name": "Lumentum",
         "id": "90438a15-7320-4a5c-9809-6a3af8f144b3",
         "title": "Electrical Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -389911,7 +389911,7 @@
         "company_name": "Amgen",
         "id": "964f0600-3b5a-41d8-a620-3e3b83c7eba2",
         "title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407529,7 +407529,7 @@
         "company_name": "First PREMIER Bank",
         "id": "278adf4e-1f34-4ace-b345-17eff150d8df",
         "title": "Customer Care Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
