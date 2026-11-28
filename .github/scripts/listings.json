@@ -416342,5 +416342,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L.L.Bean",
+        "id": "31c47d4d-261e-4d94-a922-da1d8e31f5f2",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795865942,
+        "date_posted": 1794787200,
+        "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Marketing-Analytics-Intern--Summer-2027-_JR11305",
+        "locations": [
+            "Freeport, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/LL-Bean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
